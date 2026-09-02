@@ -1,6 +1,6 @@
 # Public education-level AI-exposure indices
 
-This folder contains AI-exposure indices for university degrees in 51 countries: for each university × subject pair, a score for how exposed its graduates' careers are to large language models. The indices combine Revelio Labs LinkedIn data with the occupation-level AI-exposure scores of Eloundou et al. (2024). They accompany the paper *"Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications"* by Bouke Klein Teeselink, Kartik Akileswaran, Aristotle Vossos, and Andrei Andronic. Every country's index applies the exact data restrictions of the paper's UK index. The release covers 66,385 university × subject pairs across 51 countries.
+This folder contains AI-exposure indices for university degrees in 51 countries: for each university × subject pair, a score for how exposed its graduates' careers are to large language models. The indices combine Revelio Labs LinkedIn data with the occupation-level AI-exposure scores of Eloundou et al. (2024). They accompany the paper ["Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications"](https://ssrn.com/abstract=7354159) by Aristotle Vossos, Andrei Andronic, Bouke Klein Teeselink, and Kartik Akileswaran. Every country's index applies the exact data restrictions of the paper's UK index. The release covers 66,385 university × subject pairs across 51 countries.
 
 ## What the index measures
 
@@ -81,4 +81,4 @@ fExposure[, exposure_z := scale(exposure_alljobs_beta)]   # per-SD units within 
 
 ## Citation and contact
 
-If you use these indices, cite: Klein Teeselink, B., Akileswaran, K., Vossos, A., & Andronic, A., "Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications," working paper. The code that constructs the indices is available upon request. Questions and corrections: bouke.klein_teeselink@kcl.ac.uk.
+If you use these indices, cite: Vossos, A., Andronic, A., Klein Teeselink, B., & Akileswaran, K. (2026), "Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications," SSRN working paper, https://ssrn.com/abstract=7354159, doi:10.2139/ssrn.7354159. The code that constructs the indices is available upon request. Questions and corrections: bouke.klein_teeselink@kcl.ac.uk.

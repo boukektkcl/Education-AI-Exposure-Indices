@@ -1,0 +1,1269 @@
+ucas_provider,cah1,exposure_firstjob_beta,n_people
+A20 University of Aberdeen,(CAH01) medicine and dentistry,0.435745738822631,159
+A20 University of Aberdeen,(CAH03) biological and sport sciences,0.447423489142806,433
+A20 University of Aberdeen,(CAH07) physical sciences,0.467140777395117,264
+A20 University of Aberdeen,(CAH09) mathematical sciences,0.549951990452464,98
+A20 University of Aberdeen,(CAH10) engineering and technology,0.483221520751665,577
+A20 University of Aberdeen,(CAH15) social sciences,0.502946652489991,53
+A20 University of Aberdeen,(CAH16) law,0.469112433065844,1144
+A20 University of Aberdeen,(CAH17) business and management,0.48275180722145,228
+A20 University of Aberdeen,(CAH22) education and teaching,0.371654137226073,160
+A30 Abertay University,(CAH02) subjects allied to medicine,0.40212312997489,34
+A30 Abertay University,(CAH03) biological and sport sciences,0.41187170319054,23
+A30 Abertay University,(CAH10) engineering and technology,0.545657964580006,968
+A30 Abertay University,(CAH11) computing,0.602600162691923,11
+A30 Abertay University,(CAH15) social sciences,0.483269079593808,15
+A30 Abertay University,(CAH16) law,0.477178369230549,146
+A30 Abertay University,(CAH17) business and management,0.512601016556068,1294
+A40 Aberystwyth University,(CAH03) biological and sport sciences,0.449850940648319,487
+A40 Aberystwyth University,(CAH07) physical sciences,0.508985682865957,132
+A40 Aberystwyth University,(CAH09) mathematical sciences,0.521677252491568,239
+A40 Aberystwyth University,(CAH10) engineering and technology,0.6276095102972,585
+A40 Aberystwyth University,(CAH15) social sciences,0.51016533695169,247
+A40 Aberystwyth University,(CAH16) law,0.483152752779999,698
+A40 Aberystwyth University,(CAH17) business and management,0.500542665973177,1177
+A40 Aberystwyth University,(CAH22) education and teaching,0.426768797154495,100
+A60 Anglia Ruskin University,(CAH01) medicine and dentistry,0.393816827764096,20
+A60 Anglia Ruskin University,(CAH02) subjects allied to medicine,0.374493926916461,502
+A60 Anglia Ruskin University,(CAH03) biological and sport sciences,0.44016238833112,281
+A60 Anglia Ruskin University,(CAH07) physical sciences,0.503984462404546,20
+A60 Anglia Ruskin University,(CAH09) mathematical sciences,0.609743508345201,11
+A60 Anglia Ruskin University,(CAH10) engineering and technology,0.556862427961925,1305
+A60 Anglia Ruskin University,(CAH11) computing,0.587721872455288,23
+A60 Anglia Ruskin University,"(CAH13) architecture, building and planning",0.440168887678732,215
+A60 Anglia Ruskin University,(CAH15) social sciences,0.486237173348489,80
+A60 Anglia Ruskin University,(CAH16) law,0.492611987754184,888
+A60 Anglia Ruskin University,(CAH17) business and management,0.492246464246441,5512
+A60 Anglia Ruskin University,(CAH22) education and teaching,0.386976469992851,607
+A66 Arts University Bournemouth,"(CAH13) architecture, building and planning",0.470527032390343,332
+A66 Arts University Bournemouth,(CAH17) business and management,0.487674777045872,225
+"A80 Aston University, Birmingham",(CAH03) biological and sport sciences,0.503733651583383,202
+"A80 Aston University, Birmingham",(CAH07) physical sciences,0.463903165098457,139
+"A80 Aston University, Birmingham",(CAH09) mathematical sciences,0.557791992305412,322
+"A80 Aston University, Birmingham",(CAH10) engineering and technology,0.547134671292436,1988
+"A80 Aston University, Birmingham",(CAH11) computing,0.621464764310888,24
+"A80 Aston University, Birmingham",(CAH15) social sciences,0.536292494159777,344
+"A80 Aston University, Birmingham",(CAH16) law,0.482049312393901,369
+"A80 Aston University, Birmingham",(CAH17) business and management,0.524845279478197,6282
+B06 Bangor University,(CAH02) subjects allied to medicine,0.386990924997343,118
+B06 Bangor University,(CAH03) biological and sport sciences,0.439428298241782,683
+B06 Bangor University,(CAH07) physical sciences,0.470973205283808,180
+B06 Bangor University,(CAH09) mathematical sciences,0.538864932337794,13
+B06 Bangor University,(CAH10) engineering and technology,0.611729514653237,334
+B06 Bangor University,(CAH11) computing,0.650551594760824,10
+B06 Bangor University,(CAH15) social sciences,0.53682936292277,45
+B06 Bangor University,(CAH16) law,0.475401160914561,343
+B06 Bangor University,(CAH17) business and management,0.50538762319086,780
+B06 Bangor University,(CAH22) education and teaching,0.373872613649617,215
+B07 Belfast Metropolitan College,(CAH10) engineering and technology,0.387402882902895,31
+B07 Belfast Metropolitan College,(CAH17) business and management,0.495819936620799,75
+B16 University of Bath,(CAH03) biological and sport sciences,0.513550176476513,435
+B16 University of Bath,(CAH07) physical sciences,0.533370282320182,635
+B16 University of Bath,(CAH09) mathematical sciences,0.5895397706021,1220
+B16 University of Bath,(CAH10) engineering and technology,0.576795729807002,922
+B16 University of Bath,"(CAH13) architecture, building and planning",0.481944289086921,759
+B16 University of Bath,(CAH15) social sciences,0.537653442173214,1844
+B16 University of Bath,(CAH17) business and management,0.521100980402023,2964
+B16 University of Bath,(CAH22) education and teaching,0.375861080988829,222
+B20 Bath Spa University,(CAH03) biological and sport sciences,0.426730026427413,90
+B20 Bath Spa University,(CAH10) engineering and technology,0.552240186336183,22
+B20 Bath Spa University,(CAH17) business and management,0.487205304267987,1161
+B20 Bath Spa University,(CAH22) education and teaching,0.390024612220212,596
+B22 University of Bedfordshire,(CAH02) subjects allied to medicine,0.396966346304971,215
+B22 University of Bedfordshire,(CAH10) engineering and technology,0.592222286415553,867
+B22 University of Bedfordshire,(CAH11) computing,0.56836662116811,35
+B22 University of Bedfordshire,"(CAH13) architecture, building and planning",0.472276392710407,58
+B22 University of Bedfordshire,(CAH16) law,0.504734724889012,364
+B22 University of Bedfordshire,(CAH17) business and management,0.49757184179165,2499
+B22 University of Bedfordshire,(CAH22) education and teaching,0.38269472470537,778
+B23 Bedford College Group,(CAH10) engineering and technology,0.474952690283839,12
+"B24 Birkbeck, University of London",(CAH03) biological and sport sciences,0.492023991027877,45
+"B24 Birkbeck, University of London",(CAH07) physical sciences,0.431663287598856,12
+"B24 Birkbeck, University of London",(CAH09) mathematical sciences,0.550350126134418,81
+"B24 Birkbeck, University of London",(CAH10) engineering and technology,0.594843048535154,137
+"B24 Birkbeck, University of London",(CAH11) computing,0.550105419157528,20
+"B24 Birkbeck, University of London",(CAH15) social sciences,0.52279127306082,234
+"B24 Birkbeck, University of London",(CAH16) law,0.502393970827377,379
+"B24 Birkbeck, University of London",(CAH17) business and management,0.526507468215967,1306
+B25 Birmingham City University,(CAH02) subjects allied to medicine,0.387864145996484,543
+B25 Birmingham City University,(CAH10) engineering and technology,0.539272512701454,2360
+B25 Birmingham City University,(CAH11) computing,0.594961675273706,178
+B25 Birmingham City University,"(CAH13) architecture, building and planning",0.447633871010489,624
+B25 Birmingham City University,(CAH15) social sciences,0.51782187535432,98
+B25 Birmingham City University,(CAH16) law,0.482923451056021,1139
+B25 Birmingham City University,(CAH17) business and management,0.506318300125745,5332
+B25 Birmingham City University,(CAH22) education and teaching,0.380395792431486,549
+B32 University of Birmingham,(CAH01) medicine and dentistry,0.448102630990925,403
+B32 University of Birmingham,(CAH02) subjects allied to medicine,0.388996852584724,183
+B32 University of Birmingham,(CAH03) biological and sport sciences,0.477915865139301,378
+B32 University of Birmingham,(CAH07) physical sciences,0.519417887096807,809
+B32 University of Birmingham,(CAH09) mathematical sciences,0.555297474855759,1083
+B32 University of Birmingham,(CAH10) engineering and technology,0.569798896383543,1760
+B32 University of Birmingham,(CAH11) computing,0.604630731811068,14
+B32 University of Birmingham,(CAH15) social sciences,0.53159760102057,2139
+B32 University of Birmingham,(CAH16) law,0.488076852452556,1844
+B32 University of Birmingham,(CAH17) business and management,0.509692757665259,4331
+B32 University of Birmingham,(CAH22) education and teaching,0.403304724524867,488
+B35 University College Birmingham,(CAH17) business and management,0.446636005373658,1874
+B35 University College Birmingham,(CAH22) education and teaching,0.397457161517073,71
+B38 Lincoln Bishop University,(CAH09) mathematical sciences,0.443913681436142,12
+B38 Lincoln Bishop University,(CAH17) business and management,0.49165257725006,28
+B38 Lincoln Bishop University,(CAH22) education and teaching,0.385355625663706,696
+B39 BIMM University,(CAH10) engineering and technology,0.424336403000244,18
+B39 BIMM University,(CAH17) business and management,0.46408744971359,584
+B40 Blackburn College,(CAH10) engineering and technology,0.54873219527666,41
+B40 Blackburn College,(CAH16) law,0.450017394714185,19
+B40 Blackburn College,(CAH17) business and management,0.472786356685812,109
+B40 Blackburn College,(CAH22) education and teaching,0.453671346737188,25
+B41 Blackpool and the Fylde College,(CAH03) biological and sport sciences,0.406844657411896,11
+B41 Blackpool and the Fylde College,(CAH10) engineering and technology,0.505510129289317,137
+B41 Blackpool and the Fylde College,(CAH11) computing,0.612459708380576,22
+B41 Blackpool and the Fylde College,(CAH17) business and management,0.463570264723532,127
+B44 University of Greater Manchester,(CAH02) subjects allied to medicine,0.365290281338119,52
+B44 University of Greater Manchester,(CAH03) biological and sport sciences,0.415704966939036,34
+B44 University of Greater Manchester,(CAH09) mathematical sciences,0.490608857278605,65
+B44 University of Greater Manchester,(CAH10) engineering and technology,0.499286278402617,833
+B44 University of Greater Manchester,(CAH11) computing,0.605412678656301,10
+B44 University of Greater Manchester,(CAH16) law,0.488653118038366,138
+B44 University of Greater Manchester,(CAH17) business and management,0.497124091372469,942
+B44 University of Greater Manchester,(CAH22) education and teaching,0.404409718432651,103
+B50 Bournemouth University,(CAH02) subjects allied to medicine,0.370393986066786,252
+B50 Bournemouth University,(CAH03) biological and sport sciences,0.441413610317243,57
+B50 Bournemouth University,(CAH10) engineering and technology,0.547063830720558,1670
+B50 Bournemouth University,(CAH11) computing,0.600814813402261,52
+B50 Bournemouth University,"(CAH13) architecture, building and planning",0.501343434309594,19
+B50 Bournemouth University,(CAH15) social sciences,0.508725528418932,177
+B50 Bournemouth University,(CAH16) law,0.496403398139714,723
+B50 Bournemouth University,(CAH17) business and management,0.511549369769804,8902
+B50 Bournemouth University,(CAH22) education and teaching,0.413853676135611,20
+B54 BPP University,(CAH02) subjects allied to medicine,0.429574728785991,14
+B54 BPP University,(CAH11) computing,0.586834502601377,14
+B54 BPP University,(CAH16) law,0.49785827949407,229
+B54 BPP University,(CAH17) business and management,0.513927086727495,590
+B56 University of Bradford,(CAH01) medicine and dentistry,0.437918923334104,11
+B56 University of Bradford,(CAH02) subjects allied to medicine,0.386734989303428,150
+B56 University of Bradford,(CAH03) biological and sport sciences,0.482829277870691,10
+B56 University of Bradford,(CAH07) physical sciences,0.471994603565019,200
+B56 University of Bradford,(CAH10) engineering and technology,0.544231679098342,1340
+B56 University of Bradford,(CAH11) computing,0.640144006742279,44
+B56 University of Bradford,(CAH15) social sciences,0.542527703626261,239
+B56 University of Bradford,(CAH16) law,0.490222004385539,304
+B56 University of Bradford,(CAH17) business and management,0.517308259843197,1632
+B56 University of Bradford,(CAH22) education and teaching,0.457215931026833,31
+B68 Bridgend College,(CAH10) engineering and technology,0.371206398108743,13
+B68 Bridgend College,(CAH11) computing,0.518831645151276,10
+B69 Burnley College,(CAH10) engineering and technology,0.327892522372681,20
+B69 Burnley College,(CAH17) business and management,0.407251208982017,10
+B72 University of Brighton,(CAH01) medicine and dentistry,0.326577773172216,19
+B72 University of Brighton,(CAH02) subjects allied to medicine,0.389062077150208,249
+B72 University of Brighton,(CAH03) biological and sport sciences,0.493239847635397,30
+B72 University of Brighton,(CAH07) physical sciences,0.444375009423165,69
+B72 University of Brighton,(CAH09) mathematical sciences,0.571566834533042,197
+B72 University of Brighton,(CAH10) engineering and technology,0.544448359193597,1207
+B72 University of Brighton,(CAH11) computing,0.557951290090908,27
+B72 University of Brighton,"(CAH13) architecture, building and planning",0.472176210397698,740
+B72 University of Brighton,(CAH15) social sciences,0.490956087016224,78
+B72 University of Brighton,(CAH16) law,0.476172355310957,286
+B72 University of Brighton,(CAH17) business and management,0.501810979962167,5262
+B72 University of Brighton,(CAH22) education and teaching,0.383903619069835,947
+B74 Brighton and Sussex Medical School,(CAH01) medicine and dentistry,0.453486017834852,191
+B78 University of Bristol,(CAH01) medicine and dentistry,0.409992820650311,602
+B78 University of Bristol,(CAH02) subjects allied to medicine,0.317935756774081,55
+B78 University of Bristol,(CAH03) biological and sport sciences,0.493913610035403,632
+B78 University of Bristol,(CAH07) physical sciences,0.526169866979894,1164
+B78 University of Bristol,(CAH09) mathematical sciences,0.555655147478875,1069
+B78 University of Bristol,(CAH10) engineering and technology,0.57506394064223,858
+B78 University of Bristol,(CAH11) computing,0.587949804270978,10
+B78 University of Bristol,(CAH15) social sciences,0.524844681565404,1812
+B78 University of Bristol,(CAH16) law,0.482936324164699,1785
+B78 University of Bristol,(CAH17) business and management,0.520647308224232,1443
+B78 University of Bristol,(CAH22) education and teaching,0.395650774622808,58
+"B80 Bristol, UWE",(CAH01) medicine and dentistry,0.403317232107299,10
+"B80 Bristol, UWE",(CAH02) subjects allied to medicine,0.387144076376872,428
+"B80 Bristol, UWE",(CAH03) biological and sport sciences,0.472278919369621,214
+"B80 Bristol, UWE",(CAH07) physical sciences,0.470489843589015,50
+"B80 Bristol, UWE",(CAH09) mathematical sciences,0.554736348873946,278
+"B80 Bristol, UWE",(CAH10) engineering and technology,0.53262081773077,2144
+"B80 Bristol, UWE",(CAH11) computing,0.62772817921431,98
+"B80 Bristol, UWE","(CAH13) architecture, building and planning",0.462568972261914,703
+"B80 Bristol, UWE",(CAH15) social sciences,0.526547916795652,666
+"B80 Bristol, UWE",(CAH16) law,0.483285591738911,1858
+"B80 Bristol, UWE",(CAH17) business and management,0.504007858930155,7865
+"B80 Bristol, UWE",(CAH22) education and teaching,0.393657521154315,491
+B84 Brunel University of London,(CAH02) subjects allied to medicine,0.381025095152263,35
+B84 Brunel University of London,(CAH03) biological and sport sciences,0.515588394610451,57
+B84 Brunel University of London,(CAH09) mathematical sciences,0.573900450159551,559
+B84 Brunel University of London,(CAH10) engineering and technology,0.558836587119251,2705
+B84 Brunel University of London,(CAH11) computing,0.582730093901699,53
+B84 Brunel University of London,(CAH15) social sciences,0.529858153913324,525
+B84 Brunel University of London,(CAH16) law,0.491543152896035,991
+B84 Brunel University of London,(CAH17) business and management,0.520020074125532,4391
+B84 Brunel University of London,(CAH22) education and teaching,0.411177416821499,131
+B90 University of Buckingham,(CAH01) medicine and dentistry,0.487926446140749,21
+B90 University of Buckingham,(CAH10) engineering and technology,0.569072723282381,26
+B90 University of Buckingham,(CAH15) social sciences,0.544641924736351,98
+B90 University of Buckingham,(CAH16) law,0.480638830154224,356
+B90 University of Buckingham,(CAH17) business and management,0.514260771566327,452
+B93 Bury College,(CAH10) engineering and technology,0.465990622968347,24
+B93 Bury College,(CAH11) computing,0.556651315338223,12
+B93 Bury College,(CAH17) business and management,0.402940209169545,11
+B94 Buckinghamshire New University,(CAH02) subjects allied to medicine,0.380126124713074,315
+B94 Buckinghamshire New University,(CAH10) engineering and technology,0.538652848115492,293
+B94 Buckinghamshire New University,(CAH11) computing,0.459407734956283,13
+B94 Buckinghamshire New University,(CAH16) law,0.488146187482978,139
+B94 Buckinghamshire New University,(CAH17) business and management,0.473841395675383,3128
+B94 Buckinghamshire New University,(CAH22) education and teaching,0.378825092399301,51
+C05 University of Cambridge,(CAH01) medicine and dentistry,0.43143445031714,528
+C05 University of Cambridge,(CAH02) subjects allied to medicine,0.409471578237115,10
+C05 University of Cambridge,(CAH03) biological and sport sciences,0.505415263592244,47
+C05 University of Cambridge,(CAH07) physical sciences,0.543701652299196,283
+C05 University of Cambridge,(CAH09) mathematical sciences,0.584063566912056,903
+C05 University of Cambridge,(CAH10) engineering and technology,0.561001125773051,822
+C05 University of Cambridge,"(CAH13) architecture, building and planning",0.485393275914703,341
+C05 University of Cambridge,(CAH15) social sciences,0.531179164215778,1108
+C05 University of Cambridge,(CAH16) law,0.48037223856984,1468
+C05 University of Cambridge,(CAH17) business and management,0.517536432071906,494
+C05 University of Cambridge,(CAH22) education and teaching,0.476678946464924,223
+C09 Cambridge Regional College,(CAH10) engineering and technology,0.478828160405017,26
+C09 Cambridge Regional College,(CAH11) computing,0.657953593265149,15
+C09 Cambridge Regional College,(CAH17) business and management,0.388951924266314,18
+C10 Canterbury Christ Church University,(CAH02) subjects allied to medicine,0.378229433216011,238
+C10 Canterbury Christ Church University,(CAH03) biological and sport sciences,0.450380413999841,37
+C10 Canterbury Christ Church University,(CAH10) engineering and technology,0.590154637274209,160
+C10 Canterbury Christ Church University,(CAH11) computing,0.553005444594548,34
+C10 Canterbury Christ Church University,(CAH16) law,0.480795093968084,303
+C10 Canterbury Christ Church University,(CAH17) business and management,0.502332634273315,2210
+C10 Canterbury Christ Church University,(CAH22) education and teaching,0.379726083148554,1120
+C15 Cardiff University,(CAH01) medicine and dentistry,0.446320022821868,362
+C15 Cardiff University,(CAH02) subjects allied to medicine,0.394683833377176,232
+C15 Cardiff University,(CAH03) biological and sport sciences,0.502095896475013,341
+C15 Cardiff University,(CAH07) physical sciences,0.488961579023021,694
+C15 Cardiff University,(CAH09) mathematical sciences,0.569404529101715,858
+C15 Cardiff University,(CAH10) engineering and technology,0.561195521878037,1521
+C15 Cardiff University,"(CAH13) architecture, building and planning",0.472109994367667,594
+C15 Cardiff University,(CAH15) social sciences,0.519832123952475,1002
+C15 Cardiff University,(CAH16) law,0.479121567025199,1954
+C15 Cardiff University,(CAH17) business and management,0.516598750884194,3452
+C15 Cardiff University,(CAH22) education and teaching,0.445659124145911,223
+C20 Cardiff Metropolitan University,(CAH10) engineering and technology,0.572106264543294,263
+C20 Cardiff Metropolitan University,(CAH11) computing,0.643093050533261,11
+C20 Cardiff Metropolitan University,"(CAH13) architecture, building and planning",0.508095197402964,50
+C20 Cardiff Metropolitan University,(CAH15) social sciences,0.497687935527614,67
+C20 Cardiff Metropolitan University,(CAH17) business and management,0.491234509647254,2475
+C20 Cardiff Metropolitan University,(CAH22) education and teaching,0.375928785613591,624
+C22 Coleg Sir Gar,(CAH10) engineering and technology,0.511437516821169,15
+C22 Coleg Sir Gar,(CAH17) business and management,0.570346293746463,11
+C30 University of Lancashire,(CAH01) medicine and dentistry,0.421893660672012,75
+C30 University of Lancashire,(CAH02) subjects allied to medicine,0.38074417407742,309
+C30 University of Lancashire,(CAH03) biological and sport sciences,0.484675545562371,33
+C30 University of Lancashire,(CAH07) physical sciences,0.473331725015354,167
+C30 University of Lancashire,(CAH09) mathematical sciences,0.545597034469241,116
+C30 University of Lancashire,(CAH10) engineering and technology,0.539402495618408,1407
+C30 University of Lancashire,(CAH11) computing,0.646952194219078,28
+C30 University of Lancashire,"(CAH13) architecture, building and planning",0.46420580218904,137
+C30 University of Lancashire,(CAH15) social sciences,0.54210319683244,108
+C30 University of Lancashire,(CAH16) law,0.472940122564638,870
+C30 University of Lancashire,(CAH17) business and management,0.494878171682795,4309
+C30 University of Lancashire,(CAH22) education and teaching,0.405858704611699,287
+"C35 Royal Central School of Speech and Drama, University of London",(CAH17) business and management,0.441634835479096,128
+"C35 Royal Central School of Speech and Drama, University of London",(CAH22) education and teaching,0.435127078921678,300
+C39 City of Glasgow College,(CAH17) business and management,0.485087848214091,16
+C54 City College Norwich (incorporating Easton College),(CAH10) engineering and technology,0.46557598410879,20
+C54 City College Norwich (incorporating Easton College),(CAH17) business and management,0.493549438207518,97
+C55 University of Chester,(CAH02) subjects allied to medicine,0.378295558579606,257
+C55 University of Chester,(CAH03) biological and sport sciences,0.423670024544607,217
+C55 University of Chester,(CAH07) physical sciences,0.486605676152178,14
+C55 University of Chester,(CAH09) mathematical sciences,0.562074890704716,171
+C55 University of Chester,(CAH10) engineering and technology,0.593229546801099,382
+C55 University of Chester,(CAH15) social sciences,0.483016819500563,22
+C55 University of Chester,(CAH16) law,0.482188254800654,538
+C55 University of Chester,(CAH17) business and management,0.495464516625486,2374
+C55 University of Chester,(CAH22) education and teaching,0.394730729519884,376
+C58 University of Chichester,(CAH09) mathematical sciences,0.483386320914525,28
+C58 University of Chichester,(CAH10) engineering and technology,0.395263747456594,33
+C58 University of Chichester,(CAH16) law,0.565911217260077,10
+C58 University of Chichester,(CAH17) business and management,0.494465205745872,762
+C58 University of Chichester,(CAH22) education and teaching,0.390353824115201,687
+"C60 City St George's, University of London",(CAH02) subjects allied to medicine,0.394543690388112,119
+"C60 City St George's, University of London",(CAH09) mathematical sciences,0.531614987449762,69
+"C60 City St George's, University of London",(CAH10) engineering and technology,0.555172191628931,632
+"C60 City St George's, University of London",(CAH11) computing,0.593570155637806,16
+"C60 City St George's, University of London",(CAH15) social sciences,0.528137587283567,371
+"C60 City St George's, University of London",(CAH16) law,0.496781790665565,586
+"C60 City St George's, University of London",(CAH17) business and management,0.5281128217313,2561
+C64 Coventry College,(CAH10) engineering and technology,0.495530825858913,25
+C69 Sunderland College,(CAH10) engineering and technology,0.513256272208393,17
+C69 Sunderland College,(CAH11) computing,0.558530528978433,14
+C69 Sunderland College,(CAH17) business and management,0.42561493403429,10
+C78 Cornwall College,(CAH03) biological and sport sciences,0.341767737768443,21
+C78 Cornwall College,(CAH10) engineering and technology,0.427283194728156,20
+C78 Cornwall College,(CAH17) business and management,0.461827734882764,52
+C83 City College Plymouth,(CAH10) engineering and technology,0.458625441190463,29
+C83 City College Plymouth,(CAH17) business and management,0.430395928416716,12
+C85 Coventry University,(CAH02) subjects allied to medicine,0.389031981655793,216
+C85 Coventry University,(CAH03) biological and sport sciences,0.467301703634913,36
+C85 Coventry University,(CAH07) physical sciences,0.489377403835091,108
+C85 Coventry University,(CAH09) mathematical sciences,0.569313007390915,333
+C85 Coventry University,(CAH10) engineering and technology,0.51338111634226,4263
+C85 Coventry University,(CAH11) computing,0.608347613076421,124
+C85 Coventry University,"(CAH13) architecture, building and planning",0.470597186326286,236
+C85 Coventry University,(CAH15) social sciences,0.519766301258268,742
+C85 Coventry University,(CAH16) law,0.499454116859172,1242
+C85 Coventry University,(CAH17) business and management,0.504727272023953,8136
+C85 Coventry University,(CAH22) education and teaching,0.335684082590909,39
+C88 Craven College,(CAH17) business and management,0.432335284821412,36
+C92 Croydon University Centre,(CAH10) engineering and technology,0.401100221244749,29
+C92 Croydon University Centre,(CAH11) computing,0.409472458421859,23
+C92 Croydon University Centre,(CAH17) business and management,0.487649627460158,61
+C93 University for the Creative Arts,(CAH10) engineering and technology,0.485187592778496,198
+C93 University for the Creative Arts,"(CAH13) architecture, building and planning",0.470521727637284,566
+C93 University for the Creative Arts,(CAH17) business and management,0.497403771850731,672
+C99 University of Cumbria,(CAH02) subjects allied to medicine,0.397704919116901,120
+C99 University of Cumbria,(CAH03) biological and sport sciences,0.413946769228218,49
+C99 University of Cumbria,(CAH07) physical sciences,0.469386011487858,11
+C99 University of Cumbria,(CAH10) engineering and technology,0.500985818169159,97
+C99 University of Cumbria,(CAH11) computing,0.480324223733279,12
+C99 University of Cumbria,(CAH16) law,0.486890496696863,79
+C99 University of Cumbria,(CAH17) business and management,0.473707545441966,457
+C99 University of Cumbria,(CAH22) education and teaching,0.369079869239492,711
+D16 dBs Institute,(CAH10) engineering and technology,0.486317633476272,45
+D26 De Montfort University,(CAH02) subjects allied to medicine,0.394760842664307,207
+D26 De Montfort University,(CAH07) physical sciences,0.475995961354771,53
+D26 De Montfort University,(CAH09) mathematical sciences,0.50822397763337,68
+D26 De Montfort University,(CAH10) engineering and technology,0.568514028537083,1863
+D26 De Montfort University,(CAH11) computing,0.608588456414805,85
+D26 De Montfort University,"(CAH13) architecture, building and planning",0.476725724989234,856
+D26 De Montfort University,(CAH15) social sciences,0.536004842291534,266
+D26 De Montfort University,(CAH16) law,0.481688183486799,1369
+D26 De Montfort University,(CAH17) business and management,0.511327095622709,7391
+D26 De Montfort University,(CAH22) education and teaching,0.419313297091276,432
+D38 Derby College,(CAH10) engineering and technology,0.402864122934391,60
+D38 Derby College,(CAH11) computing,0.558412073397261,14
+D38 Derby College,(CAH17) business and management,0.47312287765601,27
+D39 University of Derby,(CAH02) subjects allied to medicine,0.389212753383191,232
+D39 University of Derby,(CAH03) biological and sport sciences,0.43051060308657,255
+D39 University of Derby,(CAH09) mathematical sciences,0.518057383420366,155
+D39 University of Derby,(CAH10) engineering and technology,0.530500521791441,1892
+D39 University of Derby,(CAH11) computing,0.629751666767237,147
+D39 University of Derby,"(CAH13) architecture, building and planning",0.46893358819458,90
+D39 University of Derby,(CAH15) social sciences,0.433050727153435,40
+D39 University of Derby,(CAH16) law,0.484211404193135,665
+D39 University of Derby,(CAH17) business and management,0.485041226633867,3849
+D39 University of Derby,(CAH22) education and teaching,0.397320282439514,652
+D65 University of Dundee,(CAH01) medicine and dentistry,0.441422143846194,151
+D65 University of Dundee,(CAH02) subjects allied to medicine,0.388601943342256,274
+D65 University of Dundee,(CAH03) biological and sport sciences,0.4768097496112,82
+D65 University of Dundee,(CAH07) physical sciences,0.509050440178546,99
+D65 University of Dundee,(CAH09) mathematical sciences,0.529093944678866,147
+D65 University of Dundee,(CAH10) engineering and technology,0.490434802448398,583
+D65 University of Dundee,"(CAH13) architecture, building and planning",0.47933830155096,347
+D65 University of Dundee,(CAH15) social sciences,0.522256306132433,78
+D65 University of Dundee,(CAH16) law,0.47337201215708,741
+D65 University of Dundee,(CAH17) business and management,0.505945244330077,617
+D65 University of Dundee,(CAH22) education and teaching,0.389555337526601,175
+D86 Durham University,(CAH01) medicine and dentistry,0.412804124198562,34
+D86 Durham University,(CAH03) biological and sport sciences,0.50829102909075,410
+D86 Durham University,(CAH07) physical sciences,0.528784844604892,771
+D86 Durham University,(CAH09) mathematical sciences,0.550612424351977,786
+D86 Durham University,(CAH10) engineering and technology,0.577712743192503,508
+D86 Durham University,(CAH11) computing,0.453394474652381,12
+D86 Durham University,(CAH15) social sciences,0.525267310345904,1992
+D86 Durham University,(CAH16) law,0.482449918477654,1322
+D86 Durham University,(CAH17) business and management,0.514626964310855,2150
+D86 Durham University,(CAH22) education and teaching,0.41305294058276,413
+E14 University of East Anglia UEA,(CAH01) medicine and dentistry,0.419597772999758,279
+E14 University of East Anglia UEA,(CAH02) subjects allied to medicine,0.392480242211782,233
+E14 University of East Anglia UEA,(CAH03) biological and sport sciences,0.508773232168077,107
+E14 University of East Anglia UEA,(CAH07) physical sciences,0.481091993161067,219
+E14 University of East Anglia UEA,(CAH09) mathematical sciences,0.53426023951687,369
+E14 University of East Anglia UEA,(CAH10) engineering and technology,0.608241215966168,629
+E14 University of East Anglia UEA,(CAH15) social sciences,0.522840252638757,1013
+E14 University of East Anglia UEA,(CAH16) law,0.485699949790979,1094
+E14 University of East Anglia UEA,(CAH17) business and management,0.51257138078286,2639
+E14 University of East Anglia UEA,(CAH22) education and teaching,0.374469491934669,270
+E28 University of East London,(CAH01) medicine and dentistry,0.343416018717691,56
+E28 University of East London,(CAH02) subjects allied to medicine,0.377469737448614,18
+E28 University of East London,(CAH03) biological and sport sciences,0.446232177928073,56
+E28 University of East London,(CAH10) engineering and technology,0.531201518224144,1448
+E28 University of East London,(CAH11) computing,0.562087228669048,144
+E28 University of East London,"(CAH13) architecture, building and planning",0.471353791815672,404
+E28 University of East London,(CAH15) social sciences,0.506547489839524,142
+E28 University of East London,(CAH16) law,0.472415421644431,472
+E28 University of East London,(CAH17) business and management,0.502517985748522,2924
+E28 University of East London,(CAH22) education and teaching,0.392954189394824,457
+E42 Edge Hill University,(CAH02) subjects allied to medicine,0.377133494812628,251
+E42 Edge Hill University,(CAH03) biological and sport sciences,0.422484892939277,81
+E42 Edge Hill University,(CAH09) mathematical sciences,0.437092212449889,13
+E42 Edge Hill University,(CAH10) engineering and technology,0.554424372769666,248
+E42 Edge Hill University,(CAH11) computing,0.546513385004551,42
+E42 Edge Hill University,(CAH16) law,0.482401666178806,434
+E42 Edge Hill University,(CAH17) business and management,0.490033945696057,1424
+E42 Edge Hill University,(CAH22) education and teaching,0.380382266894286,1254
+E56 The University of Edinburgh,(CAH01) medicine and dentistry,0.387228409104441,492
+E56 The University of Edinburgh,(CAH02) subjects allied to medicine,0.406400451412007,67
+E56 The University of Edinburgh,(CAH03) biological and sport sciences,0.477981835500647,361
+E56 The University of Edinburgh,(CAH07) physical sciences,0.514766869545106,515
+E56 The University of Edinburgh,(CAH09) mathematical sciences,0.550328010503246,687
+E56 The University of Edinburgh,(CAH10) engineering and technology,0.564359558185925,940
+E56 The University of Edinburgh,"(CAH13) architecture, building and planning",0.480365147675508,225
+E56 The University of Edinburgh,(CAH15) social sciences,0.519413210139319,111
+E56 The University of Edinburgh,(CAH16) law,0.468281846159036,1177
+E56 The University of Edinburgh,(CAH17) business and management,0.486820982748085,710
+E56 The University of Edinburgh,(CAH22) education and teaching,0.367893646123793,403
+E59 Edinburgh Napier University,(CAH01) medicine and dentistry,0.367759901208561,35
+E59 Edinburgh Napier University,(CAH02) subjects allied to medicine,0.361177246479877,447
+E59 Edinburgh Napier University,(CAH03) biological and sport sciences,0.44196027378387,260
+E59 Edinburgh Napier University,(CAH10) engineering and technology,0.52608517526371,1538
+E59 Edinburgh Napier University,(CAH11) computing,0.634330235118611,34
+E59 Edinburgh Napier University,"(CAH13) architecture, building and planning",0.469573222178051,49
+E59 Edinburgh Napier University,(CAH15) social sciences,0.475068393130177,27
+E59 Edinburgh Napier University,(CAH16) law,0.486016378834938,361
+E59 Edinburgh Napier University,(CAH17) business and management,0.49755298954088,3942
+E70 University of Essex,(CAH01) medicine and dentistry,0.511353430964765,27
+E70 University of Essex,(CAH02) subjects allied to medicine,0.375860594578428,64
+E70 University of Essex,(CAH03) biological and sport sciences,0.463215096830085,206
+E70 University of Essex,(CAH09) mathematical sciences,0.536244559384226,205
+E70 University of Essex,(CAH10) engineering and technology,0.607224867445815,910
+E70 University of Essex,(CAH11) computing,0.48202262922054,32
+E70 University of Essex,"(CAH13) architecture, building and planning",0.441856763718081,13
+E70 University of Essex,(CAH15) social sciences,0.528000918621529,1316
+E70 University of Essex,(CAH16) law,0.48360642335653,1268
+E70 University of Essex,(CAH17) business and management,0.502449021063292,2992
+E70 University of Essex,(CAH22) education and teaching,0.384696712884317,85
+E76 University of the Built Environment,(CAH17) business and management,0.475676154528589,361
+E81 Exeter College,(CAH10) engineering and technology,0.359477910572489,26
+E81 Exeter College,(CAH17) business and management,0.483918258644093,27
+E84 University of Exeter,(CAH01) medicine and dentistry,0.423986987994734,155
+E84 University of Exeter,(CAH03) biological and sport sciences,0.452952658139411,715
+E84 University of Exeter,(CAH07) physical sciences,0.519626048688373,485
+E84 University of Exeter,(CAH09) mathematical sciences,0.543479232720962,943
+E84 University of Exeter,(CAH10) engineering and technology,0.544014921330592,969
+E84 University of Exeter,(CAH11) computing,0.539194952023505,23
+E84 University of Exeter,(CAH15) social sciences,0.523471317654713,2300
+E84 University of Exeter,(CAH16) law,0.482469256942605,1779
+E84 University of Exeter,(CAH17) business and management,0.511586877561047,3907
+E84 University of Exeter,(CAH22) education and teaching,0.430294704329802,157
+F33 Falmouth University,(CAH10) engineering and technology,0.565540399247898,22
+F33 Falmouth University,"(CAH13) architecture, building and planning",0.456056182846839,57
+F33 Falmouth University,(CAH17) business and management,0.46032436979276,417
+F66 University Centre Farnborough,(CAH10) engineering and technology,0.508036543832273,90
+F66 University Centre Farnborough,(CAH11) computing,0.572878321004141,15
+F66 University Centre Farnborough,(CAH17) business and management,0.436482492097127,91
+F66 University Centre Farnborough,(CAH22) education and teaching,0.420237327665451,22
+F70 Fashion Retail Academy,(CAH17) business and management,0.47549571623485,157
+G09 Gateshead College,(CAH10) engineering and technology,0.539655864025881,14
+G09 Gateshead College,(CAH17) business and management,0.503161079449689,25
+G28 University of Glasgow,(CAH01) medicine and dentistry,0.378620715849229,518
+G28 University of Glasgow,(CAH02) subjects allied to medicine,0.395962905393922,96
+G28 University of Glasgow,(CAH03) biological and sport sciences,0.454841687952915,581
+G28 University of Glasgow,(CAH07) physical sciences,0.486189265776883,614
+G28 University of Glasgow,(CAH09) mathematical sciences,0.557743003142393,676
+G28 University of Glasgow,(CAH10) engineering and technology,0.523684783294846,1205
+G28 University of Glasgow,"(CAH13) architecture, building and planning",0.523302286075074,10
+G28 University of Glasgow,(CAH15) social sciences,0.521420262909098,129
+G28 University of Glasgow,(CAH16) law,0.476348763912521,1366
+G28 University of Glasgow,(CAH17) business and management,0.512992112803624,891
+G28 University of Glasgow,(CAH22) education and teaching,0.360407583860791,236
+G42 Glasgow Caledonian University,(CAH01) medicine and dentistry,0.318085335764925,11
+G42 Glasgow Caledonian University,(CAH02) subjects allied to medicine,0.388878614775696,464
+G42 Glasgow Caledonian University,(CAH03) biological and sport sciences,0.454706510961846,96
+G42 Glasgow Caledonian University,(CAH07) physical sciences,0.441943360067892,57
+G42 Glasgow Caledonian University,(CAH09) mathematical sciences,0.561166620422039,29
+G42 Glasgow Caledonian University,(CAH10) engineering and technology,0.52239587396351,2305
+G42 Glasgow Caledonian University,(CAH11) computing,0.602457216727793,30
+G42 Glasgow Caledonian University,(CAH15) social sciences,0.500560398082967,67
+G42 Glasgow Caledonian University,(CAH16) law,0.469904770514315,329
+G42 Glasgow Caledonian University,(CAH17) business and management,0.490619519336288,6032
+G43 Glasgow School of Art,(CAH10) engineering and technology,0.482488947260035,25
+G43 Glasgow School of Art,"(CAH13) architecture, building and planning",0.471451904022138,456
+G45 Gloucestershire College,(CAH10) engineering and technology,0.450874996243223,13
+G50 University of Gloucestershire,(CAH02) subjects allied to medicine,0.334596712995486,14
+G50 University of Gloucestershire,(CAH03) biological and sport sciences,0.414523889356902,119
+G50 University of Gloucestershire,(CAH10) engineering and technology,0.53439105489109,276
+G50 University of Gloucestershire,(CAH11) computing,0.602182459865223,106
+G50 University of Gloucestershire,"(CAH13) architecture, building and planning",0.372695156154535,155
+G50 University of Gloucestershire,(CAH16) law,0.490954682863646,243
+G50 University of Gloucestershire,(CAH17) business and management,0.501890481942362,2867
+G50 University of Gloucestershire,(CAH22) education and teaching,0.389541659265627,646
+"G56 Goldsmiths, University of London",(CAH10) engineering and technology,0.59510085634257,486
+"G56 Goldsmiths, University of London",(CAH11) computing,0.545527779082396,27
+"G56 Goldsmiths, University of London",(CAH15) social sciences,0.494015029588458,311
+"G56 Goldsmiths, University of London",(CAH16) law,0.459794843967861,13
+"G56 Goldsmiths, University of London",(CAH17) business and management,0.48767937395098,315
+"G56 Goldsmiths, University of London",(CAH22) education and teaching,0.399506327481066,159
+G70 University of Greenwich,(CAH01) medicine and dentistry,0.352853118891137,18
+G70 University of Greenwich,(CAH02) subjects allied to medicine,0.370872579504458,260
+G70 University of Greenwich,(CAH03) biological and sport sciences,0.512053811908931,21
+G70 University of Greenwich,(CAH07) physical sciences,0.452528673469358,123
+G70 University of Greenwich,(CAH09) mathematical sciences,0.542114847693446,506
+G70 University of Greenwich,(CAH10) engineering and technology,0.561843949902022,2102
+G70 University of Greenwich,(CAH11) computing,0.5774604903343,103
+G70 University of Greenwich,"(CAH13) architecture, building and planning",0.467658034213288,546
+G70 University of Greenwich,(CAH15) social sciences,0.533610564393805,485
+G70 University of Greenwich,(CAH16) law,0.486805123991821,627
+G70 University of Greenwich,(CAH17) business and management,0.503579424987184,7284
+G70 University of Greenwich,(CAH22) education and teaching,0.388937566669817,886
+H04 Halesowen College,(CAH11) computing,0.623878342751266,16
+H04 Halesowen College,(CAH17) business and management,0.50569280019192,15
+H12 Harper Adams University,(CAH02) subjects allied to medicine,0.273497124483509,44
+H12 Harper Adams University,(CAH10) engineering and technology,0.452904314669819,244
+H12 Harper Adams University,(CAH17) business and management,0.431769340512535,1379
+H19 Heart of Worcestershire College,(CAH10) engineering and technology,0.482383037940307,15
+H22 Hartpury University,(CAH02) subjects allied to medicine,0.262026070950135,36
+H22 Hartpury University,(CAH03) biological and sport sciences,0.425149074335988,10
+H22 Hartpury University,(CAH17) business and management,0.400238446977338,176
+H22 Hartpury University,(CAH22) education and teaching,0.411144335949255,22
+H24 Heriot-Watt University,(CAH03) biological and sport sciences,0.455748179879946,201
+H24 Heriot-Watt University,(CAH07) physical sciences,0.476913422852716,318
+H24 Heriot-Watt University,(CAH09) mathematical sciences,0.54622051756672,444
+H24 Heriot-Watt University,(CAH10) engineering and technology,0.522609334742031,1326
+H24 Heriot-Watt University,(CAH11) computing,0.600025213125637,62
+H24 Heriot-Watt University,"(CAH13) architecture, building and planning",0.394944855692912,19
+H24 Heriot-Watt University,(CAH15) social sciences,0.527520518525883,37
+H24 Heriot-Watt University,(CAH17) business and management,0.497562628067365,1251
+H36 University of Hertfordshire,(CAH02) subjects allied to medicine,0.387658730517572,438
+H36 University of Hertfordshire,(CAH03) biological and sport sciences,0.450714247685692,113
+H36 University of Hertfordshire,(CAH07) physical sciences,0.519415529392556,142
+H36 University of Hertfordshire,(CAH09) mathematical sciences,0.544308454104959,406
+H36 University of Hertfordshire,(CAH10) engineering and technology,0.556315303868179,3238
+H36 University of Hertfordshire,(CAH11) computing,0.621822666359386,267
+H36 University of Hertfordshire,"(CAH13) architecture, building and planning",0.469487007925798,254
+H36 University of Hertfordshire,(CAH15) social sciences,0.525630702634118,522
+H36 University of Hertfordshire,(CAH16) law,0.490796645885058,1794
+H36 University of Hertfordshire,(CAH17) business and management,0.512304059774873,7677
+H36 University of Hertfordshire,(CAH22) education and teaching,0.368925789675942,586
+H37 Hertford Regional College,(CAH10) engineering and technology,0.591040720401333,16
+H37 Hertford Regional College,(CAH17) business and management,0.49879421904112,17
+H49 University of the Highlands and Islands (UHI),(CAH02) subjects allied to medicine,0.320166606897428,12
+H49 University of the Highlands and Islands (UHI),(CAH10) engineering and technology,0.451046048601658,421
+H49 University of the Highlands and Islands (UHI),(CAH17) business and management,0.457051218931222,493
+H49 University of the Highlands and Islands (UHI),(CAH22) education and teaching,0.348743416780301,38
+H60 University of Huddersfield,(CAH02) subjects allied to medicine,0.377342133979848,119
+H60 University of Huddersfield,(CAH03) biological and sport sciences,0.498858554661712,180
+H60 University of Huddersfield,(CAH07) physical sciences,0.467704339406932,222
+H60 University of Huddersfield,(CAH10) engineering and technology,0.546884472203284,1429
+H60 University of Huddersfield,(CAH11) computing,0.591942743964128,125
+H60 University of Huddersfield,"(CAH13) architecture, building and planning",0.465156064515208,446
+H60 University of Huddersfield,(CAH15) social sciences,0.513145157452169,103
+H60 University of Huddersfield,(CAH16) law,0.487871080716367,645
+H60 University of Huddersfield,(CAH17) business and management,0.506231618172528,3901
+H60 University of Huddersfield,(CAH22) education and teaching,0.428112209670034,588
+H65 Hugh Baird College,(CAH17) business and management,0.506818651909127,14
+H72 University of Hull,(CAH01) medicine and dentistry,0.474805216888763,33
+H72 University of Hull,(CAH02) subjects allied to medicine,0.372541872611437,176
+H72 University of Hull,(CAH03) biological and sport sciences,0.445183732327968,510
+H72 University of Hull,(CAH07) physical sciences,0.477423902611629,446
+H72 University of Hull,(CAH09) mathematical sciences,0.505019540429105,93
+H72 University of Hull,(CAH10) engineering and technology,0.571770542145416,1189
+H72 University of Hull,(CAH15) social sciences,0.532133407170352,335
+H72 University of Hull,(CAH16) law,0.482398180277705,1028
+H72 University of Hull,(CAH17) business and management,0.508431603899958,3574
+H72 University of Hull,(CAH22) education and teaching,0.376699332744637,353
+H73 Hull College,(CAH10) engineering and technology,0.533509314906255,31
+H73 Hull College,(CAH17) business and management,0.482734738732681,64
+H75 Hull York Medical School,(CAH01) medicine and dentistry,0.437867919873997,99
+I50 Imperial College London,(CAH01) medicine and dentistry,0.452379298956112,1158
+I50 Imperial College London,(CAH03) biological and sport sciences,0.528977793156782,339
+I50 Imperial College London,(CAH07) physical sciences,0.551269198158338,749
+I50 Imperial College London,(CAH09) mathematical sciences,0.578754814040615,707
+I50 Imperial College London,(CAH10) engineering and technology,0.556181295973313,691
+I50 Imperial College London,(CAH15) social sciences,0.52092829323894,34
+I50 Imperial College London,(CAH16) law,0.465992883342087,14
+I50 Imperial College London,(CAH17) business and management,0.525063510932732,788
+I55 Walbrook Institute London,(CAH17) business and management,0.529903459015506,234
+K12 Keele University,(CAH01) medicine and dentistry,0.403341838455403,117
+K12 Keele University,(CAH02) subjects allied to medicine,0.38487674464371,136
+K12 Keele University,(CAH03) biological and sport sciences,0.47518767634763,339
+K12 Keele University,(CAH07) physical sciences,0.473199006566756,390
+K12 Keele University,(CAH09) mathematical sciences,0.531977258060212,470
+K12 Keele University,(CAH10) engineering and technology,0.605193179997672,374
+K12 Keele University,(CAH15) social sciences,0.538451989239873,211
+K12 Keele University,(CAH16) law,0.496410269990042,1138
+K12 Keele University,(CAH17) business and management,0.515539010968377,1688
+K12 Keele University,(CAH22) education and teaching,0.437701134210622,89
+K24 University of Kent,(CAH03) biological and sport sciences,0.491962692485054,179
+K24 University of Kent,(CAH07) physical sciences,0.4985640941787,473
+K24 University of Kent,(CAH09) mathematical sciences,0.566725341573135,616
+K24 University of Kent,(CAH10) engineering and technology,0.619640369794034,1267
+K24 University of Kent,(CAH11) computing,0.650211671043047,79
+K24 University of Kent,"(CAH13) architecture, building and planning",0.479591236242219,767
+K24 University of Kent,(CAH15) social sciences,0.532634915020638,1193
+K24 University of Kent,(CAH16) law,0.48999727879505,2073
+K24 University of Kent,(CAH17) business and management,0.517888863221599,4009
+"K60 King's College London, University of London",(CAH01) medicine and dentistry,0.442545578415286,1135
+"K60 King's College London, University of London",(CAH02) subjects allied to medicine,0.403113116421667,583
+"K60 King's College London, University of London",(CAH03) biological and sport sciences,0.476137787156239,155
+"K60 King's College London, University of London",(CAH07) physical sciences,0.535551137087365,540
+"K60 King's College London, University of London",(CAH09) mathematical sciences,0.563215240873958,734
+"K60 King's College London, University of London",(CAH10) engineering and technology,0.602708182276467,1294
+"K60 King's College London, University of London",(CAH15) social sciences,0.53335718618593,426
+"K60 King's College London, University of London",(CAH16) law,0.490395841154692,1370
+"K60 King's College London, University of London",(CAH17) business and management,0.529843257652182,1725
+"K60 King's College London, University of London",(CAH22) education and teaching,0.403442496721468,43
+K84 Kingston University,(CAH01) medicine and dentistry,0.318209010095777,39
+K84 Kingston University,(CAH02) subjects allied to medicine,0.376946518346802,309
+K84 Kingston University,(CAH03) biological and sport sciences,0.463750383898555,124
+K84 Kingston University,(CAH07) physical sciences,0.480449113198297,167
+K84 Kingston University,(CAH09) mathematical sciences,0.564416705857872,260
+K84 Kingston University,(CAH10) engineering and technology,0.529068521058821,3377
+K84 Kingston University,(CAH11) computing,0.579497612345377,53
+K84 Kingston University,"(CAH13) architecture, building and planning",0.47320957009003,699
+K84 Kingston University,(CAH15) social sciences,0.524297866195368,612
+K84 Kingston University,(CAH16) law,0.500716172869247,804
+K84 Kingston University,(CAH17) business and management,0.513501083742775,5449
+K84 Kingston University,(CAH22) education and teaching,0.377752544147437,276
+L14 Lancaster University,(CAH01) medicine and dentistry,0.430754066664354,29
+L14 Lancaster University,(CAH02) subjects allied to medicine,0.423231882427269,12
+L14 Lancaster University,(CAH03) biological and sport sciences,0.471358569318329,118
+L14 Lancaster University,(CAH07) physical sciences,0.517722528169581,263
+L14 Lancaster University,(CAH09) mathematical sciences,0.572159417773427,668
+L14 Lancaster University,(CAH10) engineering and technology,0.567793971349412,1248
+L14 Lancaster University,(CAH11) computing,0.566357203565076,62
+L14 Lancaster University,(CAH15) social sciences,0.521626785904446,1018
+L14 Lancaster University,(CAH16) law,0.48322860269235,1173
+L14 Lancaster University,(CAH17) business and management,0.511879896788353,4818
+L14 Lancaster University,(CAH22) education and teaching,0.44609737945641,132
+L17 The University of Law,(CAH16) law,0.473803543413122,1501
+L17 The University of Law,(CAH17) business and management,0.473402830043932,54
+L23 University of Leeds,(CAH01) medicine and dentistry,0.429543207959778,380
+L23 University of Leeds,(CAH02) subjects allied to medicine,0.372489757384853,198
+L23 University of Leeds,(CAH03) biological and sport sciences,0.485247702791536,637
+L23 University of Leeds,(CAH07) physical sciences,0.504952685416009,1227
+L23 University of Leeds,(CAH09) mathematical sciences,0.54132478204548,1390
+L23 University of Leeds,(CAH10) engineering and technology,0.533660518372573,1409
+L23 University of Leeds,(CAH11) computing,0.602020202522616,65
+L23 University of Leeds,"(CAH13) architecture, building and planning",0.474283993194455,21
+L23 University of Leeds,(CAH15) social sciences,0.520556245422001,2016
+L23 University of Leeds,(CAH16) law,0.476857955206547,1739
+L23 University of Leeds,(CAH17) business and management,0.509341832291475,5644
+L23 University of Leeds,(CAH22) education and teaching,0.400510638360344,241
+L24 Leeds Trinity University,(CAH10) engineering and technology,0.525886811552974,13
+L24 Leeds Trinity University,(CAH16) law,0.420814107310077,18
+L24 Leeds Trinity University,(CAH17) business and management,0.499729938007119,419
+L24 Leeds Trinity University,(CAH22) education and teaching,0.369597281698953,364
+L27 Leeds Beckett University,(CAH02) subjects allied to medicine,0.381446137011488,80
+L27 Leeds Beckett University,(CAH03) biological and sport sciences,0.454486039321821,113
+L27 Leeds Beckett University,(CAH10) engineering and technology,0.529072551788293,1588
+L27 Leeds Beckett University,(CAH11) computing,0.614533797029821,56
+L27 Leeds Beckett University,"(CAH13) architecture, building and planning",0.464859591529883,827
+L27 Leeds Beckett University,(CAH15) social sciences,0.520647815811328,159
+L27 Leeds Beckett University,(CAH16) law,0.481092077668833,1222
+L27 Leeds Beckett University,(CAH17) business and management,0.497566760180115,10242
+L27 Leeds Beckett University,(CAH22) education and teaching,0.403354959618253,1119
+L28 Leeds Arts University,"(CAH13) architecture, building and planning",0.459164308381472,22
+L30 Leeds Conservatoire,(CAH17) business and management,0.447902788926525,23
+L39 University of Lincoln,(CAH01) medicine and dentistry,0.356113162753204,66
+L39 University of Lincoln,(CAH02) subjects allied to medicine,0.390720278924608,92
+L39 University of Lincoln,(CAH03) biological and sport sciences,0.431517938130174,132
+L39 University of Lincoln,(CAH07) physical sciences,0.398863007840926,55
+L39 University of Lincoln,(CAH09) mathematical sciences,0.467172062254464,70
+L39 University of Lincoln,(CAH10) engineering and technology,0.544662872480397,1346
+L39 University of Lincoln,(CAH11) computing,0.478982119729182,13
+L39 University of Lincoln,"(CAH13) architecture, building and planning",0.471415526977066,767
+L39 University of Lincoln,(CAH15) social sciences,0.486090862212914,61
+L39 University of Lincoln,(CAH16) law,0.479685155617316,976
+L39 University of Lincoln,(CAH17) business and management,0.498859334092659,4089
+L39 University of Lincoln,(CAH22) education and teaching,0.361533927766089,66
+L41 University of Liverpool,(CAH01) medicine and dentistry,0.389886578440242,516
+L41 University of Liverpool,(CAH02) subjects allied to medicine,0.380364510529216,64
+L41 University of Liverpool,(CAH03) biological and sport sciences,0.459234404215525,629
+L41 University of Liverpool,(CAH07) physical sciences,0.47838529254382,721
+L41 University of Liverpool,(CAH09) mathematical sciences,0.544667567434314,746
+L41 University of Liverpool,(CAH10) engineering and technology,0.551641311996792,1496
+L41 University of Liverpool,(CAH11) computing,0.489067333642727,14
+L41 University of Liverpool,"(CAH13) architecture, building and planning",0.478395590018693,975
+L41 University of Liverpool,(CAH15) social sciences,0.527535234106479,690
+L41 University of Liverpool,(CAH16) law,0.474120490546574,2306
+L41 University of Liverpool,(CAH17) business and management,0.508202003258138,3749
+L41 University of Liverpool,(CAH22) education and teaching,0.394440006317473,36
+L46 Liverpool Hope University,(CAH03) biological and sport sciences,0.435743716026716,49
+L46 Liverpool Hope University,(CAH09) mathematical sciences,0.425078678915898,30
+L46 Liverpool Hope University,(CAH10) engineering and technology,0.553449168958855,124
+L46 Liverpool Hope University,(CAH11) computing,0.53590425516787,95
+L46 Liverpool Hope University,(CAH16) law,0.464841493971454,134
+L46 Liverpool Hope University,(CAH17) business and management,0.49809605345053,667
+L46 Liverpool Hope University,(CAH22) education and teaching,0.402652438786697,811
+L48 Liverpool Institute for Performing Arts,(CAH17) business and management,0.479208082527099,206
+L51 Liverpool John Moores University,(CAH02) subjects allied to medicine,0.391022715793231,194
+L51 Liverpool John Moores University,(CAH03) biological and sport sciences,0.441207166786375,358
+L51 Liverpool John Moores University,(CAH07) physical sciences,0.432426084751161,85
+L51 Liverpool John Moores University,(CAH09) mathematical sciences,0.545841217246057,220
+L51 Liverpool John Moores University,(CAH10) engineering and technology,0.549200319868791,2402
+L51 Liverpool John Moores University,(CAH11) computing,0.5899999702463,78
+L51 Liverpool John Moores University,"(CAH13) architecture, building and planning",0.474336281008452,518
+L51 Liverpool John Moores University,(CAH15) social sciences,0.487844288246291,86
+L51 Liverpool John Moores University,(CAH16) law,0.473845267978276,1382
+L51 Liverpool John Moores University,(CAH17) business and management,0.49845453348814,5806
+L51 Liverpool John Moores University,(CAH22) education and teaching,0.404615749749999,818
+L63 ARU London,(CAH17) business and management,0.551142500802106,20
+L68 London Metropolitan University,(CAH07) physical sciences,0.452740373219461,98
+L68 London Metropolitan University,(CAH09) mathematical sciences,0.536057787169829,166
+L68 London Metropolitan University,(CAH10) engineering and technology,0.583487564192989,1002
+L68 London Metropolitan University,(CAH11) computing,0.616023634091435,65
+L68 London Metropolitan University,"(CAH13) architecture, building and planning",0.477471606672308,557
+L68 London Metropolitan University,(CAH15) social sciences,0.531256244048242,267
+L68 London Metropolitan University,(CAH16) law,0.504129322842368,865
+L68 London Metropolitan University,(CAH17) business and management,0.506070143459486,5542
+L68 London Metropolitan University,(CAH22) education and teaching,0.396948117076868,368
+"L72 London School of Economics and Political Science, University of London",(CAH09) mathematical sciences,0.565323921912022,128
+"L72 London School of Economics and Political Science, University of London",(CAH10) engineering and technology,0.526013163079974,34
+"L72 London School of Economics and Political Science, University of London",(CAH15) social sciences,0.53712854974058,3315
+"L72 London School of Economics and Political Science, University of London",(CAH16) law,0.48125822826349,959
+"L72 London School of Economics and Political Science, University of London",(CAH17) business and management,0.532372688470748,2366
+L75 London South Bank University,(CAH01) medicine and dentistry,0.338332756591843,19
+L75 London South Bank University,(CAH02) subjects allied to medicine,0.394767733416152,683
+L75 London South Bank University,(CAH03) biological and sport sciences,0.472676334450511,29
+L75 London South Bank University,(CAH10) engineering and technology,0.499767750111063,2202
+L75 London South Bank University,(CAH11) computing,0.590030734768691,141
+L75 London South Bank University,"(CAH13) architecture, building and planning",0.467423942993441,351
+L75 London South Bank University,(CAH15) social sciences,0.525150620183305,75
+L75 London South Bank University,(CAH16) law,0.490341400964645,653
+L75 London South Bank University,(CAH17) business and management,0.504000125673568,4105
+L75 London South Bank University,(CAH22) education and teaching,0.373910174917502,121
+L77 Loughborough College,(CAH10) engineering and technology,0.459926121754243,41
+L77 Loughborough College,(CAH17) business and management,0.471288258797811,141
+L79 Loughborough University,(CAH03) biological and sport sciences,0.464371451927637,376
+L79 Loughborough University,(CAH07) physical sciences,0.489887823247449,740
+L79 Loughborough University,(CAH09) mathematical sciences,0.534657364414943,747
+L79 Loughborough University,(CAH10) engineering and technology,0.52797563212733,3025
+L79 Loughborough University,(CAH11) computing,0.561722536223568,20
+L79 Loughborough University,"(CAH13) architecture, building and planning",0.44520275236715,33
+L79 Loughborough University,(CAH15) social sciences,0.530988167324031,1446
+L79 Loughborough University,(CAH17) business and management,0.510067915008671,5721
+L79 Loughborough University,(CAH22) education and teaching,0.41971386098046,33
+L83 LCCM,(CAH17) business and management,0.505182359842463,17
+M20 University of Manchester,(CAH01) medicine and dentistry,0.440207520434264,558
+M20 University of Manchester,(CAH02) subjects allied to medicine,0.401896091579144,424
+M20 University of Manchester,(CAH03) biological and sport sciences,0.497330193098107,565
+M20 University of Manchester,(CAH07) physical sciences,0.509753217487385,1075
+M20 University of Manchester,(CAH09) mathematical sciences,0.55786773922093,1368
+M20 University of Manchester,(CAH10) engineering and technology,0.576610772791555,2432
+M20 University of Manchester,(CAH11) computing,0.562244556402432,33
+M20 University of Manchester,"(CAH13) architecture, building and planning",0.484921368054094,986
+M20 University of Manchester,(CAH15) social sciences,0.519072832965151,2827
+M20 University of Manchester,(CAH16) law,0.479184919202809,1871
+M20 University of Manchester,(CAH17) business and management,0.514796687465495,6541
+M20 University of Manchester,(CAH22) education and teaching,0.457543066977653,92
+M40 Manchester Metropolitan University,(CAH02) subjects allied to medicine,0.374780252614959,123
+M40 Manchester Metropolitan University,(CAH03) biological and sport sciences,0.458668323321387,444
+M40 Manchester Metropolitan University,(CAH07) physical sciences,0.464857171942378,495
+M40 Manchester Metropolitan University,(CAH09) mathematical sciences,0.527891981891535,442
+M40 Manchester Metropolitan University,(CAH10) engineering and technology,0.553715722549084,2295
+M40 Manchester Metropolitan University,(CAH11) computing,0.577646237503449,134
+M40 Manchester Metropolitan University,"(CAH13) architecture, building and planning",0.436929947863152,207
+M40 Manchester Metropolitan University,(CAH15) social sciences,0.521003385730103,692
+M40 Manchester Metropolitan University,(CAH16) law,0.483315700029742,1372
+M40 Manchester Metropolitan University,(CAH17) business and management,0.504753720023234,12166
+M40 Manchester Metropolitan University,(CAH22) education and teaching,0.386463612099044,1094
+M78 Middlesbrough College,(CAH10) engineering and technology,0.468012633919233,30
+M80 Middlesex University,(CAH01) medicine and dentistry,0.344527828420205,93
+M80 Middlesex University,(CAH02) subjects allied to medicine,0.358429871899096,373
+M80 Middlesex University,(CAH03) biological and sport sciences,0.420162369071238,25
+M80 Middlesex University,(CAH07) physical sciences,0.353987005768259,16
+M80 Middlesex University,(CAH09) mathematical sciences,0.512947073518034,56
+M80 Middlesex University,(CAH10) engineering and technology,0.582845731567892,1452
+M80 Middlesex University,(CAH11) computing,0.577198761453507,366
+M80 Middlesex University,"(CAH13) architecture, building and planning",0.477571311698312,224
+M80 Middlesex University,(CAH15) social sciences,0.510393495244825,251
+M80 Middlesex University,(CAH16) law,0.488748217959528,769
+M80 Middlesex University,(CAH17) business and management,0.512464981039421,6564
+M80 Middlesex University,(CAH22) education and teaching,0.39751793693647,484
+M93 Moulton College,(CAH17) business and management,0.401374963630613,23
+N21 Newcastle University,(CAH01) medicine and dentistry,0.435070271028958,550
+N21 Newcastle University,(CAH03) biological and sport sciences,0.473627159121593,969
+N21 Newcastle University,(CAH07) physical sciences,0.479968271640146,530
+N21 Newcastle University,(CAH09) mathematical sciences,0.528643042550973,860
+N21 Newcastle University,(CAH10) engineering and technology,0.543131448738795,1552
+N21 Newcastle University,(CAH11) computing,0.654762886801025,13
+N21 Newcastle University,"(CAH13) architecture, building and planning",0.468627011130492,1085
+N21 Newcastle University,(CAH15) social sciences,0.521672503438132,1118
+N21 Newcastle University,(CAH16) law,0.470208780762521,1278
+N21 Newcastle University,(CAH17) business and management,0.505127143594729,4995
+N21 Newcastle University,(CAH22) education and teaching,0.370682943051145,71
+N23 Newcastle College University Centre,(CAH10) engineering and technology,0.445046028743615,310
+N23 Newcastle College University Centre,(CAH11) computing,0.534199190573967,19
+N23 Newcastle College University Centre,(CAH17) business and management,0.484902896313228,240
+N23 Newcastle College University Centre,(CAH22) education and teaching,0.362256143912033,28
+N31 Newham College of Further Education,(CAH17) business and management,0.426569713932395,20
+N36 Birmingham Newman University,(CAH10) engineering and technology,0.516693235213678,10
+N36 Birmingham Newman University,(CAH17) business and management,0.515790895264231,105
+N36 Birmingham Newman University,(CAH22) education and teaching,0.396422718316114,443
+N38 University of Northampton,(CAH02) subjects allied to medicine,0.372793382613213,224
+N38 University of Northampton,(CAH03) biological and sport sciences,0.436934136795371,88
+N38 University of Northampton,(CAH10) engineering and technology,0.567655958340921,774
+N38 University of Northampton,(CAH11) computing,0.547005716345559,11
+N38 University of Northampton,"(CAH13) architecture, building and planning",0.417874608812413,36
+N38 University of Northampton,(CAH15) social sciences,0.518737493727572,131
+N38 University of Northampton,(CAH16) law,0.498575035755859,555
+N38 University of Northampton,(CAH17) business and management,0.505101736260469,4128
+N38 University of Northampton,(CAH22) education and teaching,0.378521249820112,587
+N39 Norwich University of the Arts,(CAH10) engineering and technology,0.539333623701061,24
+N39 Norwich University of the Arts,"(CAH13) architecture, building and planning",0.466555673411787,58
+N54 New College Swindon,(CAH17) business and management,0.446825099461203,13
+N57 North Hertfordshire College,(CAH17) business and management,0.527920651927734,18
+"N77 Northumbria University, Newcastle",(CAH02) subjects allied to medicine,0.370655054713337,354
+"N77 Northumbria University, Newcastle",(CAH03) biological and sport sciences,0.48008099051447,145
+"N77 Northumbria University, Newcastle",(CAH07) physical sciences,0.457761563562864,250
+"N77 Northumbria University, Newcastle",(CAH09) mathematical sciences,0.56614183870339,253
+"N77 Northumbria University, Newcastle",(CAH10) engineering and technology,0.543448392221059,2153
+"N77 Northumbria University, Newcastle",(CAH11) computing,0.621789088497797,50
+"N77 Northumbria University, Newcastle","(CAH13) architecture, building and planning",0.46495507269977,543
+"N77 Northumbria University, Newcastle",(CAH15) social sciences,0.490858053836653,92
+"N77 Northumbria University, Newcastle",(CAH16) law,0.4801335293321,870
+"N77 Northumbria University, Newcastle",(CAH17) business and management,0.499500702870218,8647
+"N77 Northumbria University, Newcastle",(CAH22) education and teaching,0.387757976458374,354
+N79 North Warwickshire and South Leicestershire College,(CAH10) engineering and technology,0.418612774598095,20
+N79 North Warwickshire and South Leicestershire College,(CAH17) business and management,0.435867678445976,17
+N84 University of Nottingham,(CAH01) medicine and dentistry,0.409829625851922,809
+N84 University of Nottingham,(CAH02) subjects allied to medicine,0.388569022207577,283
+N84 University of Nottingham,(CAH03) biological and sport sciences,0.472247964020655,597
+N84 University of Nottingham,(CAH07) physical sciences,0.511393913151277,1071
+N84 University of Nottingham,(CAH09) mathematical sciences,0.554467115993563,1181
+N84 University of Nottingham,(CAH10) engineering and technology,0.557533867763421,2213
+N84 University of Nottingham,(CAH11) computing,0.505481378281992,12
+N84 University of Nottingham,"(CAH13) architecture, building and planning",0.472930684050111,1144
+N84 University of Nottingham,(CAH15) social sciences,0.525666526175832,3533
+N84 University of Nottingham,(CAH16) law,0.484039228250294,1581
+N84 University of Nottingham,(CAH17) business and management,0.511986133535505,3575
+N84 University of Nottingham,(CAH22) education and teaching,0.428267378785147,33
+N91 Nottingham Trent University,(CAH02) subjects allied to medicine,0.333582897212843,20
+N91 Nottingham Trent University,(CAH03) biological and sport sciences,0.401187755902092,580
+N91 Nottingham Trent University,(CAH07) physical sciences,0.468582060912474,635
+N91 Nottingham Trent University,(CAH09) mathematical sciences,0.529420640983005,489
+N91 Nottingham Trent University,(CAH10) engineering and technology,0.543332809121732,1593
+N91 Nottingham Trent University,(CAH11) computing,0.633801005866578,68
+N91 Nottingham Trent University,"(CAH13) architecture, building and planning",0.471795055472639,849
+N91 Nottingham Trent University,(CAH15) social sciences,0.513795881384584,631
+N91 Nottingham Trent University,(CAH16) law,0.478966803078564,2793
+N91 Nottingham Trent University,(CAH17) business and management,0.499289674661168,11442
+N91 Nottingham Trent University,(CAH22) education and teaching,0.388538316102312,867
+O12 Oaklands College,(CAH10) engineering and technology,0.469567101282628,28
+O12 Oaklands College,(CAH11) computing,0.460374362401182,13
+O12 Oaklands College,(CAH17) business and management,0.495929691125193,27
+O25 Activate Learning,(CAH10) engineering and technology,0.424685388808295,14
+O33 University of Oxford,(CAH01) medicine and dentistry,0.46978463231814,358
+O33 University of Oxford,(CAH03) biological and sport sciences,0.515605952761852,81
+O33 University of Oxford,(CAH07) physical sciences,0.555466429340512,369
+O33 University of Oxford,(CAH09) mathematical sciences,0.55966770372726,523
+O33 University of Oxford,(CAH10) engineering and technology,0.57959624932516,273
+O33 University of Oxford,(CAH11) computing,0.573771194872154,14
+O33 University of Oxford,(CAH15) social sciences,0.521860425443838,1786
+O33 University of Oxford,(CAH16) law,0.476465060739792,1393
+O33 University of Oxford,(CAH17) business and management,0.522030933643888,1007
+O66 Oxford Brookes University,(CAH02) subjects allied to medicine,0.393307936272512,237
+O66 Oxford Brookes University,(CAH03) biological and sport sciences,0.47550028691467,338
+O66 Oxford Brookes University,(CAH09) mathematical sciences,0.555532722290689,121
+O66 Oxford Brookes University,(CAH10) engineering and technology,0.547496435046046,1236
+O66 Oxford Brookes University,(CAH11) computing,0.50476775981376,21
+O66 Oxford Brookes University,"(CAH13) architecture, building and planning",0.471114264033547,1058
+O66 Oxford Brookes University,(CAH15) social sciences,0.515092165398072,220
+O66 Oxford Brookes University,(CAH16) law,0.484039731105956,859
+O66 Oxford Brookes University,(CAH17) business and management,0.505668114235697,8357
+O66 Oxford Brookes University,(CAH22) education and teaching,0.379495490252034,543
+P34 Escape Studios,(CAH10) engineering and technology,0.44117236191252,24
+P35 Pembrokeshire College,(CAH10) engineering and technology,0.470846808206083,20
+P35 Pembrokeshire College,(CAH17) business and management,0.435918884853764,10
+P52 Peter Symonds' College,(CAH17) business and management,0.401469049080114,10
+P59 Plumpton College,(CAH17) business and management,0.416595587653344,41
+P60 University of Plymouth,(CAH01) medicine and dentistry,0.428369813557574,69
+P60 University of Plymouth,(CAH02) subjects allied to medicine,0.383559557632705,231
+P60 University of Plymouth,(CAH03) biological and sport sciences,0.448807409075683,1085
+P60 University of Plymouth,(CAH07) physical sciences,0.461145503796398,272
+P60 University of Plymouth,(CAH09) mathematical sciences,0.562318260755216,375
+P60 University of Plymouth,(CAH10) engineering and technology,0.543690380476387,1941
+P60 University of Plymouth,(CAH11) computing,0.597476091985968,22
+P60 University of Plymouth,"(CAH13) architecture, building and planning",0.474842775439496,656
+P60 University of Plymouth,(CAH15) social sciences,0.527653378551329,484
+P60 University of Plymouth,(CAH16) law,0.490283913838419,771
+P60 University of Plymouth,(CAH17) business and management,0.493165627862926,6215
+P60 University of Plymouth,(CAH22) education and teaching,0.388263027062018,871
+P63 Plymouth Marjon University,(CAH10) engineering and technology,0.480741219126,17
+P63 Plymouth Marjon University,(CAH17) business and management,0.440161335886516,80
+P63 Plymouth Marjon University,(CAH22) education and teaching,0.386511694018949,389
+P80 University of Portsmouth,(CAH01) medicine and dentistry,0.359618054652278,29
+P80 University of Portsmouth,(CAH02) subjects allied to medicine,0.352871943154101,51
+P80 University of Portsmouth,(CAH03) biological and sport sciences,0.467910452186181,610
+P80 University of Portsmouth,(CAH07) physical sciences,0.50145030760808,87
+P80 University of Portsmouth,(CAH09) mathematical sciences,0.558647840066184,485
+P80 University of Portsmouth,(CAH10) engineering and technology,0.536827939214675,3565
+P80 University of Portsmouth,(CAH11) computing,0.617436825985358,51
+P80 University of Portsmouth,"(CAH13) architecture, building and planning",0.471864445913893,1080
+P80 University of Portsmouth,(CAH15) social sciences,0.528156425302184,517
+P80 University of Portsmouth,(CAH16) law,0.488670508489681,822
+P80 University of Portsmouth,(CAH17) business and management,0.510109986470804,6234
+P80 University of Portsmouth,(CAH22) education and teaching,0.416272249366328,160
+"Q25 Queen Margaret University, Edinburgh",(CAH02) subjects allied to medicine,0.402905968776588,75
+"Q25 Queen Margaret University, Edinburgh",(CAH03) biological and sport sciences,0.439061221670514,77
+"Q25 Queen Margaret University, Edinburgh",(CAH17) business and management,0.476195021674568,1225
+Q50 Queen Mary University of London,(CAH01) medicine and dentistry,0.436861123874778,752
+Q50 Queen Mary University of London,(CAH03) biological and sport sciences,0.472795639633925,248
+Q50 Queen Mary University of London,(CAH07) physical sciences,0.521320851515943,769
+Q50 Queen Mary University of London,(CAH09) mathematical sciences,0.547116155964671,1156
+Q50 Queen Mary University of London,(CAH10) engineering and technology,0.569716017589301,2457
+Q50 Queen Mary University of London,(CAH11) computing,0.59870244055939,22
+Q50 Queen Mary University of London,(CAH15) social sciences,0.533980090071531,911
+Q50 Queen Mary University of London,(CAH16) law,0.489314759961023,1268
+Q50 Queen Mary University of London,(CAH17) business and management,0.521471243749113,2749
+Q50 Queen Mary University of London,(CAH22) education and teaching,0.441191873862264,27
+Q75 Queen's University Belfast,(CAH01) medicine and dentistry,0.425074247451525,168
+Q75 Queen's University Belfast,(CAH02) subjects allied to medicine,0.403477872694434,251
+Q75 Queen's University Belfast,(CAH03) biological and sport sciences,0.445048585064294,205
+Q75 Queen's University Belfast,(CAH07) physical sciences,0.502175812324069,293
+Q75 Queen's University Belfast,(CAH09) mathematical sciences,0.543144069308933,311
+Q75 Queen's University Belfast,(CAH10) engineering and technology,0.560484765488694,1457
+Q75 Queen's University Belfast,(CAH11) computing,0.664530887980352,272
+Q75 Queen's University Belfast,"(CAH13) architecture, building and planning",0.48352230208698,509
+Q75 Queen's University Belfast,(CAH15) social sciences,0.537550248755182,389
+Q75 Queen's University Belfast,(CAH16) law,0.479658221236767,1529
+Q75 Queen's University Belfast,(CAH17) business and management,0.536187466663653,2839
+Q75 Queen's University Belfast,(CAH22) education and teaching,0.381722105375594,191
+R01 South Eastern Regional College,(CAH10) engineering and technology,0.31555055797781,10
+R01 South Eastern Regional College,(CAH17) business and management,0.397672944915643,19
+R06 Ravensbourne University London,(CAH10) engineering and technology,0.534600334101974,53
+R06 Ravensbourne University London,"(CAH13) architecture, building and planning",0.471524430961592,255
+R06 Ravensbourne University London,(CAH17) business and management,0.488747810648834,141
+R12 University of Reading,(CAH03) biological and sport sciences,0.457158198039537,231
+R12 University of Reading,(CAH07) physical sciences,0.502206314906188,360
+R12 University of Reading,(CAH09) mathematical sciences,0.571865006043196,720
+R12 University of Reading,(CAH10) engineering and technology,0.62157575260512,721
+R12 University of Reading,(CAH11) computing,0.628918621939766,150
+R12 University of Reading,"(CAH13) architecture, building and planning",0.464238892899786,200
+R12 University of Reading,(CAH15) social sciences,0.516353148709831,1162
+R12 University of Reading,(CAH16) law,0.484810336643061,1211
+R12 University of Reading,(CAH17) business and management,0.497546409515766,3624
+R12 University of Reading,(CAH22) education and teaching,0.3714849107666,280
+R18 Regent's University London,(CAH17) business and management,0.505826483485417,858
+R20 Richmond American University London,(CAH10) engineering and technology,0.52909998316502,11
+R20 Richmond American University London,(CAH15) social sciences,0.5380945002573,32
+R20 Richmond American University London,(CAH17) business and management,0.504288113022146,269
+R25 Arden University,(CAH10) engineering and technology,0.550349427558334,33
+R25 Arden University,(CAH16) law,0.42695912568784,58
+R25 Arden University,(CAH17) business and management,0.500044385732484,318
+R36 Robert Gordon University,(CAH02) subjects allied to medicine,0.377882005246407,284
+R36 Robert Gordon University,(CAH07) physical sciences,0.448397919197703,32
+R36 Robert Gordon University,(CAH10) engineering and technology,0.518372991499208,1103
+R36 Robert Gordon University,(CAH11) computing,0.56624780345382,14
+R36 Robert Gordon University,"(CAH13) architecture, building and planning",0.460397375537571,253
+R36 Robert Gordon University,(CAH16) law,0.466232361681034,403
+R36 Robert Gordon University,(CAH17) business and management,0.493844585544643,4423
+R48 University of Roehampton,(CAH03) biological and sport sciences,0.405304113198037,68
+R48 University of Roehampton,(CAH10) engineering and technology,0.530958113302336,209
+R48 University of Roehampton,(CAH11) computing,0.619009779606619,45
+R48 University of Roehampton,(CAH15) social sciences,0.514625741169389,49
+R48 University of Roehampton,(CAH16) law,0.450660162146106,154
+R48 University of Roehampton,(CAH17) business and management,0.48945210394456,2373
+R48 University of Roehampton,(CAH22) education and teaching,0.376578681146794,939
+R51 Rose Bruford College,(CAH10) engineering and technology,0.385884268346464,10
+R51 Rose Bruford College,(CAH17) business and management,0.442896504734372,136
+R54 Royal Agricultural University,(CAH17) business and management,0.452052481925179,1212
+R68 Royal Conservatoire of Scotland,(CAH17) business and management,0.424188836400717,43
+R68 Royal Conservatoire of Scotland,(CAH22) education and teaching,0.434409871388274,40
+"R72 Royal Holloway, University of London",(CAH03) biological and sport sciences,0.490515264318902,212
+"R72 Royal Holloway, University of London",(CAH07) physical sciences,0.54369461716805,159
+"R72 Royal Holloway, University of London",(CAH09) mathematical sciences,0.536388704490641,383
+"R72 Royal Holloway, University of London",(CAH10) engineering and technology,0.612293819603803,521
+"R72 Royal Holloway, University of London",(CAH15) social sciences,0.531557481615051,958
+"R72 Royal Holloway, University of London",(CAH16) law,0.467351799407935,251
+"R72 Royal Holloway, University of London",(CAH17) business and management,0.508811795134827,1913
+"R84 Royal Veterinary College, University of London",(CAH01) medicine and dentistry,0.313055591223505,573
+"R84 Royal Veterinary College, University of London",(CAH02) subjects allied to medicine,0.30794584214431,89
+"R84 Royal Veterinary College, University of London",(CAH03) biological and sport sciences,0.405449737173834,13
+S01 SRUC Scotland's Rural College,(CAH17) business and management,0.430130375254408,122
+S03 University of Salford,(CAH01) medicine and dentistry,0.363483504068816,58
+S03 University of Salford,(CAH02) subjects allied to medicine,0.37888205195775,390
+S03 University of Salford,(CAH03) biological and sport sciences,0.432651079903843,398
+S03 University of Salford,(CAH07) physical sciences,0.482245626334637,208
+S03 University of Salford,(CAH09) mathematical sciences,0.511813678303376,70
+S03 University of Salford,(CAH10) engineering and technology,0.539548662643093,1721
+S03 University of Salford,(CAH11) computing,0.573430102186284,70
+S03 University of Salford,"(CAH13) architecture, building and planning",0.467398102756591,134
+S03 University of Salford,(CAH15) social sciences,0.550137175913991,73
+S03 University of Salford,(CAH16) law,0.474903516188656,616
+S03 University of Salford,(CAH17) business and management,0.500337947412716,4100
+S09 SOAS University of London,(CAH15) social sciences,0.53092594509341,654
+S09 SOAS University of London,(CAH16) law,0.489201882557137,503
+S09 SOAS University of London,(CAH17) business and management,0.514875195413092,197
+S18 University of Sheffield,(CAH01) medicine and dentistry,0.441482742002387,247
+S18 University of Sheffield,(CAH02) subjects allied to medicine,0.422012073204856,75
+S18 University of Sheffield,(CAH03) biological and sport sciences,0.493309481418868,610
+S18 University of Sheffield,(CAH07) physical sciences,0.507287335427505,701
+S18 University of Sheffield,(CAH09) mathematical sciences,0.559695234348853,830
+S18 University of Sheffield,(CAH10) engineering and technology,0.545618027834097,1532
+S18 University of Sheffield,(CAH11) computing,0.586895596567233,11
+S18 University of Sheffield,"(CAH13) architecture, building and planning",0.45224805237362,1069
+S18 University of Sheffield,(CAH15) social sciences,0.528847113038656,1602
+S18 University of Sheffield,(CAH16) law,0.479636122486697,2031
+S18 University of Sheffield,(CAH17) business and management,0.519127947255247,2831
+S18 University of Sheffield,(CAH22) education and teaching,0.390471285311509,46
+S20 South and City College Birmingham,(CAH10) engineering and technology,0.534537360183361,17
+S20 South and City College Birmingham,(CAH11) computing,0.553359212541714,16
+S20 South and City College Birmingham,(CAH17) business and management,0.489731942050597,22
+S21 Sheffield Hallam University,(CAH02) subjects allied to medicine,0.389994191862589,296
+S21 Sheffield Hallam University,(CAH03) biological and sport sciences,0.454667644607432,238
+S21 Sheffield Hallam University,(CAH07) physical sciences,0.477455067368686,204
+S21 Sheffield Hallam University,(CAH09) mathematical sciences,0.563676568772427,480
+S21 Sheffield Hallam University,(CAH10) engineering and technology,0.544404690170565,3270
+S21 Sheffield Hallam University,(CAH11) computing,0.646170462607001,145
+S21 Sheffield Hallam University,"(CAH13) architecture, building and planning",0.465268813946072,507
+S21 Sheffield Hallam University,(CAH15) social sciences,0.484630336562047,185
+S21 Sheffield Hallam University,(CAH16) law,0.484524785345844,1334
+S21 Sheffield Hallam University,(CAH17) business and management,0.504620470919858,10484
+S21 Sheffield Hallam University,(CAH22) education and teaching,0.392182873665204,1149
+S26 Solihull College & University Centre,(CAH10) engineering and technology,0.449788669223475,31
+S26 Solihull College & University Centre,(CAH11) computing,0.444276448478356,10
+S26 Solihull College & University Centre,(CAH17) business and management,0.403116168671115,17
+S27 University of Southampton,(CAH01) medicine and dentistry,0.431099573541597,415
+S27 University of Southampton,(CAH02) subjects allied to medicine,0.381586368144116,426
+S27 University of Southampton,(CAH03) biological and sport sciences,0.494507009279221,478
+S27 University of Southampton,(CAH07) physical sciences,0.517152689657327,506
+S27 University of Southampton,(CAH09) mathematical sciences,0.57067723672522,838
+S27 University of Southampton,(CAH10) engineering and technology,0.568105975019316,1109
+S27 University of Southampton,(CAH11) computing,0.637878079037387,97
+S27 University of Southampton,(CAH15) social sciences,0.535278704215904,1238
+S27 University of Southampton,(CAH16) law,0.482168527142982,1014
+S27 University of Southampton,(CAH17) business and management,0.516373574253327,2481
+S27 University of Southampton,(CAH22) education and teaching,0.400266617251093,207
+"S30 Southampton, Solent University",(CAH10) engineering and technology,0.553128471516342,1117
+"S30 Southampton, Solent University",(CAH11) computing,0.545229203868816,22
+"S30 Southampton, Solent University","(CAH13) architecture, building and planning",0.484979182423933,50
+"S30 Southampton, Solent University",(CAH15) social sciences,0.534983777406789,22
+"S30 Southampton, Solent University",(CAH16) law,0.488750808520456,384
+"S30 Southampton, Solent University",(CAH17) business and management,0.492714437574103,4253
+"S30 Southampton, Solent University",(CAH22) education and teaching,0.357413293739893,76
+S32 University Centre South Devon,(CAH17) business and management,0.447838655588796,12
+S34 University Centre Sparsholt,(CAH03) biological and sport sciences,0.333035618628127,30
+S34 University Centre Sparsholt,(CAH17) business and management,0.406856440972815,144
+S35 Southport College,(CAH10) engineering and technology,0.497693251359003,15
+S36 University of St Andrews,(CAH01) medicine and dentistry,0.434220419117882,271
+S36 University of St Andrews,(CAH03) biological and sport sciences,0.48028490267949,435
+S36 University of St Andrews,(CAH07) physical sciences,0.511332836744931,315
+S36 University of St Andrews,(CAH09) mathematical sciences,0.539595413226644,337
+S36 University of St Andrews,(CAH10) engineering and technology,0.619638985310183,215
+S36 University of St Andrews,(CAH15) social sciences,0.532897470344442,219
+S36 University of St Andrews,(CAH17) business and management,0.519175427264924,205
+"S49 St George's (City St George's, University of London)",(CAH01) medicine and dentistry,0.441363272785449,659
+"S49 St George's (City St George's, University of London)",(CAH02) subjects allied to medicine,0.411155395410034,29
+"S49 St George's (City St George's, University of London)",(CAH03) biological and sport sciences,0.492896869026723,11
+"S64 St Mary's University, Twickenham",(CAH03) biological and sport sciences,0.436127439155006,16
+"S64 St Mary's University, Twickenham",(CAH07) physical sciences,0.471549267368522,13
+"S64 St Mary's University, Twickenham",(CAH16) law,0.494885048852029,144
+"S64 St Mary's University, Twickenham",(CAH17) business and management,0.478219001921518,548
+"S64 St Mary's University, Twickenham",(CAH22) education and teaching,0.377595178605033,637
+S72 University of Staffordshire,(CAH02) subjects allied to medicine,0.38065638605362,66
+S72 University of Staffordshire,(CAH03) biological and sport sciences,0.442058490402451,77
+S72 University of Staffordshire,(CAH09) mathematical sciences,0.57204432882444,13
+S72 University of Staffordshire,(CAH10) engineering and technology,0.554790726192078,743
+S72 University of Staffordshire,(CAH11) computing,0.576068043862443,47
+S72 University of Staffordshire,(CAH16) law,0.475993401489884,343
+S72 University of Staffordshire,(CAH17) business and management,0.503425169539565,1262
+S72 University of Staffordshire,(CAH22) education and teaching,0.394377090195588,120
+S75 University of Stirling,(CAH02) subjects allied to medicine,0.382742000234589,242
+S75 University of Stirling,(CAH03) biological and sport sciences,0.446475643018833,347
+S75 University of Stirling,(CAH09) mathematical sciences,0.566658133718342,108
+S75 University of Stirling,(CAH10) engineering and technology,0.621060717828212,199
+S75 University of Stirling,(CAH15) social sciences,0.535491066479733,227
+S75 University of Stirling,(CAH16) law,0.458045818558665,473
+S75 University of Stirling,(CAH17) business and management,0.4972275539213,2035
+S75 University of Stirling,(CAH22) education and teaching,0.400770557751427,332
+S78 University of Strathclyde,(CAH02) subjects allied to medicine,0.42106010151956,17
+S78 University of Strathclyde,(CAH03) biological and sport sciences,0.468764911303981,58
+S78 University of Strathclyde,(CAH07) physical sciences,0.472329701755919,539
+S78 University of Strathclyde,(CAH09) mathematical sciences,0.53576533556909,495
+S78 University of Strathclyde,(CAH10) engineering and technology,0.510846659691835,1864
+S78 University of Strathclyde,"(CAH13) architecture, building and planning",0.47177920127395,292
+S78 University of Strathclyde,(CAH15) social sciences,0.522237208268967,428
+S78 University of Strathclyde,(CAH16) law,0.473693866739065,1241
+S78 University of Strathclyde,(CAH17) business and management,0.507933919550669,4489
+S78 University of Strathclyde,(CAH22) education and teaching,0.357372378867103,435
+S79 Stranmillis University College,(CAH17) business and management,0.45046599487695,44
+S79 Stranmillis University College,(CAH22) education and teaching,0.38013746622346,238
+S82 University of Suffolk,(CAH02) subjects allied to medicine,0.395565725235541,82
+S82 University of Suffolk,(CAH10) engineering and technology,0.539959240565619,313
+S82 University of Suffolk,"(CAH13) architecture, building and planning",0.474420066307306,31
+S82 University of Suffolk,(CAH16) law,0.414635362906129,30
+S82 University of Suffolk,(CAH17) business and management,0.489499313776379,661
+S82 University of Suffolk,(CAH22) education and teaching,0.417082951975118,51
+S84 University of Sunderland,(CAH02) subjects allied to medicine,0.366243419284027,126
+S84 University of Sunderland,(CAH07) physical sciences,0.426503433550185,13
+S84 University of Sunderland,(CAH10) engineering and technology,0.554717094766824,816
+S84 University of Sunderland,(CAH11) computing,0.570309308916184,54
+S84 University of Sunderland,(CAH16) law,0.485106325495612,414
+S84 University of Sunderland,(CAH17) business and management,0.497268727082278,3103
+S84 University of Sunderland,(CAH22) education and teaching,0.414662211751593,543
+S85 University of Surrey,(CAH01) medicine and dentistry,0.332781122643284,45
+S85 University of Surrey,(CAH02) subjects allied to medicine,0.384929781366388,291
+S85 University of Surrey,(CAH03) biological and sport sciences,0.468709714418111,28
+S85 University of Surrey,(CAH07) physical sciences,0.529692548701217,555
+S85 University of Surrey,(CAH09) mathematical sciences,0.583617672619311,608
+S85 University of Surrey,(CAH10) engineering and technology,0.564087323122755,1371
+S85 University of Surrey,(CAH11) computing,0.619024407050558,113
+S85 University of Surrey,(CAH15) social sciences,0.5356738259735,818
+S85 University of Surrey,(CAH16) law,0.486328078466044,899
+S85 University of Surrey,(CAH17) business and management,0.506715704819475,4405
+S85 University of Surrey,(CAH22) education and teaching,0.399081959606159,91
+S90 University of Sussex,(CAH01) medicine and dentistry,0.478411113431919,86
+S90 University of Sussex,(CAH03) biological and sport sciences,0.486624471270805,199
+S90 University of Sussex,(CAH07) physical sciences,0.526143657311289,366
+S90 University of Sussex,(CAH09) mathematical sciences,0.565420814389996,458
+S90 University of Sussex,(CAH10) engineering and technology,0.595051852660591,837
+S90 University of Sussex,(CAH11) computing,0.615237320114537,16
+S90 University of Sussex,(CAH15) social sciences,0.518820284396625,997
+S90 University of Sussex,(CAH16) law,0.478544953364972,1209
+S90 University of Sussex,(CAH17) business and management,0.507638288741149,2200
+S90 University of Sussex,(CAH22) education and teaching,0.361002984191002,61
+S93 Swansea University,(CAH01) medicine and dentistry,0.400097030943674,92
+S93 Swansea University,(CAH02) subjects allied to medicine,0.387169411217304,185
+S93 Swansea University,(CAH03) biological and sport sciences,0.453261824548885,534
+S93 Swansea University,(CAH07) physical sciences,0.500215931796768,361
+S93 Swansea University,(CAH09) mathematical sciences,0.529245504942807,457
+S93 Swansea University,(CAH10) engineering and technology,0.522407898503115,2485
+S93 Swansea University,(CAH15) social sciences,0.525853438069424,724
+S93 Swansea University,(CAH16) law,0.479826077382357,1541
+S93 Swansea University,(CAH17) business and management,0.505946802256252,2652
+S93 Swansea University,(CAH22) education and teaching,0.40413585208195,86
+T10 Tameside College,(CAH10) engineering and technology,0.515859026745486,18
+T20 Teesside University,(CAH02) subjects allied to medicine,0.380331432929295,230
+T20 Teesside University,(CAH03) biological and sport sciences,0.388165631395086,79
+T20 Teesside University,(CAH07) physical sciences,0.430267976768153,105
+T20 Teesside University,(CAH10) engineering and technology,0.529937826488601,2740
+T20 Teesside University,(CAH11) computing,0.602960680087295,114
+T20 Teesside University,"(CAH13) architecture, building and planning",0.476158946323607,96
+T20 Teesside University,(CAH15) social sciences,0.520770800959128,13
+T20 Teesside University,(CAH16) law,0.476327907747639,474
+T20 Teesside University,(CAH17) business and management,0.499842037028254,1825
+T20 Teesside University,(CAH22) education and teaching,0.40751153836481,211
+T80 University of Wales Trinity Saint David,(CAH10) engineering and technology,0.496691481335567,793
+T80 University of Wales Trinity Saint David,(CAH11) computing,0.57522414817525,25
+T80 University of Wales Trinity Saint David,"(CAH13) architecture, building and planning",0.482096903949666,20
+T80 University of Wales Trinity Saint David,(CAH16) law,0.487979335470714,23
+T80 University of Wales Trinity Saint David,(CAH17) business and management,0.470385473375226,1151
+T80 University of Wales Trinity Saint David,(CAH22) education and teaching,0.39465590383698,491
+U10 UCFB,(CAH17) business and management,0.43399951862829,903
+U10 UCFB,(CAH22) education and teaching,0.371624306489555,20
+U20 Ulster University,(CAH01) medicine and dentistry,0.455821666122792,36
+U20 Ulster University,(CAH02) subjects allied to medicine,0.369092564900321,131
+U20 Ulster University,(CAH03) biological and sport sciences,0.478832712559508,46
+U20 Ulster University,(CAH09) mathematical sciences,0.603585510388842,33
+U20 Ulster University,(CAH10) engineering and technology,0.551203295966875,2737
+U20 Ulster University,(CAH11) computing,0.607689552866954,166
+U20 Ulster University,"(CAH13) architecture, building and planning",0.468935261334085,155
+U20 Ulster University,(CAH15) social sciences,0.519015954666241,163
+U20 Ulster University,(CAH16) law,0.481568442449046,737
+U20 Ulster University,(CAH17) business and management,0.508371570941451,6568
+U20 Ulster University,(CAH22) education and teaching,0.4585526123941,81
+U40 University of the West of Scotland,(CAH02) subjects allied to medicine,0.381979953087322,363
+U40 University of the West of Scotland,(CAH03) biological and sport sciences,0.423973829413478,56
+U40 University of the West of Scotland,(CAH07) physical sciences,0.469460825995619,154
+U40 University of the West of Scotland,(CAH10) engineering and technology,0.53160790042343,1865
+U40 University of the West of Scotland,(CAH11) computing,0.602733399044565,164
+U40 University of the West of Scotland,(CAH15) social sciences,0.492611332314045,34
+U40 University of the West of Scotland,(CAH16) law,0.48963144891756,238
+U40 University of the West of Scotland,(CAH17) business and management,0.504311374108996,3557
+U40 University of the West of Scotland,(CAH22) education and teaching,0.385158519578626,206
+U65 University of the Arts London,(CAH10) engineering and technology,0.537073369792087,33
+U65 University of the Arts London,"(CAH13) architecture, building and planning",0.477812516099876,358
+U65 University of the Arts London,(CAH17) business and management,0.498565451026,2186
+U80 UCL (University College London),(CAH01) medicine and dentistry,0.457030501805215,1076
+U80 UCL (University College London),(CAH03) biological and sport sciences,0.502060202270854,281
+U80 UCL (University College London),(CAH07) physical sciences,0.547225514702774,825
+U80 UCL (University College London),(CAH09) mathematical sciences,0.553818329737717,884
+U80 UCL (University College London),(CAH10) engineering and technology,0.554536213289054,1226
+U80 UCL (University College London),(CAH11) computing,0.638271567782764,12
+U80 UCL (University College London),"(CAH13) architecture, building and planning",0.482053836401307,689
+U80 UCL (University College London),(CAH15) social sciences,0.537678915560812,2114
+U80 UCL (University College London),(CAH16) law,0.480064338790047,888
+U80 UCL (University College London),(CAH17) business and management,0.528008043058512,1554
+U80 UCL (University College London),(CAH22) education and teaching,0.440100952459762,296
+"U95 Harrow, Richmond & Uxbridge College",(CAH10) engineering and technology,0.46213208178928,102
+"U95 Harrow, Richmond & Uxbridge College",(CAH11) computing,0.468388031680991,28
+"U95 Harrow, Richmond & Uxbridge College",(CAH17) business and management,0.429759455984215,44
+W01 University of South Wales,(CAH02) subjects allied to medicine,0.380061965237882,189
+W01 University of South Wales,(CAH03) biological and sport sciences,0.437969418533092,286
+W01 University of South Wales,(CAH07) physical sciences,0.456254740076864,145
+W01 University of South Wales,(CAH09) mathematical sciences,0.564001581210016,180
+W01 University of South Wales,(CAH10) engineering and technology,0.503391257299951,2307
+W01 University of South Wales,(CAH11) computing,0.582358594963206,112
+W01 University of South Wales,"(CAH13) architecture, building and planning",0.492823987724162,19
+W01 University of South Wales,(CAH15) social sciences,0.557490993033469,13
+W01 University of South Wales,(CAH16) law,0.477809904370626,516
+W01 University of South Wales,(CAH17) business and management,0.50447506618452,2915
+W01 University of South Wales,(CAH22) education and teaching,0.406871056014548,361
+W05 University of West London,(CAH01) medicine and dentistry,0.475195384638261,109
+W05 University of West London,(CAH02) subjects allied to medicine,0.398728949685094,310
+W05 University of West London,(CAH10) engineering and technology,0.527639787447635,517
+W05 University of West London,(CAH11) computing,0.574686672415034,54
+W05 University of West London,"(CAH13) architecture, building and planning",0.521910509676911,18
+W05 University of West London,(CAH15) social sciences,0.447637273266423,10
+W05 University of West London,(CAH16) law,0.489245113809623,351
+W05 University of West London,(CAH17) business and management,0.480153987383799,3600
+W05 University of West London,(CAH22) education and teaching,0.379565147181168,60
+W20 University of Warwick,(CAH01) medicine and dentistry,0.44476507232136,242
+W20 University of Warwick,(CAH03) biological and sport sciences,0.547085425316301,29
+W20 University of Warwick,(CAH07) physical sciences,0.534727404007503,944
+W20 University of Warwick,(CAH09) mathematical sciences,0.578002053975976,1935
+W20 University of Warwick,(CAH10) engineering and technology,0.558115947272131,1555
+W20 University of Warwick,(CAH15) social sciences,0.536410108401745,2896
+W20 University of Warwick,(CAH16) law,0.481295635816413,1313
+W20 University of Warwick,(CAH17) business and management,0.521368144095084,1135
+W20 University of Warwick,(CAH22) education and teaching,0.415546484624342,140
+W25 Warwickshire College and University Centre,(CAH02) subjects allied to medicine,0.272655103927327,14
+W25 Warwickshire College and University Centre,(CAH10) engineering and technology,0.38535647297362,59
+W25 Warwickshire College and University Centre,(CAH17) business and management,0.443139109868486,65
+W46 West Suffolk College,(CAH10) engineering and technology,0.476474901553726,26
+W46 West Suffolk College,(CAH17) business and management,0.486998747067139,12
+W47 University Centre Weston,(CAH17) business and management,0.517140201022593,10
+"W50 University of Westminster, London",(CAH01) medicine and dentistry,0.344830268580319,111
+"W50 University of Westminster, London",(CAH03) biological and sport sciences,0.488499156271009,60
+"W50 University of Westminster, London",(CAH09) mathematical sciences,0.541421159595452,14
+"W50 University of Westminster, London",(CAH10) engineering and technology,0.596107284317038,2033
+"W50 University of Westminster, London",(CAH11) computing,0.616553543330109,43
+"W50 University of Westminster, London","(CAH13) architecture, building and planning",0.472334338859714,932
+"W50 University of Westminster, London",(CAH15) social sciences,0.509171741236507,183
+"W50 University of Westminster, London",(CAH16) law,0.489975146797341,1540
+"W50 University of Westminster, London",(CAH17) business and management,0.511835232683484,7864
+W52 Capital City College,(CAH17) business and management,0.427649631391352,95
+W65 West Thames College,(CAH10) engineering and technology,0.47480381091378,14
+W65 West Thames College,(CAH17) business and management,0.483729082608943,14
+W67 Wigan and Leigh College,(CAH10) engineering and technology,0.50009148964361,13
+W67 Wigan and Leigh College,(CAH17) business and management,0.473268489907878,12
+W75 University of Wolverhampton,(CAH01) medicine and dentistry,0.502968609414384,11
+W75 University of Wolverhampton,(CAH02) subjects allied to medicine,0.390514246650543,255
+W75 University of Wolverhampton,(CAH03) biological and sport sciences,0.457877613236887,85
+W75 University of Wolverhampton,(CAH07) physical sciences,0.43221101311131,44
+W75 University of Wolverhampton,(CAH09) mathematical sciences,0.517281667339813,128
+W75 University of Wolverhampton,(CAH10) engineering and technology,0.548526955989465,1472
+W75 University of Wolverhampton,(CAH11) computing,0.588008877041774,171
+W75 University of Wolverhampton,"(CAH13) architecture, building and planning",0.470447378916412,89
+W75 University of Wolverhampton,(CAH15) social sciences,0.422407193963948,30
+W75 University of Wolverhampton,(CAH16) law,0.480544500628305,777
+W75 University of Wolverhampton,(CAH17) business and management,0.506645829632303,2853
+W75 University of Wolverhampton,(CAH22) education and teaching,0.393909590697727,608
+W76 University of Winchester,(CAH09) mathematical sciences,0.500914087921115,10
+W76 University of Winchester,(CAH10) engineering and technology,0.479859970971773,30
+W76 University of Winchester,(CAH15) social sciences,0.493602561021855,28
+W76 University of Winchester,(CAH16) law,0.481055768920628,293
+W76 University of Winchester,(CAH17) business and management,0.502133760039672,1693
+W76 University of Winchester,(CAH22) education and teaching,0.384792212633272,652
+W80 University of Worcester,(CAH02) subjects allied to medicine,0.377949799256514,145
+W80 University of Worcester,(CAH03) biological and sport sciences,0.442915229217194,213
+W80 University of Worcester,(CAH10) engineering and technology,0.582379574838545,121
+W80 University of Worcester,(CAH11) computing,0.595143493534289,37
+W80 University of Worcester,(CAH15) social sciences,0.519279344570656,31
+W80 University of Worcester,(CAH16) law,0.466437796202892,83
+W80 University of Worcester,(CAH17) business and management,0.487151380711921,1383
+W80 University of Worcester,(CAH22) education and teaching,0.38582418016065,855
+Y50 University of York,(CAH01) medicine and dentistry,0.428463351972506,72
+Y50 University of York,(CAH02) subjects allied to medicine,0.380786366463714,106
+Y50 University of York,(CAH03) biological and sport sciences,0.524767237281154,404
+Y50 University of York,(CAH07) physical sciences,0.523478193980302,656
+Y50 University of York,(CAH09) mathematical sciences,0.553503995675866,768
+Y50 University of York,(CAH10) engineering and technology,0.590243122523965,576
+Y50 University of York,(CAH15) social sciences,0.525449552618959,1978
+Y50 University of York,(CAH16) law,0.466668985270771,811
+Y50 University of York,(CAH17) business and management,0.522347732869842,1624
+Y50 University of York,(CAH22) education and teaching,0.429275069958127,245
+Y75 York St John University,(CAH10) engineering and technology,0.594712102756182,67
+Y75 York St John University,(CAH11) computing,0.528728388180308,11
+Y75 York St John University,(CAH16) law,0.459744917932672,29
+Y75 York St John University,(CAH17) business and management,0.483534839973337,956
+Y75 York St John University,(CAH22) education and teaching,0.395448816615613,508

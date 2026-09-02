@@ -1,0 +1,587 @@
+university_name,field,exposure_firstjob_beta,n_people
+Academy of Labour and Social Relations,Business,0.568834879224086,15
+Admiral Makarov State Maritime Academy,Business,0.537563235776421,39
+Admiral Makarov State Maritime Academy,Engineering,0.591310691029652,54
+All-Russian State University of Justice,Law,0.504302391378287,24
+Altai State Technical University named after I.I. Polzunova,Engineering,0.680232931918789,45
+Altai State University,Business,0.592537770619385,10
+Altai State University,Engineering,0.747615116318392,18
+Arkhangelsk State Technical University,Engineering,0.578833595623382,24
+Astrakhan State Technical University,Engineering,0.39732897087069,10
+Astrakhan State University,Business,0.51917498401633,11
+Astrakhan State University,Economics,0.510315377087951,11
+Astrakhan State University,Education,0.472518461505307,11
+Baikal State University,Business,0.570281528476759,15
+Baikal State University,Economics,0.532319062525989,14
+Baltic State Technical University named after D.F. Ustinov 'Voenmeh',Business,0.585688999898336,20
+Baltic State Technical University named after D.F. Ustinov 'Voenmeh',Engineering,0.629533220546091,83
+Bashkir State University,Engineering,0.534684541282573,15
+Bashkir State University,Law,0.472648420899196,13
+Belgorod State National Research University,Business,0.640807644476283,12
+Belgorod State National Research University,Economics,0.58928558111422,10
+Belgorod State National Research University,Engineering,0.634743680723892,10
+Belgorod State Technological University named after V.G. Shoukhov,Business,0.55164035136844,10
+Belgorod State Technological University named after V.G. Shoukhov,Engineering,0.633724673747156,51
+Bryansk State Technical University,Engineering,0.701675763880823,25
+Chelyabinsk State University,Business,0.563394970675459,26
+Chelyabinsk State University,Engineering,0.761149012474364,18
+Chelyabinsk State University,Information Technology,0.693448170655143,12
+Chuvash State University named after I.M. Uljanova,Business,0.561088832434568,11
+Chuvash State University named after I.M. Uljanova,Engineering,0.706560325702029,31
+Diplomatic Academy of the Ministry of Foreign Affairs of the Russian Federation,Economics,0.523830716780953,33
+Diplomatic Academy of the Ministry of Foreign Affairs of the Russian Federation,Law,0.573854302194285,13
+Don State Technical University,Business,0.537943937255297,20
+Don State Technical University,Engineering,0.634192456382277,99
+Don State Technical University,Information Technology,0.757538190785558,21
+Dubna University,Business,0.64050604089085,14
+Dubna University,Engineering,0.71359483966958,30
+Emperor Alexander I Petersburg State Transport University,Business,0.565210631076239,27
+Emperor Alexander I Petersburg State Transport University,Engineering,0.533121911747758,35
+Far Eastern Federal University,Business,0.54000422077775,42
+Far Eastern Federal University,Economics,0.583241265687693,41
+Far Eastern Federal University,Engineering,0.669840897690568,85
+Far Eastern State Transport University,Business,0.544991858748106,25
+Far Eastern State Transport University,Engineering,0.64216916438515,35
+Finance University under the Russian Federation Government,Accounting,0.51966827628485,28
+Finance University under the Russian Federation Government,Business,0.552663908539623,581
+Finance University under the Russian Federation Government,Economics,0.547395587600736,459
+Finance University under the Russian Federation Government,Engineering,0.632429850300183,92
+Finance University under the Russian Federation Government,Finance,0.55562861273847,395
+Finance University under the Russian Federation Government,Information Technology,0.647468705248464,25
+Finance University under the Russian Federation Government,Law,0.521213576949862,88
+Finance University under the Russian Federation Government,Marketing,0.579416183200372,16
+Finance University under the Russian Federation Government,Mathematics,0.638977628357209,53
+Higher School of Economics,Business,0.570491595824065,2130
+Higher School of Economics,Economics,0.570661617697367,1739
+Higher School of Economics,Engineering,0.649047650644652,421
+Higher School of Economics,Finance,0.555470004136543,331
+Higher School of Economics,Information Technology,0.674378495778981,48
+Higher School of Economics,Law,0.518975651810998,350
+Higher School of Economics,Marketing,0.525904238169493,113
+Higher School of Economics,Mathematics,0.621942076044893,259
+Higher School of Economics,Statistics,0.596550158070775,100
+Immanuel Kant Baltic Federal University,Business,0.529554574222082,30
+Immanuel Kant Baltic Federal University,Economics,0.507376589419023,15
+Immanuel Kant Baltic Federal University,Engineering,0.599745162808259,22
+Immanuel Kant Baltic Federal University,Law,0.53606924403526,16
+Industrial University of Tyumen,Business,0.528664645223318,28
+Industrial University of Tyumen,Engineering,0.506732063423098,82
+Innopolis University,Engineering,0.701286085130843,119
+Institute of Business Studies Moscow,Business,0.539822419310049,32
+"Institute of Computational Mathematics and Information Technologies, Kazan Federal University",Engineering,0.74332208737262,23
+International Banking Institute,Business,0.567284884166531,14
+International Institute of Management Link,Business,0.472405326184097,12
+International Law Institute,Law,0.52380662608258,15
+International University In Moscow,Business,0.563970862952342,14
+Irkutsk National Research Technical University,Architecture,0.508185642584441,12
+Irkutsk National Research Technical University,Engineering,0.574304936424321,24
+Irkutsk State University,Business,0.532020984978676,48
+Irkutsk State University,Economics,0.549660695507099,13
+Irkutsk State University,Engineering,0.845198957043863,19
+Irkutsk State University,Law,0.502210948834269,10
+Irkutsk State University,Mathematics,0.800896156749511,10
+Ivanovo State University of Chemistry and Technology,Engineering,0.569845460746416,10
+Ivanovo State University of Power Engineering named after V.I. Lenin,Business,0.547225321187795,14
+Ivanovo State University of Power Engineering named after V.I. Lenin,Engineering,0.713929746842781,56
+Izhevsk State Technical University named after M.T. Kalashnikov,Business,0.553579976075589,21
+Izhevsk State Technical University named after M.T. Kalashnikov,Economics,0.608036988099337,14
+Izhevsk State Technical University named after M.T. Kalashnikov,Engineering,0.672272627613908,107
+Jaroslavl State Technical University,Engineering,0.542061631622945,13
+Jaroslavl State University named after P.G. Demidov,Business,0.571650273271349,11
+Jaroslavl State University named after P.G. Demidov,Engineering,0.765249845879555,33
+Jaroslavl State University named after P.G. Demidov,Mathematics,0.769128410710684,13
+Kabardino-Balkarian State University named after H.M. Berbekov,Engineering,0.640164796105597,10
+Kaliningrad State Technical University,Business,0.517342072631087,15
+Kaliningrad State Technical University,Economics,0.679657082794352,10
+Kaliningrad State Technical University,Engineering,0.510871529068461,21
+Kazan (Volga Region) Federal University,Accounting,0.538466422889531,14
+Kazan (Volga Region) Federal University,Biology,0.587319024872241,18
+Kazan (Volga Region) Federal University,Business,0.565110872368328,101
+Kazan (Volga Region) Federal University,Economics,0.555193077660087,52
+Kazan (Volga Region) Federal University,Education,0.529636969722113,36
+Kazan (Volga Region) Federal University,Engineering,0.691930060922992,149
+Kazan (Volga Region) Federal University,Finance,0.523252337307806,21
+Kazan (Volga Region) Federal University,Information Technology,0.758901727379083,33
+Kazan (Volga Region) Federal University,Law,0.526915872474809,55
+Kazan (Volga Region) Federal University,Marketing,0.557429697386663,14
+Kazan (Volga Region) Federal University,Mathematics,0.679266948827966,37
+Kazan (Volga Region) Federal University,Physics,0.607251508366409,36
+Kazan National Research Technical University named after A.N. Tupolev,Business,0.661608236327823,26
+Kazan National Research Technical University named after A.N. Tupolev,Economics,0.579985923235094,14
+Kazan National Research Technical University named after A.N. Tupolev,Engineering,0.660401762750571,123
+Kazan National Research Technical University named after A.N. Tupolev,Information Technology,0.781513074080605,14
+Kazan National Research University of Technology,Business,0.528789576929286,17
+Kazan National Research University of Technology,Engineering,0.573130936719817,89
+Kazan State Power Engineering University,Engineering,0.571770646766684,37
+Kazan State University of Architecture and Civil Engineering,Architecture,0.502160938399971,30
+Kazan State University of Architecture and Civil Engineering,Engineering,0.531758595002146,27
+Kemerovo State University,Business,0.54309994082642,10
+Khabarovsk State University of Economics and Law,Business,0.523664832734121,26
+Khabarovsk State University of Economics and Law,Economics,0.610542015709205,14
+Komsomol'sk-on-Amur State University,Engineering,0.624487804234541,10
+Krasnojarsk State Pedagogical University names after V.P. Astafev,Education,0.471963325988843,11
+Kuban State University,Business,0.545617055676458,74
+Kuban State University,Economics,0.584802186970681,36
+Kuban State University,Engineering,0.71490468218222,52
+Kuban State University,Finance,0.505566391350893,15
+Kuban State University,Mathematics,0.67852973462483,18
+Kuban State University of Technology,Business,0.568476403991158,22
+Kuban State University of Technology,Engineering,0.553910322716848,67
+Kurgan State University,Engineering,0.694376792665032,13
+Kursk State University,Engineering,0.77630654826297,15
+Lipetsk State Technical University,Engineering,0.548317070172365,18
+MIREA - Russian Technological University,Business,0.608729432004828,75
+MIREA - Russian Technological University,Chemistry,0.579191292358522,18
+MIREA - Russian Technological University,Economics,0.554881910238894,21
+MIREA - Russian Technological University,Engineering,0.680739332715064,334
+MIREA - Russian Technological University,Information Technology,0.723505968634735,99
+MIREA - Russian Technological University,Mathematics,0.702782187378013,27
+Magnitogorsk State Technical University named after G.I. Nosov,Engineering,0.649802351895398,10
+Mordovian State National Research University named after N.P. Ogarev,Business,0.570982216553427,14
+Mordovian State National Research University named after N.P. Ogarev,Engineering,0.74804397334276,20
+Moscow Automobile and Road Construction State Technical University,Business,0.559635527065772,54
+Moscow Automobile and Road Construction State Technical University,Economics,0.551450405179883,21
+Moscow Automobile and Road Construction State Technical University,Engineering,0.618956370969838,65
+Moscow Aviation Institute,Business,0.582882405964199,139
+Moscow Aviation Institute,Economics,0.536793879540613,29
+Moscow Aviation Institute,Engineering,0.642168690178566,258
+Moscow Aviation Institute,Information Technology,0.717117300555597,54
+Moscow Aviation Institute,Mathematics,0.676343119997735,20
+Moscow City Pedagogical University,Education,0.487949641023847,17
+Moscow Finance and Law University,Business,0.527156989850127,32
+Moscow Finance and Law University,Finance,0.578551009300112,14
+Moscow Finance and Law University,Law,0.533543076102737,29
+Moscow Humanitarian Economics University,Business,0.582985483096434,15
+Moscow Institute of Architecture (State Academy),Architecture,0.499990422592608,221
+Moscow Institute of Art and Industry,Business,0.587096677119979,16
+Moscow Institute of Art and Industry,Engineering,0.691193796922138,20
+Moscow Institute of Electronics and Mathematics (Technical University),Business,0.593728829085013,17
+Moscow Institute of Electronics and Mathematics (Technical University),Engineering,0.666321371785917,36
+Moscow Institute of Electronics and Mathematics (Technical University),Information Technology,0.659979349532319,11
+Moscow Institute of Electronics and Mathematics (Technical University),Mathematics,0.644643043378516,11
+Moscow Institute of Physics and Technology (National Research University),Business,0.576856893260426,19
+Moscow Institute of Physics and Technology (National Research University),Engineering,0.610625465087679,220
+Moscow Institute of Physics and Technology (National Research University),Mathematics,0.606674396557395,819
+Moscow Institute of Physics and Technology (National Research University),Physics,0.594621804646403,177
+Moscow International Higher School of Business 'MIRBIS' (Institute),Business,0.550572301778532,16
+Moscow Polytech,Business,0.582930656550358,29
+Moscow Polytech,Engineering,0.668654619618066,68
+Moscow Polytech,Information Technology,0.730088022265449,14
+Moscow State Forest University,Engineering,0.701315844419665,10
+Moscow State Institute of International Relations (University),Accounting,0.590539116659813,15
+Moscow State Institute of International Relations (University),Business,0.547510638599869,289
+Moscow State Institute of International Relations (University),Economics,0.547515296415881,424
+Moscow State Institute of International Relations (University),Finance,0.533356465405617,66
+Moscow State Institute of International Relations (University),Law,0.505508066830341,407
+Moscow State Institute of International Relations (University),Marketing,0.535305417930919,33
+Moscow State Linguistic University,Business,0.57469860974845,20
+Moscow State Linguistic University,Economics,0.508491138509571,19
+Moscow State Linguistic University,Education,0.464290108956636,14
+Moscow State Linguistic University,Law,0.510254604981487,24
+Moscow State National Research University of Civil Engineering,Architecture,0.491437025094541,19
+Moscow State National Research University of Civil Engineering,Business,0.545755945401211,30
+Moscow State National Research University of Civil Engineering,Economics,0.607611115019967,21
+Moscow State National Research University of Civil Engineering,Engineering,0.541787038519392,192
+Moscow State Pedagogical University,Business,0.550036364306104,28
+Moscow State Pedagogical University,Education,0.484984421543998,69
+Moscow State Pedagogical University,Law,0.523972948675328,10
+Moscow State Technical University named after N.E. Bauman,Business,0.576900804276249,112
+Moscow State Technical University named after N.E. Bauman,Economics,0.583267173412391,15
+Moscow State Technical University named after N.E. Bauman,Engineering,0.634535092329936,802
+Moscow State Technical University named after N.E. Bauman,Information Technology,0.739244327946891,83
+Moscow State Technical University named after N.E. Bauman,Mathematics,0.662812063045114,45
+Moscow State Technical University named after N.E. Bauman,Physics,0.643149866818185,28
+Moscow State Technical University of Civil Aviation,Business,0.545921979203052,15
+Moscow State Technical University of Civil Aviation,Engineering,0.477561728144613,32
+Moscow State Technological University Stankin,Business,0.536168713393259,11
+Moscow State Technological University Stankin,Engineering,0.622768315446274,75
+Moscow State Technological University Stankin,Information Technology,0.772788534909996,15
+Moscow State University named after M.V. Lomonosov,Biology,0.560019976676266,78
+Moscow State University named after M.V. Lomonosov,Business,0.527225642675709,463
+Moscow State University named after M.V. Lomonosov,Chemistry,0.508042190600993,42
+Moscow State University named after M.V. Lomonosov,Economics,0.544400790770433,1100
+Moscow State University named after M.V. Lomonosov,Education,0.471109486534415,12
+Moscow State University named after M.V. Lomonosov,Engineering,0.637010092278274,368
+Moscow State University named after M.V. Lomonosov,Finance,0.53661024287821,37
+Moscow State University named after M.V. Lomonosov,Information Technology,0.646524220139769,11
+Moscow State University named after M.V. Lomonosov,Law,0.496615096294321,313
+Moscow State University named after M.V. Lomonosov,Marketing,0.496535382517011,15
+Moscow State University named after M.V. Lomonosov,Mathematics,0.643674825372608,195
+Moscow State University named after M.V. Lomonosov,Physics,0.621387252798642,313
+Moscow State University named after M.V. Lomonosov,Statistics,0.546794020116866,12
+Moscow State University of Food Production,Engineering,0.559876754873101,19
+Moscow State University of Geodesy and Cartography,Engineering,0.634456924134649,14
+Moscow State University of Law named after O.E. Kutafin,Business,0.486142123813977,10
+Moscow State University of Law named after O.E. Kutafin,Law,0.498695958435678,269
+Moscow Technical University of Communication and Informatics,Business,0.574255793183645,17
+Moscow Technical University of Communication and Informatics,Engineering,0.68812073927154,86
+Moscow Technical University of Communication and Informatics,Information Technology,0.722037408710375,41
+Moscow University for the Humanities,Business,0.486757407809231,23
+Moscow University of Environmental Engineering,Engineering,0.598134767527708,10
+Moscow University of Industry and Finance 'Synergy',Business,0.561341964470552,112
+Moscow University of Industry and Finance 'Synergy',Engineering,0.736117469816695,24
+Moscow University of Industry and Finance 'Synergy',Information Technology,0.680603926568796,26
+Moscow University of Industry and Finance 'Synergy',Law,0.550195328869817,11
+Moscow University of Industry and Finance 'Synergy',Marketing,0.586553435106653,11
+Moscow Witte University,Business,0.5624501117996,18
+Murmansk State Technical University,Engineering,0.54507414359526,43
+National Nuclear Research University,Business,0.611969348776869,52
+National Nuclear Research University,Economics,0.592081415792363,16
+National Nuclear Research University,Engineering,0.680907893205243,166
+National Nuclear Research University,Information Technology,0.721491588607891,19
+National Nuclear Research University,Mathematics,0.646092804121829,48
+National Nuclear Research University,Physics,0.586937349496121,79
+National Research University 'Moscow Power Engineering Institute',Business,0.551430799885891,52
+National Research University 'Moscow Power Engineering Institute',Economics,0.590935158300516,28
+National Research University 'Moscow Power Engineering Institute',Engineering,0.609440227871164,409
+National Research University 'Moscow Power Engineering Institute',Information Technology,0.697147011552304,17
+National Research University 'Moscow Power Engineering Institute',Mathematics,0.697975963955185,13
+National Research University 'Moscow Power Engineering Institute',Physics,0.618916252618897,14
+National Research University Higher School of Economics,Business,0.580549845590168,81
+National Research University Higher School of Economics,Economics,0.540729670576627,48
+National Research University Higher School of Economics,Finance,0.532311348121207,13
+National Research University Moscow Institute of Electronic Technology,Business,0.543128131226087,30
+National Research University Moscow Institute of Electronic Technology,Engineering,0.673002424113899,169
+National Research University Moscow Institute of Electronic Technology,Information Technology,0.664979795707965,18
+National Research University Moscow Institute of Electronic Technology,Mathematics,0.666477798349089,11
+National Research University of Science and Technology 'MISIS',Business,0.597236866710205,63
+National Research University of Science and Technology 'MISIS',Economics,0.604909999920344,17
+National Research University of Science and Technology 'MISIS',Engineering,0.631476963287635,97
+National Research University of Science and Technology 'MISIS',Information Technology,0.751547671081992,36
+National Research University of Science and Technology 'MISIS',Mathematics,0.678640507475384,32
+National Research University of Science and Technology 'MISIS',Physics,0.52016642721075,12
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Business,0.56775835102151,50
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Chemistry,0.51015752201966,11
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Economics,0.625080676985276,33
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Engineering,0.665775372345918,103
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Information Technology,0.67816577690992,47
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Mathematics,0.64670989295025,37
+National State Nizhny Novgorod Research University named after N.I. Lobachevsky,Physics,0.599676662667449,23
+North Caucasus Federal University,Business,0.57220359359971,10
+North Caucasus Federal University,Engineering,0.608908944049072,18
+North Eastern Federal University named after M.K. Ammosov,Business,0.613679247580857,14
+North Eastern Federal University named after M.K. Ammosov,Economics,0.57524833112342,15
+North Eastern Federal University named after M.K. Ammosov,Engineering,0.643137564780674,18
+North-West Academy of Public Administration,Business,0.5718113604004,16
+Novgorod State University named after Yaroslav the Wise,Engineering,0.561449775816614,13
+Novosibirsk State Technical University,Business,0.614824012490861,44
+Novosibirsk State Technical University,Economics,0.588511303244654,23
+Novosibirsk State Technical University,Engineering,0.659698986488369,215
+Novosibirsk State Technical University,Information Technology,0.762474829796182,16
+Novosibirsk State Technical University,Mathematics,0.764996771592421,15
+Novosibirsk State Technical University,Physics,0.61784532425988,13
+Novosibirsk State University,Biology,0.577858377406539,15
+Novosibirsk State University,Business,0.559882361685032,66
+Novosibirsk State University,Chemistry,0.560431907209173,20
+Novosibirsk State University,Economics,0.573726035538325,173
+Novosibirsk State University,Engineering,0.677878241170312,128
+Novosibirsk State University,Information Technology,0.682768544459044,37
+Novosibirsk State University,Law,0.513614772033972,15
+Novosibirsk State University,Mathematics,0.627748261671232,121
+Novosibirsk State University,Physics,0.598958665157703,164
+Novosibirsk State University of Architecture and Civil Engineering,Engineering,0.584461019659024,19
+Novosibirsk State University of Economics and Management,Business,0.603875063754005,32
+Novosibirsk State University of Economics and Management,Economics,0.538935782001524,28
+Omsk State Technical University,Engineering,0.734348114254855,71
+Omsk State Technical University,Information Technology,0.77680465796216,10
+Omsk State University named ater F.M. Dostoevsky,Business,0.55241609533059,33
+Omsk State University named ater F.M. Dostoevsky,Economics,0.575374330781103,21
+Omsk State University named ater F.M. Dostoevsky,Engineering,0.811420224604983,30
+Omsk State University named ater F.M. Dostoevsky,Law,0.482987047242346,13
+Omsk State University named ater F.M. Dostoevsky,Marketing,0.560913263914239,10
+Omsk State University named ater F.M. Dostoevsky,Mathematics,0.813714028477967,11
+Omsk State University named ater F.M. Dostoevsky,Physics,0.696025031232599,10
+Orel State University named after I.S. Turgenev,Engineering,0.736006415566917,12
+Orenburg State University,Business,0.557580940614436,14
+Orenburg State University,Engineering,0.608510506803187,35
+Pacific State University,Architecture,0.477796598424318,18
+Pacific State University,Engineering,0.538677517145159,25
+Penza State University,Economics,0.605791281268739,13
+Penza State University,Engineering,0.668127230189693,44
+Peoples' Friendship University of Russia,Architecture,0.495863271493151,29
+Peoples' Friendship University of Russia,Business,0.53385129870626,174
+Peoples' Friendship University of Russia,Chemistry,0.479092915579718,18
+Peoples' Friendship University of Russia,Economics,0.557659846906759,111
+Peoples' Friendship University of Russia,Engineering,0.564232496841466,155
+Peoples' Friendship University of Russia,Finance,0.533819814597023,10
+Peoples' Friendship University of Russia,Information Technology,0.655224623303541,22
+Peoples' Friendship University of Russia,Law,0.487017868344333,79
+Peoples' Friendship University of Russia,Marketing,0.490302503558036,23
+Peoples' Friendship University of Russia,Mathematics,0.619455119064728,50
+Peoples' Friendship University of Russia,Medicine,0.377353664888369,10
+Peoples' Friendship University of Russia,Physics,0.610922768728375,19
+Perm National Research Polytechnic University,Business,0.576658951103361,18
+Perm National Research Polytechnic University,Engineering,0.643028386809264,98
+Perm National Research Polytechnic University,Information Technology,0.767322934844487,13
+Perm State National Reseach University,Business,0.543768182564114,37
+Perm State National Reseach University,Economics,0.635248828576639,19
+Perm State National Reseach University,Engineering,0.637450691708224,46
+Perm State National Reseach University,Law,0.411353785470818,12
+Perm State National Reseach University,Mathematics,0.755594266762288,20
+Peter the Great Saint-Petersburg Polytechnic University,Business,0.56782766112412,337
+Peter the Great Saint-Petersburg Polytechnic University,Economics,0.57790393169638,126
+Peter the Great Saint-Petersburg Polytechnic University,Engineering,0.637131740795532,671
+Peter the Great Saint-Petersburg Polytechnic University,Finance,0.595922396638307,24
+Peter the Great Saint-Petersburg Polytechnic University,Information Technology,0.730340724656942,45
+Peter the Great Saint-Petersburg Polytechnic University,Marketing,0.507152205849129,23
+Peter the Great Saint-Petersburg Polytechnic University,Mathematics,0.655672633772721,55
+Peter the Great Saint-Petersburg Polytechnic University,Physics,0.583436046407899,109
+Petrozavodsk State University,Engineering,0.64927368712459,21
+Pitirim Sorokin Syktyvkar State University,Engineering,0.805293245284061,10
+Rjazan State Radio Engineering University named after V.F Utkin,Engineering,0.706425319263322,48
+Rostov State University of Economics,Business,0.524206467413093,21
+Rostov State University of Economics,Economics,0.555376878421183,14
+Rostov State University of Railway Communications,Engineering,0.784892686380221,12
+Russian Academy of Justice,Law,0.487894350288336,16
+Russian Customs Academy,Economics,0.55669675902739,14
+Russian Customs Academy,Law,0.468328699959291,13
+Russian Economic School (Institute),Economics,0.59879008076465,124
+Russian Foreign Trade Academy,Business,0.554915110462824,173
+Russian Foreign Trade Academy,Economics,0.555910088648909,126
+Russian Foreign Trade Academy,Finance,0.548348002874329,60
+Russian Foreign Trade Academy,Law,0.520340399479316,98
+Russian International Academy of Tourism,Business,0.512336975506708,48
+Russian National Research Medical University named after N.I. Pirogov,Medicine,0.560042338089129,10
+Russian New University,Business,0.486896235827323,23
+Russian New University,Engineering,0.743585420076236,12
+Russian New University,Law,0.504417524034767,12
+Russian State Agrarian University – Moscow Agricultural Academy named after K.A. Timiryazev,Business,0.626496502580791,20
+Russian State Agrarian University – Moscow Agricultural Academy named after K.A. Timiryazev,Economics,0.604610440418303,11
+Russian State Agrarian University – Moscow Agricultural Academy named after K.A. Timiryazev,Engineering,0.538304098266397,35
+Russian State Gas and Oil University named after I.M. Gubkin,Business,0.545125396669172,72
+Russian State Gas and Oil University named after I.M. Gubkin,Economics,0.519569646694724,103
+Russian State Gas and Oil University named after I.M. Gubkin,Engineering,0.500520403812639,365
+Russian State Humanities University,Business,0.537260185527192,65
+Russian State Humanities University,Economics,0.559957537896541,13
+Russian State Humanities University,Engineering,0.785821014361527,14
+Russian State Humanities University,Law,0.492366631864735,15
+Russian State Humanities University,Marketing,0.510688598799817,17
+Russian State Hydro-meteorological University,Business,0.574617371605187,11
+Russian State Pedagogical University named after Herzen,Business,0.554721870344944,38
+Russian State Pedagogical University named after Herzen,Education,0.512824518801856,42
+Russian State Pedagogical University named after Herzen,Engineering,0.738078141611231,18
+Russian State Pedagogical University named after Herzen,Information Technology,0.724355880029888,12
+Russian State Pedagogical University named after Herzen,Law,0.558403749852981,12
+Russian State Social University,Business,0.521963006794676,68
+Russian State Social University,Economics,0.572413965052146,24
+Russian State Social University,Engineering,0.629120486832326,26
+Russian State Social University,Information Technology,0.679635575805537,15
+Russian State Social University,Law,0.517046136876031,15
+Russian State Technological University,Business,0.573125634679,11
+Russian State Technological University,Engineering,0.603499428935346,39
+Russian State Technological University,Information Technology,0.732203198752853,17
+"Russian State University for Physical Education, Sport, Youth and Tourism",Education,0.318690828351295,13
+Russian State University for the Humanities,Business,0.530568964515153,32
+Russian State University for the Humanities,Marketing,0.53938366962272,10
+Russian State University named after A.N. Kosygin (Technologies. Design. Art),Business,0.544155149824183,11
+Russian State University of Justice,Law,0.49401206900715,73
+Russian State University of Tourism and Service,Business,0.531748515604235,31
+Russian University of Chemical Technology named after D.I Mendeleev,Business,0.467015807064085,11
+Russian University of Chemical Technology named after D.I Mendeleev,Chemistry,0.508880339039801,36
+Russian University of Chemical Technology named after D.I Mendeleev,Engineering,0.5765941261957,59
+Russian University of Cooperation,Business,0.588832946396838,10
+Russian University of Economics named after G.V. Plekhanov,Accounting,0.509081276976938,25
+Russian University of Economics named after G.V. Plekhanov,Business,0.546412855384715,872
+Russian University of Economics named after G.V. Plekhanov,Economics,0.556256730980006,498
+Russian University of Economics named after G.V. Plekhanov,Engineering,0.708238571491499,84
+Russian University of Economics named after G.V. Plekhanov,Finance,0.536933911997822,306
+Russian University of Economics named after G.V. Plekhanov,Information Technology,0.671944949438612,29
+Russian University of Economics named after G.V. Plekhanov,Law,0.535925243267435,57
+Russian University of Economics named after G.V. Plekhanov,Marketing,0.523896750537225,205
+Russian University of Economics named after G.V. Plekhanov,Mathematics,0.702379827230536,17
+Russian University of Transport,Business,0.565083332772526,71
+Russian University of Transport,Economics,0.605936298215207,25
+Russian University of Transport,Engineering,0.626547058166879,54
+Rybinsk State Technical University of Aviation named after P.A. Solovyov,Engineering,0.721158357883641,13
+Saint-Petersburg Humanitarian University of Trade Unions,Business,0.563693562689388,20
+Saint-Petersburg Mining University,Business,0.581530461935715,35
+Saint-Petersburg Mining University,Economics,0.508788680205334,11
+Saint-Petersburg Mining University,Engineering,0.532815708354612,124
+Saint-Petersburg State Electrotechnical University 'LETI',Business,0.590611058982216,51
+Saint-Petersburg State Electrotechnical University 'LETI',Engineering,0.668288737565643,233
+Saint-Petersburg State Electrotechnical University 'LETI',Information Technology,0.690887939016185,36
+Saint-Petersburg State Institute of Cinema and Television,Business,0.527890542408547,10
+Saint-Petersburg State Institute of Technology (Technical University),Business,0.569795063172357,50
+Saint-Petersburg State Institute of Technology (Technical University),Engineering,0.645023819802063,65
+Saint-Petersburg State Institute of Technology (Technical University),Information Technology,0.736144892617013,13
+Saint-Petersburg State Marine Technical University,Engineering,0.632122409580109,43
+Saint-Petersburg State University,Biology,0.547274905048311,54
+Saint-Petersburg State University,Business,0.548709867401824,604
+Saint-Petersburg State University,Chemistry,0.531935401097045,48
+Saint-Petersburg State University,Economics,0.545136835708333,242
+Saint-Petersburg State University,Engineering,0.656669194644709,197
+Saint-Petersburg State University,Finance,0.549288000509509,30
+Saint-Petersburg State University,Information Technology,0.717388092576518,37
+Saint-Petersburg State University,Law,0.484632217548534,223
+Saint-Petersburg State University,Marketing,0.51014995907963,46
+Saint-Petersburg State University,Mathematics,0.682159478981973,163
+Saint-Petersburg State University,Physics,0.576769878511156,116
+Saint-Petersburg State University of Architecture and Civil Engineering,Architecture,0.501459599967146,105
+Saint-Petersburg State University of Architecture and Civil Engineering,Business,0.486947660798506,19
+Saint-Petersburg State University of Architecture and Civil Engineering,Engineering,0.545774592421902,141
+Saint-Petersburg State University of Civil Aviation,Business,0.41358049121448,14
+Saint-Petersburg State University of Economics,Business,0.545485109602138,31
+Saint-Petersburg State University of Economics,Economics,0.583877868090372,15
+Saint-Petersburg State University of Industrial Technologies and Design,Business,0.568160566031553,25
+Saint-Petersburg State University of Industrial Technologies and Design,Engineering,0.597382390593177,32
+Saint-Petersburg State University of Telecommunications named after Professor. Bonch-Bruevich,Engineering,0.713000350574741,61
+Saint-Petersburg State University of Telecommunications named after Professor. Bonch-Bruevich,Information Technology,0.651221018958622,16
+Sakhalin State University,Engineering,0.464555600682763,41
+Samara National Research University named after S.P. Korolev,Business,0.530723554635535,33
+Samara National Research University named after S.P. Korolev,Economics,0.613071183224823,10
+Samara National Research University named after S.P. Korolev,Engineering,0.691903493079833,134
+Samara National Research University named after S.P. Korolev,Information Technology,0.75811786789837,16
+Samara National Research University named after S.P. Korolev,Mathematics,0.728237893788059,19
+Samara State Technical University,Business,0.585988096305616,16
+Samara State Technical University,Engineering,0.561277395130693,80
+Samara State University,Business,0.599292781524634,19
+Samara State University,Engineering,0.759492441263243,16
+Samara State University of Economics,Business,0.511617852991915,31
+Samara State University of Economics,Economics,0.589595224271412,33
+Samara State University of Economics,Finance,0.610806414498674,11
+Saratov State Law Academy,Law,0.518730136086487,14
+Saratov State National Research University named after N.G. Chernysheskij,Business,0.557938413219826,14
+Saratov State National Research University named after N.G. Chernysheskij,Economics,0.496837455001264,10
+Saratov State National Research University named after N.G. Chernysheskij,Education,0.594116209109806,11
+Saratov State National Research University named after N.G. Chernysheskij,Engineering,0.765287992586569,66
+Saratov State National Research University named after N.G. Chernysheskij,Information Technology,0.754218056905998,11
+Saratov State National Research University named after N.G. Chernysheskij,Mathematics,0.720485573777735,16
+Saratov State Technical University named after Y.A. Gagarin,Business,0.548798982304544,14
+Saratov State Technical University named after Y.A. Gagarin,Engineering,0.729257905526063,60
+Saratov State Technical University named after Y.A. Gagarin,Information Technology,0.713880977605411,14
+Siberian Federal University,Architecture,0.500756211107344,12
+Siberian Federal University,Business,0.520194610313898,58
+Siberian Federal University,Economics,0.539785470092691,31
+Siberian Federal University,Engineering,0.663236272047006,98
+Siberian Federal University,Information Technology,0.697886332902006,14
+Siberian Federal University,Law,0.539822113747779,11
+Siberian State Automobile and Transport Academy,Engineering,0.664074244821601,14
+Siberian State University of Telecommunications and Informatics,Business,0.615460647990057,11
+Siberian State University of Telecommunications and Informatics,Economics,0.612996445097175,15
+Siberian State University of Telecommunications and Informatics,Engineering,0.737260994167744,90
+Siberian State University of Telecommunications and Informatics,Information Technology,0.745289415948205,20
+Siberian Transport University,Business,0.57951889517966,15
+Sochi State University,Business,0.482756837043845,13
+Southern Federal University,Architecture,0.503534731489991,16
+Southern Federal University,Business,0.571381884217013,56
+Southern Federal University,Economics,0.551204487050405,37
+Southern Federal University,Education,0.481373477940687,10
+Southern Federal University,Engineering,0.712364252233867,176
+Southern Federal University,Information Technology,0.73596227571874,26
+Southern Federal University,Law,0.522053334137687,12
+Southern Federal University,Mathematics,0.641482715685751,37
+Southern Federal University,Physics,0.574341631142731,23
+Southern Ural State University,Architecture,0.497358778754224,13
+Southern Ural State University,Business,0.571863844684772,75
+Southern Ural State University,Economics,0.575558150821007,30
+Southern Ural State University,Engineering,0.669004757483495,139
+Southern Ural State University,Information Technology,0.722955853771385,25
+Southern Ural State University,Law,0.535463469187468,10
+Southern Ural State University,Mathematics,0.651212052356004,10
+Southwest State University,Engineering,0.655287832282856,15
+St Petersburg State University of Aerospace Instrumentation,Business,0.569551967351416,34
+St Petersburg State University of Aerospace Instrumentation,Engineering,0.700785893119614,145
+St Petersburg State University of Aerospace Instrumentation,Information Technology,0.716713166925239,24
+St Petersburg State University of Aerospace Instrumentation,Law,0.482971111057233,13
+St Petersburg State University of Engineering & Economics,Business,0.539889687568723,94
+St Petersburg State University of Engineering & Economics,Economics,0.612791425381028,37
+St Petersburg State University of Engineering & Economics,Engineering,0.776236978701068,11
+State University of Land Use Planning,Architecture,0.509213873151144,26
+State University of Management,Business,0.534162817763097,351
+State University of Management,Economics,0.565925392709246,51
+State University of Management,Engineering,0.627035631749475,14
+State University of Management,Finance,0.538491022645605,11
+State University of Management,Marketing,0.527847742716412,48
+Stavropol State Agrarian University,Business,0.586772793842794,10
+Surgut State University,Engineering,0.626078378657654,10
+Tambov State Technical University,Engineering,0.685385218103659,24
+The Russian Presidential Academy of National Economy and Public Administration,Business,0.546117693842841,514
+The Russian Presidential Academy of National Economy and Public Administration,Economics,0.576780642195549,152
+The Russian Presidential Academy of National Economy and Public Administration,Engineering,0.648320374688401,10
+The Russian Presidential Academy of National Economy and Public Administration,Finance,0.573024623587737,45
+The Russian Presidential Academy of National Economy and Public Administration,Law,0.506377962990332,49
+The Russian Presidential Academy of National Economy and Public Administration,Marketing,0.501718004791597,32
+Togliatti Academy of Management,Business,0.536020176678679,12
+Togliatti State University,Engineering,0.66311592642678,42
+Tomsk Polytechnic University,Business,0.540926147191091,77
+Tomsk Polytechnic University,Economics,0.631413750184525,12
+Tomsk Polytechnic University,Engineering,0.569917338460156,206
+Tomsk Polytechnic University,Physics,0.582167672401016,19
+Tomsk State University,Business,0.556281482878207,25
+Tomsk State University,Economics,0.585171745077481,21
+Tomsk State University,Engineering,0.726000386909259,61
+Tomsk State University,Information Technology,0.662701427273822,10
+Tomsk State University,Law,0.476858424470162,22
+Tomsk State University,Mathematics,0.644442935624448,15
+Tomsk State University,Physics,0.571986882474508,17
+Tomsk State University of Control Systems and Radioelectronics,Business,0.624091671650222,16
+Tomsk State University of Control Systems and Radioelectronics,Engineering,0.736052998230149,95
+Tomsk State University of Control Systems and Radioelectronics,Information Technology,0.778265487342945,15
+Tula State University,Business,0.586247482205029,12
+Tula State University,Economics,0.556173178939427,18
+Tula State University,Engineering,0.735526575470544,48
+Tula State University,Finance,0.469724336634212,10
+Tver State Technical University,Engineering,0.641258008539171,31
+Tver State University,Economics,0.531307154469134,10
+Tver State University,Engineering,0.846712106347941,15
+Tver State University,Information Technology,0.706180181253896,10
+Tver State University,Mathematics,0.7298070643254,21
+Tyumen State University,Business,0.547993849174737,14
+Tyumen State University,Economics,0.504789088652104,32
+Tyumen State University,Engineering,0.693218773536252,21
+Tyumen State University,Law,0.509422056894698,18
+Udmurt State University,Business,0.567382253368449,15
+Udmurt State University,Engineering,0.578356103608566,30
+Ufa State Aviation Technical University,Business,0.644711330493789,25
+Ufa State Aviation Technical University,Economics,0.610870489817345,18
+Ufa State Aviation Technical University,Engineering,0.657598394512292,90
+Ufa State Petroleum Technological University,Engineering,0.558654130364764,64
+Uljanovsk State Technical University,Business,0.5654802588727,12
+Uljanovsk State Technical University,Engineering,0.666212762302047,54
+Uljanovsk State Technical University,Information Technology,0.711092537196375,12
+Uljanovsk State University,Business,0.538480307902746,23
+Uljanovsk State University,Economics,0.565010076984807,12
+Uljanovsk State University,Engineering,0.707308823894974,16
+Uljanovsk State University,Law,0.554681576454254,12
+Ural Federal University,Business,0.549722921566186,112
+Ural Federal University,Economics,0.515308681384138,33
+Ural Federal University,Engineering,0.649302325675381,263
+Ural Federal University,Information Technology,0.772052358530471,39
+Ural Federal University,Marketing,0.517300531727612,16
+Ural Federal University,Mathematics,0.624427899632165,13
+Ural Federal University,Physics,0.659981191748752,23
+Ural Federal University named after the First President of Russia B.N. Yeltsin,Business,0.553163639846276,10
+Ural State Law Academy,Law,0.504124473271439,17
+Ural State Mining University,Engineering,0.575308964753281,13
+Ural State University of Architecture and Art,Architecture,0.517404783824789,42
+Ural State University of Economics,Business,0.532718925187781,37
+Ural State University of Economics,Economics,0.520003120180907,19
+Vatel Russia,Business,0.442270053968936,10
+Vjatka State University,Business,0.662754640791898,11
+Vjatka State University,Engineering,0.679241848859273,36
+Vladimir State University named after Aleksandr Grigorevich and Nikolai Grigorevich Stoletovy,Business,0.601901925742194,12
+Vladimir State University named after Aleksandr Grigorevich and Nikolai Grigorevich Stoletovy,Engineering,0.653136863043279,45
+Vladivostok State University of Economics and Services,Business,0.563333449607062,24
+Volga Region State University of Telecommunications and Informatics,Engineering,0.742899277043325,31
+Volga Region State University of Telecommunications and Informatics,Information Technology,0.757182134574094,12
+Volga State University of Technology,Engineering,0.74072095648757,15
+Volgograd State Technical University,Business,0.519258340130224,29
+Volgograd State Technical University,Economics,0.556921719271808,23
+Volgograd State Technical University,Engineering,0.663841500171858,103
+Volgograd State Technical University,Information Technology,0.715976554100054,11
+Volgograd State University,Business,0.563845870295619,33
+Volgograd State University,Economics,0.56862062621486,18
+Volgograd State University,Engineering,0.706637534051336,39
+Volgograd State University,Law,0.456638531899994,10
+Volgograd State University,Mathematics,0.669467258365092,13
+Vologda State Technical University,Engineering,0.704003208665319,14
+Voronezh Institute of High Technologies,Engineering,0.666796983295716,10
+Voronezh State Technical University,Engineering,0.580434457631386,41
+Voronezh State University,Business,0.591968450510496,51
+Voronezh State University,Economics,0.585941801764503,33
+Voronezh State University,Engineering,0.727160592606606,88
+Voronezh State University,Information Technology,0.713452547526264,16
+Voronezh State University,Law,0.579092545811256,11
+Voronezh State University,Mathematics,0.724161842539418,51
+Voronezh State University,Physics,0.56592445525426,18
+Voronezh State University of Architecture & Civil Engineering,Engineering,0.463509520905646,10

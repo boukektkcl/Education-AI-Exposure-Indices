@@ -1,0 +1,397 @@
+university_name,field,exposure_alljobs_beta,n_people
+Académie royale des Beaux-Arts de Bruxelles - Ecole supérieure des Arts,Architecture,0.45669129940562,15
+Antwerp Maritime Academy,Engineering,0.412667083291724,32
+Artesis Plantijn University College Antwerp,Accounting,0.566666858766223,23
+Artesis Plantijn University College Antwerp,Architecture,0.484975376460376,75
+Artesis Plantijn University College Antwerp,Business,0.515413903001076,1317
+Artesis Plantijn University College Antwerp,Chemistry,0.39810497083058,83
+Artesis Plantijn University College Antwerp,Education,0.414244044988191,159
+Artesis Plantijn University College Antwerp,Engineering,0.501570987420272,385
+Artesis Plantijn University College Antwerp,Finance,0.530865892016325,52
+Artesis Plantijn University College Antwerp,Information Technology,0.731658590507461,18
+Artesis Plantijn University College Antwerp,Law,0.52777132670356,42
+Artesis Plantijn University College Antwerp,Marketing,0.51466996023756,208
+Artesis Plantijn University College Antwerp,Nursing,0.38617894031163,43
+Arteveldehogeschool,Accounting,0.532719246116895,78
+Arteveldehogeschool,Business,0.509915898881631,2818
+Arteveldehogeschool,Economics,0.472635796891302,18
+Arteveldehogeschool,Education,0.417345688431333,484
+Arteveldehogeschool,Engineering,0.550284721356466,10
+Arteveldehogeschool,Finance,0.522743062490937,177
+Arteveldehogeschool,Law,0.455673610031667,33
+Arteveldehogeschool,Marketing,0.512006413238934,553
+Arteveldehogeschool,Nursing,0.401735941508585,172
+BME - Business Management across Europe,Business,0.449265298714049,25
+Brugge Business School,Business,0.485181780057736,53
+CAD - College of Advertising and Design,Architecture,0.47670527250703,14
+"Chambre Belge des Comptables, Experts-Comptables et Conseils Fiscaux",Accounting,0.59024681018843,14
+EHSAL Management School,Business,0.5261890207852,25
+EPFC,Accounting,0.560864956829219,48
+EPFC,Business,0.525703186676727,42
+EPFC,Engineering,0.749170839245538,36
+EPFC,Finance,0.545718368239181,22
+Ecole Pratique des Hautes Etudes Commerciales,Accounting,0.539808222008887,289
+Ecole Pratique des Hautes Etudes Commerciales,Business,0.525130253703583,756
+Ecole Pratique des Hautes Etudes Commerciales,Economics,0.574092989933992,11
+Ecole Pratique des Hautes Etudes Commerciales,Engineering,0.643089605661952,141
+Ecole Pratique des Hautes Etudes Commerciales,Finance,0.542493423255136,89
+Ecole Pratique des Hautes Etudes Commerciales,Information Technology,0.695171288220284,57
+Ecole Pratique des Hautes Etudes Commerciales,Law,0.528401470475028,139
+Ecole Pratique des Hautes Etudes Commerciales,Marketing,0.514990145821505,1883
+Ecole polytechnique de Bruxelles,Engineering,0.542912516711326,205
+Ecole supérieure des Arts - Saint-Luc Bruxelles,Architecture,0.523159894293734,35
+Ecole supérieure des Arts Saint-Luc Liège,Architecture,0.462691114425029,20
+Ecsedi Isalt,Business,0.499341783568185,261
+Erasmushogeschool Brussel,Architecture,0.430549522283848,70
+Erasmushogeschool Brussel,Business,0.508063954035872,1144
+Erasmushogeschool Brussel,Education,0.374449173172252,79
+Erasmushogeschool Brussel,Engineering,0.629350198288302,264
+Erasmushogeschool Brussel,Information Technology,0.672394576526415,49
+Erasmushogeschool Brussel,Marketing,0.520324497202897,79
+Erasmushogeschool Brussel,Nursing,0.407046049770428,53
+Faculteit Geneeskunde KU Leuven Faculty of Medicine,Medicine,0.426405498671925,79
+Faculté Polytechnique de Mons,Engineering,0.544451037473751,173
+Facultés Universitaires Saint-Louis,Business,0.53151312112674,232
+Facultés Universitaires Saint-Louis,Economics,0.497965294400898,122
+Facultés Universitaires Saint-Louis,Engineering,0.531883638325838,285
+Facultés Universitaires Saint-Louis,Law,0.481715943220685,908
+Ghent University,Architecture,0.498592004681677,43
+Ghent University,Biology,0.505355889892174,90
+Ghent University,Business,0.508266573692936,1847
+Ghent University,Chemistry,0.510353520564514,127
+Ghent University,Economics,0.531946953936946,394
+Ghent University,Education,0.3994017813007,71
+Ghent University,Engineering,0.519909913897025,3644
+Ghent University,Information Technology,0.609945294568942,10
+Ghent University,Law,0.480525097432759,564
+Ghent University,Mathematics,0.554052736309227,46
+Ghent University,Medicine,0.405206423455886,552
+Ghent University,Physics,0.536494230710136,126
+HELB - Haute Ecole Libre de Bruxelles Ilya Prigogine,Business,0.751263870084465,22
+HELB - Haute Ecole Libre de Bruxelles Ilya Prigogine,Engineering,0.716741090863743,15
+HEPN - Haute Ecole de la Province de Namur,Business,0.474199602778695,62
+HOWEST Hogeschool West-Vlaanderen,Accounting,0.494313546377643,12
+HOWEST Hogeschool West-Vlaanderen,Architecture,0.479552676015926,146
+HOWEST Hogeschool West-Vlaanderen,Business,0.518025760226682,565
+HOWEST Hogeschool West-Vlaanderen,Economics,0.592500410020964,21
+HOWEST Hogeschool West-Vlaanderen,Education,0.43834845297192,55
+HOWEST Hogeschool West-Vlaanderen,Engineering,0.658676938124485,354
+HOWEST Hogeschool West-Vlaanderen,Finance,0.552365219994433,32
+HOWEST Hogeschool West-Vlaanderen,Information Technology,0.680412433335682,52
+HOWEST Hogeschool West-Vlaanderen,Marketing,0.517008361599581,192
+HOWEST Hogeschool West-Vlaanderen,Nursing,0.390023046214968,15
+Hasselt University,Architecture,0.476633509601008,179
+Hasselt University,Biology,0.513537870777773,55
+Hasselt University,Business,0.493312370998953,218
+Hasselt University,Chemistry,0.511964262792525,114
+Hasselt University,Economics,0.530713666093879,166
+Hasselt University,Engineering,0.545262599984021,534
+Hasselt University,Law,0.492791664116768,202
+Hasselt University,Mathematics,0.58721179421702,43
+Hasselt University,Medicine,0.401153632872834,130
+Hasselt University,Physics,0.54196904879085,64
+Haute Ecole Albert Jacquard,Business,0.510025272292253,10
+Haute Ecole Albert Jacquard,Engineering,0.547863002707434,30
+Haute Ecole Bruxelles - Brabant,Engineering,0.548965409012236,48
+Haute Ecole Charlemagne,Architecture,0.416315465384594,18
+Haute Ecole Charlemagne,Business,0.517179052072758,123
+Haute Ecole Charlemagne,Education,0.38837663618873,24
+"Haute Ecole Galilée, Bruxelles",Business,0.523585409594789,113
+"Haute Ecole Galilée, Bruxelles",Education,0.360438599693027,11
+"Haute Ecole Galilée, Bruxelles",Nursing,0.466721710656178,16
+Haute Ecole Libre Mosane,Accounting,0.537026206748373,74
+Haute Ecole Libre Mosane,Business,0.538378504221351,382
+Haute Ecole Libre Mosane,Economics,0.527246454302316,15
+Haute Ecole Libre Mosane,Education,0.437047839156913,37
+Haute Ecole Libre Mosane,Engineering,0.529002521936597,100
+Haute Ecole Libre Mosane,Finance,0.55790442355936,36
+Haute Ecole Libre Mosane,Information Technology,0.698764373561739,10
+Haute Ecole Libre Mosane,Law,0.529734818219871,50
+Haute Ecole Libre Mosane,Marketing,0.515772944510059,267
+Haute Ecole Louvain en Hainaut,Accounting,0.550125849739439,51
+Haute Ecole Louvain en Hainaut,Biology,0.515770654052807,13
+Haute Ecole Louvain en Hainaut,Business,0.531345822514387,148
+Haute Ecole Louvain en Hainaut,Chemistry,0.489453955261334,50
+Haute Ecole Louvain en Hainaut,Education,0.416970956172866,26
+Haute Ecole Louvain en Hainaut,Engineering,0.583631475961238,151
+Haute Ecole Louvain en Hainaut,Information Technology,0.669475424417182,22
+Haute Ecole Louvain en Hainaut,Marketing,0.517100468294091,54
+Haute Ecole Lucia de Brouckere,Accounting,0.558480315752723,17
+Haute Ecole Lucia de Brouckere,Architecture,0.462559312879919,15
+Haute Ecole Lucia de Brouckere,Business,0.501859063942687,111
+Haute Ecole Lucia de Brouckere,Education,0.389896554909004,10
+Haute Ecole Lucia de Brouckere,Engineering,0.395512007209621,16
+Haute Ecole Lucia de Brouckere,Law,0.497579617030129,17
+Haute Ecole Lucia de Brouckere,Marketing,0.512133412276267,79
+"Haute Ecole de la Communauté française 'Paul-Henri Spaak', Bruxelles",Business,0.550784525337756,16
+"Haute Ecole de la Communauté française 'Paul-Henri Spaak', Bruxelles",Education,0.267615636874353,11
+"Haute Ecole de la Communauté française 'Paul-Henri Spaak', Bruxelles",Law,0.507464278416346,21
+Haute Ecole de la Province de Liège,Accounting,0.558218478672647,20
+Haute Ecole de la Province de Liège,Biology,0.556532178927445,10
+Haute Ecole de la Province de Liège,Business,0.532745812560743,196
+Haute Ecole de la Province de Liège,Chemistry,0.491105706578739,22
+Haute Ecole de la Province de Liège,Economics,0.578882090350845,10
+Haute Ecole de la Province de Liège,Education,0.398563257408653,32
+Haute Ecole de la Province de Liège,Engineering,0.620735336312795,231
+Haute Ecole de la Province de Liège,Finance,0.539421498569919,18
+Haute Ecole de la Province de Liège,Information Technology,0.66886773050651,12
+Haute Ecole de la Province de Liège,Law,0.537758790337594,15
+Haute Ecole de la Province de Liège,Marketing,0.522294391446083,85
+Haute Ecole de la Province de Namur,Business,0.532878628291369,25
+Haute Ecole de la Ville de Liège,Business,0.443557324056184,15
+Haute Ecole en Hainaut,Business,0.49949873512976,27
+Haute Ecole en Hainaut,Education,0.448853961934044,22
+Haute Ecole en Hainaut,Engineering,0.635500458763718,89
+Haute École Albert Jacquard (HEAJ),Accounting,0.522724541086336,14
+Haute École Albert Jacquard (HEAJ),Business,0.578157254305386,32
+Haute École Albert Jacquard (HEAJ),Engineering,0.548403338852244,87
+Haute École Francisco Ferrer,Accounting,0.521662685310919,18
+Haute École Francisco Ferrer,Business,0.547230152206372,117
+Haute École Francisco Ferrer,Education,0.442082510518547,22
+Haute École Francisco Ferrer,Engineering,0.583402244362692,44
+Haute École Francisco Ferrer,Finance,0.559388941711575,14
+Haute École Francisco Ferrer,Nursing,0.349152496098911,11
+Haute École de Namur-Liège-Luxembourg (Hénallux),Accounting,0.546165351323255,48
+Haute École de Namur-Liège-Luxembourg (Hénallux),Business,0.55749452940757,127
+Haute École de Namur-Liège-Luxembourg (Hénallux),Education,0.419653597921495,22
+Haute École de Namur-Liège-Luxembourg (Hénallux),Engineering,0.524976664602773,111
+Haute École de Namur-Liège-Luxembourg (Hénallux),Finance,0.536087969974948,13
+Haute École de Namur-Liège-Luxembourg (Hénallux),Information Technology,0.624497368865376,29
+Haute École de Namur-Liège-Luxembourg (Hénallux),Law,0.492314813899164,23
+Haute École de Namur-Liège-Luxembourg (Hénallux),Marketing,0.515977384123334,305
+Hogeschool Gent,Accounting,0.544722558442088,92
+Hogeschool Gent,Architecture,0.416333388948314,91
+Hogeschool Gent,Biology,0.424060403564938,17
+Hogeschool Gent,Business,0.524469680491515,2263
+Hogeschool Gent,Chemistry,0.435512088460416,110
+Hogeschool Gent,Economics,0.594186559123015,21
+Hogeschool Gent,Education,0.428502250828824,164
+Hogeschool Gent,Engineering,0.622472026808903,701
+Hogeschool Gent,Finance,0.541559744662293,272
+Hogeschool Gent,Information Technology,0.669108978519108,163
+Hogeschool Gent,Law,0.519195872303581,46
+Hogeschool Gent,Marketing,0.520183844468672,1014
+Hogeschool Gent,Nursing,0.375516790341531,80
+Hogeschool PXL,Accounting,0.516025604878493,37
+Hogeschool PXL,Architecture,0.477342119105131,82
+Hogeschool PXL,Business,0.532806507128477,1415
+Hogeschool PXL,Education,0.416015788802222,164
+Hogeschool PXL,Engineering,0.651122723658687,449
+Hogeschool PXL,Finance,0.543761914593055,136
+Hogeschool PXL,Information Technology,0.692557449680836,159
+Hogeschool PXL,Law,0.480098981816704,22
+Hogeschool PXL,Marketing,0.513676927175705,573
+Hogeschool PXL,Nursing,0.387337396577544,64
+Hogeschool West-Vlaanderen,Business,0.566275975529777,43
+Hogeschool West-Vlaanderen,Engineering,0.602640718503344,21
+Hogeschool West-Vlaanderen,Marketing,0.526578560277858,28
+Hogeschool-Universiteit Brussel,Business,0.550478104097237,153
+Hogeschool-Universiteit Brussel,Economics,0.500383877730635,32
+Hogeschool-Universiteit Brussel,Education,0.503156090110051,10
+Hogeschool-Universiteit Brussel,Engineering,0.594633075999791,21
+Hogeschool-Universiteit Brussel,Finance,0.549466494956039,10
+Hogeschool-Universiteit Brussel,Law,0.461732241535012,82
+Hogeschool-Universiteit Brussel,Marketing,0.531303745103192,56
+Howest - Digital Arts and Entertainment,Engineering,0.573952457322248,18
+ICHEC Brussels Management School - ECAM Business Engineering School - ISFSC,Business,0.526066270234297,1158
+ICHEC Brussels Management School - ECAM Business Engineering School - ISFSC,Economics,0.540059628495435,36
+ICHEC Brussels Management School - ECAM Business Engineering School - ISFSC,Engineering,0.514852945176228,384
+ICHEC Brussels Management School - ECAM Business Engineering School - ISFSC,Marketing,0.496376129186197,11
+ISFCE,Business,0.605957790367116,18
+ISFCE,Engineering,0.794825745902432,17
+ISFCE,Marketing,0.47771328073985,28
+ISPG,Education,0.417155430224896,15
+ISTEC Bruxelles,Marketing,0.476109669034805,10
+Institut Charles  Péguy,Business,0.466855541750856,50
+Institut Roger Guilbert,Business,0.589213697278421,10
+Institut des Arts de diffusion,Engineering,0.491991858183326,23
+KAHO Sint-Lieven,Business,0.517068533850518,72
+KAHO Sint-Lieven,Chemistry,0.423080269146052,18
+KAHO Sint-Lieven,Education,0.473505542885651,31
+KAHO Sint-Lieven,Engineering,0.502063207391159,62
+KAHO Sint-Lieven,Marketing,0.516228279589037,23
+KAHO Sint-Lieven,Nursing,0.384492942953861,11
+KASK en Conservatorium / HOGENT en howest,Architecture,0.360986845187794,49
+KU Leuven - Group T Leuven Campus,Business,0.527339838157074,38
+KU Leuven - Group T Leuven Campus,Education,0.469171650365966,56
+KU Leuven - Group T Leuven Campus,Engineering,0.519192074819611,408
+KU Leuven - Group T Leuven Campus,Information Technology,0.662462461886947,35
+KU Leuven - Group T Leuven Campus,Marketing,0.501792257541049,52
+KU Leuven Faculty of Arts,Architecture,0.45943522273197,11
+KU Leuven Faculty of Engineering Technology - De Nayer Campus,Engineering,0.490636259077124,168
+KU Leuven Faculty of Engineering Technology - Diepenbeek Campus,Engineering,0.459669911241523,46
+KU Leuven Faculty of Engineering Technology - Geel Campus,Engineering,0.459506786924645,14
+KU Leuven Ghent Campus,Engineering,0.448286463588442,62
+Karel de Grote University of Applied Sciences and Arts,Accounting,0.531864623919574,66
+Karel de Grote University of Applied Sciences and Arts,Biology,0.461175242451798,10
+Karel de Grote University of Applied Sciences and Arts,Business,0.523382674424212,2858
+Karel de Grote University of Applied Sciences and Arts,Chemistry,0.400346185507432,67
+Karel de Grote University of Applied Sciences and Arts,Economics,0.476268856982764,16
+Karel de Grote University of Applied Sciences and Arts,Education,0.394600320751385,241
+Karel de Grote University of Applied Sciences and Arts,Engineering,0.576089228450132,478
+Karel de Grote University of Applied Sciences and Arts,Finance,0.547142678708056,263
+Karel de Grote University of Applied Sciences and Arts,Information Technology,0.682298407766585,100
+Karel de Grote University of Applied Sciences and Arts,Law,0.495021096341947,47
+Karel de Grote University of Applied Sciences and Arts,Marketing,0.51192697070668,1132
+Karel de Grote University of Applied Sciences and Arts,Nursing,0.396979769725305,126
+Katholieke Universiteit Leuven,Engineering,0.552101951330234,21
+Katholieke Universiteit Leuven Law School,Architecture,0.463407865109676,395
+Katholieke Universiteit Leuven Law School,Biology,0.515620462895245,84
+Katholieke Universiteit Leuven Law School,Business,0.521215308335279,1939
+Katholieke Universiteit Leuven Law School,Chemistry,0.496320679506916,107
+Katholieke Universiteit Leuven Law School,Economics,0.527514683320085,782
+Katholieke Universiteit Leuven Law School,Education,0.40768876973211,111
+Katholieke Universiteit Leuven Law School,Engineering,0.515342598841782,5364
+Katholieke Universiteit Leuven Law School,Finance,0.556137743704206,40
+Katholieke Universiteit Leuven Law School,Information Technology,0.706394146059136,10
+Katholieke Universiteit Leuven Law School,Law,0.490200962702981,1019
+Katholieke Universiteit Leuven Law School,Marketing,0.503403151767515,26
+Katholieke Universiteit Leuven Law School,Mathematics,0.549283937657031,111
+Katholieke Universiteit Leuven Law School,Medicine,0.423818988297729,385
+Katholieke Universiteit Leuven Law School,Physics,0.530500056099639,168
+LUCA School of Arts,Architecture,0.484309098044312,165
+LUCA School of Arts,Business,0.537375616534795,44
+LUCA School of Arts,Engineering,0.5091075589587,21
+LUCA School of Arts,Finance,0.564824716627852,12
+LUCA School of Arts,Marketing,0.543670062275389,54
+Leuven University College,Business,0.56608127285515,14
+L’Institut des hautes études des communications sociales,Marketing,0.537864066001803,19
+Odisee University of Applied Sciences,Accounting,0.559992958987166,36
+Odisee University of Applied Sciences,Business,0.518247941045996,969
+Odisee University of Applied Sciences,Chemistry,0.439954478052929,79
+Odisee University of Applied Sciences,Education,0.398653824980941,153
+Odisee University of Applied Sciences,Engineering,0.546017893805278,193
+Odisee University of Applied Sciences,Finance,0.526406303576187,90
+Odisee University of Applied Sciences,Information Technology,0.73227923429939,51
+Odisee University of Applied Sciences,Marketing,0.514936725475504,298
+Odisee University of Applied Sciences,Nursing,0.392243009622352,65
+Prince Leopold Institute of Tropical Medicine,Medicine,0.330352216101906,12
+Sint-Lukas Brussel,Architecture,0.437913616603338,17
+Sint-Lukas Brussel,Engineering,0.438428856389137,10
+Solvay Business School,Biology,0.504269710839784,23
+Solvay Business School,Business,0.517068432531141,151
+Solvay Business School,Chemistry,0.499581347980211,40
+Solvay Business School,Economics,0.521579910785938,181
+Solvay Business School,Education,0.439005032023007,44
+Solvay Business School,Engineering,0.522961609763272,819
+Solvay Business School,Law,0.497565463408628,294
+Solvay Business School,Marketing,0.483653624237644,21
+Solvay Business School,Mathematics,0.574469322895793,17
+Solvay Business School,Medicine,0.438220786544455,62
+Solvay Business School,Physics,0.590703671135284,33
+Solvay Business School of Economics & Management,Business,0.525428358410734,166
+Solvay Business School of Economics & Management,Economics,0.536865033886079,678
+Solvay Business School of Economics & Management,Engineering,0.529305919385463,907
+The Louvain School of Management,Business,0.500939398973046,33
+The Louvain School of Management,Engineering,0.504864717434777,48
+Thomas More University of Applied Sciences,Accounting,0.536277953992021,56
+Thomas More University of Applied Sciences,Architecture,0.468350529127416,46
+Thomas More University of Applied Sciences,Business,0.518059989337971,2608
+Thomas More University of Applied Sciences,Chemistry,0.444860984836495,53
+Thomas More University of Applied Sciences,Education,0.418050726121456,232
+Thomas More University of Applied Sciences,Engineering,0.535819177881137,468
+Thomas More University of Applied Sciences,Finance,0.554203601692394,121
+Thomas More University of Applied Sciences,Information Technology,0.669329947203046,79
+Thomas More University of Applied Sciences,Law,0.579309281330158,13
+Thomas More University of Applied Sciences,Marketing,0.499668545408844,359
+Thomas More University of Applied Sciences,Nursing,0.383975341088007,133
+UC Leuven-Limburg,Accounting,0.552958411689923,84
+UC Leuven-Limburg,Biology,0.418927026343212,10
+UC Leuven-Limburg,Business,0.522491455736687,2604
+UC Leuven-Limburg,Chemistry,0.465217873850555,169
+UC Leuven-Limburg,Economics,0.495645742541193,20
+UC Leuven-Limburg,Education,0.413545059823901,507
+UC Leuven-Limburg,Engineering,0.58558939367605,402
+UC Leuven-Limburg,Finance,0.549914435859007,202
+UC Leuven-Limburg,Information Technology,0.695449060280905,105
+UC Leuven-Limburg,Law,0.511681481729743,55
+UC Leuven-Limburg,Marketing,0.515981277479614,1083
+UC Leuven-Limburg,Nursing,0.404504664295229,247
+United Business Institutes,Business,0.571060294872161,24
+University College of Namur - Liège - Luxembourg,Business,0.449988231533864,10
+University College of Namur - Liège - Luxembourg,Engineering,0.667942700986339,12
+University College of Namur - Liège - Luxembourg,Marketing,0.523593165082563,25
+University of Antwerp,Architecture,0.460378907448496,307
+University of Antwerp,Biology,0.509963241017288,51
+University of Antwerp,Business,0.532156409860738,347
+University of Antwerp,Chemistry,0.468971051980504,100
+University of Antwerp,Economics,0.52191125498109,409
+University of Antwerp,Education,0.432403203953523,20
+University of Antwerp,Engineering,0.539149123087234,1377
+University of Antwerp,Finance,0.507685278521166,18
+University of Antwerp,Law,0.489197288037594,550
+University of Antwerp,Marketing,0.514241962364472,30
+University of Antwerp,Mathematics,0.612456175159756,45
+University of Antwerp,Medicine,0.4001442998628,353
+University of Antwerp,Physics,0.521136440769836,83
+University of Liege,Engineering,0.517289323227092,56
+University of Liège,Architecture,0.469847189743237,105
+University of Liège,Biology,0.508682656475973,34
+University of Liège,Business,0.520039817086935,569
+University of Liège,Chemistry,0.498482580097884,47
+University of Liège,Economics,0.523913336159008,46
+University of Liège,Engineering,0.534026948956205,823
+University of Liège,Law,0.49905393669494,197
+University of Liège,Mathematics,0.533786225238459,17
+University of Liège,Medicine,0.420800017322168,36
+University of Liège,Physics,0.513761356647785,35
+University of Mons,Architecture,0.514603679141916,57
+University of Mons,Biology,0.575466302028034,18
+University of Mons,Business,0.50848090936267,51
+University of Mons,Chemistry,0.477720479246285,25
+University of Mons,Economics,0.568755470581028,23
+University of Mons,Education,0.523691841731533,10
+University of Mons,Engineering,0.562253119248231,167
+University of Mons,Law,0.463546664850002,53
+University of Mons,Medicine,0.425699182741338,50
+University of Mons,Physics,0.528404410275732,17
+University of Namur,Biology,0.488511231376766,26
+University of Namur,Business,0.533007589320941,211
+University of Namur,Chemistry,0.489871860077578,43
+University of Namur,Economics,0.531172612479924,92
+University of Namur,Engineering,0.568322352653296,399
+University of Namur,Law,0.489028116101675,488
+University of Namur,Mathematics,0.596031381527426,19
+University of Namur,Medicine,0.433832994593681,102
+University of Namur,Physics,0.504411881592002,20
+Université Libre de Bruxelles,Architecture,0.496883044923796,39
+Université catholique de Louvain,Architecture,0.474453063346466,176
+Université catholique de Louvain,Biology,0.499385303357044,22
+Université catholique de Louvain,Business,0.516033389548361,913
+Université catholique de Louvain,Chemistry,0.498502107807179,98
+Université catholique de Louvain,Economics,0.530620417171683,293
+Université catholique de Louvain,Education,0.414537272966305,25
+Université catholique de Louvain,Engineering,0.540215251736438,2563
+Université catholique de Louvain,Law,0.49336300765812,505
+Université catholique de Louvain,Mathematics,0.555554433547966,35
+Université catholique de Louvain,Medicine,0.446952313302272,88
+Université catholique de Louvain,Physics,0.55601532293455,37
+Université libre de Bruxelles,Architecture,0.471770888694511,210
+Université libre de Bruxelles,Biology,0.532512631840937,34
+Université libre de Bruxelles,Business,0.548980164948986,39
+Université libre de Bruxelles,Chemistry,0.517155570435436,89
+Université libre de Bruxelles,Economics,0.516483295347028,78
+Université libre de Bruxelles,Education,0.456363133496827,32
+Université libre de Bruxelles,Engineering,0.55303834031476,612
+Université libre de Bruxelles,Law,0.479380328979013,345
+Université libre de Bruxelles,Mathematics,0.608688261435237,30
+Université libre de Bruxelles,Medicine,0.456171222013492,64
+Université libre de Bruxelles,Physics,0.539907294216668,42
+VIVES University of Applied Sciences,Accounting,0.55354578091564,66
+VIVES University of Applied Sciences,Business,0.512113043416009,1957
+VIVES University of Applied Sciences,Chemistry,0.442710446069001,20
+VIVES University of Applied Sciences,Economics,0.529339733344987,11
+VIVES University of Applied Sciences,Education,0.411839249607719,232
+VIVES University of Applied Sciences,Engineering,0.492750883894633,535
+VIVES University of Applied Sciences,Finance,0.540204914403352,121
+VIVES University of Applied Sciences,Information Technology,0.659508492480212,27
+VIVES University of Applied Sciences,Law,0.598455077897031,17
+VIVES University of Applied Sciences,Marketing,0.51032025855001,316
+VIVES University of Applied Sciences,Nursing,0.394242816887125,118
+Vatel Belgium,Business,0.451773289470589,57
+Vesalius College,Business,0.523074656307181,124
+XIOS Hogeschool Limburg,Business,0.515570055635816,55
+XIOS Hogeschool Limburg,Education,0.454264500879847,12
+XIOS Hogeschool Limburg,Engineering,0.583726557195222,29
+XIOS Hogeschool Limburg,Information Technology,0.595389959418725,13
+École Supérieure d'Informatique (ESI),Engineering,0.711207291564642,46

@@ -1,0 +1,399 @@
+university_name,field,exposure_alljobs_beta,n_people
+Akita International University,Business,0.546571721638364,80
+Akita University,Engineering,0.537222496551163,28
+Aoyama Gakuin University,Business,0.533822020381163,206
+Aoyama Gakuin University,Chemistry,0.539643590448201,10
+Aoyama Gakuin University,Economics,0.541013175526639,238
+Aoyama Gakuin University,Education,0.446098173965443,24
+Aoyama Gakuin University,Engineering,0.579105026451471,73
+Aoyama Gakuin University,Information Technology,0.642139792825412,13
+Aoyama Gakuin University,Law,0.532690340787794,100
+Aoyama Gakuin University,Marketing,0.476457893169076,11
+Aoyama Gakuin University,Physics,0.526808999548163,12
+Ashikaga Institute of Technology,Engineering,0.48016347597422,10
+Asia University,Business,0.497935825551776,18
+Chiba Institute of Technology,Engineering,0.583453424565397,29
+Chiba University,Architecture,0.513034245506491,18
+Chiba University,Chemistry,0.527834743884621,16
+Chiba University,Economics,0.540397945474588,22
+Chiba University,Education,0.563165706770117,17
+Chiba University,Engineering,0.553705810554556,156
+Chiba University,Law,0.545234173756593,21
+Chiba University,Physics,0.573859887281429,14
+Chuo University,Accounting,0.513357777747778,22
+Chuo University,Business,0.535475404347812,100
+Chuo University,Economics,0.547341256596344,107
+Chuo University,Engineering,0.539254228620827,70
+Chuo University,Finance,0.51130148589598,24
+Chuo University,Law,0.519569453652501,173
+Chuo University,Marketing,0.541785192314574,26
+Cyber University,Business,0.514110446129633,25
+Dokkyo University,Business,0.498315626916989,22
+Dokkyo University,Economics,0.566621185660174,22
+Doshisha University,Business,0.509992658226499,54
+Doshisha University,Economics,0.521161190187536,128
+Doshisha University,Education,0.555274151986352,17
+Doshisha University,Engineering,0.592017909082823,107
+Doshisha University,Law,0.533356025493209,85
+Ehime University,Engineering,0.424387825140117,19
+Fukuoka Institute of Technology,Engineering,0.644012742615135,14
+Fukuoka University,Engineering,0.526334918874026,11
+Gakushuin University,Business,0.520735615008882,40
+Gakushuin University,Economics,0.570955502084837,31
+Gakushuin University,Law,0.515154855066879,27
+Gakushuin University,Physics,0.587417923855851,11
+Gifu University,Engineering,0.522942781624662,35
+Gunma University,Engineering,0.587935605379682,43
+Hiroshima University,Education,0.483994823646491,25
+Hiroshima University,Engineering,0.553608728195636,56
+Hitotsubashi University,Accounting,0.532314412014681,15
+Hitotsubashi University,Business,0.497278176021392,174
+Hitotsubashi University,Economics,0.514728666420178,265
+Hitotsubashi University,Finance,0.509408142178366,26
+Hitotsubashi University,Law,0.496534667537679,97
+Hitotsubashi University,Marketing,0.528296407034872,23
+Hokkaido Information University,Business,0.546654479397981,11
+Hokkaido University,Biology,0.536948057367161,12
+Hokkaido University,Business,0.506425583092956,33
+Hokkaido University,Chemistry,0.510339886225207,27
+Hokkaido University,Economics,0.497414854378599,37
+Hokkaido University,Engineering,0.542685298511441,178
+Hokkaido University,Law,0.516203069886151,35
+Hokkaido University,Mathematics,0.553759144833249,10
+Hokkaido University,Medicine,0.451994758809741,12
+Hokkaido University,Physics,0.588811177906608,15
+Hokkaido University of Education,Education,0.468422217465733,23
+Hosei University,Business,0.533447034539527,141
+Hosei University,Economics,0.530412419878951,96
+Hosei University,Engineering,0.569043544115925,92
+Hosei University,Law,0.53864987324175,41
+Hyogo University,Business,0.610612488425195,11
+Hyogo University,Economics,0.481372655981289,16
+Hyogo University,Engineering,0.576581437642477,27
+Ibaraki University,Engineering,0.554433189231573,35
+International Christian University,Biology,0.548833958301231,21
+International Christian University,Business,0.552496846445232,102
+International Christian University,Chemistry,0.559256707237056,10
+International Christian University,Economics,0.550126358411191,75
+International Christian University,Education,0.511795274395074,69
+International Christian University,Law,0.510140840198507,15
+International Christian University,Physics,0.470345919128149,13
+Iwate University,Engineering,0.603321977189442,17
+J. F. Oberlin University,Business,0.518362257892175,24
+Japan University of Economics,Business,0.543011013004987,13
+Japan Women's University,Business,0.449540112221218,10
+Kanagawa Institute of Technology,Engineering,0.503444113023754,24
+Kanagawa University,Business,0.462842623771484,37
+Kanagawa University,Economics,0.577771112394142,29
+Kanagawa University,Engineering,0.593578024370746,10
+Kanazawa Institute of Technology,Engineering,0.614348884616589,21
+Kanazawa University,Engineering,0.545377377287406,37
+Kanazawa University,Law,0.515162824665811,11
+Kansai Gaidai University,Business,0.497036316485878,30
+Keio University,Accounting,0.52396290533978,13
+Keio University,Architecture,0.495643623261524,18
+Keio University,Biology,0.623241782002532,13
+Keio University,Business,0.522396592030252,796
+Keio University,Chemistry,0.506424314653457,54
+Keio University,Economics,0.534545596577011,1164
+Keio University,Education,0.533542290478673,22
+Keio University,Engineering,0.568078818828422,571
+Keio University,Finance,0.526924302627925,31
+Keio University,Information Technology,0.589183185526199,36
+Keio University,Law,0.514222796248801,527
+Keio University,Marketing,0.532778328713288,33
+Keio University,Mathematics,0.579346983966242,17
+Keio University,Nursing,0.47150358080533,23
+Keio University,Physics,0.583154177047912,71
+Keio University,Statistics,0.582348613653895,26
+Kindai University,Business,0.573451931085016,25
+Kindai University,Economics,0.539468257846396,22
+Kindai University,Engineering,0.509564731212244,39
+Kindai University,Law,0.520675641893925,13
+Kitami Institute of Technology,Engineering,0.559036133835173,14
+Kobe University,Biology,0.507915931388182,10
+Kobe University,Business,0.511825719840623,137
+Kobe University,Chemistry,0.513359369412599,13
+Kobe University,Economics,0.534086093638287,103
+Kobe University,Engineering,0.557802434324462,105
+Kobe University,Law,0.498845288264692,35
+Kobe University,Physics,0.524514902173188,14
+Kogakuin University,Engineering,0.572199637118175,29
+Kokugakuin University,Economics,0.573829657310262,15
+Kokugakuin University,Law,0.57205244016314,15
+Kokushikan University,Business,0.571190038187807,15
+Komazawa University,Business,0.508485154790259,22
+Komazawa University,Economics,0.505837416041632,20
+Konan University,Business,0.498342527220111,35
+Konan University,Economics,0.521281889826252,24
+Kumamoto University,Engineering,0.532307137171353,42
+Kwansei Gakuin University,Business,0.523887723344873,107
+Kwansei Gakuin University,Economics,0.461421134952462,91
+Kwansei Gakuin University,Engineering,0.591390228252656,10
+Kwansei Gakuin University,Law,0.533228708484097,41
+Kyoto Institute of Technology,Architecture,0.511762845320922,14
+Kyoto Institute of Technology,Engineering,0.531301706435945,68
+Kyoto Sangyo University,Business,0.525598211024832,16
+Kyoto University,Architecture,0.504749621678503,28
+Kyoto University,Biology,0.54289183055308,20
+Kyoto University,Business,0.482766173815881,129
+Kyoto University,Chemistry,0.501356762348226,43
+Kyoto University,Economics,0.512609803953797,235
+Kyoto University,Education,0.509658783625213,27
+Kyoto University,Engineering,0.541250460619026,654
+Kyoto University,Finance,0.547012139662711,11
+Kyoto University,Law,0.500097558809796,141
+Kyoto University,Mathematics,0.581858112038232,35
+Kyoto University,Physics,0.569059749322512,51
+Kyoto University of Art and Design,Architecture,0.535315604944761,11
+Kyushu Institute of Technology,Engineering,0.566206162563,58
+Kyushu University,Architecture,0.607876325338189,10
+Kyushu University,Biology,0.561422004690253,12
+Kyushu University,Business,0.525251788874036,24
+Kyushu University,Chemistry,0.519447715150543,11
+Kyushu University,Economics,0.552481307696591,53
+Kyushu University,Engineering,0.551813310125933,219
+Kyushu University,Law,0.52522737316668,22
+Kyushu University,Physics,0.54196997533887,16
+Meiji Gakuin University,Business,0.545325293276159,43
+Meiji Gakuin University,Economics,0.575465073147788,30
+Meiji Gakuin University,Law,0.516076123920172,23
+Meiji University,Accounting,0.530323236693497,12
+Meiji University,Architecture,0.45449703057874,19
+Meiji University,Business,0.511305056594903,250
+Meiji University,Chemistry,0.510648804820198,15
+Meiji University,Economics,0.519882512688916,141
+Meiji University,Engineering,0.559425528829759,97
+Meiji University,Finance,0.540981461312375,10
+Meiji University,Law,0.542405975885236,76
+Meiji University,Marketing,0.514386529992733,23
+Meijo University,Business,0.54902068561378,11
+Muroran Institute of Technology,Engineering,0.488985301565649,23
+Musashi University,Economics,0.502458142731891,16
+Musashino Art University,Architecture,0.441028236312505,16
+Musashino Art University,Business,0.579064526345579,10
+Musashino University,Business,0.495112603331648,33
+NUCB Undergraduate School,Business,0.490713234867564,13
+Nagaoka University of Technology,Engineering,0.535968404294167,80
+Nagasaki University,Economics,0.508822629596254,11
+Nagasaki University,Engineering,0.490886252962612,10
+Nagoya City University,Economics,0.596014110468169,12
+Nagoya Institute of Technology,Engineering,0.568059165171897,128
+Nagoya University,Accounting,0.542519635245695,23
+Nagoya University,Business,0.500939555655027,21
+Nagoya University,Chemistry,0.536013977099306,22
+Nagoya University,Economics,0.496564037521366,65
+Nagoya University,Engineering,0.584169920493125,234
+Nagoya University,Law,0.525590895362754,42
+Nagoya University,Physics,0.558749784847693,34
+Nagoya University of Foreign Studies,Business,0.509260500449536,22
+Nanzan University,Business,0.515130278124243,24
+Nanzan University,Economics,0.482163687003393,18
+Nanzan University,Law,0.549146815003728,10
+National Defense Academy of Japan,Engineering,0.411344655965174,18
+National University Corporation Shizuoka University,Economics,0.592374417586299,12
+National University Corporation Shizuoka University,Education,0.429779957133963,11
+National University Corporation Shizuoka University,Engineering,0.573843595652929,77
+Nihon Fukushi University,Business,0.481956450023693,10
+Nihon University,Accounting,0.508579672499841,10
+Nihon University,Architecture,0.455149700375124,22
+Nihon University,Business,0.524470419354784,75
+Nihon University,Chemistry,0.541283162172616,15
+Nihon University,Economics,0.556812210508229,82
+Nihon University,Education,0.426611543240698,10
+Nihon University,Engineering,0.547794227823372,82
+Nihon University,Law,0.511033836900095,47
+Nihon University,Marketing,0.557458477093005,10
+Nihon University,Medicine,0.426378153347296,15
+Niigata University,Engineering,0.554251573804565,42
+Nippon Institute of Technology,Engineering,0.601966558835751,12
+Nippon Sport Science University,Education,0.422422065435084,12
+Ochanomizu University,Engineering,0.510064093815938,16
+Oita University,Engineering,0.522169415591268,11
+Okayama University,Economics,0.553847599885172,13
+Okayama University,Education,0.516486215705859,10
+Okayama University,Engineering,0.596971836150988,44
+Okayama University,Law,0.490410110764645,11
+Okayama University of Science,Engineering,0.512618222792068,14
+Osaka City University,Business,0.520437580479564,15
+Osaka City University,Economics,0.549453753434328,15
+Osaka City University,Engineering,0.480503476968836,20
+Osaka Institute of Technology,Engineering,0.529728718589044,25
+Osaka Prefecture University,Economics,0.51761743750841,12
+Osaka Prefecture University,Engineering,0.549904518858345,99
+Osaka University,Business,0.496727082387223,32
+Osaka University,Chemistry,0.523853782639738,44
+Osaka University,Economics,0.541278290678887,87
+Osaka University,Engineering,0.561589081295309,444
+Osaka University,Law,0.487136474522689,58
+Osaka University,Nursing,0.225889876536697,11
+Osaka University,Physics,0.591016008422906,42
+Rikkyo University,Business,0.541840886205476,229
+Rikkyo University,Chemistry,0.517711050863421,11
+Rikkyo University,Economics,0.53930814021618,83
+Rikkyo University,Finance,0.542432930347915,14
+Rikkyo University,Law,0.5259444850347,69
+Rikkyo University,Physics,0.588646653273669,16
+Ritsumeikan Asia Pacific University,Business,0.534017134821851,954
+Ritsumeikan Asia Pacific University,Economics,0.554470324342029,18
+Ritsumeikan Asia Pacific University,Finance,0.556902141743559,58
+Ritsumeikan Asia Pacific University,Marketing,0.501710983231079,52
+Ritsumeikan University,Business,0.531305551652131,167
+Ritsumeikan University,Economics,0.532017793709309,73
+Ritsumeikan University,Engineering,0.556578134758046,168
+Ritsumeikan University,Information Technology,0.604764783265123,14
+Ritsumeikan University,Law,0.52776655446295,81
+Ryukoku University,Business,0.519134867490249,23
+Ryukoku University,Economics,0.473393760736493,11
+Saga University,Engineering,0.535298555663152,14
+Saitama University,Biology,0.481269598054161,10
+Saitama University,Business,0.531072959341644,11
+Saitama University,Economics,0.551968694356678,26
+Saitama University,Education,0.493192609917423,22
+Saitama University,Engineering,0.518348153707216,32
+Sanno University,Business,0.56826411812314,66
+Seijo University,Business,0.497310866119483,14
+Seijo University,Economics,0.538680746931041,14
+Seijo University,Law,0.504458511174192,21
+Seikei University,Business,0.492513324736385,21
+Seikei University,Economics,0.524442086233889,31
+Seikei University,Engineering,0.584723662765622,22
+Seikei University,Law,0.50265512524068,18
+Seinan Gakuin University,Business,0.513610944663835,12
+Seinan Gakuin University,Economics,0.465307273143225,12
+Senshu University,Business,0.541578102411076,31
+Senshu University,Economics,0.546827698032876,41
+Senshu University,Engineering,0.566802081414285,10
+Senshu University,Law,0.521442464240618,19
+Shibaura Institute of Technology,Architecture,0.515569619558221,15
+Shibaura Institute of Technology,Engineering,0.580205285049363,119
+Shiga University,Business,0.547411686539578,15
+Shiga University,Economics,0.528491731983528,23
+Shinshu University,Economics,0.521803030697867,27
+Shinshu University,Engineering,0.573112083295563,50
+Soka University,Business,0.504738303875615,49
+Soka University,Economics,0.585499257931822,82
+Soka University,Education,0.564945067620563,14
+Soka University,Engineering,0.633484788852453,25
+Soka University,Law,0.543155045094758,24
+Sophia University,Business,0.520880378924691,389
+Sophia University,Chemistry,0.522393405507821,18
+Sophia University,Economics,0.563139720268546,87
+Sophia University,Education,0.499316511805969,28
+Sophia University,Engineering,0.563018132453591,86
+Sophia University,Law,0.514693989783203,163
+Sophia University,Physics,0.527804946142333,19
+St. Luke's College of Nursing,Nursing,0.429799978262378,11
+Takasaki City University of Economics,Economics,0.50210042471918,11
+Takushoku University,Business,0.561101649621554,32
+Takushoku University,Economics,0.578393190616839,16
+Takushoku University,Engineering,0.572349760705797,18
+Tamagawa University,Business,0.512330468307779,19
+Tamagawa University,Education,0.438947754369798,14
+Temple University Japan,Business,0.522609382434344,136
+Temple University Japan,Economics,0.495031751457904,73
+The Open University of Japan,Education,0.498495702609861,10
+The University of Electro-Communications,Engineering,0.596856573895676,169
+The University of Tokyo,Architecture,0.525047037312094,45
+The University of Tokyo,Biology,0.524814009553028,39
+The University of Tokyo,Business,0.452830189896311,238
+The University of Tokyo,Chemistry,0.517777608705735,83
+The University of Tokyo,Economics,0.514385253810128,596
+The University of Tokyo,Education,0.504126625887961,75
+The University of Tokyo,Engineering,0.55638476202778,1275
+The University of Tokyo,Finance,0.511343703314396,65
+The University of Tokyo,Information Technology,0.651411464834135,13
+The University of Tokyo,Law,0.485152109770886,439
+The University of Tokyo,Mathematics,0.55793369155631,36
+The University of Tokyo,Medicine,0.428130367728862,35
+The University of Tokyo,Physics,0.557014705333656,131
+The University of Tokyo,Statistics,0.502821170219626,12
+Tohoku University,Biology,0.54396913787098,10
+Tohoku University,Business,0.536011397472811,27
+Tohoku University,Chemistry,0.530909104268983,34
+Tohoku University,Economics,0.533838937250011,52
+Tohoku University,Education,0.475661886351021,11
+Tohoku University,Engineering,0.547533896550532,341
+Tohoku University,Law,0.511296449016273,30
+Tohoku University,Physics,0.546816877461162,39
+Tokai University,Business,0.532714185936887,15
+Tokai University,Engineering,0.540665379279447,122
+Tokyo City University,Engineering,0.594099689015367,42
+Tokyo Denki University,Engineering,0.554697102175902,62
+Tokyo Gakugei University,Education,0.498459202272786,65
+Tokyo Institute of Technology,Biology,0.548639759627585,16
+Tokyo Institute of Technology,Business,0.507404453497464,16
+Tokyo Institute of Technology,Chemistry,0.557824481223712,22
+Tokyo Institute of Technology,Engineering,0.561441950361843,570
+Tokyo Institute of Technology,Information Technology,0.610772063849559,14
+Tokyo Institute of Technology,Physics,0.529226284073893,46
+Tokyo International University,Business,0.477502157206279,100
+Tokyo International University,Economics,0.495238111814991,80
+Tokyo Keizai University,Business,0.515192319664278,15
+Tokyo Keizai University,Economics,0.515354422148767,13
+Tokyo Metropolitan University,Business,0.562892114803755,40
+Tokyo Metropolitan University,Chemistry,0.540777365249221,11
+Tokyo Metropolitan University,Economics,0.542638832880169,12
+Tokyo Metropolitan University,Engineering,0.536055405721075,97
+Tokyo Metropolitan University,Law,0.574283028051814,25
+Tokyo Metropolitan University,Physics,0.523905671436309,10
+Tokyo University of Agriculture,Business,0.46467095050025,21
+Tokyo University of Agriculture and Technology,Chemistry,0.571621220596967,10
+Tokyo University of Agriculture and Technology,Engineering,0.542522902148316,146
+Tokyo University of Foreign Studies,Economics,0.557145018817181,14
+Tokyo University of Foreign Studies,Education,0.528508629626315,10
+Tokyo University of Marine Science and Technology,Engineering,0.465068638883188,21
+Tokyo University of Science,Architecture,0.502137848376026,27
+Tokyo University of Science,Biology,0.540248715308342,13
+Tokyo University of Science,Business,0.552016554811825,55
+Tokyo University of Science,Chemistry,0.519765637256609,59
+Tokyo University of Science,Engineering,0.56104272324857,290
+Tokyo University of Science,Mathematics,0.599621544543582,46
+Tokyo University of Science,Physics,0.554080334545082,82
+Tokyo University of Technology,Engineering,0.614518526511029,53
+Tottori University,Engineering,0.596081926045554,19
+Toyo University,Business,0.526821762570333,62
+Toyo University,Economics,0.543848036116463,30
+Toyo University,Engineering,0.581621350923541,20
+Toyohashi University of Technology,Engineering,0.552226148568899,103
+Toyota Technological Institute,Engineering,0.615724952342525,10
+University of Aizu,Engineering,0.577327133608089,51
+University of Fukui,Engineering,0.579544721295746,29
+University of Toyama,Engineering,0.578337401778672,15
+University of Tsukuba,Biology,0.509496122248845,26
+University of Tsukuba,Business,0.511310326239072,10
+University of Tsukuba,Chemistry,0.551154551692342,13
+University of Tsukuba,Economics,0.543540086537747,23
+University of Tsukuba,Education,0.505262484944229,31
+University of Tsukuba,Engineering,0.581617205496361,187
+University of Tsukuba,Physics,0.562316101496652,21
+University of the Ryukyus,Business,0.52544123502434,10
+University of the Ryukyus,Engineering,0.567580282696916,11
+Utsunomiya University,Engineering,0.529070840813429,31
+Wakayama University,Engineering,0.549141086927324,13
+Waseda University,Accounting,0.538353936374468,34
+Waseda University,Architecture,0.517989563615541,80
+Waseda University,Biology,0.570332873716264,20
+Waseda University,Business,0.51602323796581,281
+Waseda University,Chemistry,0.526508005771276,53
+Waseda University,Economics,0.531790423966863,726
+Waseda University,Education,0.512598176019322,149
+Waseda University,Engineering,0.558159385611543,749
+Waseda University,Finance,0.517327444763177,34
+Waseda University,Information Technology,0.667492662033434,12
+Waseda University,Law,0.515362393070589,299
+Waseda University,Marketing,0.542417494767246,54
+Waseda University,Mathematics,0.530239580613385,35
+Waseda University,Physics,0.53327615070819,56
+Waseda University,Statistics,0.518686291860415,11
+Yamagata University,Engineering,0.547900655709999,30
+Yamaguchi University,Engineering,0.556670302871162,31
+Yamanashi Gakuin University,Business,0.529598904906044,10
+Yokohama City University,Business,0.528513952240407,41
+Yokohama City University,Economics,0.553552502352309,35
+Yokohama National University,Architecture,0.526895317847324,13
+Yokohama National University,Business,0.537744289688193,129
+Yokohama National University,Economics,0.56068082058836,87
+Yokohama National University,Education,0.485510977404539,32
+Yokohama National University,Engineering,0.561904219178507,176
+Yokohama National University,Physics,0.641548296478204,14

@@ -1,0 +1,565 @@
+university_name,field,exposure_alljobs_beta,n_people
+Aboukir High Institutes,Business,0.545990717579257,24
+Aboukir High Institutes,Engineering,0.581441513524729,12
+Ahram Canadian University,Accounting,0.535435136456421,37
+Ahram Canadian University,Architecture,0.553148560542815,14
+Ahram Canadian University,Business,0.549282045807065,410
+Ahram Canadian University,Economics,0.573333470118696,23
+Ahram Canadian University,Engineering,0.621610059529178,425
+Ahram Canadian University,Finance,0.562768081201403,13
+Ahram Canadian University,Marketing,0.532406504018537,23
+Ain Shams University,Accounting,0.548495650430066,12750
+Ain Shams University,Architecture,0.496718103378118,1117
+Ain Shams University,Biology,0.499619166312988,148
+Ain Shams University,Business,0.531464729625362,5613
+Ain Shams University,Chemistry,0.483595462136152,1619
+Ain Shams University,Economics,0.513230698254694,64
+Ain Shams University,Education,0.459240399781292,1342
+Ain Shams University,Engineering,0.545693553173648,14536
+Ain Shams University,Finance,0.551542430365382,4342
+Ain Shams University,Information Technology,0.582755359913379,120
+Ain Shams University,Law,0.507791680799599,5658
+Ain Shams University,Marketing,0.51859306998171,136
+Ain Shams University,Mathematics,0.444745450234891,53
+Ain Shams University,Medicine,0.425370221369681,1277
+Ain Shams University,Nursing,0.385244140939362,172
+Ain Shams University,Physics,0.495841630188978,154
+Ain Shams University,Statistics,0.51894707754258,19
+Al-Azhar University,Accounting,0.54530770160107,1604
+Al-Azhar University,Architecture,0.492324686709577,272
+Al-Azhar University,Biology,0.470889269250043,186
+Al-Azhar University,Business,0.542978094784881,577
+Al-Azhar University,Chemistry,0.46368278717722,1470
+Al-Azhar University,Economics,0.537564840772329,108
+Al-Azhar University,Education,0.464041952091256,609
+Al-Azhar University,Engineering,0.508037684433842,3544
+Al-Azhar University,Finance,0.559506196700468,418
+Al-Azhar University,Information Technology,0.58185920940361,48
+Al-Azhar University,Law,0.5018570993939,584
+Al-Azhar University,Mathematics,0.478672003118078,18
+Al-Azhar University,Medicine,0.434360024855924,362
+Al-Azhar University,Nursing,0.366974897699733,14
+Al-Azhar University,Physics,0.526824161281103,48
+Al-Azhar University,Statistics,0.600443157984314,50
+Alexandria Higher Institute of Engineering & Technology (AIET),Engineering,0.548330209608528,201
+Alexandria University,Accounting,0.542391598729278,6677
+Alexandria University,Architecture,0.496445981995836,1115
+Alexandria University,Biology,0.472725200938483,115
+Alexandria University,Business,0.534754090713619,4365
+Alexandria University,Chemistry,0.464522597407357,2515
+Alexandria University,Economics,0.542850884590673,425
+Alexandria University,Education,0.428426701702411,1001
+Alexandria University,Engineering,0.513757784167192,13448
+Alexandria University,Finance,0.545534106981107,2437
+Alexandria University,Information Technology,0.596818143951461,68
+Alexandria University,Law,0.506886539963161,1852
+Alexandria University,Marketing,0.51392723987055,131
+Alexandria University,Mathematics,0.429030041418956,38
+Alexandria University,Medicine,0.431358039209923,1502
+Alexandria University,Nursing,0.372375322245253,245
+Alexandria University,Physics,0.498637500263673,142
+Alexandria University,Statistics,0.587608323264272,44
+Alsun Academy,Accounting,0.522521660042381,38
+Alsun Academy,Business,0.528226966920088,236
+Alsun Academy,Engineering,0.53857382146227,56
+Alsun Academy,Information Technology,0.527671606285114,20
+"Arab Academy for Science, Technology and Maritime Transport",Accounting,0.543670634949137,85
+"Arab Academy for Science, Technology and Maritime Transport",Architecture,0.487336627738507,762
+"Arab Academy for Science, Technology and Maritime Transport",Business,0.528654636344894,5492
+"Arab Academy for Science, Technology and Maritime Transport",Education,0.384000846008926,15
+"Arab Academy for Science, Technology and Maritime Transport",Engineering,0.528099273591844,7088
+"Arab Academy for Science, Technology and Maritime Transport",Finance,0.543961567054189,650
+"Arab Academy for Science, Technology and Maritime Transport",Information Technology,0.627080297610636,43
+"Arab Academy for Science, Technology and Maritime Transport",Law,0.523687636834185,14
+"Arab Academy for Science, Technology and Maritime Transport",Marketing,0.513040908087493,313
+Arish University,Accounting,0.478088828676632,10
+Arish University,Education,0.365134847553113,19
+Arish University,Engineering,0.479428786176794,13
+Assiut University,Accounting,0.552935088215947,1347
+Assiut University,Architecture,0.487739633310257,101
+Assiut University,Biology,0.537551634779768,11
+Assiut University,Business,0.533123804522238,222
+Assiut University,Chemistry,0.470431379479733,327
+Assiut University,Economics,0.496904021513048,11
+Assiut University,Education,0.463997903484213,206
+Assiut University,Engineering,0.540330449381326,2111
+Assiut University,Finance,0.549579171435059,332
+Assiut University,Information Technology,0.65506852506859,48
+Assiut University,Law,0.507490258092544,440
+Assiut University,Medicine,0.457300276409178,428
+Assiut University,Nursing,0.357957755370935,35
+Assiut University,Physics,0.49491091183932,26
+Aswan University,Accounting,0.548627155598817,450
+Aswan University,Architecture,0.434495100827469,17
+Aswan University,Business,0.547646012356364,92
+Aswan University,Chemistry,0.438072894483825,84
+Aswan University,Education,0.481224945921404,77
+Aswan University,Engineering,0.502836451415554,696
+Aswan University,Finance,0.548764685919183,96
+Aswan University,Law,0.515474790337553,41
+Aswan University,Medicine,0.467796356954606,43
+Aswan University,Nursing,0.369717299841413,26
+Auc School of Continuing Education,Architecture,0.5031991993749,20
+Auc School of Continuing Education,Business,0.533106901090052,148
+Auc School of Continuing Education,Engineering,0.498230718418186,76
+Auc School of Continuing Education,Finance,0.542764496481878,24
+Auc School of Continuing Education,Marketing,0.510804862223969,20
+Badr University in Cairo,Business,0.541474549917874,66
+Badr University in Cairo,Engineering,0.473057978967193,34
+Badr University in Cairo,Medicine,0.298431680856405,11
+Benha National University جامعة بنها الأهلية,Accounting,0.526153721550508,15
+Benha National University جامعة بنها الأهلية,Business,0.486710050385823,10
+Benha National University جامعة بنها الأهلية,Engineering,0.480598736103608,11
+Benha University,Accounting,0.549825415391491,1316
+Benha University,Architecture,0.505587201063498,256
+Benha University,Business,0.531297403386221,376
+Benha University,Chemistry,0.470312158740438,555
+Benha University,Economics,0.494691630820494,20
+Benha University,Education,0.44422009472866,176
+Benha University,Engineering,0.51661234882883,5275
+Benha University,Finance,0.556947934500691,413
+Benha University,Information Technology,0.612000041432665,10
+Benha University,Law,0.51151834364645,288
+Benha University,Medicine,0.449853863962498,440
+Benha University,Nursing,0.377986510688436,47
+Benha University,Physics,0.477931785518606,15
+Benha University,Statistics,0.567048411705649,13
+Beni-Suef University,Accounting,0.546903449364311,1691
+Beni-Suef University,Architecture,0.499988568624427,24
+Beni-Suef University,Biology,0.481989947084611,11
+Beni-Suef University,Business,0.531195062540423,278
+Beni-Suef University,Chemistry,0.46787217596312,175
+Beni-Suef University,Economics,0.550305474086007,188
+Beni-Suef University,Education,0.446804911794391,157
+Beni-Suef University,Engineering,0.533159740540213,522
+Beni-Suef University,Finance,0.550589538615913,393
+Beni-Suef University,Information Technology,0.645769565885417,19
+Beni-Suef University,Law,0.509683164563901,437
+Beni-Suef University,Medicine,0.433763278071282,171
+Beni-Suef University,Nursing,0.36972124724783,61
+Beni-Suef University,Physics,0.45723967110537,13
+Beni-Suef University,Statistics,0.602100180559214,10
+"Cairo Higher Institute for Engineering, Computer Science and Management",Accounting,0.565747052984229,13
+"Cairo Higher Institute for Engineering, Computer Science and Management",Architecture,0.476936035597446,45
+"Cairo Higher Institute for Engineering, Computer Science and Management",Business,0.538612099790664,86
+"Cairo Higher Institute for Engineering, Computer Science and Management",Engineering,0.581153811254516,358
+"Cairo Higher Institute for Engineering, Computer Science and Management",Information Technology,0.576070573210563,14
+Cairo University,Accounting,0.550432610609145,13512
+Cairo University,Architecture,0.485526507735136,1093
+Cairo University,Biology,0.49457489111317,58
+Cairo University,Business,0.52974610292746,5913
+Cairo University,Chemistry,0.472968695867247,1510
+Cairo University,Economics,0.54415069937747,1640
+Cairo University,Education,0.455826732331885,571
+Cairo University,Engineering,0.537369127544884,13617
+Cairo University,Finance,0.55241465744054,4751
+Cairo University,Information Technology,0.646098904730365,272
+Cairo University,Law,0.509913070137005,6001
+Cairo University,Marketing,0.534794715991573,341
+Cairo University,Mathematics,0.515758707824729,30
+Cairo University,Medicine,0.436777908001849,2525
+Cairo University,Nursing,0.382920395749221,247
+Cairo University,Physics,0.501596181061842,107
+Cairo University,Statistics,0.574025565541287,243
+Culture and Science City,Accounting,0.540820805078129,14
+Culture and Science City,Business,0.529760334039188,75
+Culture and Science City,Economics,0.513609725367932,23
+Culture and Science City,Engineering,0.575078648745051,209
+Damanhour University,Accounting,0.545213183878944,591
+Damanhour University,Architecture,0.436505548843235,16
+Damanhour University,Business,0.528122000024908,233
+Damanhour University,Chemistry,0.464442016479573,225
+Damanhour University,Economics,0.523113165882642,22
+Damanhour University,Education,0.453239995816921,99
+Damanhour University,Engineering,0.509834378581448,36
+Damanhour University,Finance,0.550820943325717,175
+Damanhour University,Medicine,0.430311050215377,129
+Damanhour University,Nursing,0.364771060309242,82
+Damanhour University,Physics,0.451694591397171,19
+Delta University for Science and Technology,Accounting,0.478994779618338,16
+Delta University for Science and Technology,Architecture,0.511395269919197,69
+Delta University for Science and Technology,Business,0.5334736836811,317
+Delta University for Science and Technology,Engineering,0.508043921332178,665
+Delta University for Science and Technology,Finance,0.578660585335676,10
+Delta University for Science and Technology,Information Technology,0.607027346310283,22
+Delta University for Science and Technology,Medicine,0.290958334438923,30
+EGI Academy,Accounting,0.526102459584776,36
+EGI Academy,Architecture,0.492623909202615,12
+EGI Academy,Business,0.538184119730972,94
+EGI Academy,Engineering,0.535187605131036,95
+EGI Academy,Information Technology,0.595750349630989,15
+Egypt-Japan University for Science and Technology,Business,0.453251917189967,11
+Egypt-Japan University for Science and Technology,Engineering,0.553201206317199,17
+Egyptian Chinese University,Business,0.51757694816523,58
+Egyptian Chinese University,Economics,0.543444677428377,25
+Egyptian Chinese University,Engineering,0.582713594085464,17
+Egyptian Chinese University,Finance,0.56083184073395,19
+Egyptian Chinese University,Marketing,0.576328099620163,12
+Egyptian E-Learning University,Business,0.556331292472696,128
+Egyptian E-Learning University,Engineering,0.635132565567035,59
+Egyptian E-Learning University,Information Technology,0.662451026583605,100
+Egyptian Russian University,Architecture,0.48819852527877,35
+Egyptian Russian University,Business,0.490054546019707,18
+Egyptian Russian University,Engineering,0.4976329621393,585
+Egyptian Russian University,Medicine,0.311007994002902,10
+El Minya Higher Institute of Engineering and Technology,Engineering,0.491434826324508,57
+El Obour High Institute for Engineering and Technology-OHIE,Architecture,0.475174759477278,13
+El Obour High Institute for Engineering and Technology-OHIE,Business,0.541363586844758,13
+El Obour High Institute for Engineering and Technology-OHIE,Engineering,0.518893316126276,115
+El Shorouk Academy,Accounting,0.552247226424133,149
+El Shorouk Academy,Architecture,0.506433680703595,357
+El Shorouk Academy,Business,0.554492230430482,681
+El Shorouk Academy,Engineering,0.535637150336672,3818
+El Shorouk Academy,Finance,0.526513337445828,31
+El Shorouk Academy,Information Technology,0.595275343734903,91
+El Shorouk Academy,Marketing,0.568979931096422,38
+FEPS - Faculty of Economics and Political Sciences at Cairo University,Business,0.607823118559548,16
+FEPS - Faculty of Economics and Political Sciences at Cairo University,Economics,0.545554790211175,652
+FEPS - Faculty of Economics and Political Sciences at Cairo University,Statistics,0.571743595129347,170
+"Faculty  of Petroleum and Mining Engineering, Suez University",Engineering,0.465277097671202,1452
+Faculty of Commerce & Business Administration,Business,0.542337556224129,11
+Faculty of Commerce at Ain Shams University,Accounting,0.559190051795944,34
+Faculty of Commerce at Alexandria University,Accounting,0.534578212303622,11
+Faculty of Commerce at Cairo University,Accounting,0.576929716308002,37
+Faculty of Commerce at Cairo University,Business,0.575699146577829,12
+Faculty of Economics & Political Science,Economics,0.531041147828193,12
+"Faculty of Electronic Engineering, Menoufia University",Engineering,0.585989771545897,1053
+Faculty of Engineering at Ain Shams University,Engineering,0.544391496205789,55
+Faculty of Engineering at Alexandria University,Engineering,0.519870871425626,83
+Faculty of Engineering at Cairo University,Engineering,0.508931474542259,120
+Faculty of Engineering at Helwan University,Engineering,0.512277151821121,50
+Faculty of Engineering at Mansoura University,Engineering,0.510093210202725,22
+Faculty of Engineering at Minia University,Engineering,0.445274996077431,10
+Faculty of Engineering at Tanta University,Engineering,0.481584044543686,13
+Faculty of Law at Cairo University,Law,0.551846699840038,10
+Fayoum University,Architecture,0.511087020408865,97
+Fayoum University,Biology,0.526255522130507,21
+Fayoum University,Business,0.480646892785174,149
+Fayoum University,Chemistry,0.475309737164756,177
+Fayoum University,Education,0.474720912101998,125
+Fayoum University,Engineering,0.53689846810289,1008
+Fayoum University,Law,0.507986297182006,14
+Fayoum University,Medicine,0.443622964182481,52
+Fayoum University,Nursing,0.365263784693902,31
+Fayoum University,Physics,0.508892723885516,24
+French University in Egypt,Business,0.550435758364883,144
+French University in Egypt,Engineering,0.575141855614328,53
+Future Academy - Higher Future Institute For Specialized Technological Studies,Accounting,0.548265353269493,126
+Future Academy - Higher Future Institute For Specialized Technological Studies,Business,0.53666380401032,707
+Future Academy - Higher Future Institute For Specialized Technological Studies,Engineering,0.587240055764162,260
+Future Academy - Higher Future Institute For Specialized Technological Studies,Finance,0.569517503764554,30
+Future Academy - Higher Future Institute For Specialized Technological Studies,Information Technology,0.584202726046217,105
+Future University in Egypt,Accounting,0.553789738296386,71
+Future University in Egypt,Architecture,0.495426271549753,55
+Future University in Egypt,Business,0.53159354113641,609
+Future University in Egypt,Economics,0.53493709083179,208
+Future University in Egypt,Engineering,0.517624604589933,570
+Future University in Egypt,Finance,0.554272802187049,55
+Future University in Egypt,Information Technology,0.552518425455996,10
+Future University in Egypt,Marketing,0.53915995740731,36
+Future University in Egypt,Medicine,0.296081891063517,40
+GEI Alumni,Architecture,0.499750608237053,26
+GEI Alumni,Engineering,0.49281380125453,129
+German International University - GIU,Engineering,0.558846833164378,10
+Gezera Engineering Academy,Business,0.505088257350368,17
+Gezera Engineering Academy,Engineering,0.532384734448288,14
+HEI Public University Scholarships,Engineering,0.556902882789078,36
+Heliopolis University,Business,0.557289380047734,57
+Heliopolis University,Engineering,0.553331011096593,29
+Helwan University,Accounting,0.553634440162551,4483
+Helwan University,Architecture,0.506026215522269,1315
+Helwan University,Biology,0.48544745223488,33
+Helwan University,Business,0.543850797271756,8678
+Helwan University,Chemistry,0.470108541778199,903
+Helwan University,Economics,0.541657889313164,540
+Helwan University,Education,0.434982792647137,1478
+Helwan University,Engineering,0.5434189643654,10901
+Helwan University,Finance,0.555365356252678,1298
+Helwan University,Information Technology,0.636375446437579,121
+Helwan University,Law,0.517317758594512,1608
+Helwan University,Marketing,0.488744509519494,67
+Helwan University,Mathematics,0.461872681214313,28
+Helwan University,Medicine,0.523488640080284,13
+Helwan University,Nursing,0.371066873849703,75
+Helwan University,Physics,0.496229254736408,58
+Helwan University,Statistics,0.542461313193696,98
+Higher Institute for Specific Studies,Accounting,0.562665962360176,13
+Higher Institute for Specific Studies,Business,0.525862002923219,48
+Higher Institute of Engineering - 15th May (MIE),Architecture,0.525394276966444,41
+Higher Institute of Engineering - 15th May (MIE),Engineering,0.465161016530745,223
+Higher Institute of Engineering and Technology - Kafr ELsheikh,Engineering,0.557132028501806,106
+Higher Institute of Engineering and Technology in New Damietta,Engineering,0.490401209512657,219
+Higher Technological Institute,Accounting,0.553727430716458,132
+Higher Technological Institute,Architecture,0.49435218440795,332
+Higher Technological Institute,Business,0.538683047887517,520
+Higher Technological Institute,Engineering,0.503321157215242,5573
+Higher Technological Institute,Finance,0.547348155140836,23
+Higher Technological Institute,Marketing,0.615607700152702,13
+Industrial Engineering Department - Zagazig University,Engineering,0.481187111437356,14
+Information Technology Institute (ITI),Business,0.589445080823771,22
+Information Technology Institute (ITI),Engineering,0.657201998908682,51
+Information Technology Institute (ITI),Information Technology,0.554311328664932,15
+Integrated Technical Education Cluster - ITEC,Engineering,0.493718785807541,59
+International Academy for Engineering and Media Science,Business,0.539451300731591,70
+International Academy for Engineering and Media Science,Engineering,0.486911772605487,30
+International Academy for Engineering and Media Science,Finance,0.544903074356881,12
+Kafr El Shiekh University,Accounting,0.548093861159879,645
+Kafr El Shiekh University,Architecture,0.495713352090715,46
+Kafr El Shiekh University,Biology,0.505942026040279,26
+Kafr El Shiekh University,Business,0.536905193961897,238
+Kafr El Shiekh University,Chemistry,0.486647182526227,100
+Kafr El Shiekh University,Education,0.448574445704078,156
+Kafr El Shiekh University,Engineering,0.529351917292644,1172
+Kafr El Shiekh University,Finance,0.56070068883958,195
+Kafr El Shiekh University,Information Technology,0.627938297327331,38
+Kafr El Shiekh University,Medicine,0.446624439447622,296
+Kafr El Shiekh University,Nursing,0.346644857487308,61
+Kafr El Shiekh University,Physics,0.463815130550023,11
+Mansoura College Academy,Architecture,0.509365034757183,14
+Mansoura College Academy,Engineering,0.486365185955077,93
+Mansoura University,Accounting,0.546414079468736,2835
+Mansoura University,Architecture,0.492296570229005,317
+Mansoura University,Biology,0.505957351477251,46
+Mansoura University,Business,0.527723671020689,1336
+Mansoura University,Chemistry,0.471473229913981,638
+Mansoura University,Economics,0.551051584354915,26
+Mansoura University,Education,0.428265765481788,530
+Mansoura University,Engineering,0.539599449308915,7747
+Mansoura University,Finance,0.550084696087863,801
+Mansoura University,Information Technology,0.653425091061784,159
+Mansoura University,Law,0.505075855337727,853
+Mansoura University,Marketing,0.491870762390208,15
+Mansoura University,Mathematics,0.416758121394542,21
+Mansoura University,Medicine,0.446185483708334,1227
+Mansoura University,Nursing,0.37454938576343,243
+Mansoura University,Physics,0.47737826433855,35
+Mansoura University,Statistics,0.510704686322006,15
+Menoufia University,Accounting,0.545860582316066,1265
+Menoufia University,Architecture,0.498376977300793,85
+Menoufia University,Business,0.544759755230242,348
+Menoufia University,Chemistry,0.470737175535225,412
+Menoufia University,Economics,0.538055053587054,15
+Menoufia University,Education,0.467463129072193,159
+Menoufia University,Engineering,0.538305913648457,3304
+Menoufia University,Finance,0.557829843013801,424
+Menoufia University,Information Technology,0.635474631364246,143
+Menoufia University,Law,0.497603592103344,322
+Menoufia University,Medicine,0.453759278378592,226
+Menoufia University,Nursing,0.343515527165043,59
+Menoufia University,Physics,0.471405908939654,46
+Military Technical College,Engineering,0.539272446187328,114
+Minia University,Architecture,0.500407800819174,174
+Minia University,Biology,0.516161492434791,38
+Minia University,Business,0.481276245446433,166
+Minia University,Chemistry,0.450965484198462,176
+Minia University,Education,0.473911509273947,240
+Minia University,Engineering,0.525931142430757,1788
+Minia University,Information Technology,0.610839602789957,33
+Minia University,Law,0.522048130263978,26
+Minia University,Mathematics,0.544238002001269,15
+Minia University,Medicine,0.430438687055878,134
+Minia University,Nursing,0.373867065249775,57
+Minia University,Physics,0.526787554103769,11
+Misr Higher Institute for Engineering and Technology,Architecture,0.549339114942436,15
+Misr Higher Institute for Engineering and Technology,Business,0.577715683025755,11
+Misr Higher Institute for Engineering and Technology,Engineering,0.504697508648151,234
+Misr International University,Accounting,0.546729154697573,89
+Misr International University,Architecture,0.491698633807749,350
+Misr International University,Business,0.528117655220034,1727
+Misr International University,Economics,0.563355008976568,19
+Misr International University,Engineering,0.58049195954569,911
+Misr International University,Finance,0.55161836317374,148
+Misr International University,Marketing,0.527029541999351,407
+Misr International University,Medicine,0.304098166473992,163
+Misr University for Science and Technology,Accounting,0.568892682656009,253
+Misr University for Science and Technology,Architecture,0.487279402592228,87
+Misr University for Science and Technology,Business,0.547918956122356,1099
+Misr University for Science and Technology,Economics,0.551656959485424,39
+Misr University for Science and Technology,Education,0.433998331285273,47
+Misr University for Science and Technology,Engineering,0.567818100082188,1240
+Misr University for Science and Technology,Finance,0.554720338787603,213
+Misr University for Science and Technology,Information Technology,0.657886539588518,147
+Misr University for Science and Technology,Marketing,0.560830120783872,13
+Misr University for Science and Technology,Medicine,0.399838485813112,176
+Misr University for Science and Technology,Nursing,0.35742685874762,13
+Modern Academy,Accounting,0.5407559732114,739
+Modern Academy,Architecture,0.498737854506344,646
+Modern Academy,Business,0.537777309525397,2793
+Modern Academy,Economics,0.515140942710676,56
+Modern Academy,Engineering,0.573017547491437,3780
+Modern Academy,Finance,0.561774887954362,163
+Modern Academy,Information Technology,0.539802600320917,188
+Modern University for Technology and Information,Accounting,0.547557785910053,48
+Modern University for Technology and Information,Architecture,0.518215192865591,64
+Modern University for Technology and Information,Business,0.533521067807294,325
+Modern University for Technology and Information,Engineering,0.520059754341818,820
+Modern University for Technology and Information,Finance,0.546858537271876,33
+Modern University for Technology and Information,Marketing,0.528238453807789,18
+Modern University for Technology and Information,Medicine,0.346157848280063,21
+Modern University for Technology and Information,Nursing,0.385152852022448,33
+Nahda University,Accounting,0.527403095758491,10
+Nahda University,Business,0.514767650128928,41
+Nahda University,Engineering,0.542419100451759,111
+Nahda University,Medicine,0.300960026033128,18
+New Cairo Academy,Accounting,0.549127147676939,317
+New Cairo Academy,Architecture,0.509204022642834,100
+New Cairo Academy,Business,0.531859733402558,765
+New Cairo Academy,Economics,0.512094463464404,105
+New Cairo Academy,Engineering,0.535810186681099,1261
+New Cairo Academy,Finance,0.550449127897555,84
+New Cairo Academy,Information Technology,0.577398507806506,93
+New Cairo Academy,Marketing,0.468117807290668,15
+Newgiza University - NGU,Business,0.497862232014772,42
+Nile University - NU,Business,0.541044125710573,95
+Nile University - NU,Engineering,0.574180356798514,132
+October 6 University,Accounting,0.555202234518135,207
+October 6 University,Architecture,0.495638788474842,119
+October 6 University,Business,0.52054560069351,875
+October 6 University,Chemistry,0.413785145604602,10
+October 6 University,Economics,0.535548285943888,185
+October 6 University,Education,0.466176219004816,157
+October 6 University,Engineering,0.546938695619317,1748
+October 6 University,Finance,0.539550169709155,43
+October 6 University,Information Technology,0.585962367027116,17
+October 6 University,Marketing,0.534603209641935,22
+October 6 University,Medicine,0.40972851237647,180
+October 6 University,Nursing,0.390679148755437,12
+October High Institute for Engineering and Technology,Architecture,0.498359061059792,132
+October High Institute for Engineering and Technology,Business,0.558088783837105,62
+October High Institute for Engineering and Technology,Engineering,0.510041007140657,158
+October University for Modern Sciences and Arts,Architecture,0.47979693692861,17
+October University for Modern Sciences and Arts,Business,0.500049633244375,50
+October University for Modern Sciences and Arts,Engineering,0.54103769413941,35
+Pharos University in Alexandria,Accounting,0.545385530491801,23
+Pharos University in Alexandria,Architecture,0.48047947633526,76
+Pharos University in Alexandria,Business,0.511122447509827,249
+Pharos University in Alexandria,Engineering,0.499306885536798,543
+Pharos University in Alexandria,Finance,0.506985206059706,29
+Pharos University in Alexandria,Law,0.532541503839284,23
+Pharos University in Alexandria,Marketing,0.549556305201101,16
+Pharos University in Alexandria,Medicine,0.368487430581844,20
+Police Academy of Egypt,Law,0.329366976524826,108
+Port-Said University,Accounting,0.537130300387077,522
+Port-Said University,Architecture,0.491049258317835,25
+Port-Said University,Business,0.532079480641141,254
+Port-Said University,Chemistry,0.456834666329126,31
+Port-Said University,Education,0.422869300716461,93
+Port-Said University,Engineering,0.487589775321043,1068
+Port-Said University,Finance,0.5323777897413,165
+Port-Said University,Medicine,0.417445997587156,11
+Port-Said University,Nursing,0.409110289967724,25
+Sinai University,Architecture,0.488569062920262,22
+Sinai University,Business,0.510101833126493,83
+Sinai University,Engineering,0.510696898424076,441
+Sinai University,Information Technology,0.736867830071981,21
+Sinai University,Law,0.501262730989768,260
+Sinai University,Medicine,0.316430704244699,30
+South Valley University,Accounting,0.537409648238892,1261
+South Valley University,Architecture,0.450047733929022,22
+South Valley University,Business,0.518087252982831,213
+South Valley University,Chemistry,0.435042623794611,144
+South Valley University,Economics,0.540340371684089,12
+South Valley University,Education,0.460163389660813,239
+South Valley University,Engineering,0.483604421183469,559
+South Valley University,Finance,0.534320159172821,249
+South Valley University,Law,0.506850950974395,170
+South Valley University,Medicine,0.478776329495392,160
+South Valley University,Nursing,0.383483911986052,25
+South Valley University,Physics,0.454363894535443,15
+Suez Canal University,Accounting,0.536580273318534,1917
+Suez Canal University,Architecture,0.502967988048657,67
+Suez Canal University,Biology,0.463778789303368,36
+Suez Canal University,Business,0.51367242499651,773
+Suez Canal University,Chemistry,0.463502088092209,212
+Suez Canal University,Economics,0.561229552903615,24
+Suez Canal University,Education,0.450346204775016,306
+Suez Canal University,Engineering,0.504894731720544,2507
+Suez Canal University,Finance,0.546649591118634,604
+Suez Canal University,Information Technology,0.596788206937986,16
+Suez Canal University,Marketing,0.543286381454666,12
+Suez Canal University,Mathematics,0.451241627894488,11
+Suez Canal University,Medicine,0.447641911190014,342
+Suez Canal University,Nursing,0.382414385376012,58
+Suez Canal University,Physics,0.482093432010614,14
+Tanta University,Accounting,0.542915411524104,2605
+Tanta University,Architecture,0.50252393402383,203
+Tanta University,Biology,0.49708720935466,85
+Tanta University,Business,0.542682744802525,1092
+Tanta University,Chemistry,0.460208884470679,540
+Tanta University,Economics,0.597690462716,10
+Tanta University,Education,0.446561678750388,464
+Tanta University,Engineering,0.512992748791606,3023
+Tanta University,Finance,0.543258802130159,843
+Tanta University,Information Technology,0.567972502302078,22
+Tanta University,Law,0.502185421265799,768
+Tanta University,Marketing,0.540166643837094,17
+Tanta University,Mathematics,0.399126193126725,16
+Tanta University,Medicine,0.425777673720886,373
+Tanta University,Nursing,0.366188990198402,153
+Tanta University,Physics,0.511932377158803,57
+Tanta University,Statistics,0.601583475263004,30
+The Advanced Academy,Accounting,0.522052775693388,191
+The Advanced Academy,Business,0.563582114763056,447
+The Advanced Academy,Engineering,0.562390925974328,198
+The Advanced Academy,Finance,0.554508713705757,38
+The Advanced Academy,Information Technology,0.591371074688055,92
+The American University in Cairo,Accounting,0.53046363696351,329
+The American University in Cairo,Architecture,0.488022244078833,126
+The American University in Cairo,Biology,0.543305977254744,17
+The American University in Cairo,Business,0.519561635455529,2152
+The American University in Cairo,Chemistry,0.508738001454363,51
+The American University in Cairo,Economics,0.524020597119578,779
+The American University in Cairo,Education,0.491681862295479,11
+The American University in Cairo,Engineering,0.519816300368687,2077
+The American University in Cairo,Finance,0.519156767409806,137
+The American University in Cairo,Law,0.521780045665555,58
+The American University in Cairo,Marketing,0.523935809800771,675
+The American University in Cairo,Mathematics,0.569880648101795,14
+The American University in Cairo,Physics,0.511279865461342,41
+The American University in Cairo - School of Sciences and Engineering,Engineering,0.525422151752028,18
+The British University in Egypt,Accounting,0.544413875578855,11
+The British University in Egypt,Architecture,0.496316532095859,121
+The British University in Egypt,Business,0.529053542547105,1199
+The British University in Egypt,Economics,0.539367524040906,165
+The British University in Egypt,Engineering,0.535257818475661,1785
+The British University in Egypt,Finance,0.544313438757703,195
+The British University in Egypt,Law,0.501003437683581,57
+The British University in Egypt,Marketing,0.531823863925409,189
+The British University in Egypt,Medicine,0.280941630972078,15
+The British University in Egypt,Nursing,0.38699671430419,71
+The German University in Cairo,Accounting,0.54426034938866,92
+The German University in Cairo,Architecture,0.497410891852576,441
+The German University in Cairo,Business,0.545676257842036,2333
+The German University in Cairo,Economics,0.537878375886917,65
+The German University in Cairo,Engineering,0.56236293525217,3668
+The German University in Cairo,Finance,0.530568938903613,485
+The German University in Cairo,Information Technology,0.603842739532784,44
+The German University in Cairo,Law,0.506984986144507,74
+The German University in Cairo,Marketing,0.513615585731425,194
+University of Sadat City,Accounting,0.559297505039612,118
+University of Sadat City,Business,0.532464292056288,44
+University of Sadat City,Education,0.484208295664052,30
+University of Sadat City,Finance,0.529059833544035,48
+University of Sadat City,Law,0.50050037681963,29
+University of Sadat City,Medicine,0.35506637467666,25
+ZHIET,Engineering,0.537183896928142,35
+Zagazig University,Accounting,0.549145353004729,2741
+Zagazig University,Architecture,0.494480681949669,138
+Zagazig University,Biology,0.52375387969913,31
+Zagazig University,Business,0.511831498993237,818
+Zagazig University,Chemistry,0.479633489341909,718
+Zagazig University,Economics,0.524867596561029,95
+Zagazig University,Education,0.442678493255628,380
+Zagazig University,Engineering,0.523577429399087,4832
+Zagazig University,Finance,0.550078279793983,841
+Zagazig University,Information Technology,0.661112782220446,98
+Zagazig University,Law,0.495238215755802,635
+Zagazig University,Marketing,0.533926460901232,44
+Zagazig University,Mathematics,0.455264684320288,18
+Zagazig University,Medicine,0.454618237699657,775
+Zagazig University,Nursing,0.359900773474647,124
+Zagazig University,Physics,0.484247557636567,60
+Zagazig University,Statistics,0.481638674574593,20
+Zewail City of Science and Technology,Biology,0.584837296976831,31
+Zewail City of Science and Technology,Engineering,0.560434299011454,173
+Zewail City of Science and Technology,Physics,0.586412522973669,17

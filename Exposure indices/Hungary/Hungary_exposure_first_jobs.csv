@@ -1,0 +1,221 @@
+university_name,field,exposure_firstjob_beta,n_people
+Apor Vilmos Catholic College,Education,0.456945782035373,31
+Budapest Business School,Accounting,0.531210507162185,89
+Budapest Business School,Business,0.550389330287928,4075
+Budapest Business School,Economics,0.534385929282785,1154
+Budapest Business School,Education,0.520242055552962,31
+Budapest Business School,Engineering,0.617690787453393,80
+Budapest Business School,Finance,0.541252503953953,1145
+Budapest Business School,Information Technology,0.681621764647735,77
+Budapest Business School,Marketing,0.53365198384183,1027
+Budapest Metropolitan University,Architecture,0.504365784989126,14
+Budapest Metropolitan University,Business,0.535724330641764,839
+Budapest Metropolitan University,Economics,0.547085253667634,241
+Budapest Metropolitan University,Finance,0.497061127745215,43
+Budapest Metropolitan University,Marketing,0.543074415328427,318
+Budapest University of Technology and Economics,Architecture,0.515752810754198,83
+Budapest University of Technology and Economics,Business,0.546401471422674,1510
+Budapest University of Technology and Economics,Chemistry,0.459469675334764,17
+Budapest University of Technology and Economics,Economics,0.56415440909482,419
+Budapest University of Technology and Economics,Education,0.477149508315624,18
+Budapest University of Technology and Economics,Engineering,0.562668874956087,7472
+Budapest University of Technology and Economics,Finance,0.557587373815045,78
+Budapest University of Technology and Economics,Information Technology,0.684513983529773,92
+Budapest University of Technology and Economics,Marketing,0.496331542947224,10
+Budapest University of Technology and Economics,Mathematics,0.623626012526572,118
+Budapest University of Technology and Economics,Physics,0.586024471000406,103
+College of Szolnok,Business,0.516092213925714,136
+College of Szolnok,Economics,0.522647868100887,135
+College of Szolnok,Engineering,0.492999729160611,11
+College of Szolnok,Finance,0.542915410272243,44
+College of Szolnok,Marketing,0.540812058319683,46
+Corvinus University of Budapest,Accounting,0.55786732280437,34
+Corvinus University of Budapest,Architecture,0.487579568519665,95
+Corvinus University of Budapest,Business,0.566537391422045,3894
+Corvinus University of Budapest,Economics,0.559749711536995,999
+Corvinus University of Budapest,Education,0.523840699397483,12
+Corvinus University of Budapest,Engineering,0.536070282033988,507
+Corvinus University of Budapest,Finance,0.548081941621214,973
+Corvinus University of Budapest,Information Technology,0.676753019627839,59
+Corvinus University of Budapest,Law,0.520748308091503,11
+Corvinus University of Budapest,Marketing,0.531170688906087,770
+Corvinus University of Budapest,Mathematics,0.543416624575553,10
+Dennis Gabor Applied University,Business,0.517834367926158,53
+Dennis Gabor Applied University,Economics,0.52421091241768,10
+Dennis Gabor Applied University,Engineering,0.65749978493683,119
+Dennis Gabor Applied University,Information Technology,0.664925951989276,38
+Dennis Gabor College,Business,0.661332932151245,22
+Dennis Gabor College,Economics,0.519896131272353,10
+Dennis Gabor College,Engineering,0.657972016019393,72
+Dennis Gabor College,Information Technology,0.62247510339504,38
+Edutus University,Business,0.540079031717517,184
+Edutus University,Economics,0.538931524453515,105
+Edutus University,Engineering,0.404014690052645,14
+Edutus University,Marketing,0.518179453092342,96
+Eszterházy Károly Catholic University,Business,0.517141655132021,38
+Eszterházy Károly Catholic University,Economics,0.631896337386558,16
+Eszterházy Károly Catholic University,Education,0.412830106965072,17
+Eszterházy Károly Catholic University,Engineering,0.672129898377402,30
+Eötvös József College,Engineering,0.528551691289508,27
+Eötvös Loránd University,Biology,0.549211462198139,55
+Eötvös Loránd University,Business,0.527904106693631,450
+Eötvös Loránd University,Chemistry,0.517426312205624,210
+Eötvös Loránd University,Economics,0.566510865980455,150
+Eötvös Loránd University,Education,0.455775123724689,564
+Eötvös Loránd University,Engineering,0.704246198597651,830
+Eötvös Loránd University,Finance,0.5648891207635,16
+Eötvös Loránd University,Information Technology,0.776494000039525,79
+Eötvös Loránd University,Law,0.496135799356417,50
+Eötvös Loránd University,Marketing,0.525549353559453,40
+Eötvös Loránd University,Mathematics,0.637461456770545,276
+Eötvös Loránd University,Physics,0.587437986701135,164
+"Faculty of Engineering, University of Debrecen",Architecture,0.483784748443053,17
+"Faculty of Engineering, University of Debrecen",Business,0.531385887403132,36
+"Faculty of Engineering, University of Debrecen",Engineering,0.523399335689933,376
+Heller Farkas College of Advanced Financial Studies,Business,0.535141451586403,15
+Heller Farkas College of Advanced Financial Studies,Economics,0.530001122073334,23
+Hungarian University of Agriculture and Life Sciences,Architecture,0.463881109846184,117
+Hungarian University of Agriculture and Life Sciences,Business,0.532630526272194,850
+Hungarian University of Agriculture and Life Sciences,Economics,0.531478925554668,303
+Hungarian University of Agriculture and Life Sciences,Education,0.425025254535983,25
+Hungarian University of Agriculture and Life Sciences,Engineering,0.498843333694967,1300
+Hungarian University of Agriculture and Life Sciences,Finance,0.557177219610023,172
+Hungarian University of Agriculture and Life Sciences,Marketing,0.543117071786393,103
+International Business School,Business,0.531054820031659,983
+International Business School,Economics,0.552834533532847,171
+International Business School,Finance,0.532771762554378,112
+International Business School,Marketing,0.505541165995614,47
+John von Neumann University,Business,0.549678890381863,11
+John von Neumann University,Engineering,0.604478135784067,29
+Kandó Kálmán Faculty of Electrical Engineering at Óbuda University,Engineering,0.559055135618526,12
+Kodolányi János University,Business,0.528969903867395,379
+Kodolányi János University,Economics,0.523470947263278,220
+Kodolányi János University,Education,0.568979681206077,31
+Kodolányi János University,Marketing,0.470854459510959,16
+Károli Gáspár University of the Reformed Church in Hungary,Business,0.587254855356177,129
+Károli Gáspár University of the Reformed Church in Hungary,Education,0.436522775332338,44
+Károli Gáspár University of the Reformed Church in Hungary,Marketing,0.504250545709753,11
+Ludovika University of Public Service,Business,0.515609191156476,277
+Ludovika University of Public Service,Engineering,0.502048100100477,98
+Ludovika University of Public Service,Finance,0.507865861297052,21
+Ludovika University of Public Service,Law,0.465813486250768,45
+McDaniel College Budapest,Business,0.525398232128293,15
+Milton Friedman University,Business,0.558626233370257,199
+Milton Friedman University,Economics,0.53247286693921,31
+Milton Friedman University,Engineering,0.694391347505236,13
+Milton Friedman University,Finance,0.562045339624841,29
+Moholy-Nagy University of Arts,Architecture,0.483357910265435,23
+Neumann János University,Business,0.525596881180592,86
+Neumann János University,Economics,0.48004765712159,13
+Neumann János University,Engineering,0.562026610763921,363
+Neumann János University,Finance,0.586040751198011,11
+Neumann János University,Information Technology,0.746744726265889,19
+Pázmány Péter Catholic University,Business,0.576034956595386,60
+Pázmány Péter Catholic University,Education,0.434841924111919,31
+Pázmány Péter Catholic University,Engineering,0.627754459295343,206
+Pázmány Péter Catholic University,Information Technology,0.70841693870419,27
+Pázmány Péter Catholic University,Law,0.526098994896572,62
+Pázmány Péter Catholic University - Faculty of Information Technology and Bionics,Engineering,0.583707524122172,48
+Semmelweis University,Business,0.478726462673054,124
+Semmelweis University,Education,0.399851226682931,62
+Semmelweis University,Nursing,0.409121671803533,85
+Szent Istvan University,Business,0.507007961096889,37
+Szent Istvan University,Economics,0.496353892215678,16
+Szent Istvan University,Education,0.459371759092549,28
+Szent Istvan University,Engineering,0.473099603027218,51
+Szent Istvan University,Finance,0.565253739035504,22
+Szent Istvan University,Marketing,0.522814189438858,10
+Széchenyi István University,Architecture,0.467655032830516,22
+Széchenyi István University,Business,0.538403024667049,592
+Széchenyi István University,Economics,0.526492529274439,184
+Széchenyi István University,Education,0.448295460054947,29
+Széchenyi István University,Engineering,0.536875425873724,1502
+Széchenyi István University,Finance,0.520242807014808,13
+Széchenyi István University,Information Technology,0.710096831128916,72
+Széchenyi István University,Marketing,0.521445107692387,112
+University of Debrecen,Architecture,0.531702787218033,27
+University of Debrecen,Biology,0.510298826042089,80
+University of Debrecen,Business,0.575189903540155,956
+University of Debrecen,Chemistry,0.528512603001554,106
+University of Debrecen,Economics,0.555887265394208,242
+University of Debrecen,Education,0.491927930740855,78
+University of Debrecen,Engineering,0.568937067338084,2015
+University of Debrecen,Finance,0.562187911841049,172
+University of Debrecen,Information Technology,0.693631469926052,101
+University of Debrecen,Law,0.46727655439418,18
+University of Debrecen,Marketing,0.531036550521425,134
+University of Debrecen,Mathematics,0.575580302245103,38
+University of Debrecen,Nursing,0.431692128859367,12
+University of Debrecen,Physics,0.562087812693786,34
+University of Debrecen (UD)-Faculty of Economics and Business,Business,0.563659986106138,173
+University of Debrecen (UD)-Faculty of Economics and Business,Economics,0.579513833107263,42
+University of Debrecen (UD)-Faculty of Economics and Business,Engineering,0.539764238686069,23
+University of Debrecen (UD)-Faculty of Economics and Business,Finance,0.551430757129468,40
+University of Debrecen (UD)-Faculty of Economics and Business,Marketing,0.541867227802402,41
+University of Dunaujvaros,Business,0.550394435011431,144
+University of Dunaujvaros,Economics,0.602988258667285,20
+University of Dunaujvaros,Engineering,0.579416983336729,328
+University of Dunaujvaros,Information Technology,0.642843441261348,57
+University of Dunaújváros,Business,0.61350796248272,36
+University of Dunaújváros,Engineering,0.599573426382877,71
+University of Dunaújváros,Information Technology,0.670388458674695,11
+University of Miskolc,Business,0.549160228459245,392
+University of Miskolc,Economics,0.539091191847581,194
+University of Miskolc,Education,0.533469960615578,33
+University of Miskolc,Engineering,0.539040295863576,1405
+University of Miskolc,Finance,0.550796202745331,99
+University of Miskolc,Information Technology,0.731708434668337,63
+University of Miskolc,Law,0.558206360998163,27
+University of Miskolc,Marketing,0.530107005832124,104
+University of Nyíregyháza,Business,0.522309361102453,56
+University of Nyíregyháza,Economics,0.540326872060133,33
+University of Nyíregyháza,Education,0.425423113705911,14
+University of Nyíregyháza,Engineering,0.5721872428594,127
+University of Pannonia,Business,0.542439800331106,453
+University of Pannonia,Chemistry,0.548347308213166,18
+University of Pannonia,Economics,0.554151925244081,191
+University of Pannonia,Engineering,0.591013828990173,625
+University of Pannonia,Finance,0.55410726219726,66
+University of Pannonia,Information Technology,0.693468045312604,40
+University of Pannonia,Marketing,0.524482690505875,31
+University of Physical Education,Business,0.499856982501462,23
+University of Pécs,Architecture,0.508205106865601,57
+University of Pécs,Biology,0.555341757594616,18
+University of Pécs,Business,0.547921762085718,860
+University of Pécs,Chemistry,0.521831423741048,19
+University of Pécs,Economics,0.545355860296806,150
+University of Pécs,Education,0.495923755202686,64
+University of Pécs,Engineering,0.578713503006791,701
+University of Pécs,Finance,0.552530242176676,257
+University of Pécs,Information Technology,0.710180579137974,100
+University of Pécs,Law,0.516972454755652,41
+University of Pécs,Marketing,0.536230580017152,188
+University of Pécs,Mathematics,0.57662175956113,16
+University of Pécs,Nursing,0.423856195801324,21
+University of Pécs,Physics,0.611257655730248,30
+University of Sopron,Business,0.542755444928194,143
+University of Sopron,Economics,0.573706648440293,31
+University of Sopron,Education,0.458671804573045,23
+University of Sopron,Engineering,0.50138206047368,86
+University of Sopron,Finance,0.553041841181802,22
+University of Sopron,Marketing,0.493060239666602,12
+University of Szeged,Biology,0.517409665075862,141
+University of Szeged,Business,0.567233603913102,771
+University of Szeged,Chemistry,0.520911877964719,118
+University of Szeged,Economics,0.539267795170247,148
+University of Szeged,Education,0.451647421255602,145
+University of Szeged,Engineering,0.613288973242873,1081
+University of Szeged,Finance,0.566511588986128,221
+University of Szeged,Information Technology,0.697931952936906,51
+University of Szeged,Law,0.504288807787199,38
+University of Szeged,Marketing,0.522211205854713,216
+University of Szeged,Mathematics,0.620283600785499,95
+University of Szeged,Nursing,0.427105869001867,15
+University of Szeged,Physics,0.579576147663534,51
+Zrínyi Miklós National Defence University,Engineering,0.532954443264786,10
+Óbuda University,Architecture,0.485599283316821,44
+Óbuda University,Business,0.57525667627974,648
+Óbuda University,Economics,0.564307576539856,52
+Óbuda University,Engineering,0.571459268702802,3098
+Óbuda University,Information Technology,0.670282232111622,82
+Óbuda University,Marketing,0.530112825558305,89

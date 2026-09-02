@@ -1,0 +1,282 @@
+university_name,field,exposure_alljobs_beta,n_people
+Achva Academic College,Business,0.55651352470742,17
+Achva Academic College,Education,0.403889623136396,42
+Adelson School of Entrepreneurship,Accounting,0.525911837115901,279
+Adelson School of Entrepreneurship,Business,0.508264257685669,4439
+Adelson School of Entrepreneurship,Economics,0.546167708600219,428
+Adelson School of Entrepreneurship,Engineering,0.657670749222648,940
+Adelson School of Entrepreneurship,Finance,0.494541711205863,115
+Adelson School of Entrepreneurship,Information Technology,0.593434046136173,12
+Adelson School of Entrepreneurship,Law,0.488340429373314,1355
+Adelson School of Entrepreneurship,Marketing,0.53529650402267,162
+Afeka Tel Aviv Academic College of Engineering,Business,0.585827177551072,24
+Afeka Tel Aviv Academic College of Engineering,Engineering,0.60853862388568,2626
+Ariel University,Accounting,0.5510406779591,42
+Ariel University,Architecture,0.490749356770898,186
+Ariel University,Biology,0.501230508479066,118
+Ariel University,Business,0.554356098137165,756
+Ariel University,Chemistry,0.498250551423401,40
+Ariel University,Economics,0.555677395949913,475
+Ariel University,Education,0.513941147356335,29
+Ariel University,Engineering,0.588003356013369,3395
+Ariel University,Finance,0.542275177002924,25
+Ariel University,Marketing,0.531203457234106,51
+Ariel University,Physics,0.59788255509838,60
+Ashkelon Academic College,Business,0.573798723428211,47
+Ashkelon Academic College,Economics,0.572844132434635,60
+Ashkelon Academic College,Engineering,0.741531641679338,85
+Azrieli College of Engineering Jerusalem,Business,0.565095790362136,22
+Azrieli College of Engineering Jerusalem,Engineering,0.613718932248416,1556
+Bar-Ilan University,Accounting,0.522530643525651,514
+Bar-Ilan University,Biology,0.527206114405694,275
+Bar-Ilan University,Business,0.53855703654363,1832
+Bar-Ilan University,Chemistry,0.517816553648923,307
+Bar-Ilan University,Economics,0.542983080191716,1470
+Bar-Ilan University,Education,0.472107566102807,170
+Bar-Ilan University,Engineering,0.644302917826596,1878
+Bar-Ilan University,Finance,0.531915645852735,250
+Bar-Ilan University,Information Technology,0.648623581413594,42
+Bar-Ilan University,Law,0.483679521302449,681
+Bar-Ilan University,Marketing,0.560244728982353,22
+Bar-Ilan University,Mathematics,0.635268248024591,371
+Bar-Ilan University,Physics,0.593589871022514,166
+Bar-Ilan University,Statistics,0.652109484506713,40
+Beit Berl College,Education,0.475078935312301,154
+Ben-Gurion University of the Negev,Accounting,0.514916367471137,398
+Ben-Gurion University of the Negev,Biology,0.535971516361378,218
+Ben-Gurion University of the Negev,Business,0.535955836259448,3048
+Ben-Gurion University of the Negev,Chemistry,0.503167937453426,287
+Ben-Gurion University of the Negev,Economics,0.542012318796761,1354
+Ben-Gurion University of the Negev,Education,0.480198089386412,324
+Ben-Gurion University of the Negev,Engineering,0.599254871923368,9717
+Ben-Gurion University of the Negev,Finance,0.524047708484619,174
+Ben-Gurion University of the Negev,Information Technology,0.594442669725294,52
+Ben-Gurion University of the Negev,Marketing,0.495030940034031,25
+Ben-Gurion University of the Negev,Mathematics,0.576356552730083,108
+Ben-Gurion University of the Negev,Medicine,0.434414417022412,45
+Ben-Gurion University of the Negev,Nursing,0.390562249612116,69
+Ben-Gurion University of the Negev,Physics,0.586743392176098,267
+Ben-Gurion University of the Negev,Statistics,0.647398478172451,26
+Bethlehem University,Accounting,0.527259480455891,37
+Bethlehem University,Business,0.499541589533956,90
+Bethlehem University,Engineering,0.560675833914688,19
+Bethlehem University,Nursing,0.362300912316473,11
+"Bezalel Academy of Arts and Design, Jerusalem",Architecture,0.487623286212062,353
+Carmel Academic Center,Business,0.536175706240313,97
+Carmel Academic Center,Law,0.480300436652822,15
+Center For Academic Studies,Business,0.555962278854943,518
+Center For Academic Studies,Education,0.484513206493163,12
+Center For Academic Studies,Engineering,0.708468607046086,33
+Center For Academic Studies,Information Technology,0.768963832689897,12
+Center For Academic Studies,Marketing,0.503884773589285,17
+College of Management Academic Studies,Accounting,0.52311085168977,1181
+College of Management Academic Studies,Architecture,0.508461228230701,17
+College of Management Academic Studies,Business,0.532748032206396,4228
+College of Management Academic Studies,Economics,0.547313692558966,921
+College of Management Academic Studies,Education,0.519008046953772,18
+College of Management Academic Studies,Engineering,0.738137100304687,1902
+College of Management Academic Studies,Finance,0.541156572453435,181
+College of Management Academic Studies,Information Technology,0.660446768021759,14
+College of Management Academic Studies,Law,0.487280432022089,1007
+College of Management Academic Studies,Marketing,0.538402515139502,110
+Dan Academic Center,Business,0.684667145909269,12
+David Yellin College of Education,Education,0.437861400544223,91
+Faculty of Engineering Bar-Ilan University,Engineering,0.615846382174152,41
+Gordon Academic College,Education,0.537065999651877,15
+Hadassah Academic College,Accounting,0.56060606765184,32
+Hadassah Academic College,Business,0.531516510358274,287
+Hadassah Academic College,Engineering,0.695178933554147,198
+Hadassah Academic College,Finance,0.494133411520535,12
+Hadassah College Jerusalem,Engineering,0.660769012853367,25
+"Hebrew University of Jerusalem. Robert H. Smith Faculty of Agriculture, Food and Environment",Biology,0.534777999947787,10
+"Hebrew University of Jerusalem. Robert H. Smith Faculty of Agriculture, Food and Environment",Business,0.5365045958403,36
+"Hebrew University of Jerusalem. Robert H. Smith Faculty of Agriculture, Food and Environment",Economics,0.51817936197836,24
+Herzog College,Education,0.490320328814042,85
+Holon Institute of Technology,Business,0.619847303008111,260
+Holon Institute of Technology,Engineering,0.659459722732045,3248
+Holon Institute of Technology,Information Technology,0.68985095869267,14
+Holon Institute of Technology,Mathematics,0.648726907664596,82
+IDC Herzliya,Business,0.518926903571238,43
+IDC Herzliya,Engineering,0.683143740056391,15
+Jerusalem College of Technology (JCT) - Lev Academic Center,Accounting,0.552690189009216,83
+Jerusalem College of Technology (JCT) - Lev Academic Center,Business,0.537988572942998,75
+Jerusalem College of Technology (JCT) - Lev Academic Center,Engineering,0.682620148969015,508
+John Bryce College,Engineering,0.625885092695918,12
+Kaye Academic College of Education,Education,0.515132237184873,16
+"Kibbutzim College of Education, Technology and Arts",Business,0.410261381066541,13
+"Kibbutzim College of Education, Technology and Arts",Education,0.453917128324016,242
+Kinneret Academic College,Business,0.526104589553411,98
+Kinneret Academic College,Engineering,0.591423054831504,253
+Kinneret Academic College,Marketing,0.529912408398893,12
+Lander Institute,Business,0.528722786254263,21
+Lev Academic Center (JCT) (Jerusalem College of Technology ),Accounting,0.547825499107277,101
+Lev Academic Center (JCT) (Jerusalem College of Technology ),Business,0.575417087631197,110
+Lev Academic Center (JCT) (Jerusalem College of Technology ),Engineering,0.659775066623184,483
+Lev Academic Center (JCT) (Jerusalem College of Technology ),Finance,0.563920541698333,18
+Lev Academic Center (JCT) (Jerusalem College of Technology ),Nursing,0.391846927914839,19
+Levinsky College of Education,Education,0.471757532254546,101
+Lifshitz College of Education,Education,0.532936109923387,23
+Netanya Academic College,Business,0.560790189120756,534
+Netanya Academic College,Economics,0.470088735432759,18
+Netanya Academic College,Engineering,0.717285690131732,484
+Netanya Academic College,Finance,0.574929186396767,23
+Netanya Academic College,Law,0.486293246157624,391
+Netanya Academic College,Marketing,0.504534777857632,23
+ORT Braude College of Engineering,Business,0.614354317655367,42
+ORT Braude College of Engineering,Engineering,0.582483962779966,3077
+ORT Braude College of Engineering,Information Technology,0.701543451421116,15
+ORT Braude College of Engineering,Mathematics,0.570000083599951,12
+ORT Colleges,Architecture,0.460451963762199,10
+ORT Colleges,Business,0.470658712716556,11
+ORT Colleges,Engineering,0.539567512993536,129
+Ohalo College of Education and Teaching,Education,0.416608023167667,12
+Ono Academic College,Accounting,0.538843601270648,185
+Ono Academic College,Business,0.554632992946029,1519
+Ono Academic College,Economics,0.53019389872996,17
+Ono Academic College,Education,0.470063375615902,95
+Ono Academic College,Engineering,0.636577134930942,26
+Ono Academic College,Finance,0.553735373617883,49
+Ono Academic College,Information Technology,0.631001323409059,18
+Ono Academic College,Law,0.493978888880588,930
+Ono Academic College,Marketing,0.523545891627054,331
+Open University of Israel,Accounting,0.547948883793529,202
+Open University of Israel,Biology,0.571498160646104,31
+Open University of Israel,Business,0.5437514438823,2263
+Open University of Israel,Chemistry,0.547183230926606,43
+Open University of Israel,Economics,0.556393659016615,631
+Open University of Israel,Education,0.509064856345056,133
+Open University of Israel,Engineering,0.658295457100364,2083
+Open University of Israel,Finance,0.538520646468902,158
+Open University of Israel,Law,0.493290403990611,11
+Open University of Israel,Marketing,0.496807056240497,24
+Open University of Israel,Mathematics,0.629556171599589,51
+Open University of Israel,Physics,0.55788888038002,35
+Oranim Academic College of Education,Education,0.448708601382511,160
+Orot Israel College of Education,Education,0.536907547135571,27
+Peres Academic Center,Accounting,0.534183228989886,12
+Peres Academic Center,Business,0.542441099437469,824
+Peres Academic Center,Economics,0.530537856277033,16
+Peres Academic Center,Law,0.511804949118017,38
+Psagot,Engineering,0.597865504326741,49
+Ruppin Academic Center,Accounting,0.524774993787453,380
+Ruppin Academic Center,Architecture,0.489725807585773,10
+Ruppin Academic Center,Biology,0.472578916829534,210
+Ruppin Academic Center,Business,0.53964837796588,2153
+Ruppin Academic Center,Economics,0.561993054664099,289
+Ruppin Academic Center,Engineering,0.616911608411939,1050
+Ruppin Academic Center,Finance,0.517268987054769,196
+Ruppin Academic Center,Information Technology,0.657152893044041,14
+Ruppin Academic Center,Marketing,0.511095374907878,21
+Ruppin Academic Center,Nursing,0.375733407489572,21
+Ruppin College,Business,0.549217270836286,42
+"Sagol School of Neuroscience, Tel Aviv University",Biology,0.566003002519521,50
+"Sagol School of Neuroscience, Tel Aviv University",Engineering,0.56445614984819,25
+Sami Shamoon College of Engineering,Business,0.56740897277996,24
+Sami Shamoon College of Engineering,Engineering,0.584780873049366,2673
+Sapir Academic College,Accounting,0.515511888260686,36
+Sapir Academic College,Business,0.53335421691843,988
+Sapir Academic College,Economics,0.549511509587897,88
+Sapir Academic College,Engineering,0.621341668554149,435
+Sapir Academic College,Finance,0.529495711294121,14
+Sapir Academic College,Law,0.485631523766877,139
+Sapir Academic College,Marketing,0.51775023908402,377
+Shenkar - Engineering. Design. Art,Architecture,0.486081155931702,15
+Shenkar - Engineering. Design. Art,Business,0.60456123053943,33
+Shenkar - Engineering. Design. Art,Economics,0.522112957028505,10
+Shenkar - Engineering. Design. Art,Engineering,0.595009489900962,1548
+Technion-Israel Institute of Technology,Architecture,0.482863820143593,450
+Technion-Israel Institute of Technology,Biology,0.527086195087311,96
+Technion-Israel Institute of Technology,Business,0.569943989851074,163
+Technion-Israel Institute of Technology,Chemistry,0.527979431664906,220
+Technion-Israel Institute of Technology,Economics,0.561039997876731,155
+Technion-Israel Institute of Technology,Education,0.485342840087163,69
+Technion-Israel Institute of Technology,Engineering,0.567256016236513,10148
+Technion-Israel Institute of Technology,Information Technology,0.684628493518829,29
+Technion-Israel Institute of Technology,Mathematics,0.594244989251684,107
+Technion-Israel Institute of Technology,Medicine,0.513361000901516,29
+Technion-Israel Institute of Technology,Physics,0.574688152564133,612
+Technion-Israel Institute of Technology,Statistics,0.64068018792407,10
+Tel Aviv University,Accounting,0.515691176035304,1134
+Tel Aviv University,Architecture,0.487100343531718,328
+Tel Aviv University,Biology,0.54078689809006,410
+Tel Aviv University,Business,0.528877690280348,1304
+Tel Aviv University,Chemistry,0.515944399624589,340
+Tel Aviv University,Economics,0.541594951181858,1611
+Tel Aviv University,Education,0.478796204425374,330
+Tel Aviv University,Engineering,0.591310042977097,6245
+Tel Aviv University,Finance,0.517049998223473,203
+Tel Aviv University,Law,0.497379728626578,1444
+Tel Aviv University,Marketing,0.521095083942664,42
+Tel Aviv University,Mathematics,0.583609719931044,224
+Tel Aviv University,Medicine,0.528779752261031,52
+Tel Aviv University,Nursing,0.407069814539485,262
+Tel Aviv University,Physics,0.574725884514026,580
+Tel Aviv University,Statistics,0.62444175247696,140
+Tel-Hai College,Biology,0.430789261405914,13
+Tel-Hai College,Business,0.535079091988251,192
+Tel-Hai College,Economics,0.522546700669262,183
+Tel-Hai College,Education,0.458670157474024,155
+Tel-Hai College,Engineering,0.696237473035549,228
+The Academic Center of Law and Science,Accounting,0.547224730841442,14
+The Academic Center of Law and Science,Business,0.482624540698364,10
+The Academic Center of Law and Science,Law,0.487015652472158,159
+The Academic College of Tel Aviv-Yaffo,Business,0.593028626767453,983
+The Academic College of Tel Aviv-Yaffo,Economics,0.548736307919043,472
+The Academic College of Tel Aviv-Yaffo,Engineering,0.708240138648605,1357
+The Academic College of Tel Aviv-Yaffo,Information Technology,0.695728601173227,95
+The Academic College of Tel Aviv-Yaffo,Nursing,0.375500091103734,53
+The College of Law and Business,Accounting,0.564497590129513,21
+The College of Law and Business,Business,0.527807149445337,216
+The College of Law and Business,Finance,0.580850739142141,12
+The College of Law and Business,Law,0.50141152603264,314
+The Hebrew University of Jerusalem,Accounting,0.522797195866352,795
+The Hebrew University of Jerusalem,Biology,0.540998305005068,295
+The Hebrew University of Jerusalem,Business,0.522246819590303,1347
+The Hebrew University of Jerusalem,Chemistry,0.517975384843006,468
+The Hebrew University of Jerusalem,Economics,0.542681995611065,1291
+The Hebrew University of Jerusalem,Education,0.486779029373399,285
+The Hebrew University of Jerusalem,Engineering,0.630314469544487,1818
+The Hebrew University of Jerusalem,Finance,0.516280956034127,183
+The Hebrew University of Jerusalem,Law,0.491723714671427,1258
+The Hebrew University of Jerusalem,Mathematics,0.585375479392993,301
+The Hebrew University of Jerusalem,Medicine,0.452276110042483,61
+The Hebrew University of Jerusalem,Nursing,0.41517631382565,147
+The Hebrew University of Jerusalem,Physics,0.582587016872762,461
+The Hebrew University of Jerusalem,Statistics,0.628662381281052,262
+The Israel Academic College in Ramat Gan,Business,0.635355893177426,144
+The Israel Academic College in Ramat Gan,Engineering,0.676142715482247,20
+The Israel Academic College in Ramat Gan,Information Technology,0.638059785376833,13
+The Israel Academic College in Ramat Gan,Law,0.489086317250503,10
+The Israel Academic College in Ramat Gan,Nursing,0.391997639951022,17
+The Jerusalem Academy of Music and Dance,Education,0.48327935976239,31
+The Max Stern Yezreel Valley College,Accounting,0.535368645076788,11
+The Max Stern Yezreel Valley College,Business,0.564207032385911,507
+The Max Stern Yezreel Valley College,Economics,0.535618541712,182
+The Max Stern Yezreel Valley College,Education,0.455530302483932,39
+The Max Stern Yezreel Valley College,Engineering,0.722253101516151,50
+The Max Stern Yezreel Valley College,Finance,0.53447828668511,12
+The Max Stern Yezreel Valley College,Information Technology,0.625081665942301,11
+The Max Stern Yezreel Valley College,Marketing,0.533723400878236,32
+The Max Stern Yezreel Valley College,Nursing,0.348666145260218,27
+The NB Haifa School of Design,Architecture,0.515471042686398,23
+The NB Haifa School of Design,Education,0.506653668631808,39
+University of Haifa,Accounting,0.512279142375425,252
+University of Haifa,Biology,0.507061564536522,87
+University of Haifa,Business,0.560649882666216,790
+University of Haifa,Economics,0.522404674810412,726
+University of Haifa,Education,0.461841775311061,171
+University of Haifa,Engineering,0.653654947433799,641
+University of Haifa,Finance,0.501372293045569,126
+University of Haifa,Information Technology,0.719742303502869,56
+University of Haifa,Law,0.481810422963909,587
+University of Haifa,Marketing,0.453375943416086,10
+University of Haifa,Mathematics,0.532611420930432,68
+University of Haifa,Nursing,0.411226360178827,142
+University of Haifa,Statistics,0.60239400107528,256
+Vatel Israel,Business,0.470252768453885,21
+Western Galilee College,Business,0.534140472420173,149
+Western Galilee College,Economics,0.523369041183616,35
+Western Galilee College,Education,0.485613744889852,14
+Zefat Academic College,Business,0.541160022045947,24
+Zefat Academic College,Law,0.475912548092558,13
+milab - Media Innovation Lab,Engineering,0.607066326055178,10

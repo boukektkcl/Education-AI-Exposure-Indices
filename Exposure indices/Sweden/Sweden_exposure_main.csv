@@ -1,0 +1,281 @@
+university_name,field,exposure_alljobs_beta,n_people
+Berghs School of Communication,Marketing,0.525101925379147,22
+Blekinge Institute of Technology,Business,0.529632282335768,101
+Blekinge Institute of Technology,Economics,0.532170199907465,18
+Blekinge Institute of Technology,Engineering,0.621878868744272,308
+Blekinge Institute of Technology,Nursing,0.398700437433785,27
+Chalmers University of Technology,Architecture,0.456174765804654,217
+Chalmers University of Technology,Business,0.489450061006647,113
+Chalmers University of Technology,Economics,0.500559630485687,49
+Chalmers University of Technology,Engineering,0.533036266489443,4302
+Chalmers University of Technology,Information Technology,0.626134313135639,60
+Chalmers University of Technology,Physics,0.609482335924679,21
+Dalarna University,Business,0.50721560223082,247
+Dalarna University,Economics,0.523604163909501,28
+Dalarna University,Education,0.364116347049096,26
+Dalarna University,Engineering,0.51247779961042,145
+Dalarna University,Nursing,0.364644222036339,13
+"Faculty of Engineering, Lund University",Architecture,0.485010682606658,96
+"Faculty of Engineering, Lund University",Engineering,0.527613168384597,493
+Frans Schartau Business Institute,Business,0.458210840828674,21
+Företagsekonomiska Institutet 1888 AB,Business,0.509537442678916,14
+Gotland University,Business,0.524715062418349,30
+Gotland University,Engineering,0.566004181454135,22
+Halmstad University,Business,0.507456174086416,478
+Halmstad University,Economics,0.531512530621976,103
+Halmstad University,Education,0.494039274617191,13
+Halmstad University,Engineering,0.53485350913785,621
+Halmstad University,Information Technology,0.642518628645566,16
+Halmstad University,Marketing,0.513750369930761,78
+Halmstad University,Nursing,0.36267886948162,28
+Handelshögskolan i Göteborg,Business,0.524594817595604,12
+IHM Business School AB,Business,0.502811494606706,155
+IHM Business School AB,Economics,0.502242743064571,28
+IHM Business School AB,Marketing,0.498675027495541,59
+Jönköping University,Business,0.517493109445671,1240
+Jönköping University,Economics,0.515442005860887,152
+Jönköping University,Education,0.364313205130302,22
+Jönköping University,Engineering,0.539522800194712,771
+Jönköping University,Law,0.52655214885465,66
+Jönköping University,Marketing,0.544767942533078,47
+Jönköping University,Nursing,0.375954937741104,35
+KTH Royal Institute of Technology,Architecture,0.478582013095143,218
+KTH Royal Institute of Technology,Business,0.597083725757494,72
+KTH Royal Institute of Technology,Chemistry,0.45959593260189,10
+KTH Royal Institute of Technology,Economics,0.587986373182093,21
+KTH Royal Institute of Technology,Engineering,0.558814688422073,3339
+KTH Royal Institute of Technology,Finance,0.49487097949839,185
+KTH Royal Institute of Technology,Information Technology,0.645000699327729,61
+Kalmar University,Business,0.531080079691441,75
+Kalmar University,Economics,0.513781261016692,19
+Kalmar University,Engineering,0.549848518584586,104
+Kalmar University,Marketing,0.509867300459603,23
+Karlstad University,Business,0.523667427086624,291
+Karlstad University,Economics,0.542169094948504,62
+Karlstad University,Education,0.419575029393432,29
+Karlstad University,Engineering,0.558702123562074,354
+Karlstad University,Information Technology,0.698668984044654,18
+Karlstad University,Law,0.528176405095229,18
+Karlstad University,Nursing,0.371179078773257,21
+Karolinska Institute,Medicine,0.432998667902781,55
+Karolinska Institute,Nursing,0.376173670686362,167
+Kristianstad University,Business,0.524109535777448,398
+Kristianstad University,Economics,0.489743660516444,23
+Kristianstad University,Education,0.371916515778794,17
+Kristianstad University,Engineering,0.613673350571142,152
+Kristianstad University,Finance,0.507005774770288,12
+Kristianstad University,Nursing,0.350638928417433,31
+Linköping University,Biology,0.495675536229133,104
+Linköping University,Business,0.525956002997666,741
+Linköping University,Chemistry,0.485808611130827,24
+Linköping University,Economics,0.539474292828585,186
+Linköping University,Education,0.407913176013158,61
+Linköping University,Engineering,0.551071404372837,927
+Linköping University,Finance,0.509078274468249,18
+Linköping University,Information Technology,0.647762355915952,13
+Linköping University,Law,0.522391594099507,10
+Linköping University,Mathematics,0.538728170244969,25
+Linköping University,Nursing,0.390527526455095,67
+Linköping University,Physics,0.579986807580689,13
+Linköping University,Statistics,0.647823405023526,54
+Linnaeus University,Accounting,0.553320760246866,14
+Linnaeus University,Business,0.517425123141945,1401
+Linnaeus University,Chemistry,0.448994062583843,17
+Linnaeus University,Economics,0.519979898154995,116
+Linnaeus University,Education,0.379284347553003,38
+Linnaeus University,Engineering,0.541962162037224,603
+Linnaeus University,Finance,0.514633099705863,11
+Linnaeus University,Information Technology,0.671536524658399,19
+Linnaeus University,Marketing,0.51196051976152,293
+Linnaeus University,Nursing,0.333246185650881,24
+Luleå University of Technology,Business,0.521277853121775,234
+Luleå University of Technology,Economics,0.505733700859063,33
+Luleå University of Technology,Education,0.36695175660291,21
+Luleå University of Technology,Engineering,0.530642482166414,399
+Luleå University of Technology,Marketing,0.52229112374515,10
+Luleå University of Technology,Nursing,0.357908970615015,22
+Lund University,Accounting,0.533715785615519,17
+Lund University,Architecture,0.505997378222214,28
+Lund University,Biology,0.488250867347818,151
+Lund University,Business,0.518424795054524,2511
+Lund University,Chemistry,0.468949011400723,41
+Lund University,Economics,0.527583352511186,608
+Lund University,Education,0.48014318689628,27
+Lund University,Engineering,0.595430473240092,163
+Lund University,Finance,0.518732547842527,106
+Lund University,Information Technology,0.720587045741464,20
+Lund University,Law,0.497337789209951,131
+Lund University,Marketing,0.522943990757134,47
+Lund University,Mathematics,0.513927307024561,49
+Lund University,Medicine,0.441106013827048,39
+Lund University,Nursing,0.386343614728541,94
+Lund University,Physics,0.540254551802894,113
+Lund University,Statistics,0.611041329457766,50
+Lund University School of Economics & Management,Accounting,0.543913256218323,13
+Lund University School of Economics & Management,Business,0.522626643846805,1361
+Lund University School of Economics & Management,Economics,0.548061156107167,166
+Lund University School of Economics & Management,Finance,0.522369707817233,56
+Lund University School of Economics & Management,Marketing,0.495249145134968,16
+Lund University School of Economics & Management,Statistics,0.498503027988749,10
+Lärarhögskolan I Stockholm,Education,0.426255840067123,11
+Malmö University,Architecture,0.549349866085349,29
+Malmö University,Business,0.504985432712549,445
+Malmö University,Economics,0.563596791015845,17
+Malmö University,Education,0.370136447694054,79
+Malmö University,Engineering,0.599129922841684,605
+Malmö University,Nursing,0.357519745012156,70
+Marie Cederschiöld University,Nursing,0.327756444942469,14
+Mid Sweden University,Business,0.50850488914007,276
+Mid Sweden University,Economics,0.521362553091185,52
+Mid Sweden University,Education,0.410865374044456,32
+Mid Sweden University,Engineering,0.563038956205215,321
+Mid Sweden University,Information Technology,0.729135207129943,10
+Mid Sweden University,Law,0.492538296225811,16
+Mid Sweden University,Nursing,0.403805460326743,20
+Mälardalen University,Accounting,0.488783563800753,11
+Mälardalen University,Business,0.516039162572886,766
+Mälardalen University,Economics,0.542903786440097,88
+Mälardalen University,Education,0.412024842521588,26
+Mälardalen University,Engineering,0.535478991661424,447
+Mälardalen University,Finance,0.521664616589751,40
+Mälardalen University,Marketing,0.525261041339911,96
+Mälardalen University,Mathematics,0.542769815453968,25
+Mälardalen University,Nursing,0.357274513250236,64
+Nackademin,Engineering,0.549893967432693,14
+Red Cross University College,Nursing,0.376585285181432,74
+"School of Business, Economics and Law at the University of Gothenburg",Accounting,0.514488551658148,58
+"School of Business, Economics and Law at the University of Gothenburg",Business,0.516488098546434,1562
+"School of Business, Economics and Law at the University of Gothenburg",Economics,0.523193730248312,460
+"School of Business, Economics and Law at the University of Gothenburg",Finance,0.524650861229329,120
+"School of Business, Economics and Law at the University of Gothenburg",Marketing,0.528826511283509,47
+"School of Business, Economics and Law at the University of Gothenburg",Statistics,0.54363632465276,12
+"School of Engineering, Jönköping University",Engineering,0.495128990435067,61
+Sophiahemmet University College,Nursing,0.352898857965898,61
+Stockholm School of Business,Business,0.549103124505477,59
+Stockholm School of Economics,Accounting,0.515911083753082,27
+Stockholm School of Economics,Business,0.519202714016248,1807
+Stockholm School of Economics,Economics,0.485057748010918,77
+Stockholm School of Economics,Finance,0.502037869141403,94
+Stockholm School of Economics,Marketing,0.503324791172706,14
+Stockholm University,Accounting,0.522887638617035,37
+Stockholm University,Biology,0.523838535547109,101
+Stockholm University,Business,0.524756224186223,3655
+Stockholm University,Chemistry,0.478549902475884,65
+Stockholm University,Economics,0.531569664707485,820
+Stockholm University,Education,0.380404573265218,215
+Stockholm University,Engineering,0.643843476888683,991
+Stockholm University,Finance,0.53837563802056,147
+Stockholm University,Information Technology,0.550265412774056,59
+Stockholm University,Law,0.490520407399588,32
+Stockholm University,Marketing,0.52199269096153,211
+Stockholm University,Mathematics,0.573685835879253,69
+Stockholm University,Physics,0.566118852803392,40
+Stockholm University,Statistics,0.599488032683595,254
+Swedish Defence University,Business,0.492287566130371,43
+Swedish Defence University,Law,0.487042206082263,13
+Swedish School of Textiles,Business,0.520718765097292,44
+Swedish University of Agricultural Sciences,Architecture,0.373125313960034,59
+Swedish University of Agricultural Sciences,Biology,0.43458398181426,50
+Swedish University of Agricultural Sciences,Business,0.49961526611185,172
+Swedish University of Agricultural Sciences,Economics,0.4985854919086,28
+Swedish University of Agricultural Sciences,Engineering,0.397166062938509,27
+Sälj & Marknadshögskolan,Marketing,0.512961412959284,13
+Södertörn University,Accounting,0.52530742604992,11
+Södertörn University,Biology,0.551299517469718,14
+Södertörn University,Business,0.522743990826106,945
+Södertörn University,Economics,0.527926167515474,173
+Södertörn University,Education,0.35793236292995,35
+Södertörn University,Engineering,0.62637526822629,17
+Södertörn University,Finance,0.522061610444589,32
+Södertörn University,Law,0.503955752168045,60
+Södertörn University,Marketing,0.449797053773559,21
+TEC Travel Education Centre,Business,0.423158022452145,11
+Teknikhögskolan,Engineering,0.550666373872253,15
+The Swedish School of Sport and Health Sciences,Business,0.409977009595407,30
+The Swedish School of Sport and Health Sciences,Education,0.323770886125314,10
+"Umeå School of Business, Economics, and Statistics (USBE)",Business,0.540857325365812,56
+"Umeå School of Business, Economics, and Statistics (USBE)",Economics,0.550225726205818,10
+Umeå University,Architecture,0.466239172516392,131
+Umeå University,Biology,0.5026877463362,40
+Umeå University,Business,0.518092663155243,427
+Umeå University,Chemistry,0.51587970442329,24
+Umeå University,Economics,0.53839755142434,80
+Umeå University,Education,0.399798361935048,51
+Umeå University,Engineering,0.553915947055321,284
+Umeå University,Finance,0.525104622553059,10
+Umeå University,Law,0.486197773053735,12
+Umeå University,Mathematics,0.582587474208199,14
+Umeå University,Medicine,0.370205265832472,37
+Umeå University,Nursing,0.384735086452116,44
+Umeå University,Physics,0.541066371406529,12
+Umeå University,Statistics,0.636900331568548,25
+University West,Business,0.515008633595321,104
+University West,Economics,0.473521105092364,63
+University West,Engineering,0.535321246813807,206
+University West,Nursing,0.477040328562122,10
+"University of Arts, Crafts and Design",Architecture,0.479855235140294,34
+"University of Arts, Crafts and Design",Education,0.479394440025687,10
+University of Borås,Architecture,0.57005873093496,16
+University of Borås,Business,0.526073819409869,708
+University of Borås,Economics,0.50337366498932,80
+University of Borås,Education,0.377333552148409,20
+University of Borås,Engineering,0.505084061701428,748
+University of Borås,Information Technology,0.630240975922366,15
+University of Borås,Marketing,0.490174804623606,13
+University of Borås,Nursing,0.333065679597581,45
+University of Gothenburg,Accounting,0.531905918568274,23
+University of Gothenburg,Biology,0.50137456389048,130
+University of Gothenburg,Business,0.520313111311515,767
+University of Gothenburg,Chemistry,0.474322645265754,79
+University of Gothenburg,Economics,0.520826488239413,206
+University of Gothenburg,Education,0.385550158866766,114
+University of Gothenburg,Engineering,0.667374582331162,328
+University of Gothenburg,Finance,0.518185256648089,33
+University of Gothenburg,Information Technology,0.659096799214442,40
+University of Gothenburg,Law,0.505906126719537,19
+University of Gothenburg,Marketing,0.537492559477408,41
+University of Gothenburg,Mathematics,0.519086672031194,30
+University of Gothenburg,Medicine,0.444280475234219,24
+University of Gothenburg,Nursing,0.346860420781988,87
+University of Gothenburg,Physics,0.53034240435115,43
+University of Gothenburg,Statistics,0.603104045041447,28
+University of Gävle,Business,0.509313787216957,347
+University of Gävle,Economics,0.510193783385664,63
+University of Gävle,Education,0.359497656017537,26
+University of Gävle,Engineering,0.537168503799204,305
+University of Gävle,Finance,0.538468821413295,11
+University of Gävle,Nursing,0.365880790376798,21
+University of Skövde,Business,0.527647064910488,249
+University of Skövde,Economics,0.517304847619871,46
+University of Skövde,Engineering,0.569128461752488,415
+University of Skövde,Information Technology,0.504222705242007,25
+University of Skövde,Nursing,0.386217632276163,22
+Uppsala University,Accounting,0.508373527453668,23
+Uppsala University,Biology,0.504129770388684,130
+Uppsala University,Business,0.531566985912314,2629
+Uppsala University,Chemistry,0.494704789921822,49
+Uppsala University,Economics,0.532042877387433,453
+Uppsala University,Education,0.414422646904516,74
+Uppsala University,Engineering,0.546309730306291,752
+Uppsala University,Finance,0.507278486657653,80
+Uppsala University,Information Technology,0.625279207577052,22
+Uppsala University,Law,0.536237096018836,74
+Uppsala University,Marketing,0.526421689022441,32
+Uppsala University,Mathematics,0.561344331134349,59
+Uppsala University,Medicine,0.480954243791725,28
+Uppsala University,Nursing,0.390117174226059,79
+Uppsala University,Physics,0.552179591129381,54
+Uppsala University,Statistics,0.613641104588665,102
+Yrgo,Engineering,0.488349359547504,11
+Örebro University,Accounting,0.542591664533064,16
+Örebro University,Business,0.525385039519557,462
+Örebro University,Chemistry,0.439373456940226,21
+Örebro University,Economics,0.519689842522138,79
+Örebro University,Education,0.392412298683806,25
+Örebro University,Engineering,0.542920135484705,292
+Örebro University,Finance,0.522270337411884,13
+Örebro University,Law,0.475181842553749,95
+Örebro University,Marketing,0.496357980195292,12
+Örebro University,Medicine,0.441291281892605,11
+Örebro University,Nursing,0.365020206019814,18
+Örebro University,Statistics,0.593750954623684,21

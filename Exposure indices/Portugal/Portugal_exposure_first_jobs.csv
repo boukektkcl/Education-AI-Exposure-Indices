@@ -1,0 +1,381 @@
+university_name,field,exposure_firstjob_beta,n_people
+CESPU - Polytechnic Health Institute of the North,Nursing,0.36355281646322,44
+Catholic University of Portugal,Business,0.515196802793616,389
+Catholic University of Portugal,Economics,0.535198158577498,137
+Catholic University of Portugal,Education,0.359442440208042,25
+Catholic University of Portugal,Engineering,0.536343061500486,79
+Catholic University of Portugal,Law,0.476097208862429,655
+Catholic University of Portugal,Marketing,0.480320629525294,21
+Catholic University of Portugal,Nursing,0.357125715759354,140
+Católica Porto Business School,Business,0.531319885006661,337
+Católica Porto Business School,Economics,0.535786800697397,125
+ESTG - Politécnico do Porto,Business,0.515568060223469,13
+ESTG - Politécnico do Porto,Engineering,0.607999700155677,23
+ESTGOH - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Marketing,0.539753085635484,24
+Egas Moniz Institute of Health Sciences,Education,0.38307412543688,10
+Egas Moniz Institute of Health Sciences,Nursing,0.361842844643941,37
+Escola De Hotelaria E Turismo Do Porto,Business,0.472194559562143,19
+Escola Superior Náutica Infante D. Henrique,Business,0.487470572577755,61
+Escola Superior Náutica Infante D. Henrique,Engineering,0.458363644588406,54
+Escola Superior de Comunicação Social,Business,0.48642384057709,28
+Escola Superior de Comunicação Social,Marketing,0.52794204941773,504
+Escola Superior de Saúde da Cruz Vermelha Portuguesa,Education,0.377879544275822,20
+Escola Superior de Saúde da Cruz Vermelha Portuguesa,Nursing,0.374091173820474,99
+Escola Superior de Tecnologia da Saúde de Lisboa,Medicine,0.45423073755615,10
+Escola Superior de Tecnologia e Gestão - Instituto Politécnico de Beja,Business,0.568538612070772,24
+Escola Superior de Tecnologia e Gestão - Instituto Politécnico de Beja,Engineering,0.621048085496619,42
+Escola Superior de Tecnologia e Gestão de Viseu,Marketing,0.523692247098604,17
+Escola de Direito da Universidade do Minho,Law,0.480770947081173,108
+Escola de Economia e Gestão - Universidade do Minho,Accounting,0.476901715647003,11
+Escola de Economia e Gestão - Universidade do Minho,Business,0.519346580728184,48
+Escola de Economia e Gestão - Universidade do Minho,Economics,0.549162756927902,48
+Escola de Economia e Gestão - Universidade do Minho,Marketing,0.474239899087959,41
+Escolas Do Turismo De Portugal,Business,0.427835521809953,15
+Estoril Higher Institute for Tourism and Hotel Studies,Business,0.49123296371726,523
+European University,Business,0.519137665320946,559
+European University,Economics,0.497278796959153,18
+European University,Engineering,0.607466948388131,19
+European University,Law,0.470673666291705,21
+European University,Marketing,0.512585574538691,67
+FEUC - Faculdade de Economia da Universidade de Coimbra,Business,0.519782820851825,174
+FEUC - Faculdade de Economia da Universidade de Coimbra,Economics,0.537284793693935,325
+Faculdade De Direito Da Universidade De Lisboa,Law,0.479146543848117,922
+Faculdade De Economia Da Universidade Do Porto,Business,0.525353953636702,390
+Faculdade De Economia Da Universidade Do Porto,Economics,0.538693927851807,907
+Faculdade de Arquitectura da Universidade do Porto,Architecture,0.486976199622125,41
+Faculdade de Arquitetura - Universidade de Lisboa,Architecture,0.497299198403338,61
+Faculdade de Direito - Católica no Porto,Law,0.478088748652264,30
+Faculdade de Direito - Universidade Lusófona,Law,0.509760721616009,26
+Faculdade de Direito da Universidade do Porto,Law,0.477025155723389,301
+Faculdade de Engenharia da Universidade do Porto,Engineering,0.509492458496417,579
+Faculdade de Motricidade Humana,Business,0.518581455689873,22
+Faculdade de Motricidade Humana,Education,0.39689472918273,16
+Faculty of Science at University of Porto,Architecture,0.418391014562568,22
+Faculty of Science at University of Porto,Biology,0.505687560148767,127
+Faculty of Science at University of Porto,Chemistry,0.49226124602393,112
+Faculty of Science at University of Porto,Engineering,0.575359848336226,125
+Faculty of Science at University of Porto,Mathematics,0.542707292840055,68
+Faculty of Science at University of Porto,Physics,0.521795839610462,41
+Faculty of Sciences and Technology at New University of Lisbon,Biology,0.527953477748412,188
+Faculty of Sciences and Technology at New University of Lisbon,Chemistry,0.496547942179717,47
+Faculty of Sciences and Technology at New University of Lisbon,Engineering,0.558478920131442,509
+Faculty of Sciences and Technology at New University of Lisbon,Mathematics,0.577894162461606,64
+Fernando Pessoa University,Business,0.481984589512871,13
+Fernando Pessoa University,Engineering,0.541209952449349,48
+Fernando Pessoa University,Marketing,0.523020049745548,16
+Fernando Pessoa University,Nursing,0.355413266631835,40
+Higher School of Education of Paula Frassinetti,Education,0.404834679472668,26
+IADE,Business,0.470516014215352,10
+IADE,Marketing,0.509431994179897,248
+ISCTE - University Institute of Lisbon,Architecture,0.508081189862791,23
+ISCTE - University Institute of Lisbon,Business,0.534685442123909,627
+ISCTE - University Institute of Lisbon,Economics,0.525315579665523,203
+ISCTE - University Institute of Lisbon,Engineering,0.63934117918181,521
+ISCTE - University Institute of Lisbon,Finance,0.552436196967013,89
+ISCTE - University Institute of Lisbon,Marketing,0.51606200497097,63
+ISCTE Business School,Business,0.530657534859707,886
+ISCTE Business School,Economics,0.526031220244889,150
+ISCTE Business School,Engineering,0.584772656307557,20
+ISCTE Business School,Finance,0.53667940503099,133
+ISCTE Business School,Marketing,0.492696821311134,52
+ISEG - Lisbon School of Economics & Management,Business,0.530631314776105,815
+ISEG - Lisbon School of Economics & Management,Economics,0.544067052584404,599
+ISEG - Lisbon School of Economics & Management,Finance,0.512533681715366,62
+ISG - Business and Economics School,Business,0.52173347498251,170
+ISG - Business and Economics School,Economics,0.497594341503029,12
+ISG - Business and Economics School,Marketing,0.563015242063749,15
+ISLA - Instituto Politécnico de Gestão e Tecnologia,Business,0.507938211017283,99
+ISLA - Instituto Politécnico de Gestão e Tecnologia,Engineering,0.66341180333394,10
+ISLA Santarém,Business,0.437095393380915,27
+ISPGAYA,Business,0.450287619017869,14
+ISPGAYA,Engineering,0.500031858662868,28
+Institute of Administration and Management,Business,0.510687499949263,118
+Institute of Administration and Management,Economics,0.560799124297486,11
+Institute of Advanced Technologies of Lisbon,Engineering,0.678821132958016,81
+Institute of Advanced Technologies of Lisbon,Information Technology,0.591980655597804,10
+Institute of Business and Tourism,Business,0.435030545177793,28
+Institute of Business and Tourism,Marketing,0.477706156766729,109
+Institute of Educational Sciences,Education,0.382316050800082,30
+Institute of Entre Douro and Vouga,Accounting,0.531912302902529,30
+Institute of Entre Douro and Vouga,Business,0.515483754555136,15
+Institute of Entre Douro and Vouga,Engineering,0.473507977250814,13
+Institute of Entre Douro and Vouga,Marketing,0.533900273951172,33
+Institute of Paços de Brandão,Marketing,0.501284123925558,13
+Instituto Politécnico da Guarda,Accounting,0.567897400220424,15
+Instituto Politécnico da Guarda,Business,0.495310368645102,51
+Instituto Politécnico da Guarda,Engineering,0.555535555322847,19
+Instituto Politécnico da Guarda,Marketing,0.469442048621355,51
+Instituto Politécnico da Guarda,Nursing,0.351443423758868,40
+Instituto Politécnico de Viseu,Accounting,0.563232965871235,16
+Instituto Politécnico de Viseu,Business,0.508731897205679,44
+Instituto Politécnico de Viseu,Education,0.393940254838126,33
+Instituto Politécnico de Viseu,Engineering,0.540337893644733,124
+Instituto Politécnico de Viseu,Marketing,0.505039423808209,146
+Instituto Politécnico de Viseu,Nursing,0.359965575281307,56
+Instituto Português de Administração de Marketing,Business,0.506993458321198,838
+Instituto Português de Administração de Marketing,Marketing,0.495953937641899,855
+Instituto Superior De Comunicação Empresarial,Business,0.524525591417287,83
+Instituto Superior De Comunicação Empresarial,Marketing,0.504917507035696,37
+Instituto Superior Técnico,Architecture,0.503169621368496,37
+Instituto Superior Técnico,Engineering,0.572192990015086,3048
+Instituto Superior Técnico,Mathematics,0.584613468121564,100
+Instituto Superior de Ciências Sociais e Políticas,Business,0.52183498095756,186
+Instituto Superior de Contabilidade e Administracao do Porto,Accounting,0.546798241240458,148
+Instituto Superior de Contabilidade e Administracao do Porto,Business,0.518219996024907,186
+Instituto Superior de Contabilidade e Administracao do Porto,Finance,0.556339383832312,23
+Instituto Superior de Contabilidade e Administracao do Porto,Marketing,0.49500964718925,566
+Instituto Superior de Contabilidade e Administração de Coimbra,Accounting,0.539771242987531,35
+Instituto Superior de Contabilidade e Administração de Coimbra,Business,0.509754852208699,168
+Instituto Superior de Contabilidade e Administração de Coimbra,Economics,0.577133710932921,10
+Instituto Superior de Contabilidade e Administração de Coimbra,Marketing,0.501763695156916,126
+Instituto Superior de Contabilidade e Administração de Lisboa,Accounting,0.550415937340307,215
+Instituto Superior de Contabilidade e Administração de Lisboa,Business,0.544046995970515,291
+Instituto Superior de Contabilidade e Administração de Lisboa,Economics,0.581391970787468,13
+Instituto Superior de Contabilidade e Administração de Lisboa,Finance,0.540478186214537,147
+Instituto Superior de Contabilidade e Administração de Lisboa,Law,0.628066190754279,12
+Instituto Superior de Economia e Gestão,Business,0.515125761632038,18
+Instituto Superior de Engenharia de Coimbra,Engineering,0.532009580907938,431
+Instituto Superior de Engenharia do Porto,Engineering,0.537853541689289,1444
+Instituto de Artes Visuais Design e Marketing,Business,0.486106888143161,20
+Instituto de Artes Visuais Design e Marketing,Marketing,0.502357579973039,548
+Jean Piaget Polytechnic Institute of the South,Education,0.360227988751342,35
+Jean Piaget Polytechnic Institute of the South,Nursing,0.361456561342328,33
+Jean Piaget School of Education of Arcozelo,Education,0.360471286531477,17
+Lusophone University of Humanities and Technologies,Accounting,0.522785125354882,11
+Lusophone University of Humanities and Technologies,Architecture,0.436481611877007,31
+Lusophone University of Humanities and Technologies,Biology,0.522306807039453,16
+Lusophone University of Humanities and Technologies,Business,0.525858608809175,296
+Lusophone University of Humanities and Technologies,Economics,0.546409720302198,49
+Lusophone University of Humanities and Technologies,Education,0.34468800027363,97
+Lusophone University of Humanities and Technologies,Engineering,0.571989436003912,196
+Lusophone University of Humanities and Technologies,Law,0.500230403892719,76
+Lusophone University of Humanities and Technologies,Marketing,0.517170236825971,90
+Manuel Teixeira Gomes Institute,Business,0.516129425899193,18
+Manuel Teixeira Gomes Institute,Law,0.463611842987833,20
+Maria Ulrich Early Childhood Educators School,Education,0.319998595801716,11
+Miguel Torga Institute of Higher Education,Business,0.535175765675711,41
+NOVA IMS Information Management School,Business,0.622243094071762,205
+NOVA IMS Information Management School,Information Technology,0.612330767715513,11
+NOVA School of Law,Law,0.500538641918337,226
+New University of Lisbon,Biology,0.530408341550361,51
+New University of Lisbon,Business,0.558528144760273,105
+New University of Lisbon,Chemistry,0.575632160868337,25
+New University of Lisbon,Economics,0.519382716649235,89
+New University of Lisbon,Engineering,0.600693786170859,284
+New University of Lisbon,Law,0.484172218289941,91
+New University of Lisbon,Marketing,0.485727717401607,13
+Nova School of Business and Economics,Business,0.523258051752931,1278
+Nova School of Business and Economics,Economics,0.530196505001573,1020
+Nursing School of Coimbra,Education,0.349728869445998,40
+Nursing School of Coimbra,Nursing,0.359600736758222,268
+Nursing School of Lisbon,Education,0.339855922220733,41
+Nursing School of Lisbon,Nursing,0.363531808257177,284
+Nursing School of Porto,Education,0.37448619970372,47
+Nursing School of Porto,Nursing,0.366750403434984,324
+Politécnico da Guarda,Accounting,0.582690802481341,13
+Politécnico da Guarda,Business,0.5241290311907,24
+Politécnico da Guarda,Engineering,0.554756247299768,11
+Politécnico da Guarda,Marketing,0.510859275480388,36
+Polytechnic Institute of Beja,Education,0.42396974140481,12
+Polytechnic Institute of Beja,Engineering,0.483975716956665,32
+Polytechnic Institute of Beja,Nursing,0.375367104738478,23
+Polytechnic Institute of Bragança,Accounting,0.554975797985566,42
+Polytechnic Institute of Bragança,Business,0.495248150453435,82
+Polytechnic Institute of Bragança,Education,0.402370046623227,22
+Polytechnic Institute of Bragança,Engineering,0.526307003148011,174
+Polytechnic Institute of Bragança,Marketing,0.48448000903263,76
+Polytechnic Institute of Bragança,Nursing,0.360821174376933,49
+Polytechnic Institute of Coimbra,Business,0.499615150993609,33
+Polytechnic Institute of Coimbra,Education,0.392404749101588,24
+Polytechnic Institute of Coimbra,Engineering,0.550933410829198,19
+Polytechnic Institute of Coimbra,Marketing,0.515697629795211,103
+Polytechnic Institute of Cávado and Ave,Accounting,0.568719452026688,119
+Polytechnic Institute of Cávado and Ave,Business,0.533550671409306,86
+Polytechnic Institute of Cávado and Ave,Engineering,0.585554595126398,92
+Polytechnic Institute of Cávado and Ave,Finance,0.530505236801815,27
+Polytechnic Institute of Leiria,Biology,0.461822505117864,56
+Polytechnic Institute of Leiria,Business,0.501298929195946,172
+Polytechnic Institute of Leiria,Economics,0.551200986379776,17
+Polytechnic Institute of Leiria,Education,0.389981056251572,34
+Polytechnic Institute of Leiria,Engineering,0.558447202257455,441
+Polytechnic Institute of Leiria,Finance,0.567472359949166,74
+Polytechnic Institute of Leiria,Marketing,0.488012745271495,370
+Polytechnic Institute of Leiria,Nursing,0.355009659018362,72
+Polytechnic Institute of Lisbon,Education,0.386293084961133,22
+Polytechnic Institute of Lisbon,Engineering,0.54622795553263,25
+Polytechnic Institute of Lisbon,Marketing,0.539779713506376,21
+Polytechnic Institute of Lusophony - Ribeiro Sanches School of Health Sciences,Nursing,0.375736610047519,12
+Polytechnic Institute of Maia,Accounting,0.563841588033631,13
+Polytechnic Institute of Portalegre,Business,0.480832628837847,25
+Polytechnic Institute of Portalegre,Engineering,0.53845933637049,30
+Polytechnic Institute of Portalegre,Marketing,0.516283027279016,95
+Polytechnic Institute of Portalegre,Nursing,0.341606774772216,25
+Polytechnic Institute of Porto,Accounting,0.501924395034553,11
+Polytechnic Institute of Porto,Business,0.485129549844755,98
+Polytechnic Institute of Porto,Education,0.400137369770015,55
+Polytechnic Institute of Porto,Engineering,0.555575483642859,73
+Polytechnic Institute of Porto,Marketing,0.542489941389445,25
+Polytechnic Institute of Santarém,Business,0.514271126850258,53
+Polytechnic Institute of Santarém,Education,0.446428741859241,30
+Polytechnic Institute of Santarém,Engineering,0.606457356615858,29
+Polytechnic Institute of Santarém,Finance,0.603963617004765,11
+Polytechnic Institute of Santarém,Marketing,0.511885452014356,195
+Polytechnic Institute of Santarém,Nursing,0.363977604055664,66
+Polytechnic Institute of Setúbal,Business,0.54025973307398,360
+Polytechnic Institute of Setúbal,Education,0.382231509238991,35
+Polytechnic Institute of Setúbal,Engineering,0.551072529021909,159
+Polytechnic Institute of Setúbal,Finance,0.543630374524972,169
+Polytechnic Institute of Setúbal,Marketing,0.507844655334723,260
+Polytechnic Institute of Setúbal,Nursing,0.350680669453207,43
+Polytechnic Institute of Tomar,Accounting,0.517855676021739,12
+Polytechnic Institute of Tomar,Business,0.510123239092926,66
+Polytechnic Institute of Tomar,Engineering,0.549796206998593,114
+Polytechnic Institute of Viana do Castelo,Business,0.495610606986309,49
+Polytechnic Institute of Viana do Castelo,Economics,0.545485986775809,15
+Polytechnic Institute of Viana do Castelo,Education,0.368303630367818,25
+Polytechnic Institute of Viana do Castelo,Engineering,0.540068181204906,140
+Polytechnic Institute of Viana do Castelo,Marketing,0.506355355291664,32
+Polytechnic Institute of Viana do Castelo,Nursing,0.352984079461664,51
+Porto School of Arts,Architecture,0.529084054896406,16
+Portucalense Infante D. Henrique University,Business,0.519623297250074,111
+Portucalense Infante D. Henrique University,Economics,0.558805639894594,59
+Portucalense Infante D. Henrique University,Engineering,0.67171840365272,12
+Portucalense Infante D. Henrique University,Information Technology,0.699629331241587,10
+Portucalense Infante D. Henrique University,Law,0.489177831398742,120
+Santa Maria Health School,Nursing,0.355470297864988,65
+Setúbal School of Technology Polytechnic Institute of Setúbal,Business,0.505966692290483,15
+Setúbal School of Technology Polytechnic Institute of Setúbal,Engineering,0.531630053233005,133
+The Polytechnic Institute of Castelo Branco,Business,0.535158609798403,24
+The Polytechnic Institute of Castelo Branco,Education,0.34911759808354,12
+The Polytechnic Institute of Castelo Branco,Engineering,0.550767179033719,76
+The Polytechnic Institute of Castelo Branco,Information Technology,0.684887256249957,11
+The Polytechnic Institute of Castelo Branco,Marketing,0.492289517705465,30
+The Polytechnic Institute of Castelo Branco,Nursing,0.37500128779025,41
+Universidade Aberta (UAb),Business,0.505340028754404,31
+Universidade Aberta (UAb),Economics,0.50826161035838,10
+Universidade Aberta (UAb),Education,0.415857868515503,64
+Universidade Aberta (UAb),Engineering,0.652676747316839,27
+Universidade Da Beira Interior,Architecture,0.485175658035887,18
+Universidade Da Beira Interior,Business,0.535410847587416,54
+Universidade Da Beira Interior,Chemistry,0.528964800701082,12
+Universidade Da Beira Interior,Economics,0.534324466591023,124
+Universidade Da Beira Interior,Engineering,0.546778310702544,216
+Universidade Da Beira Interior,Marketing,0.499455852318353,136
+Universidade Independente,Marketing,0.496118753546209,15
+Universidade Lusíada de Lisboa,Accounting,0.518206293907098,13
+Universidade Lusíada de Lisboa,Architecture,0.473889926059272,72
+Universidade Lusíada de Lisboa,Business,0.517042065607172,204
+Universidade Lusíada de Lisboa,Economics,0.538715847005605,46
+Universidade Lusíada de Lisboa,Engineering,0.566797552364244,23
+Universidade Lusíada de Lisboa,Law,0.49173433877875,122
+Universidade Lusíada de Lisboa,Marketing,0.514250627899017,92
+Universidade Técnica de Lisboa,Architecture,0.471055597531941,12
+Universidade Técnica de Lisboa,Business,0.562825879077663,10
+Universidade de Lisboa,Architecture,0.478375727068044,105
+Universidade de Lisboa,Biology,0.528419649922557,146
+Universidade de Lisboa,Business,0.532841168827739,146
+Universidade de Lisboa,Chemistry,0.462949594887235,20
+Universidade de Lisboa,Economics,0.527283002868261,15
+Universidade de Lisboa,Education,0.509228467680401,43
+Universidade de Lisboa,Engineering,0.547704850726831,371
+Universidade de Lisboa,Law,0.465752714929986,93
+Universidade de Lisboa,Mathematics,0.576276948938325,44
+Universidade de Lisboa,Medicine,0.447612634560054,30
+Universidade de Lisboa,Physics,0.540673670262785,18
+University Lusiada,Accounting,0.566643692761487,37
+University Lusiada,Architecture,0.476905074712724,10
+University Lusiada,Business,0.484785230243571,33
+University Lusiada,Economics,0.54251023411548,28
+University Lusiada,Engineering,0.489691947619905,23
+University Lusiada,Law,0.457391930953447,82
+University Lusiada,Marketing,0.491607440780184,63
+University Lusófona of Porto,Business,0.517125905262868,45
+University Lusófona of Porto,Engineering,0.548070380421899,26
+University Lusófona of Porto,Law,0.467828688883906,57
+University Lusófona of Porto,Marketing,0.449344749403248,20
+University of Aveiro,Accounting,0.531011423786451,137
+University of Aveiro,Biology,0.482466870771213,94
+University of Aveiro,Business,0.526925604791452,328
+University of Aveiro,Chemistry,0.44737152170925,36
+University of Aveiro,Economics,0.542188101882926,168
+University of Aveiro,Education,0.42014201732346,54
+University of Aveiro,Engineering,0.519575247523814,492
+University of Aveiro,Finance,0.532609662807882,12
+University of Aveiro,Information Technology,0.687537796053475,31
+University of Aveiro,Marketing,0.520255296391309,199
+University of Aveiro,Mathematics,0.516688815312119,27
+University of Aveiro,Nursing,0.378807264566379,90
+University of Aveiro,Physics,0.571347650495672,23
+University of Coimbra,Architecture,0.510399154610492,30
+University of Coimbra,Biology,0.51068795318282,156
+University of Coimbra,Business,0.527942057540101,116
+University of Coimbra,Chemistry,0.520317536569669,111
+University of Coimbra,Economics,0.519862175429214,174
+University of Coimbra,Education,0.430882896355061,61
+University of Coimbra,Engineering,0.555094748340471,767
+University of Coimbra,Law,0.475860509918654,621
+University of Coimbra,Mathematics,0.518649739818722,47
+University of Coimbra,Medicine,0.44893632529096,26
+University of Coimbra,Physics,0.516916865922216,33
+University of Evora,Architecture,0.470735526432242,27
+University of Evora,Biology,0.501319434936829,86
+University of Evora,Business,0.529574920156412,78
+University of Evora,Economics,0.538547405741772,103
+University of Evora,Education,0.438901209260849,31
+University of Evora,Engineering,0.586950539070749,126
+University of Evora,Nursing,0.348499814270812,44
+University of Madeira,Business,0.515355763323251,74
+University of Madeira,Economics,0.512278647422678,53
+University of Madeira,Education,0.313905955620976,17
+University of Madeira,Engineering,0.659049161055456,84
+University of Maia,Accounting,0.564314117222764,19
+University of Maia,Business,0.508823392363659,226
+University of Maia,Education,0.326463722697249,120
+University of Maia,Engineering,0.592901054871507,24
+University of Maia,Marketing,0.484648267428876,68
+University of Minho,Accounting,0.531019437904402,54
+University of Minho,Architecture,0.521833959324727,14
+University of Minho,Biology,0.499719970536594,133
+University of Minho,Business,0.518381983734478,206
+University of Minho,Chemistry,0.524527640996613,44
+University of Minho,Economics,0.524147322613215,253
+University of Minho,Education,0.449457454451904,184
+University of Minho,Engineering,0.569548397902035,627
+University of Minho,Information Technology,0.592208154974929,16
+University of Minho,Law,0.490655421788963,189
+University of Minho,Marketing,0.461369534022824,276
+University of Minho,Mathematics,0.478349688755431,44
+University of Minho,Nursing,0.359474695228947,95
+University of Minho,Physics,0.483995960196049,36
+University of Minho,Statistics,0.653910028374478,13
+University of Porto,Architecture,0.429163871302624,30
+University of Porto,Biology,0.556888822157932,70
+University of Porto,Business,0.537982600149455,126
+University of Porto,Chemistry,0.474165668702817,46
+University of Porto,Economics,0.507633699782988,96
+University of Porto,Education,0.448256489956791,29
+University of Porto,Engineering,0.632696525261019,93
+University of Porto,Law,0.515517160242891,27
+University of Porto,Mathematics,0.596541688665067,32
+University of Porto,Medicine,0.419199709016119,13
+University of Porto,Physics,0.597829619406916,35
+University of Tras-os-Montes and Alto Douro,Architecture,0.366272904766367,15
+University of Tras-os-Montes and Alto Douro,Biology,0.459413244693646,28
+University of Tras-os-Montes and Alto Douro,Business,0.554231913916507,54
+University of Tras-os-Montes and Alto Douro,Economics,0.50996940356609,93
+University of Tras-os-Montes and Alto Douro,Education,0.304633400291505,29
+University of Tras-os-Montes and Alto Douro,Engineering,0.53087850085843,223
+University of Tras-os-Montes and Alto Douro,Nursing,0.360653780499777,44
+University of the Algarve,Architecture,0.424273127543919,16
+University of the Algarve,Biology,0.499339935017659,105
+University of the Algarve,Business,0.508595094683673,197
+University of the Algarve,Economics,0.534623902886921,86
+University of the Algarve,Education,0.395476220646371,19
+University of the Algarve,Engineering,0.522965939440891,181
+University of the Algarve,Marketing,0.486296203433801,170
+University of the Algarve,Nursing,0.358865235810579,24
+University of the Azores,Biology,0.490707953506446,18
+University of the Azores,Business,0.499658370603658,44
+University of the Azores,Economics,0.473976329601226,39
+University of the Azores,Engineering,0.618794248043452,16
+University of the Azores,Nursing,0.376622718190147,23

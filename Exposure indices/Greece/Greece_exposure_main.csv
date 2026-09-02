@@ -1,0 +1,246 @@
+university_name,field,exposure_alljobs_beta,n_people
+AKTO College,Architecture,0.48807212127112,18
+Agricultural University of Athens,Business,0.500765160246296,95
+Agricultural University of Athens,Economics,0.515846240766633,72
+Agricultural University of Athens,Engineering,0.468511918765238,90
+American College of Thessaloniki,Business,0.496942498419967,133
+American College of Thessaloniki,Engineering,0.562504504821587,24
+Aristotle University of Thessaloniki,Accounting,0.510827510490286,11
+Aristotle University of Thessaloniki,Architecture,0.485381574707963,60
+Aristotle University of Thessaloniki,Biology,0.495061403575393,123
+Aristotle University of Thessaloniki,Business,0.520106736359068,311
+Aristotle University of Thessaloniki,Chemistry,0.463066373425174,577
+Aristotle University of Thessaloniki,Economics,0.533280090650409,1390
+Aristotle University of Thessaloniki,Education,0.367929692972579,1305
+Aristotle University of Thessaloniki,Engineering,0.567626179464926,802
+Aristotle University of Thessaloniki,Finance,0.490243673437394,22
+Aristotle University of Thessaloniki,Information Technology,0.649001136927917,20
+Aristotle University of Thessaloniki,Law,0.466283244082549,1343
+Aristotle University of Thessaloniki,Mathematics,0.527613056003541,559
+Aristotle University of Thessaloniki,Medicine,0.404993688426575,168
+Aristotle University of Thessaloniki,Physics,0.513583665130655,424
+Athens University of Economics and Business,Accounting,0.544102945126311,34
+Athens University of Economics and Business,Business,0.545975423846561,3706
+Athens University of Economics and Business,Economics,0.545672589568436,1350
+Athens University of Economics and Business,Education,0.548995270702147,24
+Athens University of Economics and Business,Engineering,0.678695775544237,493
+Athens University of Economics and Business,Finance,0.546418377894926,1446
+Athens University of Economics and Business,Information Technology,0.684562937737786,65
+Athens University of Economics and Business,Marketing,0.52034028765196,816
+Athens University of Economics and Business,Statistics,0.60744223867502,369
+Democritus University of Thrace,Architecture,0.462268785961169,32
+Democritus University of Thrace,Biology,0.492055550683291,283
+Democritus University of Thrace,Business,0.504876679583891,131
+Democritus University of Thrace,Economics,0.538685160772689,389
+Democritus University of Thrace,Education,0.312935362201718,393
+Democritus University of Thrace,Engineering,0.49699236279906,251
+Democritus University of Thrace,Finance,0.496094588783864,11
+Democritus University of Thrace,Law,0.461413421627363,1229
+Democritus University of Thrace,Medicine,0.388607511831403,12
+Department of Banking and Financial Management,Business,0.568573130454792,47
+Department of Informatics,Engineering,0.625299300268799,10
+Department of Supply Chain Management I.H.U. Katerini Greece,Business,0.523410096469312,16
+"Deree College, The American College of Greece",Business,0.507519629701261,1326
+"Deree College, The American College of Greece",Economics,0.500709396694659,78
+"Deree College, The American College of Greece",Engineering,0.618181961517563,135
+"Deree College, The American College of Greece",Finance,0.527193038177792,171
+"Deree College, The American College of Greece",Information Technology,0.58723836904966,50
+"Deree College, The American College of Greece",Marketing,0.523709108891069,161
+Harokopio University,Economics,0.492124594899224,104
+Harokopio University,Education,0.511373242761875,22
+Harokopio University,Engineering,0.718129084136243,34
+Harokopio University,Information Technology,0.702556761987667,22
+Hellenic Mediterranean University,Business,0.492156654105895,79
+Hellenic Mediterranean University,Engineering,0.521390366423889,135
+Hellenic Mediterranean University,Finance,0.55921266874067,29
+Hellenic Mediterranean University,Nursing,0.38723930133807,17
+Hellenic Open University,Business,0.517060357991436,976
+Hellenic Open University,Education,0.428052075985109,17
+Hellenic Open University,Engineering,0.595136330602523,403
+Hellenic Open University,Information Technology,0.631221283925669,58
+International Hellenic University,Accounting,0.53571013215623,31
+International Hellenic University,Business,0.480798575587091,309
+International Hellenic University,Education,0.259819753882515,13
+International Hellenic University,Engineering,0.524204397880891,495
+International Hellenic University,Finance,0.547972011756507,79
+International Hellenic University,Information Technology,0.702336271839441,20
+International Hellenic University,Marketing,0.5105914633035,16
+International Hellenic University,Nursing,0.365558268433385,30
+Ionian University,Business,0.526778738018366,52
+Ionian University,Engineering,0.628155049957631,60
+Ionian University,Information Technology,0.678934058835471,19
+Mediterranean College,Business,0.415915576246671,36
+Mediterranean College,Engineering,0.618303401755268,11
+Merchant Marine Academy of Crete,Engineering,0.395676324228551,29
+National Technical University of Athens,Architecture,0.479185454913395,73
+National Technical University of Athens,Business,0.481517796795067,59
+National Technical University of Athens,Education,0.370229823310676,12
+National Technical University of Athens,Engineering,0.514116716561663,772
+National Technical University of Athens,Marketing,0.515561890266887,13
+National Technical University of Athens,Mathematics,0.532292640426074,68
+National Technical University of Athens,Nursing,0.429647707765648,10
+National Technical University of Athens,Physics,0.523934462707604,10
+National and Kapodistrian University of Athens,Accounting,0.461396258856381,10
+National and Kapodistrian University of Athens,Biology,0.497062493203152,118
+National and Kapodistrian University of Athens,Business,0.495853808543204,148
+National and Kapodistrian University of Athens,Chemistry,0.485774118869312,478
+National and Kapodistrian University of Athens,Economics,0.537684807782896,1029
+National and Kapodistrian University of Athens,Education,0.372522586840898,945
+National and Kapodistrian University of Athens,Engineering,0.634884667454241,338
+National and Kapodistrian University of Athens,Finance,0.546402534755541,86
+National and Kapodistrian University of Athens,Information Technology,0.688715350742699,30
+National and Kapodistrian University of Athens,Law,0.463115331411296,1693
+National and Kapodistrian University of Athens,Mathematics,0.548382995338405,563
+National and Kapodistrian University of Athens,Medicine,0.433650961244796,39
+National and Kapodistrian University of Athens,Nursing,0.389930746925083,212
+National and Kapodistrian University of Athens,Physics,0.542163349074136,359
+National and Kapodistrian University of Athens,Statistics,0.565636442146068,18
+Panteion University of Social and Political Sciences,Accounting,0.539461054200544,11
+Panteion University of Social and Political Sciences,Business,0.53273783322167,102
+Panteion University of Social and Political Sciences,Economics,0.529519501161781,391
+Panteion University of Social and Political Sciences,Finance,0.538895408614903,69
+Panteion University of Social and Political Sciences,Law,0.553850501170263,28
+Panteion University of Social and Political Sciences,Marketing,0.55749601530697,22
+Perrotis College,Business,0.455311899619543,16
+School of Pedagogical and Technological Education,Education,0.45711412516113,37
+School of Pedagogical and Technological Education,Engineering,0.477798605154473,542
+Technical University of Crete,Architecture,0.480708046302751,28
+Technical University of Crete,Engineering,0.53998657083504,285
+Technological Education Institute of Messolonghi,Accounting,0.519131934780356,29
+Technological Education Institute of Messolonghi,Business,0.545694345676482,45
+Technological Education Institute of Messolonghi,Engineering,0.489741909395555,16
+Technological Education Institute of Messolonghi,Finance,0.551144495215963,29
+Technological Educational Institute of Central Macedonia,Accounting,0.515589655027624,31
+Technological Educational Institute of Central Macedonia,Architecture,0.429858780409449,13
+Technological Educational Institute of Central Macedonia,Business,0.518559934332513,205
+Technological Educational Institute of Central Macedonia,Engineering,0.516303085521352,420
+Technological Educational Institute of Central Macedonia,Finance,0.541530820740059,126
+Technological Educational Institute of Central Macedonia,Information Technology,0.624284590909521,14
+Technological Educational Institute of Crete,Accounting,0.554863773445392,61
+Technological Educational Institute of Crete,Business,0.492501993980119,222
+Technological Educational Institute of Crete,Engineering,0.511890626810453,553
+Technological Educational Institute of Crete,Finance,0.532325163535352,93
+Technological Educational Institute of Crete,Information Technology,0.704431870683784,25
+Technological Educational Institute of Crete,Marketing,0.52236853873754,34
+Technological Educational Institute of Crete,Nursing,0.390301413995963,27
+Technological Educational Institute of Larissa,Accounting,0.541708330782781,78
+Technological Educational Institute of Larissa,Business,0.50727302961166,320
+Technological Educational Institute of Larissa,Education,0.376043016710205,10
+Technological Educational Institute of Larissa,Engineering,0.520720766523874,613
+Technological Educational Institute of Larissa,Finance,0.540370548214015,89
+Technological Educational Institute of Larissa,Information Technology,0.645318432001682,10
+Technological Educational Institute of Larissa,Nursing,0.390123672100089,40
+Technological Educational Institute of Western Macedonia,Accounting,0.559185423143647,31
+Technological Educational Institute of Western Macedonia,Business,0.515649812719137,198
+Technological Educational Institute of Western Macedonia,Economics,0.621004931465542,10
+Technological Educational Institute of Western Macedonia,Engineering,0.487541483830341,388
+Technological Educational Institute of Western Macedonia,Finance,0.505023970948063,80
+Technological Educational Institute of Western Macedonia,Information Technology,0.531130115235568,13
+Technological Educationl Institute of Piraeus,Accounting,0.57359091499433,79
+Technological Educationl Institute of Piraeus,Business,0.525470696540044,227
+Technological Educationl Institute of Piraeus,Engineering,0.517900954438528,717
+Technological Educationl Institute of Piraeus,Finance,0.559355927654553,195
+"Technologiko Ekpaideutiko Idrima, Kavalas",Accounting,0.559008549434801,21
+"Technologiko Ekpaideutiko Idrima, Kavalas",Business,0.52630343845681,104
+"Technologiko Ekpaideutiko Idrima, Kavalas",Engineering,0.453995679469779,252
+"Technologiko Ekpaideutiko Idrima, Kavalas",Finance,0.537053895837296,45
+"Technologiko Ekpaideutiko Idrima, Kavalas",Information Technology,0.534624348585783,11
+University of Crete,Biology,0.514713696205221,140
+University of Crete,Business,0.471716956686715,28
+University of Crete,Chemistry,0.484133365960273,256
+University of Crete,Economics,0.530695445024363,395
+University of Crete,Education,0.358144828054042,245
+University of Crete,Engineering,0.641949788959738,378
+University of Crete,Finance,0.476697657871421,12
+University of Crete,Mathematics,0.55255797707047,440
+University of Crete,Medicine,0.427895374895818,25
+University of Crete,Physics,0.530424844398783,191
+University of Ioannina,Accounting,0.546240301337775,23
+University of Ioannina,Architecture,0.482420931964438,13
+University of Ioannina,Biology,0.456510108416415,22
+University of Ioannina,Business,0.528193817996939,188
+University of Ioannina,Chemistry,0.46787845710158,395
+University of Ioannina,Economics,0.532492571314196,454
+University of Ioannina,Education,0.388834040538978,415
+University of Ioannina,Engineering,0.603951107943747,300
+University of Ioannina,Finance,0.536270162294118,87
+University of Ioannina,Mathematics,0.530629951661584,256
+University of Ioannina,Medicine,0.407525873945701,19
+University of Ioannina,Nursing,0.378885989399441,40
+University of Ioannina,Physics,0.499279471425204,210
+University of Ioannina,Statistics,0.606679476262876,18
+University of Macedonia,Accounting,0.528577261144893,13
+University of Macedonia,Business,0.532232501684096,1845
+University of Macedonia,Economics,0.529405924234982,1195
+University of Macedonia,Education,0.41293126715248,88
+University of Macedonia,Engineering,0.635364617827775,162
+University of Macedonia,Finance,0.542808039885465,787
+University of Macedonia,Information Technology,0.590432806521489,76
+University of Macedonia,Marketing,0.464258950565321,10
+University of Patras,Accounting,0.459689956971659,39
+University of Patras,Architecture,0.480386243523224,53
+University of Patras,Biology,0.49675555185974,70
+University of Patras,Business,0.5239862231937,1289
+University of Patras,Chemistry,0.484878388723379,485
+University of Patras,Economics,0.549097422647787,759
+University of Patras,Education,0.374987429838875,419
+University of Patras,Engineering,0.542578339202791,702
+University of Patras,Finance,0.517992668207366,75
+University of Patras,Marketing,0.504922221551065,10
+University of Patras,Mathematics,0.521550041685848,448
+University of Patras,Medicine,0.456939634932805,26
+University of Patras,Nursing,0.359664084056807,33
+University of Patras,Physics,0.505660228402512,343
+University of Patras,Statistics,0.493510653542795,53
+University of Piraeus,Business,0.536729701356274,3188
+University of Piraeus,Economics,0.531215144347978,1700
+University of Piraeus,Education,0.546668734921848,32
+University of Piraeus,Engineering,0.650851772922218,465
+University of Piraeus,Finance,0.541281645201762,100
+University of Piraeus,Information Technology,0.673277157823107,80
+University of Piraeus,Law,0.51935702899783,12
+University of Piraeus,Statistics,0.573173111752095,819
+University of Thessaly,Architecture,0.471526276463549,46
+University of Thessaly,Business,0.506771019978865,138
+University of Thessaly,Economics,0.526721978004546,394
+University of Thessaly,Education,0.333031155157185,369
+University of Thessaly,Engineering,0.588519647317762,695
+University of Thessaly,Finance,0.526606189110041,70
+University of Thessaly,Medicine,0.321112303651521,29
+University of Thessaly,Nursing,0.357334435253861,34
+University of West Attica,Accounting,0.51529181377063,38
+University of West Attica,Architecture,0.471550218977002,94
+University of West Attica,Business,0.509772371504147,1025
+University of West Attica,Economics,0.474652100207791,19
+University of West Attica,Education,0.361870094909889,58
+University of West Attica,Engineering,0.515144936276092,943
+University of West Attica,Finance,0.558475290479321,265
+University of West Attica,Information Technology,0.628502710115056,13
+University of West Attica,Marketing,0.529948852517573,94
+University of West Attica,Nursing,0.395951064530616,163
+University of Western Macedonia,Accounting,0.591747375516517,12
+University of Western Macedonia,Business,0.46279134398777,95
+University of Western Macedonia,Economics,0.538409566496542,10
+University of Western Macedonia,Education,0.366876186514362,119
+University of Western Macedonia,Engineering,0.511496053896374,258
+University of Western Macedonia,Finance,0.539147124278783,63
+University of the Aegean,Biology,0.447654857598063,13
+University of the Aegean,Business,0.522257290190302,511
+University of the Aegean,Economics,0.463945360863209,10
+University of the Aegean,Education,0.35822787480093,169
+University of the Aegean,Engineering,0.585750503626431,239
+University of the Aegean,Mathematics,0.544836909250098,206
+University of the Aegean,Statistics,0.568274489134657,177
+University of the Peloponnese,Business,0.498919884705784,317
+University of the Peloponnese,Economics,0.536469854536368,224
+University of the Peloponnese,Education,0.486578001408613,39
+University of the Peloponnese,Engineering,0.580371170675476,390
+University of the Peloponnese,Finance,0.543276097684964,77
+University of the Peloponnese,Information Technology,0.636283706960845,21
+University of the Peloponnese,Nursing,0.384431767136658,82
+Vakalo Art & Design College,Architecture,0.466706602497665,18
+Western Greece University of Applied Science,Accounting,0.555574257618738,58
+Western Greece University of Applied Science,Business,0.533163128737523,227
+Western Greece University of Applied Science,Engineering,0.455368664962549,172
+Western Greece University of Applied Science,Finance,0.538601369910263,37
+Western Greece University of Applied Science,Nursing,0.367852650804716,21

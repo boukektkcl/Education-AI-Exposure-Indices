@@ -1,0 +1,240 @@
+university_name,field,exposure_firstjob_beta,n_people
+AIEP Professional Institute,Business,0.522247802876766,34
+AIEP Professional Institute,Engineering,0.517987344655448,18
+Academia Politécnica Naval,Engineering,0.421524796093435,26
+Adolfo Ibáñez University,Business,0.520160832914193,705
+Adolfo Ibáñez University,Economics,0.508462426767424,44
+Adolfo Ibáñez University,Engineering,0.539794766442657,203
+Adolfo Ibáñez University,Law,0.465093969786875,106
+Adolfo Ibáñez University,Marketing,0.518081369546536,28
+Adventist University of Chile,Education,0.383979111308975,17
+Adventist University of Chile,Nursing,0.339143030049136,12
+Alberto Hurtado University,Business,0.529103080174772,22
+Alberto Hurtado University,Education,0.416032293409085,43
+Alberto Hurtado University,Law,0.466451039998878,32
+Andrés Bello University,Architecture,0.459869734897103,18
+Andrés Bello University,Business,0.532727592847929,217
+Andrés Bello University,Chemistry,0.501821157467754,15
+Andrés Bello University,Education,0.386639406467298,110
+Andrés Bello University,Engineering,0.526640473027098,235
+Andrés Bello University,Law,0.455313535126615,127
+Andrés Bello University,Marketing,0.547791367197473,25
+Andrés Bello University,Medicine,0.416078520461908,12
+Andrés Bello University,Nursing,0.386686950722381,82
+Andrés Bello University,Physics,0.422099385775118,10
+Arturo Prat University,Business,0.48636013287764,46
+Arturo Prat University,Education,0.424727492255739,29
+Arturo Prat University,Engineering,0.555366420371275,43
+Arturo Prat University,Nursing,0.375884380312422,10
+Autonomous University of Chile,Business,0.546778159323002,24
+Autonomous University of Chile,Education,0.380518390742042,40
+Autonomous University of Chile,Law,0.492015365630692,30
+Autonomous University of Chile,Nursing,0.355097967715705,71
+Bernardo O'Higgins University,Education,0.377905420354701,21
+Bernardo O'Higgins University,Nursing,0.396399932218014,11
+Catholic University of Chile,Architecture,0.474340374498186,159
+Catholic University of Chile,Biology,0.489874547743611,20
+Catholic University of Chile,Business,0.517754876970347,431
+Catholic University of Chile,Chemistry,0.487207211918015,23
+Catholic University of Chile,Economics,0.494142745972467,60
+Catholic University of Chile,Education,0.383653540649908,102
+Catholic University of Chile,Engineering,0.530800888250322,652
+Catholic University of Chile,Law,0.475260188942534,470
+Catholic University of Chile,Mathematics,0.507149455614519,60
+Catholic University of Chile,Nursing,0.381979601978908,46
+Catholic University of Chile,Physics,0.538762991987883,57
+Catholic University of Chile,Statistics,0.565734995334478,20
+Catholic University of Maule,Education,0.378427943938385,35
+Catholic University of Maule,Engineering,0.577944812087443,13
+Catholic University of Maule,Nursing,0.353096749516935,25
+Catholic University of Valparaíso,Architecture,0.494887179910425,29
+Catholic University of Valparaíso,Business,0.535710986475028,47
+Catholic University of Valparaíso,Chemistry,0.463281523964578,16
+Catholic University of Valparaíso,Education,0.396169712240796,83
+Catholic University of Valparaíso,Engineering,0.519846885856082,183
+Catholic University of Valparaíso,Law,0.482345786392357,61
+Catholic University of Valparaíso,Mathematics,0.431482282787709,13
+Catholic University of the North,Architecture,0.540030946785636,14
+Catholic University of the North,Business,0.505941434465066,34
+Catholic University of the North,Chemistry,0.42747702869973,12
+Catholic University of the North,Education,0.371480697575389,22
+Catholic University of the North,Engineering,0.53212039625376,55
+Catholic University of the North,Law,0.481608429791237,25
+Central University of Chile,Architecture,0.475670371185318,31
+Central University of Chile,Business,0.503234917213786,21
+Central University of Chile,Education,0.350731814049057,62
+Central University of Chile,Engineering,0.484808327484706,53
+Central University of Chile,Law,0.477545267131135,79
+Central University of Chile,Nursing,0.355171377802229,15
+Diego Portales University,Architecture,0.47382663892162,39
+Diego Portales University,Business,0.53235100672752,96
+Diego Portales University,Education,0.390590259233465,30
+Diego Portales University,Engineering,0.595861175241546,53
+Diego Portales University,Law,0.479795893656547,117
+Diego Portales University,Marketing,0.520325350367218,24
+Diego Portales University,Nursing,0.35781864751074,32
+Duoc UC Professional Institute,Business,0.511977997715399,78
+Duoc UC Professional Institute,Engineering,0.607038927618831,71
+Duoc UC Professional Institute,Marketing,0.509721480220102,28
+Facultad de Derecho Pontificia Universidad Católica de Chile,Law,0.467964855709836,16
+Facultad de Ingeniería y Ciencias de la Universidad Adolfo Ibáñez,Engineering,0.47380406926392,28
+Faculty of Economics and Administration at University of Chile,Business,0.528879576944331,24
+Faculty of Economics and Administration at University of Chile,Economics,0.555773357097681,11
+Federico Santa María Technical University,Architecture,0.503947278757896,19
+Federico Santa María Technical University,Business,0.568858204527646,62
+Federico Santa María Technical University,Engineering,0.527614975876063,330
+Mayor University,Architecture,0.478205224961098,41
+Mayor University,Business,0.541164383491674,88
+Mayor University,Education,0.406865715363705,39
+Mayor University,Engineering,0.568460554888013,51
+Mayor University,Law,0.469853954981079,22
+Mayor University,Marketing,0.468325593630548,15
+Mayor University,Medicine,0.523949169820339,19
+Mayor University,Nursing,0.368147869187743,23
+Metropolitan University of Educational Sciences,Education,0.371487505379844,195
+Metropolitan University of Educational Sciences,Mathematics,0.364627210328362,11
+Metropolitan University of Technology,Architecture,0.466680937397962,12
+Metropolitan University of Technology,Business,0.478169514724883,23
+Metropolitan University of Technology,Chemistry,0.508579580252472,13
+Metropolitan University of Technology,Engineering,0.530249225872443,96
+Playa Ancha University of Educational Sciences,Education,0.388581985701529,77
+Playa Ancha University of Educational Sciences,Nursing,0.34257433550665,17
+San Sebastián University,Architecture,0.505453335944746,14
+San Sebastián University,Business,0.452281718981052,45
+San Sebastián University,Education,0.38408708051396,65
+San Sebastián University,Engineering,0.50361110018743,46
+San Sebastián University,Law,0.487095576830287,32
+San Sebastián University,Nursing,0.362288737760921,40
+Southern University of Chile,Architecture,0.492482432987958,10
+Southern University of Chile,Biology,0.443372082877302,12
+Southern University of Chile,Business,0.495874141932134,35
+Southern University of Chile,Education,0.387263328832826,22
+Southern University of Chile,Engineering,0.549179984816148,46
+Southern University of Chile,Law,0.496345274245479,22
+Southern University of Chile,Nursing,0.360926291809343,24
+Technological University of Chile INACAP,Business,0.514663162732491,147
+Technological University of Chile INACAP,Education,0.379278662361843,23
+Technological University of Chile INACAP,Engineering,0.588617497686228,283
+Technological University of Chile INACAP,Information Technology,0.737973920338228,11
+Technological University of Chile INACAP,Nursing,0.36984753785553,27
+Universidad Católica Cardenal Raúl Silva Henríquez,Education,0.341475354177564,64
+Universidad Finis Terrae,Architecture,0.434840699748412,21
+Universidad Finis Terrae,Business,0.514763095017739,47
+Universidad Finis Terrae,Education,0.413460849553155,10
+Universidad Finis Terrae,Law,0.470215506792675,22
+Universidad Finis Terrae,Nursing,0.398111583018787,15
+Universidad Gabriela Mistral,Business,0.509921970754577,36
+Universidad Gabriela Mistral,Education,0.359718276449787,10
+Universidad Gabriela Mistral,Engineering,0.525905302130603,14
+Universidad Iberoamericana de Ciencias y Tecnología,Nursing,0.310743666256083,14
+Universidad Internacional SEK - Company,Education,0.35459768816509,15
+Universidad Los Leones,Education,0.345477666069829,18
+Universidad Santo Tomás,Business,0.499503856664007,21
+Universidad Santo Tomás,Education,0.374473358193089,52
+Universidad Santo Tomás,Law,0.464755535715735,43
+Universidad Santo Tomás,Medicine,0.351290716857703,14
+Universidad Santo Tomás,Nursing,0.347977242171834,77
+Universidad de Ciencias de la Informática,Education,0.329582608030347,13
+Universidad de Temuco,Education,0.373950198118837,24
+Universidad de Temuco,Law,0.499921176065939,22
+Universidad de la Serena,Architecture,0.489649705959338,16
+Universidad de la Serena,Business,0.537807067549964,11
+Universidad de la Serena,Education,0.328528267812864,22
+Universidad de la Serena,Engineering,0.487445557550073,41
+Universidad de la Serena,Nursing,0.399995721496775,13
+Universidad del Alba,Education,0.376809089433632,13
+Universidad del Alba,Law,0.541309647266288,10
+Universidad del Alba,Nursing,0.342533616691071,18
+Universidad del Desarrollo,Architecture,0.465163553424754,70
+Universidad del Desarrollo,Business,0.528019250339205,196
+Universidad del Desarrollo,Education,0.339832489420414,13
+Universidad del Desarrollo,Engineering,0.527254736726855,44
+Universidad del Desarrollo,Law,0.473361823660517,62
+Universidad del Desarrollo,Marketing,0.525395190766646,17
+Universidad del Desarrollo,Nursing,0.37286425567728,45
+Universidad del Pacífico (CL),Business,0.438183589581608,15
+Universidad del Pacífico (CL),Marketing,0.490861346635285,24
+University Academy of Christian Humanism,Education,0.391385952256809,25
+University Academy of Christian Humanism,Law,0.510688382788913,11
+"University of Arts, Science and Communication",Architecture,0.462024356214715,11
+"University of Arts, Science and Communication",Business,0.519357787220196,13
+"University of Arts, Science and Communication",Marketing,0.536568020205296,25
+University of Atacama,Education,0.455686408725379,11
+University of Atacama,Engineering,0.481405908874212,20
+University of Bío Bío,Architecture,0.466745880336188,18
+University of Bío Bío,Business,0.508306190033017,24
+University of Bío Bío,Education,0.375189194652835,19
+University of Bío Bío,Engineering,0.516780572793235,141
+University of Bío Bío,Nursing,0.369676522000091,16
+University of Chile,Accounting,0.456740951900906,11
+University of Chile,Architecture,0.474066548450082,118
+University of Chile,Biology,0.535697940654284,19
+University of Chile,Business,0.520168175807454,299
+University of Chile,Chemistry,0.451140984006028,74
+University of Chile,Economics,0.529098828967608,146
+University of Chile,Education,0.394616571990052,33
+University of Chile,Engineering,0.533114136374767,411
+University of Chile,Law,0.478237444328646,336
+University of Chile,Mathematics,0.465035185883984,40
+University of Chile,Medicine,0.422062215031331,25
+University of Chile,Nursing,0.403751244160772,39
+University of Chile,Physics,0.524532495692965,60
+University of Concepción,Architecture,0.468488410200179,21
+University of Concepción,Business,0.532579881150515,31
+University of Concepción,Chemistry,0.459771639110491,16
+University of Concepción,Economics,0.488745306331517,15
+University of Concepción,Education,0.386231733868206,52
+University of Concepción,Engineering,0.512056323854134,206
+University of Concepción,Law,0.451384372949118,67
+University of Concepción,Nursing,0.397194060936502,23
+University of Concepción,Physics,0.548032558842513,14
+University of Los Lagos,Business,0.543602936661987,12
+University of Los Lagos,Education,0.379264029085972,20
+University of Los Lagos,Engineering,0.472753105009927,12
+University of Magallanes,Education,0.400969052883352,13
+University of Magallanes,Nursing,0.375596467623585,10
+University of Santiago de Chile,Accounting,0.5752788305485,13
+University of Santiago de Chile,Architecture,0.489823304706074,29
+University of Santiago de Chile,Business,0.537947350351111,101
+University of Santiago de Chile,Chemistry,0.417418846614263,23
+University of Santiago de Chile,Economics,0.528168368620929,28
+University of Santiago de Chile,Education,0.414958637463797,63
+University of Santiago de Chile,Engineering,0.538285573918931,368
+University of Santiago de Chile,Marketing,0.487637089952459,10
+University of Santiago de Chile,Mathematics,0.517778821114396,18
+University of Santiago de Chile,Nursing,0.321992584266822,18
+University of Santiago de Chile,Physics,0.482637245403388,14
+University of Talca,Architecture,0.471742718136142,10
+University of Talca,Business,0.55387403462904,27
+University of Talca,Engineering,0.518917504903432,36
+University of Talca,Law,0.512525187100158,36
+University of Tarapacá,Education,0.396120783530739,15
+University of Tarapacá,Engineering,0.567571889806581,25
+University of Tarapacá,Law,0.458987649063069,12
+University of Tarapacá,Nursing,0.337442014302221,14
+University of Valparaíso,Architecture,0.500342965099066,10
+University of Valparaíso,Biology,0.593244894872802,11
+University of Valparaíso,Business,0.509751141907824,101
+University of Valparaíso,Engineering,0.53986837175077,38
+University of Valparaíso,Law,0.468873876895984,28
+University of Valparaíso,Nursing,0.372911756885234,35
+University of the Americas,Architecture,0.495285709223328,11
+University of the Americas,Business,0.497760006476145,55
+University of the Americas,Education,0.360253922632115,58
+University of the Americas,Engineering,0.547249730195381,65
+University of the Americas,Law,0.434707096448461,18
+University of the Americas,Marketing,0.520872620812149,14
+University of the Americas,Nursing,0.365645015008878,61
+University of the Andes,Business,0.518124334538874,119
+University of the Andes,Education,0.336709144995459,23
+University of the Andes,Engineering,0.551743803127385,59
+University of the Andes,Law,0.477080530148747,132
+University of the Andes,Nursing,0.362445106451102,19
+University of the Frontier,Business,0.53748234640056,12
+University of the Frontier,Engineering,0.543822170382549,66
+University of the Frontier,Nursing,0.359069960968231,10
+Viña del Mar University,Business,0.559881986934261,20
+Viña del Mar University,Education,0.357955232719245,26
+Viña del Mar University,Engineering,0.51922963814311,14
+Viña del Mar University,Law,0.488070149024983,13
+Viña del Mar University,Nursing,0.376529406336076,14

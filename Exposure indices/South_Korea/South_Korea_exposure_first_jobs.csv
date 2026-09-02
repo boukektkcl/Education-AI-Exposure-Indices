@@ -1,0 +1,435 @@
+university_name,field,exposure_firstjob_beta,n_people
+Ajou University,Architecture,0.494360329859983,14
+Ajou University,Business,0.53560699940319,179
+Ajou University,Chemistry,0.494209948469053,24
+Ajou University,Economics,0.501077886732484,20
+Ajou University,Engineering,0.554587057954489,498
+Ajou University,Nursing,0.450294262516566,13
+Ajou University,Physics,0.669880856027665,15
+Andong National University,Engineering,0.545321766699934,13
+Anyang University,Engineering,0.63194444231723,25
+Baekseok University,Business,0.490251536510031,17
+Baekseok University,Engineering,0.524777361249735,14
+Busan University of Foreign Studies,Business,0.568836662977815,24
+Catholic University of Daegu,Business,0.472825101679444,17
+Catholic University of Daegu,Engineering,0.500492462650466,19
+Changwon National University,Engineering,0.522807268916685,65
+Chongshin University,Education,0.484674319926629,12
+Chonnam National University,Business,0.522980029592054,67
+Chonnam National University,Economics,0.498043434485317,17
+Chonnam National University,Education,0.593205851562707,11
+Chonnam National University,Engineering,0.523876790465321,137
+Chosun University,Business,0.538312097011412,17
+Chosun University,Engineering,0.487698370978595,49
+Chung-Ang University,Architecture,0.542363631487665,36
+Chung-Ang University,Business,0.531023372902621,423
+Chung-Ang University,Chemistry,0.562932083641682,23
+Chung-Ang University,Economics,0.526285443452565,92
+Chung-Ang University,Education,0.487329144101064,31
+Chung-Ang University,Engineering,0.545125667202282,442
+Chung-Ang University,Law,0.494424520972789,22
+Chung-Ang University,Nursing,0.442520529006541,62
+Chung-Ang University,Physics,0.570417754656831,16
+Chung-Ang University,Statistics,0.609309963382308,26
+Chungbuk National University,Business,0.549069711722062,55
+Chungbuk National University,Engineering,0.531647164567308,119
+Chungbuk National University,Medicine,0.475467466652232,11
+Chungnam National University,Biology,0.544702879795291,20
+Chungnam National University,Business,0.503702028838522,67
+Chungnam National University,Chemistry,0.492408296182668,16
+Chungnam National University,Economics,0.574591870642493,13
+Chungnam National University,Engineering,0.547661346565507,259
+Chungnam National University,Nursing,0.437713556817594,12
+Chungnam National University,Physics,0.503354271141516,15
+Chungwoon University,Business,0.436515840219279,10
+Daegu Gyeongbuk Institute of Science and Technology,Engineering,0.578950005790377,20
+Daegu National University of Education,Education,0.307919769145013,13
+Daegu University,Business,0.50161749622877,16
+Daegu University,Education,0.471317888102577,10
+Daegu University,Engineering,0.520395691700662,30
+Daejeon University,Engineering,0.55873800229174,10
+Daejin University,Engineering,0.57986103063019,17
+Dankook University,Accounting,0.437061619338298,10
+Dankook University,Architecture,0.446667834287192,18
+Dankook University,Biology,0.505268044462679,15
+Dankook University,Business,0.511967342807616,202
+Dankook University,Chemistry,0.477190108369683,15
+Dankook University,Economics,0.527171937395375,31
+Dankook University,Education,0.502167346700818,13
+Dankook University,Engineering,0.553073020208445,271
+Dankook University,Law,0.557670440091007,19
+Dankook University,Nursing,0.434352259232132,14
+Dong-A University,Business,0.516674211343236,130
+Dong-A University,Engineering,0.526475833570313,143
+Dong-Eui University,Business,0.521239153206368,27
+Dong-Eui University,Engineering,0.519397479574753,51
+DongYang Mirae University,Engineering,0.550537610969195,12
+Dongduk Women's University,Business,0.510453075873487,108
+Dongduk Women's University,Chemistry,0.517438625060957,11
+Dongduk Women's University,Economics,0.468175332318636,13
+Dongduk Women's University,Engineering,0.651787547431544,22
+Dongguk University,Accounting,0.571225953555006,14
+Dongguk University,Business,0.512984662130862,248
+Dongguk University,Chemistry,0.50667543207438,17
+Dongguk University,Economics,0.542832775608494,52
+Dongguk University,Education,0.535519847286136,21
+Dongguk University,Engineering,0.56859433847935,387
+Dongguk University,Law,0.530669797491487,37
+Dongguk University,Statistics,0.580342540228341,22
+Dongseo University,Business,0.517559246779298,16
+Dongseo University,Engineering,0.603784171926175,27
+Duksung Women's University,Accounting,0.526270891765229,10
+Duksung Women's University,Business,0.517625861914242,58
+Duksung Women's University,Chemistry,0.512723933281125,10
+Duksung Women's University,Engineering,0.574995397739438,24
+Duksung Women's University,Statistics,0.621225734024033,12
+Eulji University,Engineering,0.575842844936502,16
+Eulji University,Nursing,0.422289095198784,12
+Ewha Womans University,Architecture,0.471234229710986,19
+Ewha Womans University,Biology,0.526982905419133,17
+Ewha Womans University,Business,0.537444365610896,625
+Ewha Womans University,Chemistry,0.527754141293012,25
+Ewha Womans University,Economics,0.549591286976542,176
+Ewha Womans University,Education,0.497817627236393,107
+Ewha Womans University,Engineering,0.585931235678736,230
+Ewha Womans University,Law,0.531099874648891,52
+Ewha Womans University,Mathematics,0.571429214369777,13
+Ewha Womans University,Nursing,0.433733104007521,49
+Ewha Womans University,Physics,0.510951596197024,17
+Ewha Womans University,Statistics,0.563495688882354,56
+Gachon University,Architecture,0.443870072943384,19
+Gachon University,Business,0.509420467655139,142
+Gachon University,Economics,0.554591353912259,15
+Gachon University,Engineering,0.568461480080051,210
+Gachon University,Law,0.468860400728433,12
+Gachon University,Nursing,0.39795914759164,28
+Gangneung–Wonju National University,Engineering,0.606663090229302,20
+Gwangju Institute of Science and Technology,Chemistry,0.512313592471082,12
+Gwangju Institute of Science and Technology,Engineering,0.573716604714345,45
+Gwangju Institute of Science and Technology,Physics,0.529605555936075,20
+Gyeongin National University of Education,Education,0.327620789015301,31
+Gyeongsang National University,Business,0.473694991735965,20
+Gyeongsang National University,Engineering,0.518176009399818,93
+Halla University,Engineering,0.537604939399486,10
+Hallym University,Business,0.54156714648662,32
+Hallym University,Engineering,0.614540829617534,29
+Hallym University,Nursing,0.461266400550813,19
+Hanbat National University,Engineering,0.554573804541098,81
+Handong Global University,Architecture,0.424153919715059,13
+Handong Global University,Business,0.514620479635141,216
+Handong Global University,Economics,0.573796695425951,28
+Handong Global University,Engineering,0.575375443036889,226
+Handong Global University,Law,0.509284442867983,64
+Hankuk University of Foreign Studies,Business,0.517817925883343,542
+Hankuk University of Foreign Studies,Chemistry,0.544893774562824,18
+Hankuk University of Foreign Studies,Economics,0.537104723434033,142
+Hankuk University of Foreign Studies,Education,0.532073369297518,32
+Hankuk University of Foreign Studies,Engineering,0.575770039724195,141
+Hankuk University of Foreign Studies,Law,0.53597937079464,112
+Hankuk University of Foreign Studies,Statistics,0.667920528472071,11
+Hankyong National University,Engineering,0.530190010584506,10
+Hannam University,Business,0.517668404922619,41
+Hannam University,Education,0.468172932077141,13
+Hannam University,Engineering,0.545531536445212,24
+Hanseo University,Engineering,0.496346226446093,22
+Hansung University,Business,0.491169756010218,51
+Hansung University,Economics,0.569803917453076,10
+Hansung University,Engineering,0.558201502868263,99
+Hanyang Cyber University,Business,0.523573001162435,22
+Hanyang Cyber University,Engineering,0.610934777573476,45
+Hanyang University,Architecture,0.485736261352948,104
+Hanyang University,Biology,0.553430739489532,18
+Hanyang University,Business,0.520774536342264,500
+Hanyang University,Chemistry,0.494592484634815,56
+Hanyang University,Economics,0.576053340653627,49
+Hanyang University,Education,0.519549731850998,43
+Hanyang University,Engineering,0.542641205334633,1417
+Hanyang University,Finance,0.551054008879487,71
+Hanyang University,Law,0.52147713286787,49
+Hanyang University,Mathematics,0.605306680556081,40
+Hanyang University,Nursing,0.430324026986927,28
+Hanyang University,Physics,0.514224165527398,29
+Hongik University,Architecture,0.523316422089901,94
+Hongik University,Business,0.516129236433399,266
+Hongik University,Economics,0.554377520038681,18
+Hongik University,Education,0.45971380630744,20
+Hongik University,Engineering,0.552814388674819,520
+Hongik University,Law,0.559025213499987,22
+Inha University,Architecture,0.545996860513414,11
+Inha University,Business,0.518800472753689,202
+Inha University,Chemistry,0.525513613375803,13
+Inha University,Economics,0.472954022614696,21
+Inha University,Education,0.543601881211244,20
+Inha University,Engineering,0.542597575568624,767
+Inha University,Nursing,0.438241986761823,12
+Inha University,Physics,0.494885328351746,13
+Inha University,Statistics,0.639467856973272,18
+Inje University,Business,0.49760631682193,16
+Inje University,Engineering,0.505205230341268,109
+Jeju National University,Business,0.530189327735932,29
+Jeju National University,Engineering,0.637747365046783,27
+Jeonbuk National University,Business,0.571241110206234,30
+Jeonbuk National University,Chemistry,0.517967353574819,12
+Jeonbuk National University,Engineering,0.546533295608191,144
+Jeonju University,Business,0.450113841299369,18
+Kangnam University,Business,0.540223632555184,29
+Kangnam University,Engineering,0.554960577053701,26
+Kangwon National University,Business,0.519836978854111,49
+Kangwon National University,Economics,0.560313408596588,11
+Kangwon National University,Education,0.49785940462917,10
+Kangwon National University,Engineering,0.554298706548914,131
+Keimyung University,Business,0.532968309630842,90
+Keimyung University,Engineering,0.5695245912529,53
+Kongju National University,Business,0.534939012338615,13
+Kongju National University,Engineering,0.596258603812802,63
+Konkuk University,Architecture,0.505664618092864,34
+Konkuk University,Biology,0.478980947461578,14
+Konkuk University,Business,0.516992799974486,253
+Konkuk University,Chemistry,0.539522862427585,19
+Konkuk University,Economics,0.528758493370769,56
+Konkuk University,Education,0.493351392123991,28
+Konkuk University,Engineering,0.545352342170737,459
+Konkuk University,Law,0.582693650969925,26
+Konkuk University,Medicine,0.466160646293976,16
+Konkuk University,Physics,0.573615556289583,14
+Konkuk University,Statistics,0.614231736004248,36
+Konyang University,Engineering,0.54527940550937,18
+Kookmin University,Architecture,0.509452837951857,44
+Kookmin University,Business,0.534544457228572,235
+Kookmin University,Chemistry,0.556698474162972,15
+Kookmin University,Economics,0.516834723758092,27
+Kookmin University,Education,0.589363777428332,14
+Kookmin University,Engineering,0.553980675567191,249
+Kookmin University,Law,0.512255043427015,16
+Kookmin University,Mathematics,0.650685987325925,15
+Korea Advanced Institute of Science and Technology,Business,0.535998064181652,85
+Korea Advanced Institute of Science and Technology,Chemistry,0.512732190748661,64
+Korea Advanced Institute of Science and Technology,Engineering,0.553486987912832,1315
+Korea Advanced Institute of Science and Technology,Mathematics,0.548508985919074,71
+Korea Advanced Institute of Science and Technology,Physics,0.524984831380192,71
+Korea Aerospace University,Business,0.527081284173906,82
+Korea Aerospace University,Engineering,0.545960227505755,233
+Korea Air Force Academy,Engineering,0.410252842409474,16
+Korea Maritime and Ocean University,Business,0.45626888218359,45
+Korea Maritime and Ocean University,Engineering,0.462288492595212,219
+Korea Military Academy,Engineering,0.445463337703188,21
+Korea National Open University,Business,0.490133985737604,123
+Korea National Open University,Economics,0.537786623890828,18
+Korea National Open University,Engineering,0.635867845956555,133
+Korea National Open University,Law,0.465981060672061,97
+Korea National Open University,Nursing,0.432100111900305,11
+Korea National Open University,Statistics,0.558411051608462,65
+Korea National University of Arts,Architecture,0.500897553382681,33
+Korea National University of Arts,Business,0.569922676112308,17
+Korea National University of Education,Education,0.368659167245067,25
+Korea National University of Transportation,Engineering,0.523336165401268,28
+Korea Polytechnic University,Business,0.518527215259826,11
+Korea Polytechnic University,Engineering,0.575347838246367,120
+Korea University,Architecture,0.494105775663674,55
+Korea University,Business,0.517932457223082,1245
+Korea University,Chemistry,0.488434534432791,54
+Korea University,Economics,0.532757711645909,293
+Korea University,Education,0.502256670193637,127
+Korea University,Engineering,0.543368019367753,1501
+Korea University,Law,0.479173293203536,108
+Korea University,Mathematics,0.589191677761,27
+Korea University,Nursing,0.467197327079573,47
+Korea University,Physics,0.528007526905357,38
+Korea University,Statistics,0.574420393348042,107
+Korea University of Technology and Education,Business,0.564041000555597,19
+Korea University of Technology and Education,Engineering,0.542862353704409,148
+Kumoh National Institute of Technology,Engineering,0.533994730025379,126
+Kunsan National University,Engineering,0.546825910859628,25
+Kwangwoon University,Business,0.544998379879523,61
+Kwangwoon University,Engineering,0.558902287621762,339
+Kwangwoon University,Law,0.525703146421436,18
+Kyonggi University,Architecture,0.482863841139402,12
+Kyonggi University,Business,0.539725403121273,133
+Kyonggi University,Engineering,0.525486503588516,93
+Kyung Hee Cyber University,Business,0.477403128653488,37
+Kyung Hee University,Architecture,0.480257278211799,24
+Kyung Hee University,Biology,0.535146231540655,27
+Kyung Hee University,Business,0.51159954938644,745
+Kyung Hee University,Chemistry,0.546833039545968,44
+Kyung Hee University,Economics,0.551084917726521,82
+Kyung Hee University,Education,0.466207374909098,15
+Kyung Hee University,Engineering,0.550223288492992,545
+Kyung Hee University,Law,0.542347177480989,21
+Kyung Hee University,Mathematics,0.59199181717835,16
+Kyung Hee University,Medicine,0.445495518031961,32
+Kyung Hee University,Nursing,0.456883721084498,38
+Kyung Hee University,Physics,0.587580978882486,19
+Kyungdong University,Business,0.458667966999673,31
+Kyungnam University,Business,0.523298831192851,12
+Kyungnam University,Education,0.512091839402293,13
+Kyungnam University,Engineering,0.567230217996613,24
+Kyungpook National University,Architecture,0.518412393879441,13
+Kyungpook National University,Business,0.507253972649225,103
+Kyungpook National University,Chemistry,0.561609950999066,15
+Kyungpook National University,Economics,0.507282386417107,49
+Kyungpook National University,Education,0.509284092581124,25
+Kyungpook National University,Engineering,0.532392242237082,425
+Kyungsung University,Business,0.50245988346432,42
+Kyungsung University,Engineering,0.580905420013917,39
+Linton School of Global Business,Business,0.509629371560892,16
+Mokpo National Maritime University,Engineering,0.395274810966157,69
+Mokpo National University,Engineering,0.508461464713347,32
+Myongji University,Architecture,0.496694742218975,14
+Myongji University,Business,0.511744909015317,142
+Myongji University,Economics,0.512505924495337,20
+Myongji University,Engineering,0.560272019063406,219
+Myongji University,Law,0.535054793239411,14
+Namseoul University,Business,0.455166549808897,22
+Namseoul University,Engineering,0.548510009015925,18
+National Institute For Lifelong Education,Business,0.526785703581033,18
+National Institute For Lifelong Education,Engineering,0.541140851848919,45
+Pohang University of Science and Technology,Chemistry,0.488316284408682,30
+Pohang University of Science and Technology,Engineering,0.541147943627139,433
+Pohang University of Science and Technology,Mathematics,0.54861821483644,21
+Pohang University of Science and Technology,Physics,0.529104777528821,32
+Pukyong National University,Business,0.509623359741389,69
+Pukyong National University,Economics,0.500286098980828,10
+Pukyong National University,Engineering,0.522156564324677,240
+Pusan National University,Architecture,0.513752169588718,15
+Pusan National University,Biology,0.496869016456808,21
+Pusan National University,Business,0.467873617177541,160
+Pusan National University,Chemistry,0.51935295995523,16
+Pusan National University,Economics,0.52205503708334,38
+Pusan National University,Education,0.537902470308869,24
+Pusan National University,Engineering,0.539708094348049,468
+Pusan National University,Law,0.499678865875115,13
+Sahmyook University,Business,0.472807395541708,19
+Sahmyook University,Engineering,0.529057443274502,14
+Sangji University,Business,0.559636595483109,10
+Sangji University,Engineering,0.572942281013379,13
+Sangmyung University,Business,0.527104983625711,78
+Sangmyung University,Education,0.543506687762037,23
+Sangmyung University,Engineering,0.605385600905425,91
+Sejong University,Architecture,0.587283883402716,13
+Sejong University,Biology,0.543419060474614,12
+Sejong University,Business,0.513776918387398,291
+Sejong University,Economics,0.51926827158717,19
+Sejong University,Engineering,0.562911052748255,320
+Sejong University,Physics,0.49747947751686,12
+Semyung University,Business,0.510523487835749,13
+Seokyeong University,Business,0.470743225694779,25
+Seokyeong University,Engineering,0.588978273994764,41
+Seoul Digital University,Business,0.489130508063059,16
+Seoul Digital University,Engineering,0.63980477565438,15
+Seoul National University,Architecture,0.475233515894687,74
+Seoul National University,Biology,0.544154936724718,17
+Seoul National University,Business,0.517783594485769,807
+Seoul National University,Chemistry,0.518705339903937,65
+Seoul National University,Economics,0.514485293452865,413
+Seoul National University,Education,0.489640247630759,170
+Seoul National University,Engineering,0.532886251596163,1614
+Seoul National University,Law,0.472682982626229,113
+Seoul National University,Mathematics,0.582571612450024,53
+Seoul National University,Medicine,0.454854002076927,39
+Seoul National University,Nursing,0.497652427698784,47
+Seoul National University,Physics,0.534344566535958,86
+Seoul National University,Statistics,0.584878194943914,50
+Seoul National University of Education,Education,0.354152917608208,35
+Seoul National University of Science & Technology,Architecture,0.499266838491261,19
+Seoul National University of Science & Technology,Business,0.542742609474774,57
+Seoul National University of Science & Technology,Engineering,0.528399972369728,439
+Seoul Women's College of Nursing,Nursing,0.411004152577693,16
+Seoul Women's University,Business,0.515093076015832,120
+Seoul Women's University,Chemistry,0.499741358428588,20
+Seoul Women's University,Economics,0.535850995640466,23
+Seoul Women's University,Engineering,0.595649662531014,47
+Sogang University,Business,0.519868886897252,740
+Sogang University,Chemistry,0.492125838385492,27
+Sogang University,Economics,0.535750510240328,213
+Sogang University,Engineering,0.553345008336829,425
+Sogang University,Law,0.486108810290785,17
+Sogang University,Mathematics,0.543361856603545,36
+Sogang University,Physics,0.552515795926012,23
+SolBridge International School of Business,Business,0.522838222312013,192
+SolBridge International School of Business,Finance,0.541134042737157,10
+SolBridge International School of Business,Marketing,0.515807404035299,24
+Sookmyung Women's University,Business,0.540740479804914,332
+Sookmyung Women's University,Chemistry,0.518707620228765,16
+Sookmyung Women's University,Economics,0.556595766259025,66
+Sookmyung Women's University,Education,0.484294881146644,20
+Sookmyung Women's University,Engineering,0.595569411246694,98
+Sookmyung Women's University,Law,0.551709719412645,54
+Sookmyung Women's University,Statistics,0.643326952695302,26
+Soonchunhyang University,Business,0.523913896095076,23
+Soonchunhyang University,Engineering,0.61506786959503,63
+Soongsil University,Architecture,0.494282805516373,12
+Soongsil University,Business,0.504199224126778,162
+Soongsil University,Economics,0.527044585017271,29
+Soongsil University,Education,0.552468878865014,12
+Soongsil University,Engineering,0.577556206739129,413
+Soongsil University,Finance,0.596135720196887,13
+Soongsil University,Law,0.54369231183079,31
+Soongsil University,Statistics,0.677267396519669,13
+Sun Moon University,Business,0.56322492933855,11
+Sun Moon University,Engineering,0.608919876548373,17
+Sunchon National University,Engineering,0.472832910998933,18
+SungKongHoe University,Business,0.427820099149794,17
+SungKongHoe University,Engineering,0.734135325112462,12
+Sungkyul University,Engineering,0.681726145763284,16
+Sungkyunkwan University,Architecture,0.507395590305316,41
+Sungkyunkwan University,Business,0.522571840313577,742
+Sungkyunkwan University,Chemistry,0.474160584570604,35
+Sungkyunkwan University,Economics,0.546269716791076,260
+Sungkyunkwan University,Education,0.545002181606746,31
+Sungkyunkwan University,Engineering,0.546644578397665,921
+Sungkyunkwan University,Law,0.484120361232897,38
+Sungkyunkwan University,Mathematics,0.528781853875328,16
+Sungkyunkwan University,Physics,0.561493731348811,31
+Sungkyunkwan University,Statistics,0.5798124170535,57
+Sungshin University,Business,0.545826831339951,80
+Sungshin University,Chemistry,0.529429388383406,10
+Sungshin University,Economics,0.528277906813337,27
+Sungshin University,Education,0.335997933010244,13
+Sungshin University,Engineering,0.580051373297009,29
+Sungshin University,Law,0.548735762779971,23
+Sungshin University,Nursing,0.444281861424183,22
+Sungshin University,Statistics,0.592181317212167,20
+The Cyber University of Korea,Business,0.542354510815667,18
+The Cyber University of Korea,Engineering,0.569058019823003,36
+The Graduate School of Business Seoul National University,Business,0.412655108641537,10
+The University of Suwon,Business,0.543131701785012,27
+The University of Suwon,Engineering,0.579925833162619,51
+Tongmyong University,Business,0.411392900140515,12
+Tongmyong University,Engineering,0.595454344506107,13
+Ulsan National Institute of Science and Technology,Business,0.574002623915917,54
+Ulsan National Institute of Science and Technology,Chemistry,0.519777267114743,18
+Ulsan National Institute of Science and Technology,Engineering,0.555800997783593,309
+University of Seoul,Architecture,0.493036127069179,35
+University of Seoul,Business,0.522753159743569,151
+University of Seoul,Economics,0.524099219551099,52
+University of Seoul,Engineering,0.528639453801226,266
+University of Seoul,Physics,0.570755465713483,18
+University of Seoul,Statistics,0.611466553627568,20
+University of Ulsan,Architecture,0.505981685607557,11
+University of Ulsan,Business,0.417670252872787,90
+University of Ulsan,Chemistry,0.522061497678005,11
+University of Ulsan,Engineering,0.500656749206209,187
+Wonkwang University,Business,0.544308779726571,12
+Wonkwang University,Engineering,0.608967306429771,24
+Woosong University,Business,0.462751755967904,58
+Woosong University,Engineering,0.549079142569896,15
+YONSEI UNIVERSITY SCHOOL OF BUSINESS,Business,0.545267641748659,21
+Yeungnam University,Business,0.516207789067095,72
+Yeungnam University,Engineering,0.559694576406077,128
+Yeungnam University,Finance,0.549299804277738,12
+Yong In University,Business,0.460109908410641,13
+Yong In University,Education,0.489014881012247,10
+Yonsei University,Architecture,0.508455567351011,86
+Yonsei University,Biology,0.540748594922939,42
+Yonsei University,Business,0.521544517106347,1399
+Yonsei University,Chemistry,0.498794613249604,52
+Yonsei University,Economics,0.529439967401317,588
+Yonsei University,Education,0.513837031801257,56
+Yonsei University,Engineering,0.541095206717762,1642
+Yonsei University,Law,0.491884753790329,88
+Yonsei University,Mathematics,0.58474531122565,44
+Yonsei University,Medicine,0.485684837336243,20
+Yonsei University,Nursing,0.436482690480585,68
+Yonsei University,Physics,0.58574788814727,55
+Yonsei University,Statistics,0.580239916026505,124
+Youngsan University,Business,0.468343845916046,26

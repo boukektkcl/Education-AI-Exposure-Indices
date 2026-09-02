@@ -1,0 +1,86 @@
+university_name,field,exposure_alljobs_beta,n_people
+Estonian Academy of Arts,Architecture,0.47553232289258,76
+Estonian Aviation Academy,Business,0.483417949252295,44
+Estonian Aviation Academy,Engineering,0.423308019826563,31
+Estonian Business School,Business,0.504832109494164,983
+Estonian Business School,Economics,0.523336401596293,17
+Estonian Business School,Finance,0.519945578364575,12
+Estonian Business School,Marketing,0.511014168849183,30
+Estonian Entrepreneurship University of Applied Sciences,Business,0.50941041122524,442
+Estonian Entrepreneurship University of Applied Sciences,Engineering,0.66690962410078,26
+Estonian Entrepreneurship University of Applied Sciences,Finance,0.458114067905117,10
+Estonian Entrepreneurship University of Applied Sciences,Information Technology,0.676366635369134,32
+Estonian Entrepreneurship University of Applied Sciences,Marketing,0.50335540348621,35
+Estonian Information Technology College,Engineering,0.698919814116844,46
+Estonian Information Technology College,Information Technology,0.705555314276699,26
+Estonian Maritime Academy,Business,0.539291196345471,38
+Estonian Maritime Academy,Engineering,0.400043615448546,21
+Estonian University of Life Sciences,Architecture,0.45304664184131,58
+Estonian University of Life Sciences,Business,0.512882145531899,237
+Estonian University of Life Sciences,Economics,0.530243621747404,69
+Estonian University of Life Sciences,Engineering,0.490099759133035,150
+Estonian University of Life Sciences,Finance,0.500121225297184,36
+Estonian University of Life Sciences,Marketing,0.435477173803326,26
+Euroakadeemia,Architecture,0.501229945871963,12
+Euroakadeemia,Business,0.538472580662086,21
+International University Audentes,Business,0.533375370427383,18
+Mainor Business School,Business,0.47235891871064,17
+TalTech – Tallinn University of Technology,Accounting,0.524648527902202,70
+TalTech – Tallinn University of Technology,Architecture,0.459295870546054,21
+TalTech – Tallinn University of Technology,Biology,0.53880405161648,10
+TalTech – Tallinn University of Technology,Business,0.5478434461271,1345
+TalTech – Tallinn University of Technology,Chemistry,0.490769159765951,63
+TalTech – Tallinn University of Technology,Economics,0.546133616663266,290
+TalTech – Tallinn University of Technology,Engineering,0.56373180752023,1355
+TalTech – Tallinn University of Technology,Finance,0.547207301534934,101
+TalTech – Tallinn University of Technology,Information Technology,0.712449089683473,176
+TalTech – Tallinn University of Technology,Law,0.491474968402759,109
+TalTech – Tallinn University of Technology,Marketing,0.507219286537071,44
+TalTech – Tallinn University of Technology,Physics,0.603482339174657,13
+Tallinn School of Economics,Accounting,0.515064906373159,68
+Tallinn School of Economics,Business,0.499679893171106,107
+Tallinn School of Economics,Finance,0.545088702615322,36
+Tallinn School of Economics,Law,0.455561803618256,24
+Tallinn School of Economics,Marketing,0.490068874801148,47
+Tallinn University,Biology,0.553786475028002,13
+Tallinn University,Business,0.506548690046364,345
+Tallinn University,Economics,0.418631803872864,10
+Tallinn University,Education,0.440460652612534,286
+Tallinn University,Engineering,0.70285861334197,186
+Tallinn University,Information Technology,0.65185910583732,60
+Tallinn University,Law,0.507835287254699,123
+Tallinn University,Marketing,0.509576427810469,96
+Tallinn University,Mathematics,0.592743639611824,53
+Tallinn University of Applied Sciences,Architecture,0.46110649435573,19
+Tallinn University of Applied Sciences,Business,0.530992243128296,28
+Tallinn University of Applied Sciences,Engineering,0.469922232934513,53
+Tallinn University of Technology,Accounting,0.545614013931334,13
+Tallinn University of Technology,Business,0.539823628161153,330
+Tallinn University of Technology,Chemistry,0.499531294524918,21
+Tallinn University of Technology,Economics,0.560850363458228,82
+Tallinn University of Technology,Engineering,0.574072119682245,336
+Tallinn University of Technology,Finance,0.499892198766887,26
+Tallinn University of Technology,Information Technology,0.687025769846065,57
+Tallinn University of Technology,Law,0.53435973162537,28
+Tallinn University of Technology,Marketing,0.467009851438487,10
+Tallinna Tehnikakõrgkool,Accounting,0.574953777301999,16
+Tallinna Tehnikakõrgkool,Architecture,0.499703759588907,58
+Tallinna Tehnikakõrgkool,Business,0.504344256851779,238
+Tallinna Tehnikakõrgkool,Economics,0.526383656156348,20
+Tallinna Tehnikakõrgkool,Engineering,0.488619870280798,340
+Tallinna Tehnikakõrgkool,Finance,0.562069111226848,14
+Tallinna Tehnikakõrgkool,Marketing,0.49186482694117,34
+University of Tartu,Biology,0.498070822120723,64
+University of Tartu,Business,0.510620905110445,672
+University of Tartu,Chemistry,0.495118810163346,120
+University of Tartu,Economics,0.538586730524008,474
+University of Tartu,Education,0.407375252648466,154
+University of Tartu,Engineering,0.653438356824228,512
+University of Tartu,Finance,0.499154506388737,26
+University of Tartu,Information Technology,0.671397891058413,150
+University of Tartu,Law,0.477423572213352,995
+University of Tartu,Marketing,0.573663659335374,12
+University of Tartu,Mathematics,0.574346107232434,72
+University of Tartu,Physics,0.584581268355691,88
+University of Tartu,Statistics,0.659817331305266,124
+University of Tartu Viljandi Culture Academy,Business,0.481423408736143,41

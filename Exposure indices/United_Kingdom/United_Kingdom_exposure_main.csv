@@ -1,0 +1,2076 @@
+university_name,field,exposure_alljobs_beta,n_people
+ACCA,Accounting,0.521449061522201,61
+ACCA,Business,0.549540513282359,30
+ACCA,Finance,0.520746005902401,82
+ARU London,Business,0.53396208119197,18
+Aberystwyth University,Accounting,0.543005008906095,14
+Aberystwyth University,Biology,0.445832719745795,487
+Aberystwyth University,Business,0.499778286711911,827
+Aberystwyth University,Economics,0.514002978459632,247
+Aberystwyth University,Education,0.426697444927553,100
+Aberystwyth University,Engineering,0.63130348107392,585
+Aberystwyth University,Finance,0.503819198579074,242
+Aberystwyth University,Law,0.483772784994317,698
+Aberystwyth University,Marketing,0.504080678457797,94
+Aberystwyth University,Mathematics,0.518906652460754,230
+Aberystwyth University,Physics,0.515929756888365,132
+Abingdon & Witney College,Business,0.453605775041445,16
+Abingdon & Witney College,Engineering,0.414115609789426,24
+Abingdon & Witney College,Information Technology,0.568525687004101,19
+Access Creative College,Engineering,0.281852524436375,10
+Activate Learning,Engineering,0.419102187262711,14
+Alliance Manchester Business School,Accounting,0.526666776047893,35
+Alliance Manchester Business School,Business,0.520128931555877,664
+Alliance Manchester Business School,Economics,0.513604366627789,50
+Alliance Manchester Business School,Engineering,0.654550423957363,13
+Alliance Manchester Business School,Finance,0.502957523511198,47
+Anglia Ruskin University,Accounting,0.539408039371517,200
+Anglia Ruskin University,Architecture,0.475567653958813,156
+Anglia Ruskin University,Biology,0.446342513167574,275
+Anglia Ruskin University,Business,0.491125657127889,4059
+Anglia Ruskin University,Chemistry,0.479958256845746,18
+Anglia Ruskin University,Economics,0.484789197286495,80
+Anglia Ruskin University,Education,0.390049228990851,607
+Anglia Ruskin University,Engineering,0.559867428198685,1304
+Anglia Ruskin University,Finance,0.533895383068024,651
+Anglia Ruskin University,Information Technology,0.59541575611507,23
+Anglia Ruskin University,Law,0.495832563060913,888
+Anglia Ruskin University,Marketing,0.498920545134766,327
+Anglia Ruskin University,Mathematics,0.595146461891569,10
+Anglia Ruskin University,Medicine,0.386774010790644,18
+Anglia Ruskin University,Nursing,0.376128485462985,502
+Architectural Association School of Architecture,Architecture,0.487618356541629,120
+Arden University,Business,0.495074009828405,289
+Arden University,Engineering,0.572202023960711,33
+Arden University,Finance,0.510560662276362,23
+Arden University,Law,0.444248390344602,58
+Arts University Bournemouth,Architecture,0.472729375164258,332
+Arts University Bournemouth,Business,0.491660621015743,203
+Arts University Bournemouth,Marketing,0.495277553293964,22
+Ashridge Business School,Business,0.497190190498682,22
+Aston Business School,Accounting,0.535818861323806,16
+Aston Business School,Business,0.523388980001012,669
+Aston Business School,Economics,0.515571814981078,35
+Aston Business School,Finance,0.507324660841413,56
+Aston Business School,Law,0.502056414543244,39
+Aston Business School,Marketing,0.506349774038539,62
+Aston University,Accounting,0.515879763824443,92
+Aston University,Biology,0.505719551244844,202
+Aston University,Business,0.529163915830628,4782
+Aston University,Chemistry,0.465754725547007,135
+Aston University,Economics,0.545195423431129,309
+Aston University,Engineering,0.551050423099066,1985
+Aston University,Finance,0.539328027878355,133
+Aston University,Information Technology,0.623686364225214,23
+Aston University,Law,0.494953641230645,330
+Aston University,Marketing,0.520532398211778,472
+Aston University,Mathematics,0.564739747496139,322
+Avado,Business,0.528080316223933,13
+"BCS, The Chartered Institute for IT",Business,0.586974451934535,17
+"BCS, The Chartered Institute for IT",Engineering,0.674953538175065,11
+BIMM University,Business,0.466190469276185,581
+BIMM University,Engineering,0.432990881136545,18
+BPP,Business,0.517222312461383,13
+BPP University,Accounting,0.517527175645669,123
+BPP University,Business,0.511010358253293,286
+BPP University,Finance,0.512139251415893,180
+BPP University,Information Technology,0.610877302069241,14
+BPP University,Law,0.500759255930033,229
+BPP University,Nursing,0.424361335125757,14
+Bangor University,Accounting,0.520276534769815,35
+Bangor University,Biology,0.438601717883667,683
+Bangor University,Business,0.501734660156405,472
+Bangor University,Chemistry,0.478387819573273,180
+Bangor University,Economics,0.535168032097866,45
+Bangor University,Education,0.377863988879674,215
+Bangor University,Engineering,0.612013281412369,334
+Bangor University,Finance,0.522448429896612,227
+Bangor University,Information Technology,0.649592000190841,10
+Bangor University,Law,0.486431783181585,343
+Bangor University,Marketing,0.525539554546651,46
+Bangor University,Mathematics,0.539270466460173,12
+Bangor University,Nursing,0.38759578957584,118
+Barking & Dagenham College,Business,0.503673285761131,17
+Barking & Dagenham College,Engineering,0.516569789227664,19
+Barking & Dagenham College,Information Technology,0.404606556942528,15
+Barnfield College,Engineering,0.509158822043577,10
+Barnsley College,Business,0.499616043674371,12
+Barts and The London School of Medicine and Dentistry,Medicine,0.439911314671306,251
+Basingstoke College of Technology,Business,0.452058412677983,14
+Basingstoke College of Technology,Engineering,0.387359999170879,28
+Bath Spa University,Accounting,0.473332093293912,21
+Bath Spa University,Biology,0.434759740329849,90
+Bath Spa University,Business,0.493729725126791,1129
+Bath Spa University,Education,0.390353919231972,596
+Bath Spa University,Engineering,0.53597242543702,22
+Bath Spa University,Marketing,0.512778414035464,10
+Bayes Business School,Accounting,0.507096397851631,10
+Bayes Business School,Business,0.525143454575797,501
+Bayes Business School,Finance,0.530978525020123,291
+Belfast Metropolitan College,Business,0.473100771094764,51
+Belfast Metropolitan College,Engineering,0.398919834181261,31
+Belfast Metropolitan College,Marketing,0.516068570990819,22
+Belfast School of Architecture,Architecture,0.470637758958427,78
+Birkbeck - University of London,Accounting,0.54502120280385,127
+Birkbeck - University of London,Biology,0.489062359016923,45
+Birkbeck - University of London,Business,0.52849861264488,1006
+Birkbeck - University of London,Chemistry,0.415413809486839,10
+Birkbeck - University of London,Economics,0.524081604650054,234
+Birkbeck - University of London,Engineering,0.601471228796501,137
+Birkbeck - University of London,Finance,0.510595732180151,125
+Birkbeck - University of London,Information Technology,0.551133704861868,20
+Birkbeck - University of London,Law,0.502042945560918,379
+Birkbeck - University of London,Marketing,0.512552529932922,48
+Birkbeck - University of London,Mathematics,0.549899326151014,36
+Birkbeck - University of London,Statistics,0.568013822109526,45
+"Birkbeck School of Business, Economics and Informatics",Business,0.462367400044302,21
+Birmingham City University,Accounting,0.527574203862736,159
+Birmingham City University,Architecture,0.454285094784207,624
+Birmingham City University,Business,0.505647764920122,3667
+Birmingham City University,Economics,0.526159736289777,98
+Birmingham City University,Education,0.385021461498227,549
+Birmingham City University,Engineering,0.545198558722326,2360
+Birmingham City University,Finance,0.530538822180008,1092
+Birmingham City University,Information Technology,0.595555814843794,178
+Birmingham City University,Law,0.491295203972751,1139
+Birmingham City University,Marketing,0.508430493491333,414
+Birmingham City University,Nursing,0.391083034274652,543
+Bishop Burton College,Business,0.427312084562427,98
+Bishop Grosseteste University,Business,0.491065276682189,26
+Bishop Grosseteste University,Education,0.386635963964403,696
+Bishop Grosseteste University,Mathematics,0.452844136196666,12
+Blackpool & The Flyde College,Biology,0.39961339203904,11
+Blackpool & The Flyde College,Business,0.463918371737129,125
+Blackpool & The Flyde College,Engineering,0.509095529547737,137
+Blackpool & The Flyde College,Information Technology,0.632416753869794,22
+Bolton College,Engineering,0.494945640697061,18
+Bolton College,Information Technology,0.497314470769847,14
+Bolton Sixth Form College,Information Technology,0.449904101346986,13
+Bournemouth University,Accounting,0.541242883395934,162
+Bournemouth University,Architecture,0.493993630303723,19
+Bournemouth University,Biology,0.441684632001337,57
+Bournemouth University,Business,0.513071936560327,6207
+Bournemouth University,Economics,0.517157711528478,177
+Bournemouth University,Education,0.399811899232223,20
+Bournemouth University,Engineering,0.547858917237491,1670
+Bournemouth University,Finance,0.521467747198997,782
+Bournemouth University,Information Technology,0.601220342713494,52
+Bournemouth University,Law,0.497311385150866,723
+Bournemouth University,Marketing,0.505952985819704,1751
+Bournemouth University,Nursing,0.376727751168596,252
+Bournemouth University International College,Business,0.492271348234449,14
+Bracknell & Wokingham College,Business,0.517434669224267,10
+Bracknell & Wokingham College,Information Technology,0.60982994092034,11
+Bradford University School of Management,Business,0.482166264316005,16
+Bridgend College,Engineering,0.386854549270583,13
+Bridgend College,Information Technology,0.540514289771697,10
+Bridgwater & Taunton College,Business,0.374371349364923,20
+Bridgwater & Taunton College,Engineering,0.477291666562011,55
+Brighton & Sussex Medical School,Medicine,0.454315596978189,191
+Brighton MET,Business,0.446206388137321,21
+Brighton MET,Engineering,0.460832241873763,20
+British College of Osteopathic Medicine,Medicine,0.326133386393807,25
+Brunel University London,Accounting,0.519570242537782,361
+Brunel University London,Biology,0.512024709687561,57
+Brunel University London,Business,0.521521744046717,3358
+Brunel University London,Economics,0.535431510980209,525
+Brunel University London,Education,0.411691389482831,131
+Brunel University London,Engineering,0.564049987403903,2705
+Brunel University London,Finance,0.530922820031985,608
+Brunel University London,Information Technology,0.589566086582154,53
+Brunel University London,Law,0.493878320782912,991
+Brunel University London,Marketing,0.503910228515338,64
+Brunel University London,Mathematics,0.576570945145699,545
+Brunel University London,Nursing,0.381898311332304,35
+Brunel University London,Statistics,0.602469258746807,14
+Buckinghamshire New University,Accounting,0.462393753107419,13
+Buckinghamshire New University,Business,0.471814583373069,2867
+Buckinghamshire New University,Education,0.378516366027772,51
+Buckinghamshire New University,Engineering,0.540224952943214,293
+Buckinghamshire New University,Finance,0.50697732910595,110
+Buckinghamshire New University,Information Technology,0.460732067480502,13
+Buckinghamshire New University,Law,0.485509443546326,139
+Buckinghamshire New University,Marketing,0.516340693534633,138
+Buckinghamshire New University,Nursing,0.386796169046529,315
+Burnley College,Engineering,0.361484797038526,20
+Bury College,Business,0.412964669802512,10
+Bury College,Engineering,0.48956561533694,24
+Bury College,Information Technology,0.566522469508623,12
+CILEX Law School,Law,0.538697654343568,17
+CIMA,Accounting,0.520528324765567,56
+CIMA,Business,0.535682550694515,62
+CIMA,Finance,0.521623832620947,30
+CIPS - The Chartered Institute of Procurement & Supply,Business,0.529022328777213,11
+CU London,Business,0.378990292517894,30
+Camborne School of Mines,Engineering,0.463875594763527,59
+Cambridge Judge Business School,Business,0.517272144484672,78
+Cambridge Regional College,Business,0.390227263854049,17
+Cambridge Regional College,Engineering,0.466553626224218,26
+Cambridge Regional College,Information Technology,0.652040539073429,15
+Canterbury Christ Church University,Accounting,0.52072818115051,85
+Canterbury Christ Church University,Biology,0.450258674527771,37
+Canterbury Christ Church University,Business,0.502138846133016,1597
+Canterbury Christ Church University,Education,0.381414632997489,1120
+Canterbury Christ Church University,Engineering,0.587368592119665,160
+Canterbury Christ Church University,Finance,0.517266171684693,253
+Canterbury Christ Church University,Information Technology,0.572690576050379,34
+Canterbury Christ Church University,Law,0.481262612989081,303
+Canterbury Christ Church University,Marketing,0.507612790027895,275
+Canterbury Christ Church University,Nursing,0.380343464753416,238
+Capel Manor College,Business,0.295498745449444,10
+Cardiff Metropolitan University,Accounting,0.517557205588045,107
+Cardiff Metropolitan University,Architecture,0.499017473384174,50
+Cardiff Metropolitan University,Business,0.492337487309691,2198
+Cardiff Metropolitan University,Economics,0.511590862476094,67
+Cardiff Metropolitan University,Education,0.380675887970377,624
+Cardiff Metropolitan University,Engineering,0.575979644771449,263
+Cardiff Metropolitan University,Finance,0.521559048840546,128
+Cardiff Metropolitan University,Information Technology,0.667737089216643,11
+Cardiff Metropolitan University,Marketing,0.496899612850931,42
+Cardiff University,Accounting,0.525393240467946,308
+Cardiff University,Architecture,0.477337764855162,594
+Cardiff University,Biology,0.503704490258243,341
+Cardiff University,Business,0.514709972382954,2419
+Cardiff University,Chemistry,0.476848082753304,386
+Cardiff University,Economics,0.52388236602629,1002
+Cardiff University,Education,0.453111961637681,223
+Cardiff University,Engineering,0.566266240773793,1521
+Cardiff University,Finance,0.528814293283064,703
+Cardiff University,Law,0.481481917342363,1954
+Cardiff University,Marketing,0.51380733880579,22
+Cardiff University,Mathematics,0.563477277133913,625
+Cardiff University,Medicine,0.446150950474618,362
+Cardiff University,Nursing,0.396602564131444,232
+Cardiff University,Physics,0.515610082608199,308
+Cardiff University,Statistics,0.598840488782447,233
+Cardinal Newman College,Business,0.45469895304317,19
+Cardinal Newman College,Information Technology,0.493824138445261,10
+Cass Business School,Accounting,0.537486310605632,18
+Cass Business School,Business,0.527623233169611,850
+Cass Business School,Economics,0.534612795112226,23
+Cass Business School,Finance,0.530722199042385,477
+Central Saint Martins College of Art & Design,Architecture,0.489351129097625,102
+Central Saint Martins College of Art & Design,Marketing,0.464180469658329,32
+Chartered Institute of Personnel & Development,Business,0.495381454938145,20
+Chartered Management Institute,Business,0.470540204267016,65
+Chelmsford College,Business,0.486677398995601,17
+Chelmsford College,Engineering,0.442650305936772,23
+Chelmsford College,Information Technology,0.520421601425571,13
+Chelsea College of Arts,Business,0.504204144436784,689
+Chelsea College of Arts,Marketing,0.501206062743686,246
+Chichester College,Business,0.50093302496288,25
+Chichester College,Engineering,0.517372129777644,29
+Chichester College,Information Technology,0.573407398023365,12
+City - University of London,Accounting,0.551722932812687,45
+City - University of London,Business,0.538836425559398,214
+City - University of London,Economics,0.528255552143641,343
+City - University of London,Engineering,0.557610553858285,632
+City - University of London,Finance,0.52263666291291,144
+City - University of London,Information Technology,0.594675648987085,16
+City - University of London,Law,0.499625756969152,574
+City - University of London,Mathematics,0.533229830913248,60
+City - University of London,Nursing,0.398774076108037,119
+City College Norwich,Business,0.491772998384632,85
+City College Norwich,Engineering,0.487007812641549,20
+City College Plymouth,Business,0.391999108727701,11
+City College Plymouth,Engineering,0.460776444678265,29
+City of Glasgow College,Business,0.459072967482435,13
+City of Liverpool College,Engineering,0.547624557896601,10
+City of Portsmouth College,Business,0.512226999560778,10
+City of Portsmouth College,Engineering,0.586535801627603,45
+Colchester Institute,Business,0.45239211565516,63
+Colchester Institute,Engineering,0.575237075474939,31
+Colchester Institute,Information Technology,0.485876099904927,15
+Coleg Cambria,Business,0.447083118942536,13
+Coleg Cambria,Engineering,0.412838278636564,25
+Coleg Cambria,Information Technology,0.595569368887114,19
+Coleg Sir Gar,Business,0.570751578576199,11
+Coleg Sir Gar,Engineering,0.530344836233758,15
+Coleg y Cymoedd,Engineering,0.375876737999969,13
+College of North West London,Engineering,0.441039585633403,16
+Confetti Institute of Creative Technologies,Engineering,0.552482061664959,24
+Coventry College,Engineering,0.499386416566919,25
+Coventry University,Accounting,0.53244000424209,205
+Coventry University,Architecture,0.474255197343835,236
+Coventry University,Biology,0.462760853597078,36
+Coventry University,Business,0.505945731605107,6212
+Coventry University,Chemistry,0.485294804270241,104
+Coventry University,Economics,0.52335866590377,742
+Coventry University,Education,0.354555739741372,39
+Coventry University,Engineering,0.517229855094165,4263
+Coventry University,Finance,0.52615098438385,981
+Coventry University,Information Technology,0.614794562853258,124
+Coventry University,Law,0.50415431964769,1242
+Coventry University,Marketing,0.50142169192199,738
+Coventry University,Mathematics,0.571394998283157,267
+Coventry University,Nursing,0.388943296992737,216
+Coventry University,Statistics,0.618531186685612,66
+Cranfield University,Business,0.500668280060669,41
+Cranfield University,Engineering,0.53988930068243,72
+Craven College,Business,0.431526733978337,36
+Crawley College,Engineering,0.381970389714668,27
+Croydon College,Business,0.491076991891337,56
+Croydon College,Engineering,0.384105619934284,29
+Croydon College,Information Technology,0.416375157662657,23
+Darlington College,Engineering,0.433617537430896,13
+De Montfort University,Accounting,0.521124035667149,317
+De Montfort University,Architecture,0.479100931667095,856
+De Montfort University,Business,0.514660477579367,4797
+De Montfort University,Chemistry,0.453198187598691,31
+De Montfort University,Economics,0.543282077018748,266
+De Montfort University,Education,0.42069588010565,432
+De Montfort University,Engineering,0.576180086837153,1863
+De Montfort University,Finance,0.521803164469711,1418
+De Montfort University,Information Technology,0.611059667144277,85
+De Montfort University,Law,0.487561878704984,1369
+De Montfort University,Marketing,0.499415841903877,859
+De Montfort University,Mathematics,0.52560361947547,68
+De Montfort University,Nursing,0.394376798736925,207
+De Montfort University,Physics,0.539239915477143,22
+Dearne Valley College,Business,0.507047494601071,11
+"Department of Civil & Environmental Engineering, University of Strathclyde",Engineering,0.474114466832452,32
+Derby College,Business,0.486461058053162,27
+Derby College,Engineering,0.410346513927424,60
+Derby College,Information Technology,0.560980014129576,14
+Dudley College of Technology,Engineering,0.501930876668952,12
+Durham University,Accounting,0.524243070774474,135
+Durham University,Biology,0.509982962459033,410
+Durham University,Business,0.514390946464809,1233
+Durham University,Chemistry,0.51728005438042,370
+Durham University,Economics,0.525180640422216,1965
+Durham University,Education,0.414631768931416,413
+Durham University,Engineering,0.581012406426556,507
+Durham University,Finance,0.523869979703925,548
+Durham University,Information Technology,0.440995785991281,12
+Durham University,Law,0.484674004453558,1322
+Durham University,Marketing,0.530702395072776,42
+Durham University,Mathematics,0.552915552335876,779
+Durham University,Medicine,0.419652375429427,34
+Durham University,Physics,0.544543550111554,401
+Durham University Business School,Accounting,0.516576246783517,32
+Durham University Business School,Business,0.507968826496212,106
+Durham University Business School,Economics,0.564497629807577,27
+Durham University Business School,Finance,0.519338751454431,51
+Ealing Hammersmith & West London College,Business,0.462655960989586,46
+Ealing Hammersmith & West London College,Engineering,0.573034063458549,13
+Ealing Hammersmith & West London College,Information Technology,0.509339118552559,12
+Eastleigh College,Business,0.418574672094461,10
+Eastleigh College,Engineering,0.53545140647172,13
+Edge Hill University,Accounting,0.517157274041209,107
+Edge Hill University,Biology,0.430113532058295,81
+Edge Hill University,Business,0.489038261458436,1124
+Edge Hill University,Education,0.382974864183573,1254
+Edge Hill University,Engineering,0.562562024535353,248
+Edge Hill University,Finance,0.551883675862776,19
+Edge Hill University,Information Technology,0.549324073623157,42
+Edge Hill University,Law,0.487242850940226,434
+Edge Hill University,Marketing,0.503646675415524,174
+Edge Hill University,Mathematics,0.445013411722884,13
+Edge Hill University,Nursing,0.382853516517312,251
+Edinburgh Business School,Business,0.501054888680546,28
+Edinburgh College,Business,0.480073755868897,10
+Edinburgh Napier University,Accounting,0.532674160550232,302
+Edinburgh Napier University,Architecture,0.449466763392431,49
+Edinburgh Napier University,Biology,0.441496367483138,260
+Edinburgh Napier University,Business,0.498206291606937,3414
+Edinburgh Napier University,Economics,0.47914062254187,27
+Edinburgh Napier University,Engineering,0.532250717838146,1538
+Edinburgh Napier University,Finance,0.530251334602967,128
+Edinburgh Napier University,Information Technology,0.635488422675356,34
+Edinburgh Napier University,Law,0.487421658771209,361
+Edinburgh Napier University,Marketing,0.507744133012812,98
+Edinburgh Napier University,Medicine,0.36416573908736,35
+Edinburgh Napier University,Nursing,0.362966152737963,447
+Escape Studios,Engineering,0.453407484490746,24
+Exeter College,Business,0.482140345412306,25
+Exeter College,Engineering,0.355831223091871,26
+Falmouth University,Architecture,0.454247905334443,57
+Falmouth University,Business,0.458199674535967,278
+Falmouth University,Engineering,0.563615916870016,22
+Falmouth University,Marketing,0.497171349770287,139
+Fareham College,Engineering,0.430053650164755,24
+Farnborough College of Technology,Business,0.434250696778577,79
+Farnborough College of Technology,Education,0.428224196442948,22
+Farnborough College of Technology,Engineering,0.504299239104271,90
+Farnborough College of Technology,Information Technology,0.558479884951144,15
+Farnborough College of Technology,Marketing,0.480823272101554,10
+Fashion Retail Academy,Business,0.538703557347028,34
+Fashion Retail Academy,Marketing,0.484473289929835,123
+Fife College,Business,0.446974241410386,13
+Gateshead College,Business,0.499783976767102,25
+Gateshead College,Engineering,0.529668636000596,14
+Glasgow Caledonian University,Accounting,0.512322367190168,418
+Glasgow Caledonian University,Biology,0.45817209215618,96
+Glasgow Caledonian University,Business,0.490162046943823,4655
+Glasgow Caledonian University,Chemistry,0.447022009722395,54
+Glasgow Caledonian University,Economics,0.511858408418207,67
+Glasgow Caledonian University,Engineering,0.526149278489814,2305
+Glasgow Caledonian University,Finance,0.51936321297169,184
+Glasgow Caledonian University,Information Technology,0.596210980567022,30
+Glasgow Caledonian University,Law,0.483847328063209,329
+Glasgow Caledonian University,Marketing,0.509029365757189,775
+Glasgow Caledonian University,Mathematics,0.566903649650884,23
+Glasgow Caledonian University,Medicine,0.336405190252315,11
+Glasgow Caledonian University,Nursing,0.387957139327223,464
+Gloucestershire College,Engineering,0.471091760004217,13
+Goldsmiths - University of London,Business,0.502197434393208,254
+Goldsmiths - University of London,Economics,0.506241984132731,311
+Goldsmiths - University of London,Education,0.395330400442746,159
+Goldsmiths - University of London,Engineering,0.60419923556388,486
+Goldsmiths - University of London,Information Technology,0.544969022337774,27
+Goldsmiths - University of London,Law,0.479007328666756,13
+Goldsmiths - University of London,Marketing,0.461273194223756,57
+Guildhall School of Music and Drama,Business,0.451217584959907,106
+HSDC Alton,Engineering,0.403583699888158,19
+HSDC Alton,Information Technology,0.494236789421596,11
+Hadlow College,Business,0.377530062535576,45
+Halesowen College,Business,0.495844524026828,12
+Halesowen College,Information Technology,0.580345315782375,16
+Harlow College Group,Business,0.493369307344481,18
+Harlow College Group,Engineering,0.411585960704365,13
+Harlow College Group,Information Technology,0.539364026621928,19
+Harper Adams University,Business,0.433296393762309,1339
+Harper Adams University,Engineering,0.46155942239648,244
+Harper Adams University,Marketing,0.47597025962266,40
+Harper Adams University,Nursing,0.262753973504895,44
+Harrow College,Business,0.48856916352514,11
+Harrow College,Information Technology,0.531495929326848,22
+Hartlepool College,Engineering,0.36884318522757,22
+Hartpury University,Business,0.417910133074259,19
+Hartpury University and Hartpury College,Biology,0.405798316197705,10
+Hartpury University and Hartpury College,Business,0.421153512741923,157
+Hartpury University and Hartpury College,Education,0.380362436599975,20
+Hartpury University and Hartpury College,Nursing,0.264297311377799,34
+Heart of Worcestershire College,Engineering,0.469718512820388,15
+Henley Business School Ltd.,Accounting,0.514004424092088,35
+Henley Business School Ltd.,Business,0.52239104829296,417
+Henley Business School Ltd.,Finance,0.508882256993468,88
+Heriot-Watt University,Architecture,0.404521639522952,19
+Heriot-Watt University,Biology,0.459034471810619,201
+Heriot-Watt University,Business,0.498052142391387,1002
+Heriot-Watt University,Chemistry,0.462461013465815,170
+Heriot-Watt University,Economics,0.52586788376705,37
+Heriot-Watt University,Engineering,0.526956225610527,1326
+Heriot-Watt University,Finance,0.537748437158107,134
+Heriot-Watt University,Information Technology,0.595319096928229,62
+Heriot-Watt University,Marketing,0.483515274270021,108
+Heriot-Watt University,Mathematics,0.537608286055376,339
+Heriot-Watt University,Physics,0.506680001819883,148
+Heriot-Watt University,Statistics,0.594759601765457,105
+Hertford Regional College,Business,0.478484550035996,17
+Hertford Regional College,Engineering,0.600373381527781,16
+High Pavement Sixth Form,Business,0.453084828200514,15
+High Pavement Sixth Form,Engineering,0.518482255280272,19
+Huddersfield New College,Information Technology,0.567061092559722,19
+Hugh Baird College,Business,0.502923141708664,14
+Hull College,Business,0.495700534793195,63
+Hull College,Engineering,0.536098087731843,31
+Hull York Medical School,Medicine,0.437323594033288,99
+ICMP - The Institute of Contemporary Music Performance,Business,0.474428203835143,47
+IFS School of Finance,Business,0.533674099149998,23
+Imperial College London,Biology,0.525493152253751,339
+Imperial College London,Business,0.519559185784458,701
+Imperial College London,Chemistry,0.52846378381294,201
+Imperial College London,Economics,0.522003493806044,34
+Imperial College London,Engineering,0.554325970343492,691
+Imperial College London,Finance,0.586507829922558,65
+Imperial College London,Law,0.483873758811516,14
+Imperial College London,Marketing,0.576357033099689,18
+Imperial College London,Mathematics,0.573391625060178,630
+Imperial College London,Medicine,0.452633604735897,1158
+Imperial College London,Physics,0.562399198415785,548
+Imperial College London,Statistics,0.61438685728978,77
+"James Watt School of Engineering, University of Glasgow",Engineering,0.514979810578504,10
+John Ruskin College,Business,0.502036783423356,11
+Kaplan International College London,Accounting,0.544852998475144,10
+Kaplan Law School,Law,0.449050023319604,13
+Keele University,Accounting,0.51853585115428,61
+Keele University,Biology,0.47868514169763,339
+Keele University,Business,0.512099717644801,1146
+Keele University,Chemistry,0.465088928373275,306
+Keele University,Economics,0.542893554480131,211
+Keele University,Education,0.44051872405325,89
+Keele University,Engineering,0.611640804375181,374
+Keele University,Finance,0.535725334060256,334
+Keele University,Law,0.495025208510278,1138
+Keele University,Marketing,0.517740222966447,147
+Keele University,Mathematics,0.535895797699792,461
+Keele University,Medicine,0.412612061227641,117
+Keele University,Nursing,0.392860920539456,136
+Keele University,Physics,0.513506384463672,84
+Kendal College,Engineering,0.39584026102371,10
+Kensington College of Business,Business,0.45957612391869,12
+King's College London - University of London,Accounting,0.503446959371786,22
+King's College London - University of London,Biology,0.474635303788114,155
+King's College London - University of London,Business,0.531548587446905,1639
+King's College London - University of London,Chemistry,0.509645573867049,183
+King's College London - University of London,Economics,0.536468669672025,426
+King's College London - University of London,Education,0.409689266613992,43
+King's College London - University of London,Engineering,0.606312289597733,1294
+King's College London - University of London,Finance,0.496461603663365,34
+King's College London - University of London,Law,0.491908140607987,1370
+King's College London - University of London,Marketing,0.563270911689176,30
+King's College London - University of London,Mathematics,0.564498955858792,701
+King's College London - University of London,Medicine,0.446279555033864,1135
+King's College London - University of London,Nursing,0.404580818809104,583
+King's College London - University of London,Physics,0.550193618651054,357
+King's College London - University of London,Statistics,0.553651052354239,33
+Kingston University,Accounting,0.527555825833364,70
+Kingston University,Architecture,0.474883184459578,699
+Kingston University,Biology,0.465438713572502,124
+Kingston University,Business,0.514106820015779,4586
+Kingston University,Chemistry,0.482352219125388,167
+Kingston University,Economics,0.523303367561163,612
+Kingston University,Education,0.378834854346635,276
+Kingston University,Engineering,0.530639831699824,3377
+Kingston University,Finance,0.525591454452565,602
+Kingston University,Information Technology,0.579130525548503,53
+Kingston University,Law,0.49978433171875,804
+Kingston University,Marketing,0.50275594815182,191
+Kingston University,Mathematics,0.562609382569895,147
+Kingston University,Medicine,0.32285281173577,39
+Kingston University,Nursing,0.380320111705091,309
+Kingston University,Statistics,0.571273285297066,113
+LCCM,Business,0.515017713547868,17
+Lambeth College,Business,0.486390829622408,10
+Lancaster University,Accounting,0.536277268332003,52
+Lancaster University,Biology,0.472403776847838,117
+Lancaster University,Business,0.514862041263133,2949
+Lancaster University,Chemistry,0.481029622157697,82
+Lancaster University,Economics,0.527086094727084,1014
+Lancaster University,Education,0.450066905160963,129
+Lancaster University,Engineering,0.571549346965018,1247
+Lancaster University,Finance,0.520668205373423,922
+Lancaster University,Information Technology,0.573175080243122,60
+Lancaster University,Law,0.487416331476073,1166
+Lancaster University,Marketing,0.505700315419823,862
+Lancaster University,Mathematics,0.585448201167442,476
+Lancaster University,Medicine,0.435288157231323,28
+Lancaster University,Nursing,0.424400213498725,12
+Lancaster University,Physics,0.535627952053103,180
+Lancaster University,Statistics,0.576325159819682,191
+Lancaster University Management School,Business,0.538855620114859,19
+Leeds Arts University,Architecture,0.456676372265952,22
+Leeds Beckett University,Accounting,0.511273208251311,62
+Leeds Beckett University,Architecture,0.465663554404247,827
+Leeds Beckett University,Biology,0.45834290114704,113
+Leeds Beckett University,Business,0.499707871583683,8374
+Leeds Beckett University,Economics,0.523509816776755,159
+Leeds Beckett University,Education,0.403085597369825,1119
+Leeds Beckett University,Engineering,0.531521667631999,1588
+Leeds Beckett University,Finance,0.512001732919115,857
+Leeds Beckett University,Information Technology,0.610699076818799,56
+Leeds Beckett University,Law,0.486537218121044,1222
+Leeds Beckett University,Marketing,0.504456693676679,949
+Leeds Beckett University,Nursing,0.386526200652735,80
+Leeds City College,Business,0.501149474753436,27
+Leeds City College,Engineering,0.515201215160332,23
+Leeds College of Building,Engineering,0.46424645755808,24
+Leeds College of Music,Business,0.516718078224577,41
+Leeds Conservatoire,Business,0.459003633521023,23
+Leeds Trinity University,Accounting,0.509652169696116,26
+Leeds Trinity University,Business,0.496726062521515,285
+Leeds Trinity University,Education,0.370606354234854,364
+Leeds Trinity University,Engineering,0.533509296087828,13
+Leeds Trinity University,Law,0.427298192171591,18
+Leeds Trinity University,Marketing,0.499520421503303,105
+Leicester Castle Business School,Business,0.555059613032378,12
+Lewisham College,Business,0.440248294418541,11
+Liverpool Hope University,Accounting,0.512947248684721,33
+Liverpool Hope University,Biology,0.439377435944206,49
+Liverpool Hope University,Business,0.498642482951435,514
+Liverpool Hope University,Education,0.404410105661604,811
+Liverpool Hope University,Engineering,0.558226612733966,124
+Liverpool Hope University,Finance,0.536632252995481,39
+Liverpool Hope University,Information Technology,0.53640490003538,95
+Liverpool Hope University,Law,0.486445328911685,134
+Liverpool Hope University,Marketing,0.494524726422787,81
+Liverpool Hope University,Mathematics,0.443966376175085,29
+Liverpool Institute For Performing Arts,Business,0.481850883146018,205
+Liverpool John Moores University,Accounting,0.476809584548808,25
+Liverpool John Moores University,Architecture,0.477496186282175,518
+Liverpool John Moores University,Biology,0.444992737958319,358
+Liverpool John Moores University,Business,0.501680096066989,4442
+Liverpool John Moores University,Chemistry,0.446862937917372,81
+Liverpool John Moores University,Economics,0.491999905961811,86
+Liverpool John Moores University,Education,0.404880171918501,818
+Liverpool John Moores University,Engineering,0.55185974423274,2402
+Liverpool John Moores University,Finance,0.516577004701042,839
+Liverpool John Moores University,Information Technology,0.589738675163827,78
+Liverpool John Moores University,Law,0.477578967783837,1382
+Liverpool John Moores University,Marketing,0.503241781333086,500
+Liverpool John Moores University,Mathematics,0.558696488028678,210
+Liverpool John Moores University,Nursing,0.393887499998477,194
+Liverpool John Moores University,Statistics,0.519288755826986,10
+London Business E-School,Business,0.487624542482601,13
+London Business School,Business,0.526675014844118,438
+London Business School,Economics,0.57783645439998,29
+London Business School,Engineering,0.561175059279632,30
+London Business School,Finance,0.499806838682134,19
+London Business School,Marketing,0.538276271919117,37
+London College of Communication,Business,0.485015789320309,19
+London College of Communication,Marketing,0.511932523099985,25
+London College of Contemporary Arts (LCCA),Business,0.403795098299156,10
+London Guildhall University,Business,0.540094038010921,29
+London Guildhall University,Finance,0.489675368541518,12
+London Metropolitan University,Accounting,0.521349401409556,175
+London Metropolitan University,Architecture,0.477634477871038,557
+London Metropolitan University,Business,0.502676148132049,3950
+London Metropolitan University,Chemistry,0.457446501315431,96
+London Metropolitan University,Economics,0.529159820437386,267
+London Metropolitan University,Education,0.40331242008666,368
+London Metropolitan University,Engineering,0.587225393663399,1002
+London Metropolitan University,Finance,0.525275084445991,882
+London Metropolitan University,Information Technology,0.614144478928627,65
+London Metropolitan University,Law,0.504176286733576,865
+London Metropolitan University,Marketing,0.510133832152524,535
+London Metropolitan University,Mathematics,0.534995422316538,150
+London Metropolitan University,Statistics,0.57641240808339,16
+London School of Business & Management Ltd.,Business,0.457181428734472,85
+London School of Business & Management Ltd.,Law,0.424624184739241,31
+London School of Business and Finance LSBF,Accounting,0.496332820444869,14
+London School of Business and Finance LSBF,Business,0.508450461763299,98
+London School of Business and Finance LSBF,Finance,0.532751731821399,24
+London School of Economics and Political Science - University of London,Accounting,0.554848404161293,22
+London School of Economics and Political Science - University of London,Business,0.531995013246182,1251
+London School of Economics and Political Science - University of London,Economics,0.538799299120291,3315
+London School of Economics and Political Science - University of London,Engineering,0.526372935686456,34
+London School of Economics and Political Science - University of London,Finance,0.531627875987746,1080
+London School of Economics and Political Science - University of London,Law,0.484393045494162,959
+London School of Economics and Political Science - University of London,Marketing,0.476671036674907,13
+London School of Economics and Political Science - University of London,Mathematics,0.592839306186061,32
+London School of Economics and Political Science - University of London,Statistics,0.563101480796726,96
+London School of Marketing,Marketing,0.450347548877278,12
+London South Bank University,Accounting,0.531876039199094,188
+London South Bank University,Architecture,0.470224402503481,351
+London South Bank University,Biology,0.488527071438796,29
+London South Bank University,Business,0.497806600205638,2633
+London South Bank University,Economics,0.520783132797181,75
+London South Bank University,Education,0.37608545436299,121
+London South Bank University,Engineering,0.503206179677935,2202
+London South Bank University,Finance,0.527033261635608,945
+London South Bank University,Information Technology,0.596286328222331,141
+London South Bank University,Law,0.489212268640537,653
+London South Bank University,Marketing,0.513822691104598,339
+London South Bank University,Medicine,0.33445904009357,19
+London South Bank University,Nursing,0.392813642528792,683
+Loreto Sixth Form College,Information Technology,0.513460092986566,12
+Loughborough College Loughborough,Business,0.4637276133316,138
+Loughborough College Loughborough,Engineering,0.449952628886003,41
+Loughborough University,Accounting,0.515609326200267,87
+Loughborough University,Architecture,0.455313066244804,33
+Loughborough University,Biology,0.469117972852474,376
+Loughborough University,Business,0.510892507968999,5342
+Loughborough University,Chemistry,0.476768640718016,499
+Loughborough University,Economics,0.535643852528021,1446
+Loughborough University,Education,0.428057855079607,33
+Loughborough University,Engineering,0.52894389223715,3025
+Loughborough University,Finance,0.519828006969337,276
+Loughborough University,Information Technology,0.556514923202434,20
+Loughborough University,Marketing,0.451112399818486,16
+Loughborough University,Mathematics,0.537902484237372,719
+Loughborough University,Physics,0.526839329951452,241
+Loughborough University,Statistics,0.549385467491995,28
+"Loughborough University Mechanical, Electrical and Manufacturing Engineering",Engineering,0.483786593358213,35
+Lowestoft College,Engineering,0.412057526368592,13
+Luton Sixth Form College,Business,0.535091267685514,14
+Manchester Business School,Business,0.489566566221713,12
+Manchester Metropolitan University,Accounting,0.51862739139881,71
+Manchester Metropolitan University,Architecture,0.436686643865743,207
+Manchester Metropolitan University,Biology,0.465643369299513,444
+Manchester Metropolitan University,Business,0.505005882106744,9112
+Manchester Metropolitan University,Chemistry,0.472427544677237,490
+Manchester Metropolitan University,Economics,0.523463292184844,692
+Manchester Metropolitan University,Education,0.3901721748891,1094
+Manchester Metropolitan University,Engineering,0.560901025228556,2295
+Manchester Metropolitan University,Finance,0.525098984015101,1730
+Manchester Metropolitan University,Information Technology,0.582056506917316,134
+Manchester Metropolitan University,Law,0.486485402993731,1372
+Manchester Metropolitan University,Marketing,0.512025732718576,1253
+Manchester Metropolitan University,Mathematics,0.543470211298961,435
+Manchester Metropolitan University,Nursing,0.375478711448866,123
+Manchester School of Architecture,Architecture,0.4739097684498,565
+Merrist Wood College,Business,0.440683427689354,10
+Mid Cheshire College,Business,0.472967041994471,13
+Mid Cheshire College,Engineering,0.489101500622477,18
+MidKent College,Business,0.445994119369374,19
+MidKent College,Engineering,0.357463441134172,22
+MidKent College,Information Technology,0.536228355357293,17
+Middlesbrough College,Engineering,0.457915671517979,30
+Middlesex University,Accounting,0.540272114287115,137
+Middlesex University,Architecture,0.481158320961957,224
+Middlesex University,Biology,0.423922992177587,25
+Middlesex University,Business,0.513387170773001,4874
+Middlesex University,Chemistry,0.337138845488167,13
+Middlesex University,Economics,0.519270419859837,251
+Middlesex University,Education,0.397822906961061,484
+Middlesex University,Engineering,0.584500447966536,1452
+Middlesex University,Finance,0.522326197862646,1120
+Middlesex University,Information Technology,0.582024992737571,366
+Middlesex University,Law,0.496205540333089,769
+Middlesex University,Marketing,0.50719280706665,433
+Middlesex University,Mathematics,0.525440146260583,27
+Middlesex University,Medicine,0.351289433255935,93
+Middlesex University,Nursing,0.360608980538282,373
+Middlesex University,Statistics,0.518432380689904,29
+Moray College,Business,0.483488498057605,14
+Moulton College,Business,0.384569728865323,22
+Mountview Academy of Theatre Arts,Business,0.381053575109122,13
+Myerscough College,Business,0.417455273151936,62
+Myerscough College,Nursing,0.286090659679423,16
+Napier University,Business,0.487239175191305,27
+Napier University,Engineering,0.568567808923319,11
+Nelson and Colne College,Engineering,0.448931677864405,12
+New College Lanarkshire,Business,0.325466522259843,11
+New College Swindon,Business,0.444251874614466,13
+Newbold College,Business,0.515411404347661,18
+Newcastle Business School,Business,0.517385258065327,40
+Newcastle College,Business,0.48880489458124,235
+Newcastle College,Education,0.365875763704758,28
+Newcastle College,Engineering,0.454590604861407,310
+Newcastle College,Information Technology,0.553095051676202,19
+Newcastle University,Accounting,0.53265500740801,130
+Newcastle University,Architecture,0.472723249756213,1085
+Newcastle University,Biology,0.477336677922326,969
+Newcastle University,Business,0.507029517638001,3150
+Newcastle University,Chemistry,0.483956885740225,426
+Newcastle University,Economics,0.523746495723529,1108
+Newcastle University,Education,0.379896237356833,71
+Newcastle University,Engineering,0.54708549949731,1552
+Newcastle University,Finance,0.520884799395147,990
+Newcastle University,Information Technology,0.648532896851529,13
+Newcastle University,Law,0.475572039186015,1278
+Newcastle University,Marketing,0.502954942789087,537
+Newcastle University,Mathematics,0.528919805667632,567
+Newcastle University,Medicine,0.445614791558609,550
+Newcastle University,Physics,0.492848328813526,104
+Newcastle University,Statistics,0.554095975250071,293
+Newcastle University Business School,Business,0.488036816779942,129
+Newcastle University Business School,Economics,0.462188798914261,10
+Newcastle University Business School,Finance,0.537248091417522,40
+Newcastle University Business School,Marketing,0.429364451693167,14
+Newham College of Further Education,Business,0.442901149759687,20
+Newman University Birmingham,Business,0.520306306619577,95
+Newman University Birmingham,Education,0.399472172759813,443
+Newman University Birmingham,Engineering,0.513237983141511,10
+North Hertfordshire College,Business,0.520620755511686,18
+North Lindsey College,Business,0.430812817748761,28
+North Lindsey College,Engineering,0.417805578650018,19
+North Warwickshire and South Leicestershire College,Business,0.466799554429327,15
+North Warwickshire and South Leicestershire College,Engineering,0.42339977767905,20
+Northampton College,Business,0.504915089802975,14
+Northampton College,Engineering,0.48645849994833,19
+Northampton College,Information Technology,0.561450294088024,11
+Northumbria University,Accounting,0.518185043768264,441
+Northumbria University,Architecture,0.468850746900394,543
+Northumbria University,Biology,0.474205492179329,145
+Northumbria University,Business,0.502326728070846,7559
+Northumbria University,Chemistry,0.468115941407283,203
+Northumbria University,Economics,0.498555907113851,92
+Northumbria University,Education,0.386116571471588,354
+Northumbria University,Engineering,0.548802169239484,2153
+Northumbria University,Finance,0.54750553647726,179
+Northumbria University,Information Technology,0.62975489968141,50
+Northumbria University,Law,0.479179640857742,870
+Northumbria University,Marketing,0.480113420102571,468
+Northumbria University,Mathematics,0.567148253318323,236
+Northumbria University,Nursing,0.379054659520539,354
+Northumbria University,Physics,0.435990584055526,47
+Northumbria University,Statistics,0.58516993795465,17
+Norwich University of the Arts,Architecture,0.471685175013595,58
+Norwich University of the Arts,Engineering,0.528598449164822,24
+Nottingham Business School,Business,0.513094681227085,102
+Nottingham Business School,Finance,0.516726359684756,11
+Nottingham Business School,Law,0.481361724265554,375
+"Nottingham Business School, Nottingham Trent University",Accounting,0.483514831005872,20
+"Nottingham Business School, Nottingham Trent University",Business,0.509749802030532,1147
+"Nottingham Business School, Nottingham Trent University",Economics,0.505181087939628,100
+"Nottingham Business School, Nottingham Trent University",Finance,0.515496338906354,195
+"Nottingham Business School, Nottingham Trent University",Marketing,0.4943877074988,86
+Nottingham Trent University,Accounting,0.515035911558037,106
+Nottingham Trent University,Architecture,0.473775546375777,849
+Nottingham Trent University,Biology,0.406520136923792,580
+Nottingham Trent University,Business,0.501970714560904,7684
+Nottingham Trent University,Chemistry,0.462486550218605,340
+Nottingham Trent University,Economics,0.520182920302985,524
+Nottingham Trent University,Education,0.390091776262142,867
+Nottingham Trent University,Engineering,0.544752043905432,1592
+Nottingham Trent University,Finance,0.510231212760322,1029
+Nottingham Trent University,Information Technology,0.635140846721713,68
+Nottingham Trent University,Law,0.484200104028363,2415
+Nottingham Trent University,Marketing,0.500759473802739,1061
+Nottingham Trent University,Mathematics,0.536478045747506,480
+Nottingham Trent University,Nursing,0.331545004668453,20
+Nottingham Trent University,Physics,0.486165236076715,295
+Oaklands College,Business,0.4850545116053,27
+Oaklands College,Engineering,0.463533409300213,28
+Oaklands College,Information Technology,0.468199722743626,13
+Oxford Brookes University,Accounting,0.522187725757549,1733
+Oxford Brookes University,Architecture,0.473630173470446,1058
+Oxford Brookes University,Biology,0.478701952225442,338
+Oxford Brookes University,Business,0.500193532197333,5515
+Oxford Brookes University,Economics,0.519061913395284,220
+Oxford Brookes University,Education,0.377944242723183,543
+Oxford Brookes University,Engineering,0.552741010281515,1236
+Oxford Brookes University,Finance,0.525984147920634,1042
+Oxford Brookes University,Information Technology,0.524053224393622,21
+Oxford Brookes University,Law,0.485008583183825,859
+Oxford Brookes University,Marketing,0.530215354995797,67
+Oxford Brookes University,Mathematics,0.554586802193156,96
+Oxford Brookes University,Nursing,0.393613437198688,237
+Oxford Brookes University,Statistics,0.58967428498291,25
+Oxford College of Marketing,Business,0.522848091255727,37
+Oxford College of Marketing,Marketing,0.513737553993983,22
+Pembrokeshire College,Business,0.424386980959473,10
+Pembrokeshire College,Engineering,0.458173309316155,20
+Peter Symonds College,Business,0.428879081956493,10
+Peterborough Regional College,Business,0.47144487444993,19
+Peterborough Regional College,Engineering,0.501221538281452,36
+Petroc College,Business,0.484382589270677,10
+Petroc College,Engineering,0.507643839040478,11
+Plumpton College,Business,0.405069733053735,41
+Plymouth Marjon University,Business,0.448443463076334,80
+Plymouth Marjon University,Education,0.385263319732942,389
+Plymouth Marjon University,Engineering,0.500374808722197,17
+Point Blank Music School,Engineering,0.520232008842996,89
+Preston's College,Business,0.539623876183974,25
+Preston's College,Engineering,0.486599482116365,27
+"Queen Margaret University, Edinburgh",Biology,0.454816620982738,77
+"Queen Margaret University, Edinburgh",Business,0.477748973118988,1098
+"Queen Margaret University, Edinburgh",Marketing,0.507305285567595,127
+"Queen Margaret University, Edinburgh",Nursing,0.402915509149173,75
+Queen Mary University of London,Accounting,0.494169471772627,160
+Queen Mary University of London,Biology,0.482233608610889,247
+Queen Mary University of London,Business,0.523192869344851,2003
+Queen Mary University of London,Chemistry,0.501098068207803,406
+Queen Mary University of London,Economics,0.537632515364592,911
+Queen Mary University of London,Education,0.426209812624969,22
+Queen Mary University of London,Engineering,0.57509492947448,2456
+Queen Mary University of London,Finance,0.537599861139073,560
+Queen Mary University of London,Information Technology,0.607464630326308,22
+Queen Mary University of London,Law,0.492559665131756,1268
+Queen Mary University of London,Marketing,0.566674788034589,26
+Queen Mary University of London,Mathematics,0.549530203597839,961
+Queen Mary University of London,Medicine,0.437339233322613,501
+Queen Mary University of London,Physics,0.54885871035384,363
+Queen Mary University of London,Statistics,0.5520255746275,195
+Queen's University Belfast,Accounting,0.527194539239203,707
+Queen's University Belfast,Architecture,0.485507275335526,509
+Queen's University Belfast,Biology,0.457994759359962,205
+Queen's University Belfast,Business,0.545980332687361,1610
+Queen's University Belfast,Chemistry,0.473011360545192,163
+Queen's University Belfast,Economics,0.539072703680202,389
+Queen's University Belfast,Education,0.40493317393688,48
+Queen's University Belfast,Engineering,0.565696442927916,1456
+Queen's University Belfast,Finance,0.544291148834113,468
+Queen's University Belfast,Information Technology,0.669229755024072,272
+Queen's University Belfast,Law,0.480368515465286,1527
+Queen's University Belfast,Mathematics,0.544992663383752,263
+Queen's University Belfast,Medicine,0.429814292132958,168
+Queen's University Belfast,Nursing,0.407476338815216,251
+Queen's University Belfast,Physics,0.541837668427109,130
+Queen's University Belfast,Statistics,0.580159841188129,46
+Ravensbourne University London,Architecture,0.473190424094697,255
+Ravensbourne University London,Business,0.49507478528435,125
+Ravensbourne University London,Engineering,0.527805136622287,53
+Ravensbourne University London,Marketing,0.498393859157069,16
+Reading College,Engineering,0.471395806247622,12
+Regent College London,Business,0.437283762156322,26
+Regent's University London,Business,0.509477596986186,736
+Regent's University London,Finance,0.497692806290088,16
+Regent's University London,Marketing,0.502939971874061,105
+Richmond upon Thames College,Business,0.45978925964131,23
+Richmond upon Thames College,Engineering,0.419871551004821,31
+Richmond upon Thames College,Information Technology,0.627488008405516,13
+"Richmond, The American International University in London",Business,0.508055148523009,190
+"Richmond, The American International University in London",Economics,0.545695630959265,32
+"Richmond, The American International University in London",Engineering,0.525168645178278,11
+"Richmond, The American International University in London",Finance,0.535798624059757,29
+"Richmond, The American International University in London",Marketing,0.492566177564862,50
+Robert Gordon University,Accounting,0.497375766576404,52
+Robert Gordon University,Architecture,0.465697549833924,253
+Robert Gordon University,Business,0.492551507585551,3622
+Robert Gordon University,Chemistry,0.462809445783043,30
+Robert Gordon University,Engineering,0.522423255081865,1103
+Robert Gordon University,Finance,0.528697392194894,720
+Robert Gordon University,Information Technology,0.582122158564747,14
+Robert Gordon University,Law,0.470086269162108,403
+Robert Gordon University,Marketing,0.521718726456926,29
+Robert Gordon University,Nursing,0.380196804372718,284
+Roehampton University,Accounting,0.526771150961706,136
+Roehampton University,Biology,0.412450154942543,68
+Roehampton University,Business,0.491180857069515,2008
+Roehampton University,Economics,0.511058255362705,49
+Roehampton University,Education,0.377622111455052,939
+Roehampton University,Engineering,0.542318329677317,209
+Roehampton University,Finance,0.507695346167622,11
+Roehampton University,Information Technology,0.632423774854327,45
+Roehampton University,Law,0.459632270435922,154
+Roehampton University,Marketing,0.479212727920502,218
+Ron Dearing UTC,Engineering,0.416507455063084,10
+Rose Bruford College of Theatre and Performance,Business,0.444309553800704,136
+Rose Bruford College of Theatre and Performance,Engineering,0.401958138976774,10
+Royal Academy of Dramatic Art,Business,0.392985395250115,34
+Royal Agricultural University,Business,0.453700086297004,1110
+Royal Agricultural University,Marketing,0.485803448549747,100
+Royal Conservatoire of Scotland,Business,0.426415820924046,43
+Royal Conservatoire of Scotland,Education,0.434734323450855,40
+Royal Holloway - University of London,Accounting,0.53336882484418,48
+Royal Holloway - University of London,Biology,0.49207274116172,212
+Royal Holloway - University of London,Business,0.510571951626117,1699
+Royal Holloway - University of London,Economics,0.537015212180946,958
+Royal Holloway - University of London,Engineering,0.617545968791698,521
+Royal Holloway - University of London,Finance,0.522922002824092,142
+Royal Holloway - University of London,Law,0.480460687884286,251
+Royal Holloway - University of London,Marketing,0.530928430742988,24
+Royal Holloway - University of London,Mathematics,0.547513197972457,348
+Royal Holloway - University of London,Physics,0.550050844517147,157
+Royal Holloway - University of London,Statistics,0.537950677656764,35
+Royal Welsh College of Music & Drama Ltd.,Business,0.40620888901588,44
+Runshaw College,Business,0.507908921235065,55
+Runshaw College,Engineering,0.374380176400754,50
+Runshaw College,Information Technology,0.530344547525985,27
+SOAS University of London,Business,0.518761228264219,187
+SOAS University of London,Economics,0.532307039246236,654
+SOAS University of London,Law,0.490611396459773,503
+Salford City College,Engineering,0.444373300990689,14
+Sandwell College,Engineering,0.443264167076197,15
+Saïd Business School,Business,0.535184808227374,27
+"School of Biological Sciences, University of Aberdeen",Biology,0.4422197156494,22
+Scotland's Rural College,Business,0.427144675976655,122
+Sheffield Hallam University,Accounting,0.524323971830657,328
+Sheffield Hallam University,Architecture,0.468797180189881,507
+Sheffield Hallam University,Biology,0.456537078537141,238
+Sheffield Hallam University,Business,0.506931371125672,8767
+Sheffield Hallam University,Chemistry,0.482968221645341,165
+Sheffield Hallam University,Economics,0.483760775496732,185
+Sheffield Hallam University,Education,0.395194410022844,1149
+Sheffield Hallam University,Engineering,0.549599760348282,3270
+Sheffield Hallam University,Finance,0.519062205426341,732
+Sheffield Hallam University,Information Technology,0.649442780536588,145
+Sheffield Hallam University,Law,0.487267342363045,1334
+Sheffield Hallam University,Marketing,0.508250993891764,657
+Sheffield Hallam University,Mathematics,0.565092104653207,464
+Sheffield Hallam University,Nursing,0.389452622682888,296
+Sheffield Hallam University,Physics,0.459233494475877,39
+Sheffield Hallam University,Statistics,0.58399764808473,16
+Silverstone UTC,Engineering,0.371186384085124,14
+Solihull College & University Centre,Business,0.433399144687722,17
+Solihull College & University Centre,Engineering,0.444402298544287,31
+Solihull College & University Centre,Information Technology,0.478625406709137,10
+South & City College Birmingham,Business,0.481786684305732,19
+South & City College Birmingham,Engineering,0.53790690581329,17
+South & City College Birmingham,Information Technology,0.534139017956162,16
+South Cheshire College,Business,0.437759347591031,16
+South Cheshire College,Engineering,0.459389109187642,17
+South Devon College,Engineering,0.442714445036582,11
+South Downs College,Business,0.432365389455889,20
+South Downs College,Engineering,0.450730986076166,56
+South Downs College,Information Technology,0.52437674842871,15
+South Eastern Regional College,Business,0.393458275561124,19
+South Eastern Regional College,Engineering,0.345162554291055,10
+South Thames College,Business,0.461591758800606,27
+South Thames College,Engineering,0.495185141025091,20
+South Thames College,Information Technology,0.482779299030944,10
+Southampton City College,Engineering,0.428485653917452,27
+Southampton Solent University,Accounting,0.522757003052824,48
+Southampton Solent University,Architecture,0.487614427265895,50
+Southampton Solent University,Business,0.492177148978226,3569
+Southampton Solent University,Economics,0.537185774001181,22
+Southampton Solent University,Education,0.378681657663355,76
+Southampton Solent University,Engineering,0.555008947237143,1117
+Southampton Solent University,Finance,0.535395693153898,166
+Southampton Solent University,Information Technology,0.538257080024804,22
+Southampton Solent University,Law,0.490032793213904,384
+Southampton Solent University,Marketing,0.50488172827598,470
+Southport College,Engineering,0.490094761725135,15
+Sparsholt College,Biology,0.338307707951225,30
+Sparsholt College,Business,0.409276828439775,144
+St Mary's University College Belfast,Education,0.32536551196872,37
+"St Mary's University College, Queen's University  Belfast",Business,0.474508286971316,47
+"St Mary's University College, Queen's University  Belfast",Education,0.379224638461478,143
+St Stephen's College,Chemistry,0.517113646446528,10
+St Stephen's College,Economics,0.540058621534632,20
+St Stephen's College,Mathematics,0.533305985507117,16
+St. George's - University of London,Biology,0.508409909888502,11
+St. George's - University of London,Medicine,0.44128235509518,659
+St. George's - University of London,Nursing,0.420054409593759,29
+St. Helen's College Ltd.,Business,0.418221195835444,13
+St. Helen's College Ltd.,Engineering,0.416621809609603,20
+St. Helen's College Ltd.,Information Technology,0.602188602665835,12
+St. Mary's University Twickenham,Biology,0.438120038805956,16
+St. Mary's University Twickenham,Business,0.481126094914806,526
+St. Mary's University Twickenham,Education,0.381978883447892,637
+St. Mary's University Twickenham,Law,0.492740433949285,144
+St. Mary's University Twickenham,Marketing,0.444150633526098,17
+St. Mary's University Twickenham,Physics,0.480697071362828,13
+Staffordshire University,Accounting,0.542159828789664,29
+Staffordshire University,Biology,0.452819162156714,77
+Staffordshire University,Business,0.500035992214411,1086
+Staffordshire University,Education,0.38968081884717,120
+Staffordshire University,Engineering,0.554964888497315,743
+Staffordshire University,Finance,0.528652744179354,137
+Staffordshire University,Information Technology,0.565175412650145,47
+Staffordshire University,Law,0.480590690141585,343
+Staffordshire University,Marketing,0.459529843183861,10
+Staffordshire University,Nursing,0.382865727062464,66
+Staffordshire University,Statistics,0.632786173537814,10
+Stanmore College,Business,0.484812397035238,13
+Stoke-on-Trent College,Engineering,0.474517726860164,10
+Stranmillis University College,Business,0.454552929068793,43
+Stranmillis University College,Education,0.385408990508618,238
+Strathclyde Business School,Accounting,0.525918209621436,24
+Strathclyde Business School,Business,0.497809966719555,350
+Strathclyde Business School,Economics,0.488176741134389,54
+Strathclyde Business School,Finance,0.497541970135901,122
+Strathclyde Business School,Marketing,0.513543287236955,76
+Suffolk New College,Information Technology,0.457938819512687,11
+Sunderland College,Business,0.398217061159246,10
+Sunderland College,Engineering,0.513219926820716,17
+Sunderland College,Information Technology,0.551800287007216,14
+Sussex Downs College,Engineering,0.544243540569561,10
+Sutton Coldfield College,Engineering,0.484467586237738,12
+Swansea University,Accounting,0.513782570201625,112
+Swansea University,Biology,0.458602436180863,534
+Swansea University,Business,0.506256580351041,1921
+Swansea University,Chemistry,0.468826994044751,51
+Swansea University,Economics,0.528869377920679,724
+Swansea University,Education,0.404900393718374,86
+Swansea University,Engineering,0.527985991800517,2485
+Swansea University,Finance,0.5305181440373,585
+Swansea University,Law,0.482859086068573,1541
+Swansea University,Marketing,0.498798725906087,34
+Swansea University,Mathematics,0.535083460202881,452
+Swansea University,Medicine,0.40495821626631,92
+Swansea University,Nursing,0.389876123165421,185
+Swansea University,Physics,0.513859641144808,310
+Tameside College,Engineering,0.498417390152911,18
+Teesside University,Accounting,0.539269665575126,24
+Teesside University,Architecture,0.476167719627715,96
+Teesside University,Biology,0.402382891563003,79
+Teesside University,Business,0.49969256045543,1416
+Teesside University,Chemistry,0.431723049720785,103
+Teesside University,Economics,0.520967757655713,13
+Teesside University,Education,0.40196091396796,211
+Teesside University,Engineering,0.532765223047796,2740
+Teesside University,Finance,0.509523369098773,201
+Teesside University,Information Technology,0.605417068872915,114
+Teesside University,Law,0.479692836760266,474
+Teesside University,Marketing,0.501014529488052,184
+Teesside University,Nursing,0.383002458569388,230
+The Bartlett School of Architecture,Architecture,0.481174003124258,384
+The Bedford College Group,Engineering,0.46653430664659,12
+The Chartered Governance Institute UK & Ireland,Business,0.529857468194268,10
+The Chartered Institute of Marketing,Business,0.536972637032377,15
+The Chartered Institute of Marketing,Marketing,0.511746689039983,89
+The Cornwall College Group,Biology,0.370959837959284,21
+The Cornwall College Group,Business,0.459262862472173,51
+The Cornwall College Group,Engineering,0.434263235352308,20
+The Dickson Poon School of Law,Law,0.451798480895596,10
+The Glasgow School of Art,Architecture,0.474062162875782,456
+The Glasgow School of Art,Engineering,0.498268644864932,25
+The HENLEY College,Engineering,0.471795863588408,19
+The HENLEY College,Information Technology,0.580001931618462,10
+The Leigh UTC,Engineering,0.318417554951509,13
+The London Institute of Banking & Finance,Business,0.534020530397227,170
+The London Institute of Banking & Finance,Finance,0.508252190029638,64
+The Manchester College,Business,0.485100996306764,32
+The Manchester College,Engineering,0.417913608717195,23
+The Open University,Accounting,0.500971734684663,224
+The Open University,Biology,0.447415737330662,146
+The Open University,Business,0.502700037397615,5491
+The Open University,Chemistry,0.465796650172089,184
+The Open University,Economics,0.516612744932139,793
+The Open University,Education,0.389561771747792,595
+The Open University,Engineering,0.517282023507316,3818
+The Open University,Finance,0.518665714830928,53
+The Open University,Information Technology,0.600675619988219,737
+The Open University,Law,0.49530850796276,2284
+The Open University,Marketing,0.518868370879293,37
+The Open University,Mathematics,0.536963894512559,985
+The Open University,Medicine,0.518672382789892,20
+The Open University,Nursing,0.391415976239098,122
+The Open University,Physics,0.517340388437134,288
+The Open University,Statistics,0.567463916634438,375
+The Open University Business School,Accounting,0.53747080935465,20
+The Open University Business School,Business,0.508260885201658,262
+The Open University Business School,Economics,0.502715836768783,10
+The Open University Business School,Law,0.464618571641866,12
+The Royal Central School of Speech & Drama,Business,0.439669123131463,128
+The Royal Central School of Speech & Drama,Education,0.432232202982162,300
+The Royal Veterinary College,Biology,0.434959606519252,13
+The Royal Veterinary College,Medicine,0.319169097622092,573
+The Royal Veterinary College,Nursing,0.308944546509175,89
+The University of Buckingham,Accounting,0.533906586044067,12
+The University of Buckingham,Business,0.522021541218798,353
+The University of Buckingham,Economics,0.546776843051736,98
+The University of Buckingham,Engineering,0.591905031910984,26
+The University of Buckingham,Finance,0.506100171809719,56
+The University of Buckingham,Law,0.484617642308426,356
+The University of Buckingham,Marketing,0.482904964782939,31
+The University of Buckingham,Medicine,0.489549264155879,21
+The University of Edinburgh,Accounting,0.473497370242313,16
+The University of Edinburgh,Architecture,0.477162457434773,225
+The University of Edinburgh,Biology,0.485057467472849,361
+The University of Edinburgh,Business,0.485495453221478,631
+The University of Edinburgh,Chemistry,0.491425723746908,218
+The University of Edinburgh,Economics,0.52509466351326,111
+The University of Edinburgh,Education,0.364466621741766,403
+The University of Edinburgh,Engineering,0.568173698102131,940
+The University of Edinburgh,Finance,0.499774846898288,46
+The University of Edinburgh,Law,0.470729759872993,1177
+The University of Edinburgh,Marketing,0.551718674325931,17
+The University of Edinburgh,Mathematics,0.552520867537185,585
+The University of Edinburgh,Medicine,0.392974655009465,492
+The University of Edinburgh,Nursing,0.410435911687328,67
+The University of Edinburgh,Physics,0.540302886169439,297
+The University of Edinburgh,Statistics,0.591193059532708,102
+The University of Law,Business,0.485053291629433,48
+The University of Law,Law,0.478650224713826,1501
+The University of Manchester,Accounting,0.524512254870199,220
+The University of Manchester,Architecture,0.486660700968665,985
+The University of Manchester,Biology,0.499730055203305,565
+The University of Manchester,Business,0.514961288249453,4447
+The University of Manchester,Chemistry,0.483779116578691,533
+The University of Manchester,Economics,0.522180378606083,2777
+The University of Manchester,Education,0.465569441225727,92
+The University of Manchester,Engineering,0.577094750337857,2419
+The University of Manchester,Finance,0.528746915446817,881
+The University of Manchester,Information Technology,0.570324938153058,30
+The University of Manchester,Law,0.483730297100347,1868
+The University of Manchester,Marketing,0.495416847071153,241
+The University of Manchester,Mathematics,0.559120100939602,1308
+The University of Manchester,Medicine,0.441712192240332,558
+The University of Manchester,Nursing,0.40540577622917,424
+The University of Manchester,Physics,0.542713124632423,542
+The University of Manchester,Statistics,0.586160375846633,60
+The University of Sheffield,Accounting,0.528336776705548,72
+The University of Sheffield,Architecture,0.454542676131105,1069
+The University of Sheffield,Biology,0.495354768171664,610
+The University of Sheffield,Business,0.519787470611962,2430
+The University of Sheffield,Chemistry,0.498949978226401,363
+The University of Sheffield,Economics,0.533460954511339,1602
+The University of Sheffield,Education,0.402733750547103,46
+The University of Sheffield,Engineering,0.550102313969675,1532
+The University of Sheffield,Finance,0.513211438271708,310
+The University of Sheffield,Information Technology,0.587827936928163,11
+The University of Sheffield,Law,0.482231619835088,2031
+The University of Sheffield,Marketing,0.50832862496213,19
+The University of Sheffield,Mathematics,0.563456135419822,725
+The University of Sheffield,Medicine,0.438470020539716,247
+The University of Sheffield,Nursing,0.420572724140017,75
+The University of Sheffield,Physics,0.526934428691554,338
+The University of Sheffield,Statistics,0.572111559493328,105
+The University of Winchester,Business,0.49839205229048,34
+The University of Winchester,Education,0.375005058043384,14
+Trafford College,Engineering,0.327405155441449,15
+Truro and Penwith College,Business,0.428844469255625,18
+Truro and Penwith College,Education,0.454362398323596,19
+Truro and Penwith College,Engineering,0.379998302251855,10
+UCFB College of Football Business Ltd.,Business,0.445797176971951,877
+UCFB College of Football Business Ltd.,Education,0.350778616442134,20
+UCFB College of Football Business Ltd.,Marketing,0.455328228224499,22
+UCL - University of London,Architecture,0.479764558235888,305
+UCL - University of London,Biology,0.505403500282262,280
+UCL - University of London,Business,0.5268097733279,1394
+UCL - University of London,Chemistry,0.528231147793203,356
+UCL - University of London,Economics,0.539209936553917,2113
+UCL - University of London,Education,0.458131595538216,155
+UCL - University of London,Engineering,0.555814149318944,1220
+UCL - University of London,Finance,0.552638439762533,110
+UCL - University of London,Information Technology,0.621818021680944,11
+UCL - University of London,Law,0.483631448796475,887
+UCL - University of London,Marketing,0.51828629902,27
+UCL - University of London,Mathematics,0.555240149693095,554
+UCL - University of London,Medicine,0.455487037419548,1073
+UCL - University of London,Physics,0.557926515011888,468
+UCL - University of London,Statistics,0.562939653463788,330
+UCL Institute of Ophthalmology,Education,0.421931230552957,141
+UCL School of Management,Business,0.579531622372662,10
+UHI,Business,0.458900964781925,219
+UHI,Education,0.333256102632782,21
+UHI,Engineering,0.477189881412531,207
+UHI,Finance,0.486928478591447,21
+UWE Bristol's International College,Business,0.499698228457083,28
+UWE Bristol's International College,Engineering,0.609493876693442,10
+University Centre Colchester,Business,0.471142690640441,23
+University Centre Peterborough (UCP),Business,0.397648566554985,10
+University Centre Peterborough (UCP),Education,0.384629291141206,15
+University Centre Peterborough (UCP),Engineering,0.61333502167132,12
+University Centre Peterborough (UCP),Finance,0.556741507142927,12
+University Centre South Devon,Business,0.459707925892252,12
+University Centre Weston,Business,0.534740561204964,10
+University Centre at Blackburn College,Accounting,0.540745571537082,19
+University Centre at Blackburn College,Business,0.462448218813259,87
+University Centre at Blackburn College,Education,0.446281506360416,25
+University Centre at Blackburn College,Engineering,0.545337324414202,41
+University Centre at Blackburn College,Law,0.468649277676598,19
+University College Birmingham,Business,0.450872421422793,1784
+University College Birmingham,Education,0.399390642842714,71
+University College Birmingham,Marketing,0.475738597264384,84
+University College of Estate Management,Business,0.478574341044313,361
+University for the Creative Arts,Architecture,0.475152354073123,566
+University for the Creative Arts,Business,0.499022653466243,525
+University for the Creative Arts,Engineering,0.493864298220761,198
+University for the Creative Arts,Marketing,0.501839969894948,147
+University of Aberdeen,Biology,0.449162816663568,433
+University of Aberdeen,Business,0.469190148278474,170
+University of Aberdeen,Chemistry,0.452342127731859,152
+University of Aberdeen,Economics,0.508268470169667,53
+University of Aberdeen,Education,0.37524961171279,160
+University of Aberdeen,Engineering,0.485901165280625,577
+University of Aberdeen,Finance,0.514832095719211,51
+University of Aberdeen,Law,0.472905736941961,1144
+University of Aberdeen,Mathematics,0.549647464538701,95
+University of Aberdeen,Medicine,0.432015195520598,159
+University of Aberdeen,Physics,0.505731819384261,112
+University of Abertay Dundee,Accounting,0.537817348831794,19
+University of Abertay Dundee,Biology,0.421926588438079,23
+University of Abertay Dundee,Business,0.510057425211592,1071
+University of Abertay Dundee,Economics,0.48810216517733,15
+University of Abertay Dundee,Engineering,0.550589379065931,968
+University of Abertay Dundee,Finance,0.538975777272948,164
+University of Abertay Dundee,Information Technology,0.602600162691923,11
+University of Abertay Dundee,Law,0.484560052767544,146
+University of Abertay Dundee,Marketing,0.523439909185913,40
+University of Abertay Dundee,Nursing,0.400925774158698,34
+University of Bath,Architecture,0.483452305484354,759
+University of Bath,Biology,0.514419636734406,435
+University of Bath,Business,0.520651944851194,2505
+University of Bath,Chemistry,0.506450259517633,273
+University of Bath,Economics,0.538827681381425,1844
+University of Bath,Education,0.379852647806232,222
+University of Bath,Engineering,0.581023826769953,922
+University of Bath,Finance,0.529371194848229,436
+University of Bath,Marketing,0.475468644613245,16
+University of Bath,Mathematics,0.593206694635276,1098
+University of Bath,Physics,0.553062523262014,362
+University of Bath,Statistics,0.601621376774064,122
+University of Bedfordshire,Accounting,0.529977764310645,157
+University of Bedfordshire,Architecture,0.480520063012209,58
+University of Bedfordshire,Business,0.492870047272373,1780
+University of Bedfordshire,Education,0.385692617174355,778
+University of Bedfordshire,Engineering,0.597403854516049,867
+University of Bedfordshire,Finance,0.524802224364112,253
+University of Bedfordshire,Information Technology,0.569965251822751,35
+University of Bedfordshire,Law,0.500772557027401,364
+University of Bedfordshire,Marketing,0.508543276732439,309
+University of Bedfordshire,Nursing,0.398200496383511,215
+University of Birmingham,Accounting,0.53263886760334,99
+University of Birmingham,Biology,0.47892624231305,378
+University of Birmingham,Business,0.507819786378171,3126
+University of Birmingham,Chemistry,0.511577120842279,381
+University of Birmingham,Economics,0.532933692876453,2139
+University of Birmingham,Education,0.405123600518168,488
+University of Birmingham,Engineering,0.573333332923309,1760
+University of Birmingham,Finance,0.521728420571998,1036
+University of Birmingham,Information Technology,0.596843629028084,14
+University of Birmingham,Law,0.488482047991145,1844
+University of Birmingham,Marketing,0.511563017039247,70
+University of Birmingham,Mathematics,0.556842505294125,958
+University of Birmingham,Medicine,0.448200275130003,403
+University of Birmingham,Nursing,0.389259000756131,183
+University of Birmingham,Physics,0.532231733204174,428
+University of Birmingham,Statistics,0.583874693749402,125
+University of Bolton,Accounting,0.529473597281144,76
+University of Bolton,Biology,0.436920263700286,34
+University of Bolton,Business,0.494217198718319,828
+University of Bolton,Education,0.41574931891608,103
+University of Bolton,Engineering,0.502896985975112,833
+University of Bolton,Finance,0.465967429339733,21
+University of Bolton,Information Technology,0.602697566064295,10
+University of Bolton,Law,0.497907656095723,138
+University of Bolton,Marketing,0.511136605804931,17
+University of Bolton,Mathematics,0.491744963447199,64
+University of Bolton,Nursing,0.367007108458123,52
+University of Bradford,Accounting,0.514718017756534,23
+University of Bradford,Biology,0.514018800713318,10
+University of Bradford,Business,0.515416842800949,1018
+University of Bradford,Chemistry,0.474751266984489,200
+University of Bradford,Economics,0.544993673140589,239
+University of Bradford,Education,0.454703474516513,31
+University of Bradford,Engineering,0.54823552795107,1340
+University of Bradford,Finance,0.526376514982099,475
+University of Bradford,Information Technology,0.639064063381716,44
+University of Bradford,Law,0.49555480651601,304
+University of Bradford,Marketing,0.540690699759603,116
+University of Bradford,Medicine,0.455760577432652,11
+University of Bradford,Nursing,0.387331342615339,150
+University of Brighton,Accounting,0.522132362213983,28
+University of Brighton,Architecture,0.474588877295754,740
+University of Brighton,Biology,0.494843625083259,30
+University of Brighton,Business,0.500002588073202,4314
+University of Brighton,Chemistry,0.473810405236521,68
+University of Brighton,Economics,0.503368011967102,78
+University of Brighton,Education,0.387454530859131,947
+University of Brighton,Engineering,0.551237946660448,1207
+University of Brighton,Finance,0.538303180086444,670
+University of Brighton,Information Technology,0.556618728065499,27
+University of Brighton,Law,0.482943476552642,286
+University of Brighton,Marketing,0.512190884273134,250
+University of Brighton,Mathematics,0.578330743843097,185
+University of Brighton,Medicine,0.334695786578818,19
+University of Brighton,Nursing,0.391614533623687,249
+University of Brighton,Statistics,0.637665855236927,12
+University of Bristol,Accounting,0.52228351908064,145
+University of Bristol,Biology,0.492850690891209,632
+University of Bristol,Business,0.522147139664305,709
+University of Bristol,Chemistry,0.508798191631759,537
+University of Bristol,Economics,0.528794907385425,1812
+University of Bristol,Education,0.416386243850861,58
+University of Bristol,Engineering,0.577902673774761,858
+University of Bristol,Finance,0.529415176978824,533
+University of Bristol,Information Technology,0.590387202732291,10
+University of Bristol,Law,0.485000010252961,1785
+University of Bristol,Marketing,0.498152905661851,56
+University of Bristol,Mathematics,0.558017588408219,1030
+University of Bristol,Medicine,0.414438507443563,602
+University of Bristol,Nursing,0.326135883939994,55
+University of Bristol,Physics,0.54280613866484,627
+University of Bristol,Statistics,0.58153553117195,39
+University of Cambridge,Accounting,0.50007072910218,12
+University of Cambridge,Architecture,0.486487020103158,341
+University of Cambridge,Biology,0.51274059863214,47
+University of Cambridge,Business,0.514824275843948,437
+University of Cambridge,Chemistry,0.507409971002357,89
+University of Cambridge,Economics,0.532082003500782,1108
+University of Cambridge,Education,0.476088196255905,223
+University of Cambridge,Engineering,0.562598974333033,822
+University of Cambridge,Finance,0.51807529482071,31
+University of Cambridge,Law,0.479822411632863,1468
+University of Cambridge,Marketing,0.537819056009603,14
+University of Cambridge,Mathematics,0.587304808781549,901
+University of Cambridge,Medicine,0.435684451817769,528
+University of Cambridge,Nursing,0.410417748674856,10
+University of Cambridge,Physics,0.559833097861701,194
+University of Central Lancashire,Accounting,0.533854564369602,188
+University of Central Lancashire,Architecture,0.466423649895979,137
+University of Central Lancashire,Biology,0.486307096624684,33
+University of Central Lancashire,Business,0.492443720581748,3576
+University of Central Lancashire,Chemistry,0.450724532093455,108
+University of Central Lancashire,Economics,0.542004862925941,108
+University of Central Lancashire,Education,0.40746838256419,287
+University of Central Lancashire,Engineering,0.544727752469671,1407
+University of Central Lancashire,Finance,0.522003955582295,227
+University of Central Lancashire,Information Technology,0.64261236455444,28
+University of Central Lancashire,Law,0.475248752143618,870
+University of Central Lancashire,Marketing,0.509386985446895,318
+University of Central Lancashire,Mathematics,0.551301274729037,113
+University of Central Lancashire,Medicine,0.42244918995001,75
+University of Central Lancashire,Nursing,0.386736720498323,309
+University of Central Lancashire,Physics,0.520919206796614,59
+University of Chester,Accounting,0.514439326515359,18
+University of Chester,Biology,0.422308473603237,217
+University of Chester,Business,0.494062965750482,1917
+University of Chester,Economics,0.497123801459288,22
+University of Chester,Education,0.395329176632874,376
+University of Chester,Engineering,0.596008848209521,382
+University of Chester,Finance,0.529210905989702,218
+University of Chester,Law,0.488154784549141,538
+University of Chester,Marketing,0.512680479261052,221
+University of Chester,Mathematics,0.567214663513363,167
+University of Chester,Nursing,0.381595267426327,257
+University of Chichester,Business,0.496970360581297,608
+University of Chichester,Education,0.397965968348753,687
+University of Chichester,Engineering,0.420820278853203,33
+University of Chichester,Finance,0.511423472494573,62
+University of Chichester,Law,0.496238122806885,10
+University of Chichester,Marketing,0.507659119687431,88
+University of Chichester,Mathematics,0.514989491267328,26
+University of Cumbria,Biology,0.410924861709583,49
+University of Cumbria,Business,0.475892630493426,434
+University of Cumbria,Chemistry,0.483677217084401,11
+University of Cumbria,Education,0.372520155727032,711
+University of Cumbria,Engineering,0.511790026221259,97
+University of Cumbria,Finance,0.533782331222323,18
+University of Cumbria,Information Technology,0.477695086569403,12
+University of Cumbria,Law,0.488896889067625,79
+University of Cumbria,Nursing,0.396764763780864,120
+University of Derby,Accounting,0.506802382164871,62
+University of Derby,Architecture,0.476462192737215,90
+University of Derby,Biology,0.435225114752122,255
+University of Derby,Business,0.483828951382325,3236
+University of Derby,Economics,0.455589160566053,40
+University of Derby,Education,0.398168492660923,652
+University of Derby,Engineering,0.533275423943464,1892
+University of Derby,Finance,0.522598062218953,300
+University of Derby,Information Technology,0.633083237315004,147
+University of Derby,Law,0.485571810663468,665
+University of Derby,Marketing,0.49150701711796,251
+University of Derby,Mathematics,0.523871654942178,152
+University of Derby,Nursing,0.387407547768494,232
+University of Dundee,Accounting,0.526208259754973,113
+University of Dundee,Architecture,0.480495626779826,347
+University of Dundee,Biology,0.476335614834814,82
+University of Dundee,Business,0.491203279051509,348
+University of Dundee,Chemistry,0.475240668997359,46
+University of Dundee,Economics,0.521469688636761,78
+University of Dundee,Education,0.392460416560089,175
+University of Dundee,Engineering,0.497349817378462,583
+University of Dundee,Finance,0.530844661415417,154
+University of Dundee,Law,0.475684743975073,741
+University of Dundee,Mathematics,0.544377187749459,147
+University of Dundee,Medicine,0.442206160667865,151
+University of Dundee,Nursing,0.389959688591352,274
+University of Dundee,Physics,0.543483260145,53
+University of East Anglia,Accounting,0.534980990712465,74
+University of East Anglia,Biology,0.507227445838224,107
+University of East Anglia,Business,0.514714555673161,2058
+University of East Anglia,Chemistry,0.497408834365315,181
+University of East Anglia,Economics,0.529396950168743,1013
+University of East Anglia,Education,0.381772744497221,270
+University of East Anglia,Engineering,0.615019770685881,629
+University of East Anglia,Finance,0.526776985305083,492
+University of East Anglia,Law,0.487893485808014,1094
+University of East Anglia,Marketing,0.515708052692681,15
+University of East Anglia,Mathematics,0.540210566564538,358
+University of East Anglia,Medicine,0.420013503510169,279
+University of East Anglia,Nursing,0.394183620713849,233
+University of East Anglia,Physics,0.429061186320156,38
+University of East Anglia,Statistics,0.577359396530318,11
+University of East London,Accounting,0.505869081960097,27
+University of East London,Architecture,0.476030859464559,404
+University of East London,Biology,0.445736537699555,56
+University of East London,Business,0.501041432183228,2107
+University of East London,Economics,0.514984631160121,142
+University of East London,Education,0.395977951292225,457
+University of East London,Engineering,0.536499972892333,1448
+University of East London,Finance,0.522687452722126,505
+University of East London,Information Technology,0.563253814316596,144
+University of East London,Law,0.479255720705893,472
+University of East London,Marketing,0.501505350194252,285
+University of East London,Medicine,0.359074550777639,56
+University of East London,Nursing,0.375986022995645,18
+University of Essex,Accounting,0.528995304590217,256
+University of Essex,Architecture,0.450376394222233,13
+University of Essex,Biology,0.464096217996965,206
+University of Essex,Business,0.498013151218567,1868
+University of Essex,Economics,0.535641365823487,1316
+University of Essex,Education,0.384086158881121,85
+University of Essex,Engineering,0.611477777045655,910
+University of Essex,Finance,0.522492381558277,755
+University of Essex,Information Technology,0.469634326443289,32
+University of Essex,Law,0.487862234775151,1268
+University of Essex,Marketing,0.507959293549428,113
+University of Essex,Mathematics,0.537165110680764,191
+University of Essex,Medicine,0.518592940504981,27
+University of Essex,Nursing,0.381520646236134,64
+University of Essex,Statistics,0.540660770658203,14
+University of Exeter,Accounting,0.505638544952387,179
+University of Exeter,Biology,0.45802368144342,715
+University of Exeter,Business,0.515426130304345,2616
+University of Exeter,Chemistry,0.485587999258042,160
+University of Exeter,Economics,0.526141944126853,2276
+University of Exeter,Education,0.430331321614576,157
+University of Exeter,Engineering,0.547759923037834,948
+University of Exeter,Finance,0.516713691730835,963
+University of Exeter,Information Technology,0.539688580831006,23
+University of Exeter,Law,0.484867976444195,1779
+University of Exeter,Marketing,0.527246478472152,31
+University of Exeter,Mathematics,0.548011833402682,915
+University of Exeter,Medicine,0.420399039522077,155
+University of Exeter,Physics,0.535906789496928,325
+University of Exeter,Statistics,0.555849103218182,27
+University of Exeter Business School,Business,0.4783267335806,86
+University of Exeter Business School,Economics,0.549661727557708,24
+University of Exeter Business School,Engineering,0.495415810842783,21
+University of Exeter Business School,Finance,0.547977831183903,31
+University of Glamorgan,Biology,0.528163900674222,11
+University of Glamorgan,Business,0.49389052953946,140
+University of Glamorgan,Education,0.42477375782471,10
+University of Glamorgan,Engineering,0.525886689776598,90
+University of Glamorgan,Finance,0.518793059239857,12
+University of Glamorgan,Information Technology,0.592910428265926,15
+University of Glamorgan,Law,0.491666083800537,40
+University of Glamorgan,Mathematics,0.596888885089632,11
+University of Glamorgan,Nursing,0.385518286528886,21
+University of Glasgow,Accounting,0.527361090467543,102
+University of Glasgow,Architecture,0.543570722334309,10
+University of Glasgow,Biology,0.459659728151296,581
+University of Glasgow,Business,0.494233667256968,319
+University of Glasgow,Chemistry,0.476416778785138,319
+University of Glasgow,Economics,0.524858163339926,129
+University of Glasgow,Education,0.363779192540475,236
+University of Glasgow,Engineering,0.526140733868271,1205
+University of Glasgow,Finance,0.526547398064039,454
+University of Glasgow,Law,0.477680598448429,1366
+University of Glasgow,Marketing,0.55780043457777,16
+University of Glasgow,Mathematics,0.54574847185963,403
+University of Glasgow,Medicine,0.381605345773641,518
+University of Glasgow,Nursing,0.3905446752202,96
+University of Glasgow,Physics,0.504209354284941,295
+University of Glasgow,Statistics,0.585908020224103,273
+University of Gloucestershire,Accounting,0.549648747854418,50
+University of Gloucestershire,Architecture,0.367635822385501,155
+University of Gloucestershire,Biology,0.424668184739199,119
+University of Gloucestershire,Business,0.501245309839697,2585
+University of Gloucestershire,Education,0.39495384283195,646
+University of Gloucestershire,Engineering,0.550385936534576,276
+University of Gloucestershire,Finance,0.529233182369349,120
+University of Gloucestershire,Information Technology,0.608352232748686,106
+University of Gloucestershire,Law,0.494540701677016,243
+University of Gloucestershire,Marketing,0.518839004070486,112
+University of Gloucestershire,Nursing,0.336033558088179,14
+University of Greenwich,Accounting,0.530380586687185,106
+University of Greenwich,Architecture,0.467476871334629,546
+University of Greenwich,Biology,0.512583110225577,21
+University of Greenwich,Business,0.502063449027925,5568
+University of Greenwich,Chemistry,0.451581292733545,123
+University of Greenwich,Economics,0.537938417684606,485
+University of Greenwich,Education,0.390139293151609,886
+University of Greenwich,Engineering,0.566290356064381,2102
+University of Greenwich,Finance,0.522086373738812,994
+University of Greenwich,Information Technology,0.585208166429355,103
+University of Greenwich,Law,0.494188695083663,627
+University of Greenwich,Marketing,0.501947003276091,616
+University of Greenwich,Mathematics,0.546372969469157,484
+University of Greenwich,Medicine,0.345035778746498,18
+University of Greenwich,Nursing,0.374894154197744,260
+University of Greenwich,Statistics,0.562477220502559,22
+University of Hertfordshire,Accounting,0.519708601614813,236
+University of Hertfordshire,Architecture,0.472762156693409,254
+University of Hertfordshire,Biology,0.455914983659541,113
+University of Hertfordshire,Business,0.51253265604423,5279
+University of Hertfordshire,Economics,0.52962644005473,522
+University of Hertfordshire,Education,0.374869137106132,586
+University of Hertfordshire,Engineering,0.561799846252613,3238
+University of Hertfordshire,Finance,0.530218249357167,1221
+University of Hertfordshire,Information Technology,0.624485076587105,267
+University of Hertfordshire,Law,0.493235957054216,1794
+University of Hertfordshire,Marketing,0.50239517578536,941
+University of Hertfordshire,Mathematics,0.550708346959253,393
+University of Hertfordshire,Nursing,0.3899753880615,438
+University of Hertfordshire,Physics,0.528917907872614,140
+University of Hertfordshire,Statistics,0.623491875854075,13
+University of Huddersfield,Accounting,0.519289826580035,42
+University of Huddersfield,Architecture,0.467076198146774,446
+University of Huddersfield,Biology,0.491551165351732,180
+University of Huddersfield,Business,0.506135963386106,2734
+University of Huddersfield,Chemistry,0.467279052592835,221
+University of Huddersfield,Economics,0.519478158241756,103
+University of Huddersfield,Education,0.430060685221313,588
+University of Huddersfield,Engineering,0.55145517723977,1429
+University of Huddersfield,Finance,0.520395506061588,517
+University of Huddersfield,Information Technology,0.604902335089887,125
+University of Huddersfield,Law,0.490746823616625,645
+University of Huddersfield,Marketing,0.503697914773323,608
+University of Huddersfield,Nursing,0.374988747839655,119
+University of Hull,Accounting,0.529885440916828,376
+University of Hull,Biology,0.44968085056024,510
+University of Hull,Business,0.507579094440917,2748
+University of Hull,Chemistry,0.473980263979558,261
+University of Hull,Economics,0.532781963598329,335
+University of Hull,Education,0.38275775016932,353
+University of Hull,Engineering,0.577495623427994,1189
+University of Hull,Finance,0.519171761137657,118
+University of Hull,Law,0.482870943210122,1028
+University of Hull,Marketing,0.512698216765598,332
+University of Hull,Mathematics,0.50819788394415,90
+University of Hull,Medicine,0.463651509759799,33
+University of Hull,Nursing,0.376510324838453,176
+University of Hull,Physics,0.504407965313888,185
+University of Kent,Accounting,0.525423160142312,87
+University of Kent,Architecture,0.479185041222927,767
+University of Kent,Biology,0.490845161444591,179
+University of Kent,Business,0.51812222070058,2822
+University of Kent,Chemistry,0.475676927678496,209
+University of Kent,Economics,0.540370496303892,1193
+University of Kent,Engineering,0.62449524869366,1267
+University of Kent,Finance,0.527505512656604,935
+University of Kent,Information Technology,0.655159291127971,79
+University of Kent,Law,0.492939442998289,2073
+University of Kent,Marketing,0.497462172212604,165
+University of Kent,Mathematics,0.570803913166773,573
+University of Kent,Physics,0.532691959276378,264
+University of Kent,Statistics,0.581444755472253,43
+University of Lancaster,Business,0.513545277483534,25
+University of Leeds,Accounting,0.501426450905974,69
+University of Leeds,Architecture,0.47915864766751,21
+University of Leeds,Biology,0.487810796894049,637
+University of Leeds,Business,0.510517953464776,4244
+University of Leeds,Chemistry,0.484712721394959,618
+University of Leeds,Economics,0.524358388644036,2016
+University of Leeds,Education,0.404575202256326,241
+University of Leeds,Engineering,0.539112034634979,1409
+University of Leeds,Finance,0.525495110936416,917
+University of Leeds,Information Technology,0.60091787937442,65
+University of Leeds,Law,0.479133589970439,1739
+University of Leeds,Marketing,0.502873636581695,414
+University of Leeds,Mathematics,0.543102684945623,1322
+University of Leeds,Medicine,0.431517135856049,380
+University of Leeds,Nursing,0.380535901862301,198
+University of Leeds,Physics,0.532520929973678,609
+University of Leeds,Statistics,0.588158566796536,68
+University of Lincoln,Accounting,0.504232387664027,14
+University of Lincoln,Architecture,0.474295762689973,767
+University of Lincoln,Biology,0.426873015087841,132
+University of Lincoln,Business,0.498783924410767,2968
+University of Lincoln,Chemistry,0.392405055719835,35
+University of Lincoln,Economics,0.519703404807559,61
+University of Lincoln,Education,0.37726721662119,66
+University of Lincoln,Engineering,0.5475064876938,1346
+University of Lincoln,Finance,0.52012949744867,427
+University of Lincoln,Information Technology,0.473348746683118,13
+University of Lincoln,Law,0.487251081518281,976
+University of Lincoln,Marketing,0.505241380180503,680
+University of Lincoln,Mathematics,0.489000610352501,70
+University of Lincoln,Medicine,0.356147002665383,66
+University of Lincoln,Nursing,0.398241629890755,92
+University of Lincoln,Physics,0.4527345802857,20
+University of Liverpool,Accounting,0.521168326557835,122
+University of Liverpool,Architecture,0.480629305875257,975
+University of Liverpool,Biology,0.462532399612504,629
+University of Liverpool,Business,0.507851315978093,2587
+University of Liverpool,Chemistry,0.463296604042618,451
+University of Liverpool,Economics,0.529365663727915,690
+University of Liverpool,Education,0.407134703796803,36
+University of Liverpool,Engineering,0.556314050557101,1496
+University of Liverpool,Finance,0.534011747759227,645
+University of Liverpool,Information Technology,0.498677822645352,14
+University of Liverpool,Law,0.479740048247341,2306
+University of Liverpool,Marketing,0.504586308352994,395
+University of Liverpool,Mathematics,0.547622793507635,710
+University of Liverpool,Medicine,0.394628292916505,516
+University of Liverpool,Nursing,0.381795763376906,64
+University of Liverpool,Physics,0.520943485456808,270
+University of Liverpool,Statistics,0.55494442276415,36
+University of London,Accounting,0.4853724034249,42
+University of London,Business,0.486179340434016,1698
+University of London,Economics,0.537476223510198,214
+University of London,Education,0.258978448546845,129
+University of London,Engineering,0.570925832420869,207
+University of London,Finance,0.531310425593029,315
+University of London,Information Technology,0.582902909563,29
+University of London,Law,0.490429095745984,874
+University of London,Marketing,0.526884087863944,93
+University of London,Mathematics,0.5305213807273,15
+University of London,Medicine,0.437211870662446,66
+University of Luton,Business,0.482969535260143,20
+University of North London,Business,0.491107880300297,12
+University of Northampton,Accounting,0.517058370200451,98
+University of Northampton,Architecture,0.434690574259324,36
+University of Northampton,Biology,0.440999054756517,88
+University of Northampton,Business,0.50649625065182,2829
+University of Northampton,Economics,0.524515820591923,131
+University of Northampton,Education,0.380933412697347,587
+University of Northampton,Engineering,0.569018331004155,774
+University of Northampton,Finance,0.523900435368314,524
+University of Northampton,Information Technology,0.55068390541414,11
+University of Northampton,Law,0.499626361261636,555
+University of Northampton,Marketing,0.504263910335085,677
+University of Northampton,Nursing,0.375951267098443,224
+University of Nottingham,Accounting,0.521066439910783,86
+University of Nottingham,Architecture,0.477494818337242,1144
+University of Nottingham,Biology,0.479535462111687,597
+University of Nottingham,Business,0.512502997913915,3228
+University of Nottingham,Chemistry,0.495024500565742,577
+University of Nottingham,Economics,0.528818476023208,3533
+University of Nottingham,Education,0.426771678914096,33
+University of Nottingham,Engineering,0.561058517789347,2213
+University of Nottingham,Finance,0.535428047927225,240
+University of Nottingham,Information Technology,0.504415952265792,12
+University of Nottingham,Law,0.486766404651244,1581
+University of Nottingham,Marketing,0.533091585444434,21
+University of Nottingham,Mathematics,0.555444425054535,1072
+University of Nottingham,Medicine,0.415250181382309,809
+University of Nottingham,Nursing,0.39297107490061,283
+University of Nottingham,Physics,0.542958363029884,494
+University of Nottingham,Statistics,0.594761271414596,109
+University of Oxford,Biology,0.515355251307885,81
+University of Oxford,Business,0.523161228297301,956
+University of Oxford,Economics,0.523501675373812,1786
+University of Oxford,Engineering,0.579141009984421,273
+University of Oxford,Finance,0.484764660210732,16
+University of Oxford,Information Technology,0.578589618919896,14
+University of Oxford,Law,0.47849570977509,1393
+University of Oxford,Marketing,0.533987694796838,26
+University of Oxford,Mathematics,0.558919574979391,451
+University of Oxford,Medicine,0.47122816422714,358
+University of Oxford,Physics,0.553567806841026,360
+University of Oxford,Statistics,0.575934420483196,72
+University of Paisley,Business,0.480072757585184,118
+University of Paisley,Engineering,0.537664688752377,80
+University of Paisley,Information Technology,0.599651866376492,11
+University of Paisley,Marketing,0.485389734985124,21
+University of Paisley,Nursing,0.393433026608793,15
+University of Plymouth,Accounting,0.469759994372607,17
+University of Plymouth,Architecture,0.479505225248549,656
+University of Plymouth,Biology,0.454407812336777,1085
+University of Plymouth,Business,0.491966219623264,5044
+University of Plymouth,Chemistry,0.466089474698129,270
+University of Plymouth,Economics,0.533165453618882,484
+University of Plymouth,Education,0.389650887659891,871
+University of Plymouth,Engineering,0.547016469764419,1941
+University of Plymouth,Finance,0.522246548754381,719
+University of Plymouth,Information Technology,0.600346074806532,22
+University of Plymouth,Law,0.4949078577358,771
+University of Plymouth,Marketing,0.505769243120593,435
+University of Plymouth,Mathematics,0.559977806329561,271
+University of Plymouth,Medicine,0.430246702716472,69
+University of Plymouth,Nursing,0.388842801972816,231
+University of Plymouth,Statistics,0.589578486995113,104
+University of Portsmouth,Accounting,0.519567118577836,127
+University of Portsmouth,Architecture,0.47426410273968,1080
+University of Portsmouth,Biology,0.469045233438433,610
+University of Portsmouth,Business,0.512175105642668,4476
+University of Portsmouth,Economics,0.536914005032063,517
+University of Portsmouth,Education,0.418040271356294,160
+University of Portsmouth,Engineering,0.539534347235433,3565
+University of Portsmouth,Finance,0.525541272199301,790
+University of Portsmouth,Information Technology,0.611141040686046,51
+University of Portsmouth,Law,0.494260250615682,822
+University of Portsmouth,Marketing,0.508257407566997,841
+University of Portsmouth,Mathematics,0.562080396243225,410
+University of Portsmouth,Medicine,0.352676114502397,29
+University of Portsmouth,Nursing,0.355284436866482,51
+University of Portsmouth,Physics,0.507424917875379,84
+University of Portsmouth,Statistics,0.56797382010186,75
+University of Reading,Accounting,0.511733339800592,203
+University of Reading,Architecture,0.471990469091425,200
+University of Reading,Biology,0.460651279037276,231
+University of Reading,Business,0.492631652283991,2200
+University of Reading,Chemistry,0.494098425102026,290
+University of Reading,Economics,0.520805072976912,1159
+University of Reading,Education,0.375488352899258,279
+University of Reading,Engineering,0.62527490627688,718
+University of Reading,Finance,0.518606610046773,346
+University of Reading,Information Technology,0.624016478082161,150
+University of Reading,Law,0.48867978373148,1211
+University of Reading,Marketing,0.495787949500151,331
+University of Reading,Mathematics,0.56488704072811,560
+University of Reading,Physics,0.535889016957971,70
+University of Reading,Statistics,0.605136590545736,160
+University of Salford,Accounting,0.537747764947546,23
+University of Salford,Architecture,0.471387535749467,134
+University of Salford,Biology,0.438735772080802,398
+University of Salford,Business,0.500103811680969,3141
+University of Salford,Chemistry,0.463464244522273,44
+University of Salford,Economics,0.561471807330717,73
+University of Salford,Engineering,0.5448779620811,1721
+University of Salford,Finance,0.516001661875242,773
+University of Salford,Information Technology,0.57761192362312,70
+University of Salford,Law,0.480442832315866,616
+University of Salford,Marketing,0.48958514943502,163
+University of Salford,Mathematics,0.514562613987735,68
+University of Salford,Medicine,0.359671896336504,58
+University of Salford,Nursing,0.382620239849702,390
+University of Salford,Physics,0.49404373157093,164
+University of South Wales,Accounting,0.531704159739204,106
+University of South Wales,Architecture,0.510483500042111,16
+University of South Wales,Biology,0.442411753537663,275
+University of South Wales,Business,0.501215219188109,1992
+University of South Wales,Chemistry,0.457062443604365,140
+University of South Wales,Economics,0.550230379593321,13
+University of South Wales,Education,0.404795265012691,285
+University of South Wales,Engineering,0.503431702744961,2101
+University of South Wales,Finance,0.520650806581309,325
+University of South Wales,Information Technology,0.577067828123464,94
+University of South Wales,Law,0.483250057043799,473
+University of South Wales,Marketing,0.507117909363149,221
+University of South Wales,Mathematics,0.559858251844153,161
+University of South Wales,Nursing,0.380884417766434,168
+University of Southampton,Accounting,0.521255966691182,75
+University of Southampton,Biology,0.492770932106784,477
+University of Southampton,Business,0.514126164495186,1295
+University of Southampton,Chemistry,0.502916983180222,258
+University of Southampton,Economics,0.538441956709912,1236
+University of Southampton,Education,0.404847216577231,205
+University of Southampton,Engineering,0.569774825966582,1109
+University of Southampton,Finance,0.52905629496434,803
+University of Southampton,Information Technology,0.64031262229438,97
+University of Southampton,Law,0.48475692246198,1013
+University of Southampton,Marketing,0.518816545446835,304
+University of Southampton,Mathematics,0.577541258230263,753
+University of Southampton,Medicine,0.430716522899265,415
+University of Southampton,Nursing,0.384787292782355,425
+University of Southampton,Physics,0.541075673389519,247
+University of Southampton,Statistics,0.56883546684135,84
+University of St. Andrews,Biology,0.48475739383654,435
+University of St. Andrews,Business,0.522818363643424,197
+University of St. Andrews,Chemistry,0.514430700530249,150
+University of St. Andrews,Economics,0.538068043191101,219
+University of St. Andrews,Engineering,0.61974382262646,215
+University of St. Andrews,Mathematics,0.535438970455103,302
+University of St. Andrews,Medicine,0.43808857443736,271
+University of St. Andrews,Physics,0.514940507770728,165
+University of St. Andrews,Statistics,0.593587517739048,35
+University of Stirling,Accounting,0.527636799382518,104
+University of Stirling,Biology,0.453416374540066,347
+University of Stirling,Business,0.493506142083999,1266
+University of Stirling,Economics,0.539149765895137,227
+University of Stirling,Education,0.401098939542261,332
+University of Stirling,Engineering,0.619511887530834,199
+University of Stirling,Finance,0.50619076087811,210
+University of Stirling,Law,0.464135705288696,473
+University of Stirling,Marketing,0.500149031725852,455
+University of Stirling,Mathematics,0.572918182064642,101
+University of Stirling,Nursing,0.383977278890051,242
+University of Strathclyde,Accounting,0.525076135981299,263
+University of Strathclyde,Architecture,0.476880658732199,292
+University of Strathclyde,Biology,0.471456503694351,58
+University of Strathclyde,Business,0.511264145239131,2198
+University of Strathclyde,Chemistry,0.460180295013356,281
+University of Strathclyde,Economics,0.533326786243327,374
+University of Strathclyde,Education,0.358276194168446,435
+University of Strathclyde,Engineering,0.514789031127295,1861
+University of Strathclyde,Finance,0.519415577234089,844
+University of Strathclyde,Law,0.478506800346873,1238
+University of Strathclyde,Marketing,0.506137036422874,612
+University of Strathclyde,Mathematics,0.534316154593691,263
+University of Strathclyde,Nursing,0.413940621847098,17
+University of Strathclyde,Physics,0.493043965714125,258
+University of Strathclyde,Statistics,0.558269555747397,229
+University of Suffolk,Architecture,0.474155955975121,31
+University of Suffolk,Business,0.494272622344948,641
+University of Suffolk,Education,0.410093229522554,51
+University of Suffolk,Engineering,0.538507728731843,313
+University of Suffolk,Finance,0.525307737927887,10
+University of Suffolk,Law,0.469132795855652,30
+University of Suffolk,Nursing,0.399913930456784,82
+University of Sunderland,Accounting,0.50410386789108,49
+University of Sunderland,Business,0.498092970133913,2796
+University of Sunderland,Education,0.415346244802063,543
+University of Sunderland,Engineering,0.558058331527966,816
+University of Sunderland,Finance,0.512724709162829,215
+University of Sunderland,Information Technology,0.571355971511811,54
+University of Sunderland,Law,0.488465744760272,414
+University of Sunderland,Marketing,0.528352943261497,43
+University of Sunderland,Nursing,0.36786654078156,126
+University of Surrey,Accounting,0.544881611083631,23
+University of Surrey,Biology,0.475320780709082,28
+University of Surrey,Business,0.508008298830937,3519
+University of Surrey,Chemistry,0.501787166305936,239
+University of Surrey,Economics,0.535917461551859,818
+University of Surrey,Education,0.399607359645637,91
+University of Surrey,Engineering,0.569397136524712,1371
+University of Surrey,Finance,0.527459518738979,811
+University of Surrey,Information Technology,0.619096527854744,113
+University of Surrey,Law,0.489783737970256,899
+University of Surrey,Marketing,0.498950153136515,52
+University of Surrey,Mathematics,0.578847677531509,507
+University of Surrey,Medicine,0.331959285619598,45
+University of Surrey,Nursing,0.386694935622579,291
+University of Surrey,Physics,0.557556367221842,316
+University of Surrey,Statistics,0.641742053551452,101
+University of Sussex,Biology,0.489832999965573,199
+University of Sussex,Business,0.509557157952405,1811
+University of Sussex,Chemistry,0.480237803777707,176
+University of Sussex,Economics,0.527339709489642,997
+University of Sussex,Education,0.373074814254577,61
+University of Sussex,Engineering,0.598788672079298,837
+University of Sussex,Finance,0.516471735289543,353
+University of Sussex,Information Technology,0.621849119913474,16
+University of Sussex,Law,0.484183675360733,1209
+University of Sussex,Marketing,0.504367188952944,28
+University of Sussex,Mathematics,0.566576112728906,439
+University of Sussex,Medicine,0.481007409240455,86
+University of Sussex,Physics,0.575537806862245,190
+University of Sussex,Statistics,0.605993199655193,19
+University of Ulster,Accounting,0.525224220866272,622
+University of Ulster,Architecture,0.473990653413788,155
+University of Ulster,Biology,0.484489457713853,46
+University of Ulster,Business,0.509074678063111,4776
+University of Ulster,Economics,0.525673766104687,163
+University of Ulster,Education,0.454898669872651,81
+University of Ulster,Engineering,0.554930935785265,2737
+University of Ulster,Finance,0.53379494258455,149
+University of Ulster,Information Technology,0.613507559345111,166
+University of Ulster,Law,0.485608938307987,737
+University of Ulster,Marketing,0.50872167528113,1021
+University of Ulster,Mathematics,0.622862876923845,27
+University of Ulster,Medicine,0.454995056264612,36
+University of Ulster,Nursing,0.373449448996699,131
+University of Wales,Accounting,0.530256719663564,31
+University of Wales,Business,0.516152278262047,279
+University of Wales,Education,0.429610040475621,21
+University of Wales,Engineering,0.546285033842026,63
+University of Wales,Finance,0.504843879799716,18
+University of Wales,Law,0.465152827368777,45
+University of Wales,Medicine,0.450507371747252,10
+University of Wales Lampeter,Business,0.565787603625648,14
+University of Wales Trinity Saint David,Accounting,0.538172700043333,46
+University of Wales Trinity Saint David,Architecture,0.470384917893666,20
+University of Wales Trinity Saint David,Business,0.470966572657963,1086
+University of Wales Trinity Saint David,Education,0.397001476276414,491
+University of Wales Trinity Saint David,Engineering,0.50310731730319,793
+University of Wales Trinity Saint David,Information Technology,0.563152883381223,25
+University of Wales Trinity Saint David,Law,0.479118202801513,23
+University of Wales Trinity Saint David,Marketing,0.553567891977476,12
+"University of Wales, Newport",Accounting,0.565857440774033,11
+"University of Wales, Newport",Business,0.512519344904882,93
+"University of Wales, Newport",Education,0.428643548166408,66
+"University of Wales, Newport",Engineering,0.499591572016194,116
+University of Warwick,Biology,0.542586244624092,29
+University of Warwick,Business,0.521159513028508,826
+University of Warwick,Chemistry,0.510255512438661,373
+University of Warwick,Economics,0.538364084676467,2896
+University of Warwick,Education,0.406204064429524,140
+University of Warwick,Engineering,0.562648704219715,1555
+University of Warwick,Finance,0.529330457411829,289
+University of Warwick,Law,0.486990267779151,1313
+University of Warwick,Marketing,0.537858609738489,14
+University of Warwick,Mathematics,0.578906909606007,1624
+University of Warwick,Medicine,0.448304600988969,242
+University of Warwick,Physics,0.553989501547209,571
+University of Warwick,Statistics,0.576474056177721,311
+University of West London,Architecture,0.519885447567249,18
+University of West London,Business,0.476891955093791,3015
+University of West London,Economics,0.475082288973611,10
+University of West London,Education,0.375702352748286,60
+University of West London,Engineering,0.534036373674706,517
+University of West London,Finance,0.53079961702992,436
+University of West London,Information Technology,0.578263800226836,54
+University of West London,Law,0.496107831515499,351
+University of West London,Marketing,0.483956720716491,140
+University of West London,Medicine,0.47899067676818,109
+University of West London,Nursing,0.399796817950532,310
+University of Westminster,Accounting,0.525844138454916,399
+University of Westminster,Architecture,0.477276553568428,932
+University of Westminster,Biology,0.492431284000067,60
+University of Westminster,Business,0.514174157364954,6522
+University of Westminster,Economics,0.512456642990052,169
+University of Westminster,Engineering,0.597047394198606,2032
+University of Westminster,Finance,0.511152024892746,159
+University of Westminster,Information Technology,0.616214562895551,42
+University of Westminster,Law,0.493894427499271,1540
+University of Westminster,Marketing,0.511200091897547,476
+University of Westminster,Mathematics,0.557045456837028,12
+University of Westminster,Medicine,0.349874873957307,111
+University of Winchester,Accounting,0.514477351465627,11
+University of Winchester,Business,0.507528036367335,1318
+University of Winchester,Economics,0.471803133869131,28
+University of Winchester,Education,0.388136211993271,638
+University of Winchester,Engineering,0.488694858891109,30
+University of Winchester,Finance,0.528094077107815,157
+University of Winchester,Law,0.489179777911369,291
+University of Winchester,Marketing,0.509698612776605,166
+University of Winchester,Mathematics,0.559309426141885,10
+University of Wolverhampton,Accounting,0.51223119347715,55
+University of Wolverhampton,Architecture,0.468892844696654,89
+University of Wolverhampton,Biology,0.46778521783938,85
+University of Wolverhampton,Business,0.505008295666288,2377
+University of Wolverhampton,Chemistry,0.442550743417529,37
+University of Wolverhampton,Economics,0.461533721717979,30
+University of Wolverhampton,Education,0.396030593048477,608
+University of Wolverhampton,Engineering,0.549026911045108,1472
+University of Wolverhampton,Finance,0.523266730402321,330
+University of Wolverhampton,Information Technology,0.586370955931592,171
+University of Wolverhampton,Law,0.482290986423037,777
+University of Wolverhampton,Marketing,0.506511249994352,91
+University of Wolverhampton,Mathematics,0.525851345040816,121
+University of Wolverhampton,Medicine,0.47661581044236,11
+University of Wolverhampton,Nursing,0.388946736612077,255
+University of Worcester,Accounting,0.546183364040368,73
+University of Worcester,Biology,0.448483023800069,213
+University of Worcester,Business,0.486866657859688,1191
+University of Worcester,Economics,0.514647260216114,31
+University of Worcester,Education,0.3879623343292,855
+University of Worcester,Engineering,0.586479126895435,121
+University of Worcester,Finance,0.493999624915008,49
+University of Worcester,Information Technology,0.589430147367823,37
+University of Worcester,Law,0.479075010044104,83
+University of Worcester,Marketing,0.487219198290286,70
+University of Worcester,Nursing,0.379269782066353,145
+University of York,Accounting,0.539552629009863,84
+University of York,Biology,0.529583147754759,404
+University of York,Business,0.523171743463379,1110
+University of York,Chemistry,0.50275570791614,330
+University of York,Economics,0.528103026248947,1978
+University of York,Education,0.43412542513584,245
+University of York,Engineering,0.59446370151046,576
+University of York,Finance,0.540527630201377,383
+University of York,Law,0.475349901721016,811
+University of York,Marketing,0.490243983451198,47
+University of York,Mathematics,0.560480433887024,712
+University of York,Medicine,0.418551461047279,72
+University of York,Nursing,0.388083837391848,106
+University of York,Physics,0.547894908554575,326
+University of York,Statistics,0.573901695894126,56
+University of the Arts London,Architecture,0.475433640417647,255
+University of the Arts London,Business,0.498369128318613,620
+University of the Arts London,Engineering,0.54732291694554,32
+University of the Arts London,Marketing,0.49928606043463,591
+University of the Highlands and Islands,Business,0.451881484406863,233
+University of the Highlands and Islands,Education,0.382844552404592,17
+University of the Highlands and Islands,Engineering,0.43754917015389,214
+University of the Highlands and Islands,Finance,0.501055978779154,15
+University of the West of England,Accounting,0.508897298157671,88
+University of the West of England,Architecture,0.463674490257852,703
+University of the West of England,Biology,0.469045398962908,214
+University of the West of England,Business,0.505324116409168,6099
+University of the West of England,Chemistry,0.474800349676626,47
+University of the West of England,Economics,0.529502720153869,666
+University of the West of England,Education,0.401016218531712,491
+University of the West of England,Engineering,0.535684868896074,2144
+University of the West of England,Finance,0.515277648504396,838
+University of the West of England,Information Technology,0.638922184926541,98
+University of the West of England,Law,0.487052778090634,1858
+University of the West of England,Marketing,0.512082800424401,840
+University of the West of England,Mathematics,0.542767189774006,237
+University of the West of England,Medicine,0.408744152505082,10
+University of the West of England,Nursing,0.392258392260393,428
+University of the West of England,Statistics,0.608308204986144,41
+University of the West of Scotland,Accounting,0.531859008014586,547
+University of the West of Scotland,Biology,0.429636073638018,51
+University of the West of Scotland,Business,0.505490468804115,2502
+University of the West of Scotland,Chemistry,0.447721621546689,100
+University of the West of Scotland,Economics,0.497588665258863,33
+University of the West of Scotland,Education,0.384133530737387,201
+University of the West of Scotland,Engineering,0.534925714722229,1785
+University of the West of Scotland,Finance,0.540968327889066,110
+University of the West of Scotland,Information Technology,0.604792713310636,153
+University of the West of Scotland,Law,0.488312786430157,234
+University of the West of Scotland,Marketing,0.495280781329003,250
+University of the West of Scotland,Nursing,0.38349821163884,348
+University of the West of Scotland,Physics,0.495440292860117,46
+Uxbridge College,Business,0.447561177688752,39
+Uxbridge College,Engineering,0.473146254568894,102
+Uxbridge College,Information Technology,0.465972164314378,28
+WCG,Business,0.448763155883395,63
+WCG,Engineering,0.383874869976245,59
+WCG,Nursing,0.264187260580836,14
+Wakefield College,Business,0.45822462625901,15
+Wakefield College,Engineering,0.435429601050196,16
+Warwickshire College,Business,0.472663282473935,26
+Warwickshire College,Engineering,0.489688066619657,14
+West Cheshire College,Engineering,0.556205174929093,11
+West Nottinghamshire College,Business,0.414741956578491,18
+West Nottinghamshire College,Engineering,0.580764118535743,13
+West Suffolk College,Business,0.483276497449606,11
+West Suffolk College,Engineering,0.504034627697895,26
+West Thames College,Business,0.463875996111218,14
+West Thames College,Engineering,0.469997565659024,14
+Westminster Business School,Accounting,0.488670921344648,28
+Westminster Business School,Business,0.502121865630313,237
+Westminster Business School,Economics,0.500193718674711,14
+Westminster Business School,Finance,0.569467420991711,18
+Westminster Business School,Marketing,0.506770462051812,25
+Westminster Kingsway College,Business,0.423058597045076,93
+Wigan & Leigh College,Business,0.487337109416156,12
+Wigan & Leigh College,Engineering,0.537797931363081,13
+Wiltshire College,Engineering,0.489935182250957,14
+Woking College,Business,0.492486355803884,13
+Wrexham Glyndŵr University,Accounting,0.510694499244947,31
+Wrexham Glyndŵr University,Biology,0.451298321485017,10
+Wrexham Glyndŵr University,Business,0.480852440901314,534
+Wrexham Glyndŵr University,Chemistry,0.539014856444318,13
+Wrexham Glyndŵr University,Education,0.373856586167862,143
+Wrexham Glyndŵr University,Engineering,0.526689186859846,502
+Wrexham Glyndŵr University,Finance,0.528157093199739,34
+Wrexham Glyndŵr University,Information Technology,0.598528987544865,19
+Wrexham Glyndŵr University,Marketing,0.512328207766987,28
+Wrexham Glyndŵr University,Medicine,0.274685178474996,27
+Wrexham Glyndŵr University,Nursing,0.382025149390864,30
+Writtle University College,Architecture,0.361076558512792,59
+Writtle University College,Business,0.405745446686583,274
+York College (United Kingdom),Business,0.467024581208637,23
+York College (United Kingdom),Engineering,0.442876092817817,21
+York St. John University,Accounting,0.563640900856493,18
+York St. John University,Business,0.482667132276031,874
+York St. John University,Education,0.394750976520374,508
+York St. John University,Engineering,0.604275809385153,67
+York St. John University,Finance,0.569731598833179,53
+York St. John University,Information Technology,0.52407222557863,11
+York St. John University,Law,0.465941291639076,29
+York St. John University,Marketing,0.48055204929325,11
+dBs Institute,Engineering,0.482428790778327,45

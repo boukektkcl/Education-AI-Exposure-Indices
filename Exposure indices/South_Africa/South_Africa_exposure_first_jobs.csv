@@ -1,0 +1,465 @@
+university_name,field,exposure_firstjob_beta,n_people
+AAA School of Advertising,Business,0.510109536918204,168
+AAA School of Advertising,Marketing,0.5038120150897,463
+AFDA,Business,0.470607031228284,85
+BMT College,Business,0.510473200845913,13
+Belgium Campus,Business,0.753685728988133,33
+Belgium Campus,Engineering,0.698884498899038,198
+Belgium Campus,Information Technology,0.69739013981287,71
+Boston City Campus,Accounting,0.554620712150863,43
+Boston City Campus,Business,0.510179106290959,791
+Boston City Campus,Engineering,0.468301743987157,13
+Boston City Campus,Finance,0.595505282979988,20
+Boston City Campus,Law,0.515681816582748,56
+Boston City Campus,Marketing,0.529743326344837,55
+CTI Education Group,Accounting,0.474094733096882,19
+CTI Education Group,Business,0.538299059534318,505
+CTI Education Group,Engineering,0.654063453651805,187
+CTI Education Group,Information Technology,0.662140484382227,484
+CTI Education Group,Law,0.525497437893164,11
+CTU Training Solutions,Engineering,0.491916588775722,10
+CTU Training Solutions,Information Technology,0.605387756389832,12
+Cape Peninsula University of Technology,Accounting,0.540023282314124,153
+Cape Peninsula University of Technology,Architecture,0.477355836523676,158
+Cape Peninsula University of Technology,Biology,0.417400721174573,17
+Cape Peninsula University of Technology,Business,0.515284912663757,4734
+Cape Peninsula University of Technology,Chemistry,0.463453235773601,169
+Cape Peninsula University of Technology,Education,0.361258569132648,951
+Cape Peninsula University of Technology,Engineering,0.461910984228017,2536
+Cape Peninsula University of Technology,Finance,0.560983872224608,123
+Cape Peninsula University of Technology,Information Technology,0.690071087324234,368
+Cape Peninsula University of Technology,Law,0.490848718351641,22
+Cape Peninsula University of Technology,Marketing,0.512235850761047,426
+Cape Peninsula University of Technology,Medicine,0.382121307152628,21
+Cape Peninsula University of Technology,Nursing,0.380328868761683,202
+Cape Technikon,Business,0.503434990020198,22
+Cape Technikon,Engineering,0.434672638822069,12
+"Central University of Technology, Free State",Accounting,0.506319045780721,39
+"Central University of Technology, Free State",Business,0.489533827015918,1612
+"Central University of Technology, Free State",Education,0.369175020109142,226
+"Central University of Technology, Free State",Engineering,0.439337246132412,1048
+"Central University of Technology, Free State",Finance,0.511521193181939,20
+"Central University of Technology, Free State",Information Technology,0.684850057937292,278
+"Central University of Technology, Free State",Marketing,0.517670550088074,108
+College of Cape Town,Business,0.477994031772581,29
+College of Cape Town,Engineering,0.48140890664162,12
+Cranefield College,Business,0.527896184326806,17
+DAMELIN (Pty) Ltd.,Accounting,0.556231354774518,559
+DAMELIN (Pty) Ltd.,Business,0.528470540883832,2018
+DAMELIN (Pty) Ltd.,Engineering,0.531515164752505,55
+DAMELIN (Pty) Ltd.,Finance,0.557195791289588,237
+DAMELIN (Pty) Ltd.,Information Technology,0.61097182616747,59
+DAMELIN (Pty) Ltd.,Marketing,0.514862528372736,65
+Da Vinci Institute for Technology Management,Business,0.516253852150841,370
+Durban University of Technology,Accounting,0.529683698329243,141
+Durban University of Technology,Architecture,0.470781507918833,181
+Durban University of Technology,Business,0.498672097786336,3625
+Durban University of Technology,Chemistry,0.452679301412501,135
+Durban University of Technology,Education,0.372433747854733,55
+Durban University of Technology,Engineering,0.449514467351125,2991
+Durban University of Technology,Finance,0.567715749920313,110
+Durban University of Technology,Information Technology,0.70131086219168,624
+Durban University of Technology,Marketing,0.524999828548358,166
+Durban University of Technology,Medicine,0.372366137152423,17
+Durban University of Technology,Nursing,0.380537162629042,121
+Eduvos,Accounting,0.542311216114715,360
+Eduvos,Business,0.52836351078906,1090
+Eduvos,Engineering,0.647119097943799,287
+Eduvos,Finance,0.54480579997032,120
+Eduvos,Information Technology,0.660726605068942,491
+Eduvos,Law,0.527842622201857,469
+Eduvos,Marketing,0.524532537580488,50
+Embury College,Education,0.385572232574302,13
+Faculty Training Institute,Business,0.671712201962554,28
+Fedisa,Business,0.492644830830229,17
+Gordon Institute of Business Science,Business,0.505182267015928,41
+"Greenside Design Center, College of Design",Architecture,0.486883515599628,26
+Helderberg College,Business,0.504824399674059,40
+Hoërskool Outeniqua,Business,0.514057525762129,10
+IIE MSA,Business,0.503450748234911,21
+IIE MSA,Engineering,0.516093437257965,12
+IIE MSA,Law,0.483875129852414,15
+IIE Rosebank College,Business,0.527010826862662,1712
+IIE Rosebank College,Education,0.359308106090913,50
+IIE Rosebank College,Engineering,0.569245909490577,45
+IIE Rosebank College,Information Technology,0.59043642596459,111
+IIE Rosebank College,Marketing,0.513652001588413,69
+IMM Graduate School of Marketing,Business,0.504445959967067,2367
+IMM Graduate School of Marketing,Marketing,0.500723089931488,230
+Inscape,Architecture,0.499113443849141,56
+Inscape,Marketing,0.519002813415233,15
+Institute of Marketing Management,Business,0.485313378777313,84
+Institute of Marketing Management,Marketing,0.465050210314584,20
+International Hotel School,Business,0.413900855293826,14
+Lisof,Business,0.526589697457651,33
+Lisof,Marketing,0.485527738611172,18
+MANCOSA Online MBA,Business,0.579049675488547,17
+Management College of Southern Africa,Accounting,0.54899398602115,39
+Management College of Southern Africa,Business,0.531262759313184,5738
+Management College of Southern Africa,Engineering,0.603829718030043,123
+Management College of Southern Africa,Finance,0.543434162564117,37
+Management College of Southern Africa,Information Technology,0.586831580753756,243
+Management College of Southern Africa,Marketing,0.503776829689138,115
+Mangosuthu University of Technology,Accounting,0.556166531886111,10
+Mangosuthu University of Technology,Business,0.515652909332365,179
+Mangosuthu University of Technology,Chemistry,0.419870017462565,50
+Mangosuthu University of Technology,Engineering,0.355630409057458,77
+Milpark Education,Business,0.541870490031307,607
+Milpark Education,Law,0.542537630850261,22
+Milpark School of Financial Services,Business,0.532595339485157,188
+Milpark School of Financial Services,Law,0.522100456627037,13
+Milpark School of Financial Services,Marketing,0.52765922572792,10
+Monash South Africa,Accounting,0.531262291546393,92
+Monash South Africa,Business,0.524402897586372,490
+Monash South Africa,Economics,0.528681096798144,51
+Monash South Africa,Engineering,0.646111890297249,124
+Monash South Africa,Finance,0.483048334748008,16
+Monash South Africa,Law,0.522578237200758,73
+Monash South Africa,Marketing,0.498191759787434,44
+Nelson Mandela Metropolitan University,Accounting,0.509875533649276,39
+Nelson Mandela Metropolitan University,Business,0.507949271327661,75
+Nelson Mandela Metropolitan University,Education,0.401473756542149,10
+Nelson Mandela Metropolitan University,Engineering,0.572964536403394,40
+Nelson Mandela Metropolitan University,Finance,0.508605446652953,13
+Nelson Mandela Metropolitan University,Law,0.50524069473642,10
+Nelson Mandela University,Accounting,0.529306390213062,1539
+Nelson Mandela University,Architecture,0.483406564960979,249
+Nelson Mandela University,Biology,0.470666713961995,83
+Nelson Mandela University,Business,0.506165233262694,3189
+Nelson Mandela University,Chemistry,0.46269069231626,191
+Nelson Mandela University,Economics,0.522954892395737,616
+Nelson Mandela University,Education,0.348982498374647,500
+Nelson Mandela University,Engineering,0.517095064736089,1387
+Nelson Mandela University,Finance,0.523508735656384,360
+Nelson Mandela University,Information Technology,0.668582383522425,330
+Nelson Mandela University,Law,0.480353836649612,854
+Nelson Mandela University,Marketing,0.509992655235451,144
+Nelson Mandela University,Mathematics,0.529765030661426,46
+Nelson Mandela University,Nursing,0.373502737158256,107
+Nelson Mandela University,Physics,0.442683888758397,22
+Nelson Mandela University,Statistics,0.574122009982865,176
+Nelson Mandela University Business School,Business,0.433967466960811,22
+North-West University,Accounting,0.534445231044323,2569
+North-West University,Biology,0.444511000214449,118
+North-West University,Business,0.517257128290647,7115
+North-West University,Chemistry,0.451509910939472,499
+North-West University,Economics,0.525360068255605,1825
+North-West University,Education,0.357898732977269,1636
+North-West University,Engineering,0.538362613373237,2532
+North-West University,Finance,0.534525272927213,1339
+North-West University,Information Technology,0.675536177082775,816
+North-West University,Law,0.474652083495358,2421
+North-West University,Marketing,0.51103419662362,472
+North-West University,Mathematics,0.557690930319103,215
+North-West University,Nursing,0.368000344006779,167
+North-West University,Physics,0.49664781569165,63
+North-West University,Statistics,0.588856148412777,219
+Open Learning Group,Business,0.509279453197651,311
+Pearson Professional South Africa,Accounting,0.520652889707592,11
+Pearson Professional South Africa,Business,0.521228561932132,47
+Pearson Professional South Africa,Engineering,0.570357449257819,10
+Pearson Professional South Africa,Information Technology,0.65911762857015,21
+Pearson Professional South Africa,Law,0.506430796647326,22
+Production Management Institute of Southern Africa,Business,0.487791040071095,35
+Red and Yellow - Creative School of Business,Marketing,0.51010111927214,12
+Regenesys,Business,0.528152715913407,677
+Regent Business School,Accounting,0.557882898932231,242
+Regent Business School,Business,0.52542647638987,1161
+Regent Business School,Economics,0.517176756695513,37
+Regent Business School,Finance,0.54947300489346,89
+Regent Business School,Information Technology,0.576274085932807,18
+Regent Business School,Marketing,0.506893852601433,40
+Rhodes University,Accounting,0.522984647139372,631
+Rhodes University,Biology,0.455683507035809,85
+Rhodes University,Business,0.529112788693523,985
+Rhodes University,Chemistry,0.470803381257894,194
+Rhodes University,Economics,0.542527253752574,897
+Rhodes University,Education,0.394611671694176,125
+Rhodes University,Engineering,0.639510844132658,275
+Rhodes University,Finance,0.532631230130224,137
+Rhodes University,Information Technology,0.669079408100563,23
+Rhodes University,Law,0.474635214764955,777
+Rhodes University,Mathematics,0.518769047203598,59
+Rhodes University,Physics,0.571085523230602,20
+Rhodes University,Statistics,0.605532051429885,132
+Richfield Graduate Institute of Technology,Accounting,0.515647750966824,194
+Richfield Graduate Institute of Technology,Business,0.518150590115998,661
+Richfield Graduate Institute of Technology,Engineering,0.598446743942565,195
+Richfield Graduate Institute of Technology,Finance,0.522641043131503,21
+Richfield Graduate Institute of Technology,Information Technology,0.600826287436442,757
+Richfield Graduate Institute of Technology,Marketing,0.526794380636101,34
+SAE Institute South Africa,Engineering,0.503462732490601,33
+STADIO Higher Education,Business,0.497604394146445,525
+STADIO Higher Education,Education,0.332204675419079,308
+STADIO Higher Education,Information Technology,0.551885298308419,11
+STADIO Higher Education,Law,0.474014478906274,81
+STADIO Higher Education,Marketing,0.504623737314701,96
+School of Public Leadership at Stellenbosch University,Business,0.520471159500024,27
+Sefako Makgatho Health Sciences University,Biology,0.472000715335687,35
+Sefako Makgatho Health Sciences University,Chemistry,0.472855754197359,32
+Sefako Makgatho Health Sciences University,Engineering,0.630983066701452,54
+Sefako Makgatho Health Sciences University,Mathematics,0.53032366746211,22
+Sefako Makgatho Health Sciences University,Medicine,0.451304210959988,74
+Sefako Makgatho Health Sciences University,Nursing,0.377838240867072,17
+Sefako Makgatho Health Sciences University,Physics,0.389787412782334,17
+Sefako Makgatho Health Sciences University,Statistics,0.597075023315519,31
+Sol Plaatje University,Business,0.54146912424893,12
+Sol Plaatje University,Education,0.334109106857348,33
+Sol Plaatje University,Engineering,0.546617138745194,19
+South African College of Applied Psychology,Business,0.497403028022664,20
+Southern Business School,Business,0.500223082917604,551
+Southern Business School,Law,0.463134829974468,49
+Stellenbosch University,Accounting,0.525917518111687,2500
+Stellenbosch University,Biology,0.481175324382243,810
+Stellenbosch University,Business,0.513930113186937,4426
+Stellenbosch University,Chemistry,0.480948312403279,284
+Stellenbosch University,Economics,0.513416906466847,749
+Stellenbosch University,Education,0.354707087923557,729
+Stellenbosch University,Engineering,0.522470278526948,3574
+Stellenbosch University,Finance,0.526534931267022,848
+Stellenbosch University,Information Technology,0.544173647036577,23
+Stellenbosch University,Law,0.476615419363579,1549
+Stellenbosch University,Marketing,0.501994337232062,206
+Stellenbosch University,Mathematics,0.545985948535998,183
+Stellenbosch University,Medicine,0.441163246311702,405
+Stellenbosch University,Nursing,0.410988128475637,20
+Stellenbosch University,Physics,0.563512304332315,88
+Stellenbosch University,Statistics,0.592819341669716,152
+TSIBA Business School,Business,0.527981869152746,12
+Trinityhouse Schools,Architecture,0.471080832204492,13
+Tshwane University of Technology,Accounting,0.553913567243092,100
+Tshwane University of Technology,Architecture,0.486195756581908,324
+Tshwane University of Technology,Business,0.529531817327018,4154
+Tshwane University of Technology,Chemistry,0.446740895679168,119
+Tshwane University of Technology,Economics,0.543785328143462,84
+Tshwane University of Technology,Education,0.358982433898047,276
+Tshwane University of Technology,Engineering,0.46840493749406,3693
+Tshwane University of Technology,Finance,0.552952589559027,378
+Tshwane University of Technology,Information Technology,0.675878322127259,575
+Tshwane University of Technology,Law,0.391421118967985,16
+Tshwane University of Technology,Marketing,0.534554917331296,210
+Tshwane University of Technology,Mathematics,0.389708994961937,14
+Tshwane University of Technology,Nursing,0.398339280176621,194
+Tsiba Education,Business,0.537164353132691,141
+Two Oceans Graduate Institute,Education,0.397363978582066,12
+UNISA Graduate School for Business Leadership,Business,0.512684126702184,32
+University of Cape Town,Accounting,0.52470998074555,1988
+University of Cape Town,Architecture,0.486297034520883,532
+University of Cape Town,Biology,0.503914859096588,465
+University of Cape Town,Business,0.532819058716301,4459
+University of Cape Town,Chemistry,0.489911223089219,309
+University of Cape Town,Economics,0.522831721771775,969
+University of Cape Town,Education,0.421489456018213,120
+University of Cape Town,Engineering,0.538180745599379,3940
+University of Cape Town,Finance,0.532369830518881,967
+University of Cape Town,Information Technology,0.632029349643732,77
+University of Cape Town,Law,0.48198581934173,1316
+University of Cape Town,Marketing,0.494213114980728,61
+University of Cape Town,Mathematics,0.572208278697646,225
+University of Cape Town,Medicine,0.455955444466718,481
+University of Cape Town,Physics,0.537741112602502,82
+University of Cape Town,Statistics,0.587125100137698,368
+University of Cape Town Graduate School of Business,Business,0.516458093942293,22
+University of Fort Hare,Accounting,0.531034996514691,479
+University of Fort Hare,Biology,0.480141184834121,53
+University of Fort Hare,Business,0.529149337268628,1066
+University of Fort Hare,Chemistry,0.4651332705158,133
+University of Fort Hare,Economics,0.50683461578442,634
+University of Fort Hare,Education,0.361113501190609,241
+University of Fort Hare,Engineering,0.595673436089128,368
+University of Fort Hare,Finance,0.519413164674771,157
+University of Fort Hare,Information Technology,0.562803597421272,17
+University of Fort Hare,Law,0.481340057131711,546
+University of Fort Hare,Mathematics,0.511729446446518,31
+University of Fort Hare,Nursing,0.368799914269468,17
+University of Fort Hare,Physics,0.457054806053358,18
+University of Fort Hare,Statistics,0.600272859097801,32
+University of Johannesburg,Accounting,0.533923038480909,6651
+University of Johannesburg,Architecture,0.47946777657297,299
+University of Johannesburg,Biology,0.492417145893164,69
+University of Johannesburg,Business,0.524233107677445,12614
+University of Johannesburg,Chemistry,0.472921027699689,308
+University of Johannesburg,Economics,0.536223671951393,1995
+University of Johannesburg,Education,0.394558611575776,1758
+University of Johannesburg,Engineering,0.500168559747604,5399
+University of Johannesburg,Finance,0.535947394768646,3078
+University of Johannesburg,Information Technology,0.658515568115173,631
+University of Johannesburg,Law,0.480517943515079,2114
+University of Johannesburg,Marketing,0.512162326765913,1400
+University of Johannesburg,Mathematics,0.546994684959304,290
+University of Johannesburg,Medicine,0.366656245280746,32
+University of Johannesburg,Nursing,0.399954671088671,97
+University of Johannesburg,Physics,0.538617364760196,49
+University of Johannesburg,Statistics,0.584348425738191,123
+University of KwaZulu-Natal,Accounting,0.525593633019359,2916
+University of KwaZulu-Natal,Architecture,0.488820860052833,354
+University of KwaZulu-Natal,Biology,0.458629558486551,339
+University of KwaZulu-Natal,Business,0.520827607361612,8036
+University of KwaZulu-Natal,Chemistry,0.44577706966466,897
+University of KwaZulu-Natal,Economics,0.528550621028078,980
+University of KwaZulu-Natal,Education,0.374795629539851,1055
+University of KwaZulu-Natal,Engineering,0.547063700290651,4036
+University of KwaZulu-Natal,Finance,0.528593526133247,1688
+University of KwaZulu-Natal,Information Technology,0.649164718422707,220
+University of KwaZulu-Natal,Law,0.480274679143644,2515
+University of KwaZulu-Natal,Marketing,0.516822454397794,767
+University of KwaZulu-Natal,Mathematics,0.556237724827793,221
+University of KwaZulu-Natal,Medicine,0.444510855357406,289
+University of KwaZulu-Natal,Nursing,0.372544809410797,187
+University of KwaZulu-Natal,Physics,0.543202830220825,106
+University of KwaZulu-Natal,Statistics,0.602634913960163,395
+University of Limpopo,Accounting,0.542003420924486,992
+University of Limpopo,Biology,0.462858092574691,241
+University of Limpopo,Business,0.504316277095592,1368
+University of Limpopo,Chemistry,0.43357237724092,372
+University of Limpopo,Economics,0.522354896111618,624
+University of Limpopo,Education,0.371651225226938,179
+University of Limpopo,Engineering,0.668372606995647,1142
+University of Limpopo,Finance,0.544655253357204,540
+University of Limpopo,Law,0.467414723409732,819
+University of Limpopo,Marketing,0.501863639812607,28
+University of Limpopo,Mathematics,0.575853415979798,90
+University of Limpopo,Medicine,0.432706624028521,49
+University of Limpopo,Nursing,0.37694669319498,73
+University of Limpopo,Physics,0.479043331537921,66
+University of Limpopo,Statistics,0.608400310385783,274
+University of Mpumalanga,Business,0.483939823046818,67
+University of Mpumalanga,Economics,0.538571824645137,26
+University of Mpumalanga,Education,0.350092302668688,28
+University of Pretoria,Accounting,0.526035119183207,3335
+University of Pretoria,Architecture,0.479223135602571,783
+University of Pretoria,Biology,0.444499786961063,303
+University of Pretoria,Business,0.510265236349555,9541
+University of Pretoria,Chemistry,0.474907038859282,291
+University of Pretoria,Economics,0.536077563638378,1017
+University of Pretoria,Education,0.363375136047962,2198
+University of Pretoria,Engineering,0.517372513225419,7409
+University of Pretoria,Finance,0.527892022515971,1123
+University of Pretoria,Information Technology,0.645328070105489,326
+University of Pretoria,Law,0.476187168343248,4104
+University of Pretoria,Marketing,0.495910741166312,428
+University of Pretoria,Mathematics,0.617526615903397,760
+University of Pretoria,Medicine,0.409081235948915,611
+University of Pretoria,Nursing,0.383585107790498,201
+University of Pretoria,Physics,0.533453123412367,137
+University of Pretoria,Statistics,0.594763142011028,734
+University of South Africa,Accounting,0.535373773621345,5816
+University of South Africa,Architecture,0.507179147307389,10
+University of South Africa,Biology,0.456756570296911,54
+University of South Africa,Business,0.510596657863481,21737
+University of South Africa,Chemistry,0.442536296019325,163
+University of South Africa,Economics,0.528653764618551,1859
+University of South Africa,Education,0.378940641845284,5559
+University of South Africa,Engineering,0.511926849408989,4070
+University of South Africa,Finance,0.540960267209228,2910
+University of South Africa,Information Technology,0.626250455490626,599
+University of South Africa,Law,0.496066987579471,7145
+University of South Africa,Marketing,0.50095032872784,789
+University of South Africa,Mathematics,0.529590651893861,202
+University of South Africa,Nursing,0.411951959367568,82
+University of South Africa,Physics,0.481064280668344,20
+University of South Africa,Statistics,0.560570684577966,284
+University of Stellenbosch Business School.,Business,0.509632362818223,70
+University of Venda,Accounting,0.540607809550909,597
+University of Venda,Biology,0.489215049116713,111
+University of Venda,Business,0.512571434433847,991
+University of Venda,Chemistry,0.431323467636949,181
+University of Venda,Economics,0.520836285925575,453
+University of Venda,Education,0.330814065439666,114
+University of Venda,Engineering,0.661737639411569,493
+University of Venda,Finance,0.544089126312417,319
+University of Venda,Information Technology,0.623176789909723,25
+University of Venda,Law,0.471364906127458,503
+University of Venda,Mathematics,0.530932469084349,91
+University of Venda,Nursing,0.373928264422804,67
+University of Venda,Physics,0.488884619803309,23
+University of Venda,Statistics,0.588833696608775,103
+University of Zululand,Accounting,0.527874678116347,443
+University of Zululand,Biology,0.389257468274256,23
+University of Zululand,Business,0.521473046150834,829
+University of Zululand,Chemistry,0.431703505816976,108
+University of Zululand,Economics,0.494686212719315,284
+University of Zululand,Education,0.34955962878372,262
+University of Zululand,Engineering,0.613860451675119,286
+University of Zululand,Finance,0.5318292972116,115
+University of Zululand,Information Technology,0.591468949737969,30
+University of Zululand,Law,0.46758490125462,440
+University of Zululand,Mathematics,0.52637604805999,44
+University of Zululand,Nursing,0.343220331934654,39
+University of Zululand,Physics,0.513643416047633,50
+University of Zululand,Statistics,0.636780109664237,30
+University of the Free State,Accounting,0.532317696852423,2007
+University of the Free State,Architecture,0.484922926109692,274
+University of the Free State,Biology,0.475984917749739,174
+University of the Free State,Business,0.505708784260362,2778
+University of the Free State,Chemistry,0.474967638012647,339
+University of the Free State,Economics,0.510347574798063,751
+University of the Free State,Education,0.364228335278352,843
+University of the Free State,Engineering,0.604120691586484,345
+University of the Free State,Finance,0.531637011992536,592
+University of the Free State,Information Technology,0.672892691927529,207
+University of the Free State,Law,0.468668564307403,1505
+University of the Free State,Marketing,0.513593518291264,733
+University of the Free State,Mathematics,0.517768114381659,59
+University of the Free State,Medicine,0.443459344006787,169
+University of the Free State,Nursing,0.392369739413589,137
+University of the Free State,Physics,0.489329851941592,72
+University of the Free State,Statistics,0.589494928213393,258
+University of the Western Cape,Accounting,0.53783672262763,1233
+University of the Western Cape,Biology,0.500075140603069,230
+University of the Western Cape,Business,0.534879876391771,2088
+University of the Western Cape,Chemistry,0.481963176034373,243
+University of the Western Cape,Economics,0.540211012108806,365
+University of the Western Cape,Education,0.352440040841994,518
+University of the Western Cape,Engineering,0.675525007661658,595
+University of the Western Cape,Finance,0.53820208652601,934
+University of the Western Cape,Information Technology,0.620049022379509,73
+University of the Western Cape,Law,0.492609927538877,1628
+University of the Western Cape,Marketing,0.494289369033909,10
+University of the Western Cape,Mathematics,0.508088579865317,44
+University of the Western Cape,Medicine,0.432432630852078,91
+University of the Western Cape,Nursing,0.371660629322105,324
+University of the Western Cape,Physics,0.539778217927269,62
+University of the Western Cape,Statistics,0.559225092282562,197
+University of the Witwatersrand,Accounting,0.531231329556655,2499
+University of the Witwatersrand,Architecture,0.487990967220484,577
+University of the Witwatersrand,Biology,0.498815181579897,596
+University of the Witwatersrand,Business,0.52439134735839,2751
+University of the Witwatersrand,Chemistry,0.483570493205786,479
+University of the Witwatersrand,Economics,0.54409481550115,588
+University of the Witwatersrand,Education,0.375349627259738,1313
+University of the Witwatersrand,Engineering,0.520434831316945,4730
+University of the Witwatersrand,Finance,0.530210046835974,1616
+University of the Witwatersrand,Information Technology,0.575488341573272,52
+University of the Witwatersrand,Law,0.480819253412413,2983
+University of the Witwatersrand,Marketing,0.505858101047623,383
+University of the Witwatersrand,Mathematics,0.586674524272422,763
+University of the Witwatersrand,Medicine,0.455261837745314,679
+University of the Witwatersrand,Nursing,0.397280294328269,83
+University of the Witwatersrand,Physics,0.540877953474567,103
+University of the Witwatersrand,Statistics,0.617287850031858,341
+Vaal University of Technology,Accounting,0.536971002055226,41
+Vaal University of Technology,Business,0.521552844659217,1805
+Vaal University of Technology,Chemistry,0.436702659699926,249
+Vaal University of Technology,Education,0.334274052885227,13
+Vaal University of Technology,Engineering,0.441004817789448,1654
+Vaal University of Technology,Finance,0.518542732005292,35
+Vaal University of Technology,Information Technology,0.707928455406264,468
+Vaal University of Technology,Marketing,0.537534758414233,106
+Walter Sisulu University,Accounting,0.522549585856078,394
+Walter Sisulu University,Biology,0.466342388910641,24
+Walter Sisulu University,Business,0.495511211462864,881
+Walter Sisulu University,Chemistry,0.442323010186051,81
+Walter Sisulu University,Economics,0.50662657066958,131
+Walter Sisulu University,Education,0.361183814868811,214
+Walter Sisulu University,Engineering,0.525119709103642,359
+Walter Sisulu University,Finance,0.522107306374989,169
+Walter Sisulu University,Information Technology,0.623638337400194,140
+Walter Sisulu University,Law,0.469508757978799,226
+Walter Sisulu University,Marketing,0.535970951384763,63
+Walter Sisulu University,Mathematics,0.448629264938363,34
+Walter Sisulu University,Medicine,0.4540653490831,121
+Walter Sisulu University,Nursing,0.363765708568849,42
+Walter Sisulu University,Physics,0.483253347885692,12
+Walter Sisulu University,Statistics,0.534219820736981,21
+Wits Business School,Business,0.486599552816041,69

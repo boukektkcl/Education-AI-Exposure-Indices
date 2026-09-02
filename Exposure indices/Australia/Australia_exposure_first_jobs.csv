@@ -1,0 +1,793 @@
+university_name,field,exposure_firstjob_beta,n_people
+AGSM @ UNSW Business School,Business,0.518427589519292,10
+ANU College of Business and Economics,Business,0.434603324715066,10
+Academies Australasia Polytechnic,Business,0.337856042876186,142
+Academy of Interactive Technology,Engineering,0.61551068845831,20
+Academy of Interactive Technology,Information Technology,0.649048337904575,74
+Alphacrucis College,Business,0.46343855693058,28
+Asia Pacific International College,Business,0.452411316196497,181
+Asia Pacific International College,Engineering,0.399211356532091,12
+Asia Pacific International College,Information Technology,0.464303121998442,28
+Australian Catholic University,Accounting,0.517624673909222,528
+Australian Catholic University,Business,0.492048030477322,2070
+Australian Catholic University,Economics,0.474826825158602,95
+Australian Catholic University,Education,0.351026611708058,2190
+Australian Catholic University,Engineering,0.532444774278525,37
+Australian Catholic University,Finance,0.493286125802245,232
+Australian Catholic University,Information Technology,0.542825591766151,198
+Australian Catholic University,Law,0.469029275170018,354
+Australian Catholic University,Marketing,0.485383112386232,508
+Australian Catholic University,Mathematics,0.467009775016831,36
+Australian Catholic University,Medicine,0.368234429951236,16
+Australian Catholic University,Nursing,0.364953462964792,3211
+Australian College of Applied Psychology,Business,0.505567876156671,16
+Australian College of Natural Medicine Pty Ltd.,Medicine,0.426294622214934,761
+Australian College of Nursing,Nursing,0.355257227892009,11
+Australian Defence Force Academy,Business,0.471555238633402,22
+Australian Defence Force Academy,Engineering,0.461558774111539,17
+Australian Institute of Business,Business,0.513452906839395,59
+Australian Institute of Higher Education,Accounting,0.420256137208457,154
+Australian Institute of Higher Education,Business,0.456804526950271,312
+Australian Institute of Higher Education,Engineering,0.399413231764103,29
+Australian Institute of Higher Education,Finance,0.537805641106143,24
+Australian Institute of Higher Education,Information Technology,0.416013812516625,90
+Australian Institute of Management - AIM Business School,Business,0.468584236860484,83
+Australian Maritime College,Business,0.463645103996487,118
+Australian Maritime College,Engineering,0.433447954930193,313
+Australian Pacific College,Business,0.410324801058614,20
+Avondale College of Higher Education,Accounting,0.55143834863492,11
+Avondale College of Higher Education,Business,0.483583817066952,93
+Avondale College of Higher Education,Education,0.360183104522201,107
+Avondale College of Higher Education,Nursing,0.377898156342133,194
+Blue Mountains International Hotel Management School,Business,0.402372441388741,70
+Bond University,Accounting,0.511659618299325,146
+Bond University,Architecture,0.460854894420379,121
+Bond University,Business,0.48590879516536,1205
+Bond University,Economics,0.439732170981662,34
+Bond University,Engineering,0.591883871928145,49
+Bond University,Finance,0.526878059605597,255
+Bond University,Information Technology,0.60716810920639,62
+Bond University,Law,0.470939641605294,671
+Bond University,Marketing,0.521827598608416,131
+Bond University,Medicine,0.417704587109617,145
+Box Hill Institute,Accounting,0.512443807230629,14
+Box Hill Institute,Business,0.454555042194792,144
+Box Hill Institute,Engineering,0.578414302513552,126
+CIC Higher Education,Accounting,0.492486161762324,48
+CIC Higher Education,Business,0.462983088658638,55
+CPA Australia,Accounting,0.530552138479393,42
+CPA Australia,Business,0.50940217496926,19
+CPA Australia,Finance,0.527327063001454,37
+Central Queensland University,Accounting,0.524619922847532,1057
+Central Queensland University,Architecture,0.480372573058203,13
+Central Queensland University,Biology,0.407880078316273,22
+Central Queensland University,Business,0.484771984063302,1891
+Central Queensland University,Chemistry,0.438990553304493,31
+Central Queensland University,Economics,0.480631659798173,15
+Central Queensland University,Education,0.378305782381493,279
+Central Queensland University,Engineering,0.475500549756,863
+Central Queensland University,Finance,0.541059279715276,163
+Central Queensland University,Information Technology,0.586655344906707,962
+Central Queensland University,Law,0.46385677676501,240
+Central Queensland University,Marketing,0.467520269721083,58
+Central Queensland University,Medicine,0.379310561703676,11
+Central Queensland University,Nursing,0.369263921527578,685
+Charles Darwin University,Accounting,0.49939418562969,278
+Charles Darwin University,Architecture,0.501963888932487,45
+Charles Darwin University,Biology,0.479441832109532,16
+Charles Darwin University,Business,0.485883479642772,307
+Charles Darwin University,Economics,0.46021308419908,23
+Charles Darwin University,Education,0.363558067616757,263
+Charles Darwin University,Engineering,0.460750864185802,288
+Charles Darwin University,Finance,0.506653997742886,45
+Charles Darwin University,Information Technology,0.505530825675551,225
+Charles Darwin University,Law,0.472870478390136,340
+Charles Darwin University,Marketing,0.541328002873185,28
+Charles Darwin University,Nursing,0.363326268806265,589
+Charles Sturt University,Accounting,0.516877461654481,672
+Charles Sturt University,Biology,0.34590651831688,49
+Charles Sturt University,Business,0.497282658702198,4083
+Charles Sturt University,Chemistry,0.448094529697061,29
+Charles Sturt University,Economics,0.493109083649673,10
+Charles Sturt University,Education,0.379939515313691,1471
+Charles Sturt University,Engineering,0.58092183121375,509
+Charles Sturt University,Finance,0.523289221258901,136
+Charles Sturt University,Information Technology,0.583313587799275,983
+Charles Sturt University,Law,0.428344184466688,108
+Charles Sturt University,Marketing,0.494765729207381,143
+Charles Sturt University,Mathematics,0.421649400444772,26
+Charles Sturt University,Medicine,0.36997745078112,252
+Charles Sturt University,Nursing,0.373199849928796,618
+Charles Sturt University,Physics,0.497815780351318,15
+Chartered Accountants Australia and New Zealand,Accounting,0.562145260133059,21
+Chisholm Institute,Engineering,0.309421311631169,149
+Christian Heritage College,Business,0.492659045445631,48
+Christian Heritage College,Education,0.369425925973562,91
+Collarts (Australian College of the Arts),Business,0.428900423197555,211
+Collarts (Australian College of the Arts),Engineering,0.412216840940693,26
+Collarts (Australian College of the Arts),Marketing,0.470874251057566,17
+Crown Institute of Higher Education,Accounting,0.363203295771551,27
+Curtin College,Business,0.378025459920283,12
+Curtin University,Accounting,0.520415807337746,2048
+Curtin University,Architecture,0.463217935731073,998
+Curtin University,Biology,0.431313181079721,410
+Curtin University,Business,0.490254514325423,4905
+Curtin University,Chemistry,0.429352763432941,264
+Curtin University,Economics,0.49741438054991,339
+Curtin University,Education,0.373324001213771,1005
+Curtin University,Engineering,0.480290421080591,5145
+Curtin University,Finance,0.50702095136821,2353
+Curtin University,Information Technology,0.635820951637368,328
+Curtin University,Law,0.489830060234709,365
+Curtin University,Marketing,0.48113586721671,1669
+Curtin University,Mathematics,0.441108606335817,60
+Curtin University,Medicine,0.414046335468122,132
+Curtin University,Nursing,0.363753843901508,726
+Curtin University,Physics,0.504261990775952,96
+Curtin University,Statistics,0.563800987081157,37
+Deakin University,Accounting,0.504077264277622,1812
+Deakin University,Architecture,0.457773777385034,641
+Deakin University,Biology,0.405710367130154,828
+Deakin University,Business,0.472178319042735,6028
+Deakin University,Chemistry,0.427724592942282,196
+Deakin University,Economics,0.494056045057575,396
+Deakin University,Education,0.362832517166734,1750
+Deakin University,Engineering,0.516169459522424,2172
+Deakin University,Finance,0.51224725332213,2589
+Deakin University,Information Technology,0.565772944126567,1190
+Deakin University,Law,0.482791236368874,1736
+Deakin University,Marketing,0.483958743608089,965
+Deakin University,Mathematics,0.434795769676324,42
+Deakin University,Medicine,0.416772182015608,251
+Deakin University,Nursing,0.372142957502733,1878
+Ducere Global Business School,Business,0.548440864668086,24
+Edith Cowan University,Accounting,0.51338417384471,368
+Edith Cowan University,Biology,0.428723146590206,233
+Edith Cowan University,Business,0.481516040519128,3900
+Edith Cowan University,Chemistry,0.408790231481435,49
+Edith Cowan University,Economics,0.489472297863827,15
+Edith Cowan University,Education,0.367581870463574,1317
+Edith Cowan University,Engineering,0.53243414549796,1646
+Edith Cowan University,Finance,0.50033654202305,260
+Edith Cowan University,Information Technology,0.575965431770859,218
+Edith Cowan University,Law,0.467377274215479,213
+Edith Cowan University,Marketing,0.472614644347861,371
+Edith Cowan University,Mathematics,0.533601737957224,34
+Edith Cowan University,Medicine,0.338791944926955,21
+Edith Cowan University,Nursing,0.360558162705498,1168
+Edith Cowan University,Physics,0.404450370046088,10
+Elite Education Institute,Accounting,0.438891994289301,27
+Elite Education Institute,Business,0.509186068388611,27
+Engineering Institute of Technology,Engineering,0.409407541500655,32
+Federation University Australia,Accounting,0.495236066209457,482
+Federation University Australia,Business,0.466759360715113,1361
+Federation University Australia,Economics,0.506562293658964,11
+Federation University Australia,Education,0.36086153448609,350
+Federation University Australia,Engineering,0.507839144351913,357
+Federation University Australia,Finance,0.509903298969935,87
+Federation University Australia,Information Technology,0.522905546614346,1307
+Federation University Australia,Law,0.521520046339849,11
+Federation University Australia,Marketing,0.515604963267256,15
+Federation University Australia,Nursing,0.379556162002345,383
+Flinders University,Accounting,0.517333647081082,326
+Flinders University,Biology,0.433019756021042,330
+Flinders University,Business,0.467966086007528,1355
+Flinders University,Chemistry,0.446577970070921,207
+Flinders University,Economics,0.482076269120245,36
+Flinders University,Education,0.364615774390386,1094
+Flinders University,Engineering,0.50534303713552,663
+Flinders University,Finance,0.497893971050263,352
+Flinders University,Information Technology,0.594658830821024,361
+Flinders University,Law,0.469657152720182,577
+Flinders University,Marketing,0.491723837105492,63
+Flinders University,Mathematics,0.531122028952196,44
+Flinders University,Medicine,0.429779050288632,160
+Flinders University,Nursing,0.367319099502523,1267
+Flinders University,Physics,0.498888026121037,27
+Griffith College,Business,0.414146937936008,73
+Griffith College,Engineering,0.31840894903329,15
+Griffith University,Accounting,0.512780485003335,1519
+Griffith University,Architecture,0.440731700637477,299
+Griffith University,Biology,0.43354345046775,626
+Griffith University,Business,0.467829401259269,11233
+Griffith University,Chemistry,0.431476166579375,246
+Griffith University,Economics,0.499231742125464,227
+Griffith University,Education,0.379612289295481,1333
+Griffith University,Engineering,0.486537071269815,2292
+Griffith University,Finance,0.517474579851462,1048
+Griffith University,Information Technology,0.611420566343867,1020
+Griffith University,Law,0.464430765008896,1044
+Griffith University,Marketing,0.49550408231316,647
+Griffith University,Mathematics,0.497536671591827,51
+Griffith University,Medicine,0.413280580370994,196
+Griffith University,Nursing,0.352867550947331,1926
+Griffith University,Physics,0.504206627336598,40
+Griffith University,Statistics,0.532296699510694,10
+Holmes Institute,Accounting,0.440659931623304,367
+Holmes Institute,Business,0.451647938257508,135
+Holmes Institute,Finance,0.453775756653783,82
+Holmes Institute,Information Technology,0.459363911764081,27
+Holmesglen Institute,Accounting,0.5385221755246,92
+Holmesglen Institute,Business,0.473573080231819,395
+Holmesglen Institute,Education,0.272181148651608,31
+Holmesglen Institute,Engineering,0.560177937578372,10
+Holmesglen Institute,Finance,0.450853153770034,24
+Holmesglen Institute,Information Technology,0.560200061007456,17
+Holmesglen Institute,Nursing,0.333040174832983,145
+ICHM,Business,0.421739900396207,341
+IIBITAUS,Information Technology,0.543645873960315,10
+International College of Management Sydney,Business,0.44248774713576,1170
+JMC Academy,Business,0.46036588276444,606
+JMC Academy,Engineering,0.459271299597956,650
+James Cook University,Accounting,0.512608686666706,273
+James Cook University,Biology,0.424878428685221,345
+James Cook University,Business,0.488895517398672,1934
+James Cook University,Chemistry,0.486800437358017,45
+James Cook University,Economics,0.491580663325806,42
+James Cook University,Education,0.374155342976555,409
+James Cook University,Engineering,0.480435038225147,922
+James Cook University,Finance,0.511634642499121,86
+James Cook University,Information Technology,0.583225790336527,380
+James Cook University,Law,0.467489934495929,396
+James Cook University,Marketing,0.513198393395007,42
+James Cook University,Mathematics,0.527896216502866,21
+James Cook University,Medicine,0.41633072141051,332
+James Cook University,Nursing,0.354443748346637,598
+James Cook University,Physics,0.517300148623791,18
+James Cook University Brisbane,Business,0.476093408007286,64
+Kaplan Business School Pty Ltd.,Accounting,0.473746961182096,190
+Kaplan Business School Pty Ltd.,Business,0.460344037043344,387
+Kaplan Business School Pty Ltd.,Finance,0.464923513232507,23
+Kaplan Business School Pty Ltd.,Marketing,0.434483181589545,15
+Kaplan University Pty Ltd.,Accounting,0.45985137729572,12
+Kaplan University Pty Ltd.,Business,0.415806281374502,20
+Kent Institute Australia,Accounting,0.439303204161156,161
+Kent Institute Australia,Business,0.44812519544259,173
+Kent Institute Australia,Engineering,0.442661073225278,32
+Kent Institute Australia,Finance,0.504470809870352,13
+Kent Institute Australia,Information Technology,0.472227516760792,325
+King's Own Institute,Accounting,0.447899180965484,320
+King's Own Institute,Business,0.426900816862864,286
+King's Own Institute,Engineering,0.42305775154822,26
+King's Own Institute,Finance,0.505114657953493,55
+King's Own Institute,Information Technology,0.440570874351729,569
+La Trobe University,Accounting,0.520393851197732,57
+La Trobe University,Biology,0.449375046591128,10
+La Trobe University,Business,0.488175309811603,239
+La Trobe University,Economics,0.524831667376718,10
+La Trobe University,Education,0.326704469093837,42
+La Trobe University,Engineering,0.543443090095511,40
+La Trobe University,Finance,0.576830432548757,26
+La Trobe University,Information Technology,0.545045498138227,14
+La Trobe University,Law,0.470334011146432,24
+La Trobe University,Marketing,0.428933722793059,10
+La Trobe University,Nursing,0.372866832525011,71
+La Trobe University Graduate School of Management,Accounting,0.530976533498949,1475
+La Trobe University Graduate School of Management,Biology,0.416636370619814,433
+La Trobe University Graduate School of Management,Business,0.47993668999898,5962
+La Trobe University Graduate School of Management,Chemistry,0.430014818619874,173
+La Trobe University Graduate School of Management,Economics,0.507860910143279,340
+La Trobe University Graduate School of Management,Education,0.375125755880698,759
+La Trobe University Graduate School of Management,Engineering,0.541263478587789,1070
+La Trobe University Graduate School of Management,Finance,0.508569854411334,703
+La Trobe University Graduate School of Management,Information Technology,0.561653727622255,509
+La Trobe University Graduate School of Management,Law,0.469636045711607,958
+La Trobe University Graduate School of Management,Marketing,0.484665837948689,227
+La Trobe University Graduate School of Management,Mathematics,0.510502595919654,47
+La Trobe University Graduate School of Management,Medicine,0.401956317653547,27
+La Trobe University Graduate School of Management,Nursing,0.375890567856745,1387
+La Trobe University Graduate School of Management,Physics,0.53247217474429,32
+La Trobe University Graduate School of Management,Statistics,0.553599099706777,110
+Macleay College,Business,0.461498573781683,149
+Macleay College,Marketing,0.495823232072526,16
+Macquarie Business School,Business,0.474375895709955,30
+Macquarie University,Accounting,0.528252844070565,4606
+Macquarie University,Biology,0.44241332719824,416
+Macquarie University,Business,0.503979504462219,6387
+Macquarie University,Chemistry,0.466887807466272,94
+Macquarie University,Economics,0.523512158619455,764
+Macquarie University,Education,0.383067072717453,1438
+Macquarie University,Engineering,0.526338739403882,1123
+Macquarie University,Finance,0.530923185791874,3112
+Macquarie University,Information Technology,0.582204320301674,862
+Macquarie University,Law,0.482385883831646,1561
+Macquarie University,Marketing,0.498023912695319,2695
+Macquarie University,Mathematics,0.535688570063503,100
+Macquarie University,Medicine,0.417775740465907,55
+Macquarie University,Physics,0.48376164127134,60
+Macquarie University,Statistics,0.584703046963515,134
+Marcus Oldham College,Business,0.437967670289581,188
+Melbourne Business School,Business,0.498004692818084,34
+Melbourne Business School,Finance,0.502463553565801,19
+Melbourne Institute of Technology,Accounting,0.473776950934521,105
+Melbourne Institute of Technology,Business,0.472596555144663,240
+Melbourne Institute of Technology,Engineering,0.490786933819196,271
+Melbourne Institute of Technology,Finance,0.553346663260466,20
+Melbourne Institute of Technology,Information Technology,0.476716887221661,164
+Melbourne Institute of Technology,Marketing,0.349731602465573,10
+Melbourne Polytechnic,Accounting,0.487027408462993,82
+Melbourne Polytechnic,Architecture,0.459976532250991,23
+Melbourne Polytechnic,Business,0.430434333090414,113
+Melbourne Polytechnic,Education,0.2893413550508,18
+Melbourne Polytechnic,Engineering,0.416661282570523,170
+Melbourne Polytechnic,Finance,0.459567185875806,19
+Melbourne Polytechnic,Information Technology,0.518911544332086,240
+Monash College,Business,0.394090217781627,10
+Monash University,Accounting,0.515920349610502,1601
+Monash University,Architecture,0.456045771746606,842
+Monash University,Biology,0.435318700413356,1146
+Monash University,Business,0.513321739838117,11373
+Monash University,Chemistry,0.441008413576324,780
+Monash University,Economics,0.519823795567685,1095
+Monash University,Education,0.377424305822804,1152
+Monash University,Engineering,0.513711421677392,8104
+Monash University,Finance,0.52177215594031,3485
+Monash University,Information Technology,0.611467605189147,1138
+Monash University,Law,0.479798151906832,1321
+Monash University,Marketing,0.4987883738476,999
+Monash University,Mathematics,0.502467159100169,447
+Monash University,Medicine,0.432297850927373,884
+Monash University,Nursing,0.373045915124287,999
+Monash University,Physics,0.505364434504757,109
+Monash University,Statistics,0.518382109339339,112
+Murdoch University,Accounting,0.51407559003693,311
+Murdoch University,Biology,0.422577951537323,840
+Murdoch University,Business,0.494805556201153,1686
+Murdoch University,Chemistry,0.423297202393181,71
+Murdoch University,Economics,0.511010255897247,123
+Murdoch University,Education,0.377676525863236,406
+Murdoch University,Engineering,0.543095471990518,810
+Murdoch University,Finance,0.508574083393798,266
+Murdoch University,Information Technology,0.578331694248758,60
+Murdoch University,Law,0.471638565716154,854
+Murdoch University,Marketing,0.49177991637887,200
+Murdoch University,Mathematics,0.561475898068808,14
+Murdoch University,Medicine,0.310230730307405,308
+Murdoch University,Nursing,0.351127084901119,342
+Murdoch University,Physics,0.406352318653747,38
+Murdoch University,Statistics,0.471993276113823,66
+National Institute of Dramatic Art,Business,0.443072885641909,57
+National Institute of Technology,Engineering,0.572449340328272,12
+Open Colleges,Accounting,0.534627099817136,13
+Open Colleges,Business,0.480665421280491,44
+Qantm College,Engineering,0.660940280316712,20
+Queensland University of Technology,Accounting,0.530049050568218,897
+Queensland University of Technology,Architecture,0.451430913540867,1412
+Queensland University of Technology,Biology,0.443287832868074,93
+Queensland University of Technology,Business,0.506394162902361,13876
+Queensland University of Technology,Chemistry,0.43339119298884,198
+Queensland University of Technology,Economics,0.480313219193415,658
+Queensland University of Technology,Education,0.389180639390206,1684
+Queensland University of Technology,Engineering,0.497520978713889,6210
+Queensland University of Technology,Finance,0.512864566364576,521
+Queensland University of Technology,Information Technology,0.613629802965869,1878
+Queensland University of Technology,Law,0.479647545639978,2114
+Queensland University of Technology,Marketing,0.495361524753499,757
+Queensland University of Technology,Mathematics,0.546130817771151,300
+Queensland University of Technology,Medicine,0.419477893554619,14
+Queensland University of Technology,Nursing,0.364258399349093,2188
+Queensland University of Technology,Physics,0.495835111364983,145
+Queensland University of Technology,Statistics,0.551510836586098,43
+RMIT University,Accounting,0.516466416820441,965
+RMIT University,Architecture,0.445572462185446,1299
+RMIT University,Biology,0.406247457671189,103
+RMIT University,Business,0.500363858936592,13715
+RMIT University,Chemistry,0.451082832322344,241
+RMIT University,Economics,0.4848992671119,81
+RMIT University,Education,0.349015327391791,544
+RMIT University,Engineering,0.503177357217544,8833
+RMIT University,Finance,0.501970471991944,777
+RMIT University,Information Technology,0.584403230905739,1544
+RMIT University,Law,0.477064749846973,69
+RMIT University,Marketing,0.468690433295591,825
+RMIT University,Mathematics,0.548867628965962,109
+RMIT University,Medicine,0.371809663806158,316
+RMIT University,Nursing,0.3771451679295,624
+RMIT University,Physics,0.49144063706006,172
+RMIT University,Statistics,0.571708161315914,110
+Raffles College of Design and Commerce,Business,0.529278749185544,12
+Raffles College of Design and Commerce,Marketing,0.494631155332151,73
+SAE University College Aus,Business,0.453589080573677,12
+SAE University College Aus,Engineering,0.473685737385836,233
+SP Jain School of Global Management,Business,0.526053200395828,328
+School of Mining Engineering UNSW,Engineering,0.474812546384677,23
+Southern Cross University,Accounting,0.538809642709705,176
+Southern Cross University,Business,0.472909738982018,3457
+Southern Cross University,Education,0.377357990029807,478
+Southern Cross University,Engineering,0.521572715451187,141
+Southern Cross University,Finance,0.527403890075215,37
+Southern Cross University,Information Technology,0.530692629676702,422
+Southern Cross University,Law,0.476209399367753,446
+Southern Cross University,Marketing,0.496161466231388,54
+Southern Cross University,Medicine,0.421001422617479,22
+Southern Cross University,Nursing,0.346731522864158,463
+Southern School of Natural Therapies,Medicine,0.399166592196198,127
+"St John's College, within the University of Sydney",Medicine,0.457059988681381,10
+Stott's College,Accounting,0.39006689239341,25
+Stott's College,Business,0.377188932737377,89
+Swinburne University of Technology,Accounting,0.517608522835439,925
+Swinburne University of Technology,Architecture,0.440978891301407,292
+Swinburne University of Technology,Biology,0.438582763696999,10
+Swinburne University of Technology,Business,0.503089768518987,9422
+Swinburne University of Technology,Chemistry,0.424136393627535,127
+Swinburne University of Technology,Economics,0.510161636828584,79
+Swinburne University of Technology,Education,0.362153601330864,599
+Swinburne University of Technology,Engineering,0.510657641395029,4577
+Swinburne University of Technology,Finance,0.526101757874174,637
+Swinburne University of Technology,Information Technology,0.609710552682426,717
+Swinburne University of Technology,Law,0.51103057360494,152
+Swinburne University of Technology,Marketing,0.498148274419641,832
+Swinburne University of Technology,Mathematics,0.49505499511966,28
+Swinburne University of Technology,Nursing,0.33858395226821,74
+Swinburne University of Technology,Physics,0.433426130059248,53
+Swinburne University of Technology,Statistics,0.527156679008624,28
+"Sydney Business School, University of Wollongong",Business,0.493353656784024,22
+"Sydney Business School, University of Wollongong",Finance,0.547833577750575,10
+Sydney Institute of Business & Technology,Business,0.444884658541228,13
+Sydney Institute of Traditional Chinese Medicine,Medicine,0.311891476244776,19
+Sydney International School of Technology and Commerce,Information Technology,0.43662823078666,32
+TAFE NSW Higher Education,Accounting,0.473386993703774,58
+TAFE NSW Higher Education,Business,0.474991469798857,172
+TAFE NSW Higher Education,Education,0.29163600636217,122
+TAFE NSW Higher Education,Engineering,0.492213787936437,53
+TAFE NSW Higher Education,Finance,0.517752657666109,37
+TAFE NSW Higher Education,Information Technology,0.495802708755282,193
+TAFE Queensland,Business,0.491269182886565,42
+Technical & Further Education South Australia,Business,0.458541183217759,78
+The Australian College of Physical Education,Business,0.432454713628672,264
+The Australian College of Physical Education,Education,0.377507791359927,272
+The Australian Institute of Music,Business,0.482890324604105,323
+The Australian Institute of Music,Engineering,0.471059034961763,84
+The Australian National University,Accounting,0.541307290549259,497
+The Australian National University,Biology,0.469473209166764,281
+The Australian National University,Business,0.502818339455728,1061
+The Australian National University,Chemistry,0.501042180626753,176
+The Australian National University,Economics,0.507925434772666,976
+The Australian National University,Engineering,0.557574590637,1376
+The Australian National University,Finance,0.542797510472813,1066
+The Australian National University,Information Technology,0.638740655718395,335
+The Australian National University,Law,0.487340623545775,726
+The Australian National University,Marketing,0.484649048570825,133
+The Australian National University,Mathematics,0.533155967050919,118
+The Australian National University,Medicine,0.443996665245055,71
+The Australian National University,Physics,0.53054533757724,171
+The Australian National University,Statistics,0.558635536029347,87
+The College of Law,Law,0.462991942434412,11
+The Hotel School Australia,Business,0.384917358926774,107
+The Masters Institute of Creative Education,Business,0.480148393464002,22
+The University of Adelaide,Accounting,0.519642387976423,1336
+The University of Adelaide,Architecture,0.455799635033178,560
+The University of Adelaide,Biology,0.451455455446862,353
+The University of Adelaide,Business,0.487110914160748,1094
+The University of Adelaide,Chemistry,0.455274360775741,274
+The University of Adelaide,Economics,0.504073306882163,674
+The University of Adelaide,Education,0.394972397296098,178
+The University of Adelaide,Engineering,0.502418588294105,5308
+The University of Adelaide,Finance,0.509410020775564,1515
+The University of Adelaide,Information Technology,0.550265488114508,12
+The University of Adelaide,Law,0.475280954141696,1076
+The University of Adelaide,Marketing,0.470218064523499,643
+The University of Adelaide,Mathematics,0.492944547772392,85
+The University of Adelaide,Medicine,0.429841090414043,385
+The University of Adelaide,Nursing,0.326446414742931,264
+The University of Adelaide,Physics,0.495687644538659,198
+The University of Adelaide,Statistics,0.525242941925722,57
+The University of Newcastle,Accounting,0.525077614206796,605
+The University of Newcastle,Architecture,0.457873105848598,520
+The University of Newcastle,Biology,0.441431978431775,81
+The University of Newcastle,Business,0.483803644970423,4440
+The University of Newcastle,Chemistry,0.447664988246833,126
+The University of Newcastle,Economics,0.513236114854494,181
+The University of Newcastle,Education,0.372488792133974,784
+The University of Newcastle,Engineering,0.491921329138086,2597
+The University of Newcastle,Finance,0.514639195544982,506
+The University of Newcastle,Information Technology,0.596065634079252,509
+The University of Newcastle,Law,0.472152108040867,460
+The University of Newcastle,Marketing,0.485686987802156,98
+The University of Newcastle,Mathematics,0.537256758526915,131
+The University of Newcastle,Medicine,0.425435199574709,386
+The University of Newcastle,Nursing,0.360686810238526,818
+The University of Newcastle,Physics,0.459991053848747,77
+The University of Newcastle,Statistics,0.550235270513489,59
+The University of Notre Dame Australia,Accounting,0.505065254846892,138
+The University of Notre Dame Australia,Biology,0.408893169436661,26
+The University of Notre Dame Australia,Business,0.484485165981561,585
+The University of Notre Dame Australia,Economics,0.516684355852509,39
+The University of Notre Dame Australia,Education,0.353987757649889,824
+The University of Notre Dame Australia,Finance,0.49604936903108,230
+The University of Notre Dame Australia,Law,0.472378116199557,473
+The University of Notre Dame Australia,Marketing,0.490470991917511,515
+The University of Notre Dame Australia,Medicine,0.434804553688074,171
+The University of Notre Dame Australia,Nursing,0.358953641761572,940
+The University of Queensland,Accounting,0.523875291504833,1156
+The University of Queensland,Architecture,0.470021487856213,686
+The University of Queensland,Biology,0.450751506665563,578
+The University of Queensland,Business,0.490888048642913,6601
+The University of Queensland,Chemistry,0.450815212785174,250
+The University of Queensland,Economics,0.517045751639673,1189
+The University of Queensland,Education,0.386723502913115,734
+The University of Queensland,Engineering,0.493001973911146,6798
+The University of Queensland,Finance,0.521478794124184,1866
+The University of Queensland,Information Technology,0.630279789048485,521
+The University of Queensland,Law,0.486819580271706,616
+The University of Queensland,Marketing,0.491529135776974,79
+The University of Queensland,Mathematics,0.541690566950746,428
+The University of Queensland,Medicine,0.40959898522489,725
+The University of Queensland,Nursing,0.353364573442805,407
+The University of Queensland,Physics,0.513599989607472,196
+The University of Queensland,Statistics,0.574204979001611,74
+The University of Sydney,Architecture,0.500248535569408,25
+The University of Sydney,Biology,0.462013649992051,16
+The University of Sydney,Business,0.471822270902824,27
+The University of Sydney,Chemistry,0.464472417668571,13
+The University of Sydney,Economics,0.547863770886796,27
+The University of Sydney,Education,0.373996974051437,32
+The University of Sydney,Engineering,0.524796468529948,136
+The University of Sydney,Finance,0.53960404040188,15
+The University of Sydney,Law,0.455764574674851,16
+The University of Sydney,Medicine,0.383451514278132,14
+The University of Western Australia,Accounting,0.503473579131701,633
+The University of Western Australia,Architecture,0.448047123003354,756
+The University of Western Australia,Biology,0.435505805992249,927
+The University of Western Australia,Business,0.486511626266564,2676
+The University of Western Australia,Chemistry,0.437605699418161,296
+The University of Western Australia,Economics,0.501365734544844,885
+The University of Western Australia,Education,0.426214052113013,98
+The University of Western Australia,Engineering,0.492529034810676,5099
+The University of Western Australia,Finance,0.506938046724194,2422
+The University of Western Australia,Information Technology,0.550541970067878,11
+The University of Western Australia,Law,0.469185461994651,932
+The University of Western Australia,Marketing,0.48982871634221,487
+The University of Western Australia,Mathematics,0.502715765754261,115
+The University of Western Australia,Medicine,0.409679008497347,492
+The University of Western Australia,Nursing,0.342654646652535,12
+The University of Western Australia,Physics,0.516236368417067,153
+The University of Western Australia,Statistics,0.509138767889864,109
+Think: Colleges Pty Ltd.,Accounting,0.450849196666396,75
+Think: Colleges Pty Ltd.,Architecture,0.498139208570815,26
+Think: Colleges Pty Ltd.,Business,0.455931304812582,1231
+Think: Colleges Pty Ltd.,Engineering,0.469957198964289,18
+Think: Colleges Pty Ltd.,Finance,0.486284003876175,35
+Think: Colleges Pty Ltd.,Marketing,0.46385915401465,78
+Think: Colleges Pty Ltd.,Medicine,0.407987867054754,40
+Think: Colleges Pty Ltd.,Nursing,0.347545523114667,19
+Top Education Institute,Business,0.524931317651739,15
+Top Education Institute,Finance,0.408911369908373,14
+Top Education Institute,Law,0.491338847757481,14
+UNSW Business School,Accounting,0.515961593965229,50
+UNSW Business School,Business,0.489628539250581,109
+UNSW Business School,Economics,0.546077708743295,75
+UNSW Business School,Finance,0.522721032950402,153
+UNSW Business School,Marketing,0.447058249230603,27
+UNSW Canberra,Business,0.427331028277975,84
+UNSW Canberra,Chemistry,0.442884923380402,16
+UNSW Canberra,Engineering,0.486773957551623,153
+UTS College,Business,0.413886044382927,13
+UTS College,Engineering,0.39352310340843,11
+UTS College,Information Technology,0.462764662698362,10
+Universal Business School,Accounting,0.438145480810184,146
+Universal Business School,Business,0.450716364429931,53
+Universal Business School,Finance,0.505628533930831,35
+University of Ballarat,Accounting,0.514426866481065,176
+University of Ballarat,Business,0.479129300468396,368
+University of Ballarat,Education,0.367822806956329,217
+University of Ballarat,Engineering,0.506914576837634,121
+University of Ballarat,Finance,0.568346177722988,41
+University of Ballarat,Information Technology,0.616026562775583,240
+University of Ballarat,Nursing,0.389645944592079,144
+University of Canberra,Accounting,0.510085459201615,642
+University of Canberra,Architecture,0.45932848095139,751
+University of Canberra,Biology,0.437061459106569,118
+University of Canberra,Business,0.489529131274069,2539
+University of Canberra,Chemistry,0.52174493223863,35
+University of Canberra,Economics,0.511709369371712,201
+University of Canberra,Education,0.397584845546221,476
+University of Canberra,Engineering,0.63304716717833,488
+University of Canberra,Finance,0.509387235827722,218
+University of Canberra,Information Technology,0.584906494541869,527
+University of Canberra,Law,0.477048520365829,347
+University of Canberra,Marketing,0.505693204845794,426
+University of Canberra,Nursing,0.375223003858358,422
+University of Canberra,Statistics,0.486851283739202,10
+University of Melbourne,Accounting,0.513792215555702,662
+University of Melbourne,Architecture,0.458674994260766,1667
+University of Melbourne,Biology,0.469308740844862,921
+University of Melbourne,Business,0.497461835038146,2215
+University of Melbourne,Chemistry,0.456410646573628,408
+University of Melbourne,Economics,0.501024868114499,940
+University of Melbourne,Education,0.399114061519724,382
+University of Melbourne,Engineering,0.51804526585426,4506
+University of Melbourne,Finance,0.520329839137581,5551
+University of Melbourne,Information Technology,0.592368897922913,46
+University of Melbourne,Law,0.473229798758622,374
+University of Melbourne,Marketing,0.488774085841595,222
+University of Melbourne,Mathematics,0.531680741684865,314
+University of Melbourne,Medicine,0.423810871836737,513
+University of Melbourne,Nursing,0.404014532028782,49
+University of Melbourne,Physics,0.523122214878964,364
+University of Melbourne,Statistics,0.55439887985947,292
+University of New England,Accounting,0.520700533838487,186
+University of New England,Biology,0.390197500189112,86
+University of New England,Business,0.483235053432262,1260
+University of New England,Chemistry,0.437204548490487,46
+University of New England,Economics,0.492458592641124,166
+University of New England,Education,0.394902191050246,693
+University of New England,Engineering,0.587405534287608,239
+University of New England,Finance,0.525341573744675,115
+University of New England,Law,0.472731472508501,698
+University of New England,Marketing,0.515107698022125,49
+University of New England,Mathematics,0.525557856786158,37
+University of New England,Medicine,0.448105298484908,79
+University of New England,Nursing,0.371402296544787,261
+University of New England,Physics,0.425744144500989,14
+University of New South Wales,Accounting,0.535610212542622,922
+University of New South Wales,Architecture,0.462814310842387,1706
+University of New South Wales,Biology,0.461206206158992,225
+University of New South Wales,Business,0.496817534101278,4236
+University of New South Wales,Chemistry,0.46266525490651,308
+University of New South Wales,Economics,0.531605238104807,1306
+University of New South Wales,Education,0.430104261894772,686
+University of New South Wales,Engineering,0.515869658555366,10168
+University of New South Wales,Finance,0.534628796675409,3315
+University of New South Wales,Information Technology,0.574772760456991,70
+University of New South Wales,Law,0.487526079497802,786
+University of New South Wales,Marketing,0.498398410233227,591
+University of New South Wales,Mathematics,0.531546396837578,317
+University of New South Wales,Medicine,0.426932474846991,523
+University of New South Wales,Physics,0.502082726066798,176
+University of New South Wales,Statistics,0.589207635127524,192
+University of South Australia,Accounting,0.530627206104687,1952
+University of South Australia,Architecture,0.467447731007899,993
+University of South Australia,Biology,0.484632996931356,23
+University of South Australia,Business,0.48117420769889,6969
+University of South Australia,Chemistry,0.434921504406451,37
+University of South Australia,Economics,0.521024079513686,17
+University of South Australia,Education,0.369681938998202,1289
+University of South Australia,Engineering,0.509623249871878,1806
+University of South Australia,Finance,0.520010996831769,677
+University of South Australia,Information Technology,0.588164038964339,610
+University of South Australia,Law,0.48185535618909,345
+University of South Australia,Marketing,0.481972930222506,695
+University of South Australia,Mathematics,0.57351697600221,22
+University of South Australia,Medicine,0.440522369127504,143
+University of South Australia,Nursing,0.376509273310403,1356
+University of South Australia,Physics,0.379308476045423,10
+University of Southern Queensland,Accounting,0.525159161655009,487
+University of Southern Queensland,Biology,0.465232755927956,31
+University of Southern Queensland,Business,0.505738108066001,1919
+University of Southern Queensland,Economics,0.553172902441429,16
+University of Southern Queensland,Education,0.37454710394223,837
+University of Southern Queensland,Engineering,0.478026686676199,1689
+University of Southern Queensland,Finance,0.525611374245097,258
+University of Southern Queensland,Information Technology,0.608691357633196,260
+University of Southern Queensland,Law,0.469619721445488,391
+University of Southern Queensland,Marketing,0.504367423983778,80
+University of Southern Queensland,Mathematics,0.420722027145685,19
+University of Southern Queensland,Nursing,0.360737951365009,797
+University of Southern Queensland,Physics,0.46473368868433,11
+University of Southern Queensland,Statistics,0.63950619503034,14
+University of Sydney Business School,Accounting,0.538819094609443,111
+University of Sydney Business School,Business,0.528708790049694,370
+University of Sydney Business School,Economics,0.532467311804954,47
+University of Sydney Business School,Engineering,0.580106364597628,17
+University of Sydney Business School,Finance,0.523222304772633,292
+University of Sydney Business School,Law,0.511852244619202,37
+University of Sydney Business School,Marketing,0.504434770416651,73
+University of Tasmania,Accounting,0.502157063987824,324
+University of Tasmania,Architecture,0.456787151475574,337
+University of Tasmania,Biology,0.404247968422988,127
+University of Tasmania,Business,0.493623135221872,2218
+University of Tasmania,Chemistry,0.449107128332344,98
+University of Tasmania,Economics,0.524319048973273,181
+University of Tasmania,Education,0.368902023840651,635
+University of Tasmania,Engineering,0.501802199953405,1098
+University of Tasmania,Finance,0.507013779427258,169
+University of Tasmania,Information Technology,0.557482316366954,120
+University of Tasmania,Law,0.467194752798335,452
+University of Tasmania,Marketing,0.507315988018029,167
+University of Tasmania,Mathematics,0.536551807409983,55
+University of Tasmania,Medicine,0.419723285091831,222
+University of Tasmania,Nursing,0.36984531131052,937
+University of Tasmania,Physics,0.465170391179009,26
+University of Tasmania,Statistics,0.507991028998459,18
+"University of Technology, Sydney",Accounting,0.529166008996378,666
+"University of Technology, Sydney",Architecture,0.45617218884858,1508
+"University of Technology, Sydney",Biology,0.453857632808146,608
+"University of Technology, Sydney",Business,0.501128346678376,14251
+"University of Technology, Sydney",Chemistry,0.448384628436723,450
+"University of Technology, Sydney",Economics,0.476958691407532,977
+"University of Technology, Sydney",Education,0.405514420506411,702
+"University of Technology, Sydney",Engineering,0.503460139503398,5143
+"University of Technology, Sydney",Finance,0.526095079391778,1107
+"University of Technology, Sydney",Information Technology,0.617295409977217,2029
+"University of Technology, Sydney",Law,0.481571598077623,966
+"University of Technology, Sydney",Marketing,0.501206437502582,351
+"University of Technology, Sydney",Mathematics,0.590182835542708,119
+"University of Technology, Sydney",Medicine,0.347978179701005,149
+"University of Technology, Sydney",Nursing,0.367781022127453,1674
+"University of Technology, Sydney",Physics,0.476501819925893,100
+"University of Technology, Sydney",Statistics,0.541031973344221,49
+University of Western Sydney,Accounting,0.526268003143746,917
+University of Western Sydney,Architecture,0.497431591549192,21
+University of Western Sydney,Biology,0.431376074173324,270
+University of Western Sydney,Business,0.495804763727738,11820
+University of Western Sydney,Chemistry,0.440513138769383,260
+University of Western Sydney,Economics,0.512282951923167,269
+University of Western Sydney,Education,0.408557779562989,816
+University of Western Sydney,Engineering,0.497282138159896,2247
+University of Western Sydney,Finance,0.532321286957957,516
+University of Western Sydney,Information Technology,0.581466415629744,738
+University of Western Sydney,Law,0.477782484357946,977
+University of Western Sydney,Marketing,0.499815754143521,504
+University of Western Sydney,Mathematics,0.603577092507847,47
+University of Western Sydney,Medicine,0.390173923671502,341
+University of Western Sydney,Nursing,0.361827748879732,1827
+University of Western Sydney,Statistics,0.590357662259355,24
+University of Wollongong,Accounting,0.530803496880831,874
+University of Wollongong,Biology,0.441411641903047,157
+University of Wollongong,Business,0.509645945333191,2838
+University of Wollongong,Chemistry,0.441872201347987,223
+University of Wollongong,Economics,0.485890635881561,292
+University of Wollongong,Education,0.364227260703368,707
+University of Wollongong,Engineering,0.506864265418835,3518
+University of Wollongong,Finance,0.514217844690272,1038
+University of Wollongong,Information Technology,0.598238219883542,326
+University of Wollongong,Law,0.47102775147703,625
+University of Wollongong,Marketing,0.496724094793344,1487
+University of Wollongong,Mathematics,0.513273435253487,100
+University of Wollongong,Medicine,0.401244018398365,112
+University of Wollongong,Nursing,0.357616958769671,693
+University of Wollongong,Physics,0.479239433651579,160
+University of Wollongong,Statistics,0.577324920472062,37
+University of the Sunshine Coast,Accounting,0.505362209740307,298
+University of the Sunshine Coast,Biology,0.405430631628682,21
+University of the Sunshine Coast,Business,0.483991643200079,2012
+University of the Sunshine Coast,Chemistry,0.435243093271864,30
+University of the Sunshine Coast,Economics,0.501864909314012,89
+University of the Sunshine Coast,Education,0.365701845258881,278
+University of the Sunshine Coast,Engineering,0.479040230602871,456
+University of the Sunshine Coast,Finance,0.507640290633285,49
+University of the Sunshine Coast,Information Technology,0.536273688073192,139
+University of the Sunshine Coast,Law,0.486339190226903,123
+University of the Sunshine Coast,Marketing,0.486479538617059,232
+University of the Sunshine Coast,Mathematics,0.505324907271435,16
+University of the Sunshine Coast,Medicine,0.431338776832097,12
+University of the Sunshine Coast,Nursing,0.332855997256014,536
+Victoria University,Accounting,0.497570119097314,695
+Victoria University,Architecture,0.42111546216291,12
+Victoria University,Biology,0.424326032138391,27
+Victoria University,Business,0.485889952316297,6570
+Victoria University,Chemistry,0.437138993311722,53
+Victoria University,Economics,0.531038229038002,32
+Victoria University,Education,0.347434155932195,1319
+Victoria University,Engineering,0.487106811801998,1519
+Victoria University,Finance,0.516897156049983,292
+Victoria University,Information Technology,0.482791647681814,692
+Victoria University,Law,0.480133436671966,762
+Victoria University,Marketing,0.493245977090601,238
+Victoria University,Medicine,0.322144071931048,48
+Victoria University,Nursing,0.372870602064031,695
+Victorian College of the Arts,Business,0.4234342791126,38
+Victorian Institute of Technology,Business,0.429918673068116,26
+Victorian Institute of Technology,Engineering,0.492429330165089,54
+Victorian Institute of Technology,Information Technology,0.498434261517454,283
+Western Australian School of Mines,Engineering,0.451607831021621,56
+Western Sydney University,Accounting,0.517756994494313,728
+Western Sydney University,Architecture,0.469630735045644,1346
+Western Sydney University,Biology,0.477223186113163,497
+Western Sydney University,Business,0.499799813882729,2599
+Western Sydney University,Chemistry,0.476953910821612,450
+Western Sydney University,Economics,0.516210315946788,2217
+Western Sydney University,Education,0.389516794872747,1164
+Western Sydney University,Engineering,0.525953435582991,5890
+Western Sydney University,Finance,0.519940389219483,2273
+Western Sydney University,Information Technology,0.63123306417181,108
+Western Sydney University,Law,0.499248740464067,998
+Western Sydney University,Marketing,0.489674210849673,552
+Western Sydney University,Mathematics,0.539420082879652,442
+Western Sydney University,Medicine,0.39815414738665,723
+Western Sydney University,Nursing,0.366324910489569,494
+Western Sydney University,Physics,0.510003124621322,215
+Western Sydney University,Statistics,0.584710953902158,203
+William Angliss Institute,Business,0.378236809607885,584
+William Blue College of Hospitality Management,Business,0.413394089872425,296

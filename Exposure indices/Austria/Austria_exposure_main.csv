@@ -1,0 +1,164 @@
+university_name,field,exposure_alljobs_beta,n_people
+Academy of Fine Arts Vienna,Architecture,0.47563130908833,32
+Campus 02 University of Applied Sciences,Business,0.518221129394682,437
+Campus 02 University of Applied Sciences,Engineering,0.554929010086939,112
+Campus 02 University of Applied Sciences,Marketing,0.506256541787762,225
+Carinthia University of Applied Sciences,Architecture,0.526546852079639,13
+Carinthia University of Applied Sciences,Business,0.527831670716913,431
+Carinthia University of Applied Sciences,Engineering,0.551020548749548,234
+Ferdinand Porsche Fern FH,Business,0.548802724981836,181
+Graz University of Technology,Architecture,0.470148262471092,105
+Graz University of Technology,Biology,0.517532204539002,90
+Graz University of Technology,Business,0.612640032850582,55
+Graz University of Technology,Chemistry,0.476134119842412,144
+Graz University of Technology,Engineering,0.561441959125523,967
+Graz University of Technology,Mathematics,0.573931197617126,34
+Graz University of Technology,Physics,0.551346992669819,94
+IMC Krems University of Applied Sciences,Business,0.522819078856572,619
+IMC Krems University of Applied Sciences,Engineering,0.487772255423411,35
+IMC Krems University of Applied Sciences,Nursing,0.469078583448995,21
+IMC University of Applied Sciences of Krems,Business,0.513562487937357,999
+IMC University of Applied Sciences of Krems,Engineering,0.503661941082325,62
+IMC University of Applied Sciences of Krems,Nursing,0.456724262314398,56
+Johannes Kepler University Linz,Biology,0.45149058898652,15
+Johannes Kepler University Linz,Business,0.542015107551303,246
+Johannes Kepler University Linz,Chemistry,0.488879387314475,54
+Johannes Kepler University Linz,Economics,0.524032468237491,374
+Johannes Kepler University Linz,Engineering,0.590073090393186,155
+Johannes Kepler University Linz,Law,0.581486599875011,16
+Johannes Kepler University Linz,Marketing,0.527259822102744,13
+Johannes Kepler University Linz,Mathematics,0.585245056680154,13
+Johannes Kepler University Linz,Physics,0.580803409704085,14
+Johannes Kepler University Linz,Statistics,0.647992998568049,15
+"Lauder Business School, University of Applied Sciences",Business,0.517823226816883,187
+"Lauder Business School, University of Applied Sciences",Finance,0.539906711737154,13
+MCI - The Entrepreneurial School,Business,0.535847736535389,1272
+MCI - The Entrepreneurial School,Engineering,0.511150047998001,299
+MODUL University Vienna,Business,0.490346774730822,321
+MODUL University Vienna,Marketing,0.51380387861838,10
+Medical University of Graz,Nursing,0.461220651789681,35
+Medical University of Innsbruck,Medicine,0.504715619069735,19
+Montan University Leoben,Engineering,0.509190244270966,249
+New Design University,Architecture,0.512117052538569,25
+New Design University,Business,0.541626272648013,27
+New Design University,Engineering,0.516485934355046,58
+Paracelsus Private Medical University,Nursing,0.453375170271774,40
+Paris Lodron University of Salzburg,Biology,0.488141216628648,78
+Paris Lodron University of Salzburg,Business,0.519615874051232,24
+Paris Lodron University of Salzburg,Economics,0.493336980079508,18
+Paris Lodron University of Salzburg,Education,0.442813301583048,104
+Paris Lodron University of Salzburg,Engineering,0.600735824997399,69
+Paris Lodron University of Salzburg,Law,0.5514960405789,45
+Paris Lodron University of Salzburg,Mathematics,0.570596926302114,25
+Private University Schloss Seeburg,Business,0.512045974380757,29
+Private University Schloss Seeburg,Economics,0.436994121592841,10
+"Private Universität für Gesundheitswissenschaften, Medizinische Informatik und Technik",Nursing,0.402154649982573,71
+Saint Pölten University of Applied Sciences,Business,0.539843827314382,339
+Saint Pölten University of Applied Sciences,Engineering,0.555184310844625,191
+Saint Pölten University of Applied Sciences,Marketing,0.550846224800578,59
+Salzburg University of Applied Sciences,Business,0.51713766819699,608
+Salzburg University of Applied Sciences,Economics,0.513675419445673,15
+Salzburg University of Applied Sciences,Engineering,0.576320055613639,139
+Salzburg University of Applied Sciences,Information Technology,0.64834617430699,26
+Salzburg University of Applied Sciences,Marketing,0.51036270655405,14
+TU Wien,Architecture,0.490874262151938,474
+TU Wien,Business,0.606964796383346,105
+TU Wien,Chemistry,0.507014831188767,106
+TU Wien,Engineering,0.578119019259786,1363
+TU Wien,Information Technology,0.619340725107567,17
+TU Wien,Mathematics,0.543360967595774,90
+TU Wien,Physics,0.56557159438176,134
+TU Wien,Statistics,0.589028596558023,24
+University College of Teacher Education Vienna,Education,0.400511499534133,208
+University College of Teacher Education Vienna-Krems,Education,0.359073770087722,27
+University of Agricultural and Environmental Education,Education,0.484393694185543,73
+University of Applied Sciences BFI Vienna,Business,0.537921457003975,802
+University of Applied Sciences BFI Vienna,Economics,0.505602650473908,17
+University of Applied Sciences BFI Vienna,Finance,0.526693757172492,97
+University of Applied Sciences Burgenland,Business,0.554165418616834,159
+University of Applied Sciences Burgenland,Engineering,0.553517198330941,40
+University of Applied Sciences Burgenland,Marketing,0.538942183829069,19
+University of Applied Sciences Campus Vienna,Business,0.517614987995523,202
+University of Applied Sciences Campus Vienna,Engineering,0.521499924536572,375
+University of Applied Sciences Campus Vienna,Information Technology,0.681489401389406,22
+University of Applied Sciences Campus Vienna,Nursing,0.425600569235241,13
+University of Applied Sciences Kufstein Tirol Bildungs GmbH,Business,0.516611319282109,627
+University of Applied Sciences Kufstein Tirol Bildungs GmbH,Economics,0.490028149363612,16
+University of Applied Sciences Kufstein Tirol Bildungs GmbH,Engineering,0.601713459665283,42
+University of Applied Sciences Kufstein Tirol Bildungs GmbH,Marketing,0.525153006873469,124
+University of Applied Sciences Technikum Wien,Business,0.61219814150721,192
+University of Applied Sciences Technikum Wien,Economics,0.521112189760094,17
+University of Applied Sciences Technikum Wien,Engineering,0.570676940910326,1174
+University of Applied Sciences Technikum Wien,Information Technology,0.623111916728757,23
+University of Applied Sciences Upper Austria,Business,0.51893254697738,920
+University of Applied Sciences Upper Austria,Engineering,0.555735752584203,954
+University of Applied Sciences Upper Austria,Finance,0.498724975665692,10
+University of Applied Sciences Upper Austria,Marketing,0.529119270954466,287
+University of Applied Sciences Wiener Neustadt,Business,0.522258978873189,698
+University of Applied Sciences Wiener Neustadt,Economics,0.510022371532558,22
+University of Applied Sciences Wiener Neustadt,Engineering,0.543253667753965,196
+University of Applied Sciences Wiener Neustadt,Finance,0.500048441405799,65
+University of Applied Sciences Wiener Neustadt,Marketing,0.522531039638146,102
+University of Applied Sciences for Management and Communication Vienna,Accounting,0.549231718219958,15
+University of Applied Sciences for Management and Communication Vienna,Business,0.522954025603394,1162
+University of Applied Sciences for Management and Communication Vienna,Finance,0.563092843001222,15
+University of Applied Sciences for Management and Communication Vienna,Marketing,0.51907211161959,413
+University of Applied Sciences of Joanneum,Business,0.528551109754504,706
+University of Applied Sciences of Joanneum,Economics,0.467611287632032,13
+University of Applied Sciences of Joanneum,Engineering,0.545600765439812,460
+University of Applied Sciences of Vorarlberg,Business,0.5151932470159,174
+University of Applied Sciences of Vorarlberg,Economics,0.51746596131736,11
+University of Applied Sciences of Vorarlberg,Engineering,0.568282405843257,190
+University of Education Salzburg Stefan Zweig,Education,0.366049884662291,14
+University of Graz,Biology,0.501531751916409,176
+University of Graz,Business,0.51831233753161,417
+University of Graz,Chemistry,0.497295279304695,55
+University of Graz,Economics,0.52541540355805,175
+University of Graz,Education,0.418023186015536,76
+University of Graz,Physics,0.566664391024167,30
+University of Klagenfurt,Business,0.513081250077366,133
+University of Klagenfurt,Economics,0.544733271374371,27
+University of Klagenfurt,Education,0.458991993160147,13
+University of Klagenfurt,Engineering,0.641676247965747,24
+University of Klagenfurt,Marketing,0.53591896141409,10
+University of Klagenfurt,Mathematics,0.637618233536791,11
+University of Music and Performing Arts Graz,Engineering,0.512955959431828,11
+University of Music and Performing Arts Vienna,Education,0.460571123499407,14
+"University of Natural Resources and Life Sciences, Vienna",Architecture,0.48085134037152,59
+"University of Natural Resources and Life Sciences, Vienna",Business,0.521911554740041,213
+"University of Natural Resources and Life Sciences, Vienna",Engineering,0.496926643286802,65
+"University of Veterinary Medicine, Vienna",Business,0.534521585407863,10
+University of Vienna,Architecture,0.478007119880583,15
+University of Vienna,Biology,0.518967138109796,188
+University of Vienna,Business,0.539327864083393,508
+University of Vienna,Chemistry,0.481027305562443,141
+University of Vienna,Economics,0.529743566565451,183
+University of Vienna,Education,0.426021781247613,266
+University of Vienna,Engineering,0.648903145468752,117
+University of Vienna,Law,0.514682998285192,33
+University of Vienna,Marketing,0.428410845490839,12
+University of Vienna,Mathematics,0.610842255370352,85
+University of Vienna,Physics,0.583048797001298,111
+University of Vienna,Statistics,0.603048516586891,50
+Universität Innsbruck,Architecture,0.483973333622772,110
+Universität Innsbruck,Biology,0.492296213052623,42
+Universität Innsbruck,Business,0.522853148455761,546
+Universität Innsbruck,Chemistry,0.471665133030927,64
+Universität Innsbruck,Economics,0.526576803988422,372
+Universität Innsbruck,Education,0.423192257695895,40
+Universität Innsbruck,Engineering,0.578930433848384,126
+Universität Innsbruck,Marketing,0.527103186511956,17
+Universität Innsbruck,Mathematics,0.660146556545746,13
+Universität Innsbruck,Physics,0.538737029979548,53
+Universität Mozarteum Salzburg,Education,0.438283092729212,10
+Universität für künstlerische und industrielle Gestaltung Linz,Architecture,0.395491005949115,10
+Vienna University of Economics & Business,Accounting,0.520547456778693,31
+Vienna University of Economics & Business,Business,0.531969885956024,3019
+Vienna University of Economics & Business,Economics,0.536482409989068,1073
+Vienna University of Economics & Business,Finance,0.523812811203101,110
+Vienna University of Economics & Business,Law,0.530296400330401,72
+Vienna University of Economics & Business,Marketing,0.521796985688449,84
+Vorarlberg University of Education,Education,0.364125743225777,19
+Webster Vienna Private University,Business,0.524604655138637,204
+Webster Vienna Private University,Economics,0.509877195581322,10
+Webster Vienna Private University,Marketing,0.544511160695374,10

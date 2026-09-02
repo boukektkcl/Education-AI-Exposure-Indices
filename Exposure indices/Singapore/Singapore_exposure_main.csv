@@ -1,0 +1,122 @@
+university_name,field,exposure_alljobs_beta,n_people
+Curtin Education Centre Pte Ltd.,Accounting,0.573566557018588,19
+Curtin Education Centre Pte Ltd.,Business,0.512092475804904,271
+Curtin Education Centre Pte Ltd.,Finance,0.531160351031605,143
+Curtin Education Centre Pte Ltd.,Marketing,0.508423593203225,123
+Curtin Education Centre Pte Ltd.,Nursing,0.398058734426585,204
+"Department of Industrial Systems Engineering and Management, NUS",Engineering,0.623148413445888,14
+ERC Institute,Business,0.460330819598291,12
+Informatics Education Ltd.,Engineering,0.542114724646789,12
+James Cook University Singapore,Business,0.49968258700569,96
+James Cook University Singapore,Education,0.294562536818328,10
+James Cook University Singapore,Information Technology,0.621503214678694,21
+LASALLE College of the Arts,Architecture,0.483667678603439,34
+LASALLE College of the Arts,Business,0.480386148775286,235
+Lee Kong Chian School of Medicine,Medicine,0.374031558604434,33
+Marketing Institute of Singapore,Business,0.460818698634807,17
+NIE - Office of Graduate Studies & Professional Learning,Education,0.391008311411403,15
+NUS Faculty of Law,Law,0.470377018245437,272
+NUS Overseas Colleges,Business,0.507523273944509,15
+NUS Overseas Colleges,Engineering,0.523515113790851,10
+Nanyang Academy of Fine Arts,Business,0.500508369591314,21
+Nanyang Academy of Fine Arts,Marketing,0.46921984395575,12
+Nanyang Business School,Accounting,0.526924376236473,207
+Nanyang Business School,Business,0.535389071291534,453
+Nanyang Business School,Finance,0.534154438836049,72
+Nanyang Business School,Marketing,0.502516814282615,32
+Nanyang Institute of Management,Business,0.491646469956244,12
+Nanyang Polytechnic,Business,0.55532956418939,19
+Nanyang Polytechnic,Engineering,0.618927870630553,11
+Nanyang Technological University,Accounting,0.529946698558132,2423
+Nanyang Technological University,Biology,0.498907778555209,31
+Nanyang Technological University,Business,0.526137058469024,5663
+Nanyang Technological University,Chemistry,0.487222574994553,1506
+Nanyang Technological University,Economics,0.553336442815676,1389
+Nanyang Technological University,Education,0.398376972055944,438
+Nanyang Technological University,Engineering,0.544607153863611,19368
+Nanyang Technological University,Finance,0.525997330460782,696
+Nanyang Technological University,Information Technology,0.652784456968847,24
+Nanyang Technological University,Law,0.531777498639366,21
+Nanyang Technological University,Marketing,0.507808798367201,138
+Nanyang Technological University,Mathematics,0.561703511217126,262
+Nanyang Technological University,Medicine,0.432726495141384,69
+Nanyang Technological University,Physics,0.549761642330227,374
+Nanyang Technological University,Statistics,0.58960235640709,309
+National University of Singapore,Accounting,0.539955130055115,123
+National University of Singapore,Architecture,0.489663794945656,817
+National University of Singapore,Biology,0.534008217268451,365
+National University of Singapore,Business,0.529510050686939,8582
+National University of Singapore,Chemistry,0.490898146904064,1652
+National University of Singapore,Economics,0.534330226490616,2879
+National University of Singapore,Engineering,0.541862062342225,14712
+National University of Singapore,Finance,0.551763531092807,436
+National University of Singapore,Information Technology,0.620206695397071,103
+National University of Singapore,Law,0.468462798340893,1299
+National University of Singapore,Marketing,0.509347031228557,114
+National University of Singapore,Mathematics,0.542578220296122,799
+National University of Singapore,Medicine,0.427463150906761,513
+National University of Singapore,Nursing,0.383522484210044,346
+National University of Singapore,Physics,0.531108452098744,351
+National University of Singapore,Statistics,0.586859137338693,817
+"National University of Singapore, Faculty of Science",Business,0.476411088702682,111
+"National University of Singapore, Faculty of Science",Chemistry,0.514924913597256,19
+"National University of Singapore, Faculty of Science",Engineering,0.564292072617463,19
+Ngee Ann Polytechnic,Business,0.511204792628347,46
+Ngee Ann Polytechnic,Engineering,0.483752985544906,31
+PSB Academy,Biology,0.4292450554453,10
+PSB Academy,Business,0.506750167267812,82
+PSB Academy,Engineering,0.517023688097675,54
+PSB Academy,Finance,0.538605693726879,10
+PSB Academy,Information Technology,0.619120816143886,12
+Raffles Design Institute (Singapore),Business,0.506917631233429,20
+Republic Polytechnic,Business,0.477859573301409,16
+SHRI Academy,Business,0.485139651720536,12
+SIM Global Education,Business,0.497658438154195,11
+Singapore Institute of Management,Accounting,0.538153425494576,130
+Singapore Institute of Management,Business,0.51788326479366,3198
+Singapore Institute of Management,Economics,0.523691119487915,127
+Singapore Institute of Management,Engineering,0.599053284291543,320
+Singapore Institute of Management,Finance,0.539621427597804,1649
+Singapore Institute of Management,Information Technology,0.640811636362825,73
+Singapore Institute of Management,Law,0.523624330007392,62
+Singapore Institute of Management,Marketing,0.501947086817214,376
+Singapore Institute of Management,Mathematics,0.453305143626054,13
+Singapore Institute of Management,Nursing,0.427890225053323,15
+Singapore Institute of Technology,Accounting,0.551259777809983,282
+Singapore Institute of Technology,Business,0.47890367428203,500
+Singapore Institute of Technology,Education,0.345144585129933,27
+Singapore Institute of Technology,Engineering,0.535227802102627,2112
+Singapore Institute of Technology,Finance,0.556131690550964,45
+Singapore Institute of Technology,Information Technology,0.634635960770223,20
+Singapore Institute of Technology,Nursing,0.352470394902438,85
+Singapore Management University,Accounting,0.541612419913146,893
+Singapore Management University,Business,0.539000621598579,8886
+Singapore Management University,Economics,0.544867482920304,1227
+Singapore Management University,Engineering,0.577950184621824,72
+Singapore Management University,Finance,0.535253433057888,1108
+Singapore Management University,Information Technology,0.64525639485849,57
+Singapore Management University,Law,0.477346408047642,709
+Singapore Management University,Marketing,0.524823861027015,301
+Singapore Management University,Statistics,0.596663368165469,22
+Singapore Polytechnic,Business,0.526678919307728,64
+Singapore Polytechnic,Engineering,0.570115668050392,32
+Singapore University of Social Sciences,Accounting,0.546494300008616,274
+Singapore University of Social Sciences,Business,0.515750662445786,3327
+Singapore University of Social Sciences,Economics,0.45607856233609,20
+Singapore University of Social Sciences,Education,0.346912592948036,158
+Singapore University of Social Sciences,Engineering,0.528503569983174,586
+Singapore University of Social Sciences,Finance,0.536215379347217,338
+Singapore University of Social Sciences,Information Technology,0.662237920160264,143
+Singapore University of Social Sciences,Law,0.511322120102245,23
+Singapore University of Social Sciences,Marketing,0.511080505904418,669
+Singapore University of Social Sciences,Mathematics,0.521965091498204,104
+Singapore University of Technology and Design,Architecture,0.496073005293597,302
+Singapore University of Technology and Design,Business,0.567437544135575,14
+Singapore University of Technology and Design,Engineering,0.607114640946611,1033
+Singapore University of Technology and Design,Information Technology,0.656723257644765,11
+Temasek Polytechnic,Business,0.50464914251723,20
+Temasek Polytechnic,Engineering,0.458749499598693,25
+Vatel Singapore,Business,0.424529203779937,23
+Wheelock College-Singapore,Education,0.355392546879598,91
+Yale-NUS College,Economics,0.556508677743644,117
+Yale-NUS College,Engineering,0.626250002749123,19

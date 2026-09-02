@@ -1,0 +1,733 @@
+university_name,field,exposure_firstjob_beta,n_people
+Abrar University,Engineering,0.59700214747849,66
+Ahrar Institute of Technology and Higher Education,Architecture,0.529154454722372,15
+Ahrar Institute of Technology and Higher Education,Engineering,0.577252877630489,73
+Alborz Highschool,Engineering,0.422086233637234,12
+Alborz University,Business,0.445071065326006,14
+Alborz University,Engineering,0.486391612007302,24
+Alborz University of Medical Sciences,Engineering,0.540162551768845,18
+Ale-Taha Institute of Higher Education,Engineering,0.582980500896743,27
+Allameh Tabataba'i University,Accounting,0.526139672241244,128
+Allameh Tabataba'i University,Business,0.528135261810493,698
+Allameh Tabataba'i University,Economics,0.532009738360096,385
+Allameh Tabataba'i University,Education,0.402766970938286,35
+Allameh Tabataba'i University,Engineering,0.555614656591989,107
+Allameh Tabataba'i University,Finance,0.551754801956916,25
+Allameh Tabataba'i University,Information Technology,0.567181566849861,27
+Allameh Tabataba'i University,Law,0.468064241430276,171
+Allameh Tabataba'i University,Statistics,0.567189809367008,98
+Allaodole Semnani Institute of Higher Education,Architecture,0.478985299429409,16
+Allaodole Semnani Institute of Higher Education,Engineering,0.469194238584915,17
+Alzahra University,Accounting,0.526220514409218,69
+Alzahra University,Architecture,0.502933306240279,14
+Alzahra University,Biology,0.503604375978413,56
+Alzahra University,Business,0.51734541488134,111
+Alzahra University,Chemistry,0.51435568737912,100
+Alzahra University,Economics,0.483233912138961,67
+Alzahra University,Education,0.354609653904601,16
+Alzahra University,Engineering,0.597209935305447,565
+Alzahra University,Finance,0.555354014391284,10
+Alzahra University,Information Technology,0.676031763586866,14
+Alzahra University,Law,0.520197842242968,23
+Alzahra University,Mathematics,0.544558409567382,80
+Alzahra University,Physics,0.494389624537313,70
+Alzahra University,Statistics,0.561793661725087,21
+Amirkabir University of Technology,Business,0.537289828376587,17
+Amirkabir University of Technology,Chemistry,0.469648416958257,11
+Amirkabir University of Technology,Engineering,0.543572308890251,4636
+Amirkabir University of Technology,Information Technology,0.663822755160421,74
+Amirkabir University of Technology,Mathematics,0.563972845068016,124
+Amirkabir University of Technology,Physics,0.560887723482567,100
+Amol University of Special Modern Technologies,Biology,0.442619816263568,10
+Amol University of Special Modern Technologies,Engineering,0.582085003498932,29
+Arak University,Accounting,0.538132601197276,12
+Arak University,Architecture,0.518243705470282,12
+Arak University,Biology,0.547232220289424,17
+Arak University,Business,0.490383318797525,14
+Arak University,Chemistry,0.474805299470374,53
+Arak University,Education,0.500917826381631,10
+Arak University,Engineering,0.528530708736218,1143
+Arak University,Mathematics,0.542931787758656,41
+Arak University,Physics,0.548007754007957,42
+Arak University of Medical Sciences,Nursing,0.323109356083439,27
+Ardabil University of Medical Sciences,Nursing,0.383329826729774,13
+Ardakan University,Engineering,0.60939939003162,33
+Art University of Isfahan,Architecture,0.490532662584704,137
+Art University of Isfahan,Engineering,0.491907369712748,54
+Asrar Institute of Higher Education,Engineering,0.506434406629697,12
+Ayatolah Borujerdei University,Economics,0.515272664788309,14
+Ayatolah Borujerdei University,Engineering,0.539347417054411,81
+Azarbaijan Shahid Madani University,Biology,0.458667267185024,10
+Azarbaijan Shahid Madani University,Chemistry,0.494062954752273,15
+Azarbaijan Shahid Madani University,Engineering,0.532807986039982,110
+Azarbaijan Shahid Madani University,Information Technology,0.678605184102241,22
+Babol Noshirvani University of Technology,Architecture,0.471225795956548,15
+Babol Noshirvani University of Technology,Engineering,0.529430419603756,1250
+Babol University of Medical Sciences,Engineering,0.52333838389133,16
+Babol University of Medical Sciences,Nursing,0.36852039378266,28
+Baha'i Institute for  Higher Education (BIHE),Accounting,0.500762697734433,16
+Baha'i Institute for  Higher Education (BIHE),Architecture,0.485793210689717,14
+Baha'i Institute for  Higher Education (BIHE),Business,0.533427607168441,17
+Baha'i Institute for  Higher Education (BIHE),Engineering,0.581964703889619,61
+Bahar Educational Institute,Engineering,0.596941209109263,15
+Behbahan Khatam Alanbia University of Technology,Engineering,0.528925444035822,16
+Birjand University of Medical Sciences,Nursing,0.371085507361679,24
+Birjand University of Technology,Engineering,0.58177408130591,112
+Bozorgmehr University of Qaenat,Engineering,0.707440527954505,10
+Bu-Ali Sina University,Accounting,0.52565335231757,28
+Bu-Ali Sina University,Architecture,0.481560689590177,72
+Bu-Ali Sina University,Biology,0.500478744331211,14
+Bu-Ali Sina University,Business,0.510567671936084,13
+Bu-Ali Sina University,Chemistry,0.50846604896585,77
+Bu-Ali Sina University,Economics,0.522400277113744,56
+Bu-Ali Sina University,Education,0.485580819948992,10
+Bu-Ali Sina University,Engineering,0.538730857418016,1012
+Bu-Ali Sina University,Information Technology,0.627014476034437,16
+Bu-Ali Sina University,Law,0.465249466314459,29
+Bu-Ali Sina University,Mathematics,0.551979841596728,26
+Bu-Ali Sina University,Physics,0.503289001388709,82
+Bu-Ali Sina University,Statistics,0.677200685320554,17
+Buein Zahra Technical University,Engineering,0.585344829007086,234
+Buein Zahra Technical University,Information Technology,0.758982334020691,11
+Bushehr Province University of Medical Sciences,Engineering,0.532778750879739,13
+Bushehr Province University of Medical Sciences,Nursing,0.329959007734116,15
+Chabahar Maritime University,Business,0.535272706916736,28
+Chabahar Maritime University,Engineering,0.447437929939306,73
+"Civil Aviation Technology College (CATC), IR",Engineering,0.426028044005232,70
+"Civil Engineering Faculty, Shahid Rajaee Teacher Training University",Engineering,0.495193732305462,18
+Damghan University,Biology,0.553013642093823,21
+Damghan University,Chemistry,0.532465175106362,36
+Damghan University,Engineering,0.599561084619273,197
+Damghan University,Mathematics,0.540598371783506,25
+Damghan University,Physics,0.529034059954051,28
+Dehban Digital Marketing Academy,Business,0.530029257588235,11
+Deylaman Institute of Higher Education,Architecture,0.462634123600506,17
+Deylaman Institute of Higher Education,Engineering,0.524946550488524,27
+ECO College of Insurance,Business,0.524014931591566,28
+Ekbatan University,Engineering,0.407339631645738,10
+"Electrical Engineering Department, Sharif University of Technology",Engineering,0.504861105482521,10
+Eqbal Lahoori Institute of Higher Education,Engineering,0.55486717455385,21
+Eram Shiraz Higher Education Institute,Architecture,0.531269454116248,14
+Ershad Damavand Institute of Higher Education,Accounting,0.533706810243658,11
+Ershad Damavand Institute of Higher Education,Business,0.54903849131234,23
+Ershad Damavand Institute of Higher Education,Engineering,0.65939779478013,19
+Esfahan Technical and Vocational College (Mohajer),Engineering,0.530545403722755,87
+Eshragh Institute of Higher Education,Engineering,0.574118776965307,10
+"Faculty of Arts and Architecture / Islamic Azad University, Central Tehran Branch",Architecture,0.470106773060589,91
+"Faculty of Arts and Architecture / Islamic Azad University, Central Tehran Branch",Engineering,0.500251322129269,43
+"Faculty of Arts and Architecture / Islamic Azad University, South Tehran Branch",Accounting,0.543877563985434,14
+"Faculty of Arts and Architecture / Islamic Azad University, South Tehran Branch",Architecture,0.484699955496747,289
+"Faculty of Arts and Architecture / Islamic Azad University, South Tehran Branch",Business,0.524636006758493,18
+"Faculty of Arts and Architecture / Islamic Azad University, South Tehran Branch",Engineering,0.52661694350487,378
+"Faculty of Arts and Architecture / Islamic Azad University, South Tehran Branch",Information Technology,0.57803093751233,12
+Farhangian University,Education,0.345546802739666,95
+Farhangian University,Mathematics,0.364335923909178,12
+Farhangian University,Physics,0.395692241251887,12
+Fasa University,Engineering,0.560883199694811,119
+Fasa University,Information Technology,0.714593602320039,10
+Ferdows Institute of Higher Education,Business,0.562391664276469,12
+Ferdows Institute of Higher Education,Engineering,0.714278981695115,13
+Ferdowsi University of Mashhad,Accounting,0.541407487306602,56
+Ferdowsi University of Mashhad,Architecture,0.482770004394148,116
+Ferdowsi University of Mashhad,Biology,0.506809834557079,82
+Ferdowsi University of Mashhad,Business,0.499053852893793,178
+Ferdowsi University of Mashhad,Chemistry,0.500371294843094,70
+Ferdowsi University of Mashhad,Economics,0.521958225199174,102
+Ferdowsi University of Mashhad,Education,0.386224042051516,23
+Ferdowsi University of Mashhad,Engineering,0.542701368308394,2139
+Ferdowsi University of Mashhad,Finance,0.49569890583413,11
+Ferdowsi University of Mashhad,Information Technology,0.64750827332316,14
+Ferdowsi University of Mashhad,Law,0.479705332541348,80
+Ferdowsi University of Mashhad,Mathematics,0.521848445063064,86
+Ferdowsi University of Mashhad,Physics,0.543214001485459,104
+Ferdowsi University of Mashhad,Statistics,0.579708954026698,56
+Foulad Institute of Technology,Engineering,0.51814293495139,26
+Garmsar University,Architecture,0.453538356653586,12
+Garmsar University,Engineering,0.547803120369464,42
+Ghazali Institute of Higher Education,Engineering,0.701779006692204,18
+Golestan University,Architecture,0.452304535845861,30
+Golestan University,Chemistry,0.530101460997757,14
+Golestan University,Engineering,0.584847483510314,244
+Golestan University,Statistics,0.569181448808003,17
+Golestan University of Medical Sciences,Nursing,0.324071915456602,23
+Golpayegan University of Technology,Engineering,0.532343597376141,55
+Gonbad Kavous University,Engineering,0.606448250013485,10
+Gorgan University of Agriculture and Natural Resources,Biology,0.477356446047629,10
+Gorgan University of Agriculture and Natural Resources,Business,0.487859439444617,20
+Gorgan University of Agriculture and Natural Resources,Engineering,0.510015873096986,88
+Guilan University of Medical Sciences,Engineering,0.488136761402811,14
+Guilan University of Medical Sciences,Nursing,0.387773394963829,41
+Hadaf Institute of Higher Education,Engineering,0.565176376724432,15
+Hakim Sabzevari University,Architecture,0.489171157394608,30
+Hakim Sabzevari University,Chemistry,0.53098506128371,22
+Hakim Sabzevari University,Engineering,0.528419366899557,296
+Hakim Sabzevari University,Law,0.439543892941673,11
+Hakim Sabzevari University,Physics,0.500509157805108,26
+Hamedan University of Medical Sciences,Engineering,0.450751821473532,13
+Hamedan University of Medical Sciences,Nursing,0.368231916204912,24
+Hamedan University of Technology,Engineering,0.571485369520075,408
+Hamedan University of Technology,Information Technology,0.705442799811575,36
+Higher Education Center for Cultural Heritage,Architecture,0.531650890784698,18
+Hormozgan University of Medical Sciences,Nursing,0.363828842125716,13
+Ilam University,Accounting,0.514668144205832,11
+Ilam University,Architecture,0.50729523981946,11
+Ilam University,Chemistry,0.495653748982378,12
+Ilam University,Engineering,0.575904640677585,110
+Ilam University,Information Technology,0.757377934900275,13
+Imam Hossein University,Engineering,0.496197316872444,31
+Imam Javad University College,Engineering,0.659141485427962,13
+Imam Khomeini International University,Accounting,0.54764142158471,41
+Imam Khomeini International University,Architecture,0.477280224092069,111
+Imam Khomeini International University,Business,0.534596020983084,41
+Imam Khomeini International University,Chemistry,0.515831092144212,43
+Imam Khomeini International University,Engineering,0.539240383212199,1093
+Imam Khomeini International University,Finance,0.490837496504071,12
+Imam Khomeini International University,Law,0.50331663995933,41
+Imam Khomeini International University,Mathematics,0.531581888283022,28
+Imam Khomeini International University,Physics,0.567672169480407,34
+Imam Khomeini International University,Statistics,0.568041851862986,45
+Imam Reza International University,Accounting,0.491792602922516,10
+Imam Reza International University,Business,0.526707565316996,35
+Imam Reza International University,Engineering,0.615903753677879,139
+Imam Sadiq University,Business,0.540798438486882,41
+Imam Sadiq University,Economics,0.549262203733822,20
+Imam Sadiq University,Law,0.52626163308598,20
+Industrial Management Institute,Accounting,0.560374519725762,10
+Industrial Management Institute,Business,0.473399688254347,32
+Industrial Management Institute,Engineering,0.58646939245043,12
+"Institute for Advanced Studies in Basic Sciences, Zanjan",Engineering,0.69877292680861,42
+"Institute for Advanced Studies in Basic Sciences, Zanjan",Information Technology,0.686284976292343,75
+Institute for Higher Education ACECR of Isfahan,Engineering,0.63611788582177,10
+Iran University of Medical Sciences,Engineering,0.404092728362659,18
+Iran University of Medical Sciences,Nursing,0.413326104956704,62
+Iran University of Science and Technology,Architecture,0.493539459867996,137
+Iran University of Science and Technology,Business,0.522610275098692,25
+Iran University of Science and Technology,Engineering,0.537187383354291,3452
+Iran University of Science and Technology,Information Technology,0.601532945161893,77
+Iran University of Science and Technology,Mathematics,0.553878900752985,96
+Iran University of Science and Technology,Physics,0.556840056951045,73
+Iran's University of Art,Architecture,0.524633911431683,45
+Iran's University of Art,Engineering,0.487415474859761,25
+Irib University,Engineering,0.636315838109526,19
+Isfahan University of Medical Sciences,Business,0.505499221585238,11
+Isfahan University of Medical Sciences,Engineering,0.440416975513729,31
+Isfahan University of Medical Sciences,Nursing,0.418605094483012,48
+Isfahan University of Technology,Business,0.513813056649671,27
+Isfahan University of Technology,Chemistry,0.49710737834144,117
+Isfahan University of Technology,Engineering,0.526652748479383,3060
+Isfahan University of Technology,Information Technology,0.618465412608441,61
+Isfahan University of Technology,Mathematics,0.500196937344715,52
+Isfahan University of Technology,Physics,0.556707519178001,83
+Isfahan University of Technology,Statistics,0.603926962178175,57
+Islamic Azad University,Accounting,0.537668410001538,23
+Islamic Azad University,Architecture,0.48401464091814,34
+Islamic Azad University,Biology,0.507825955582037,55
+Islamic Azad University,Business,0.497865674174766,123
+Islamic Azad University,Chemistry,0.507659647553788,41
+Islamic Azad University,Economics,0.495386523223951,10
+Islamic Azad University,Education,0.448378365944063,10
+Islamic Azad University,Engineering,0.502609387894459,2888
+Islamic Azad University,Information Technology,0.582961665889331,49
+Islamic Azad University,Law,0.477414276921394,11
+Islamic Azad University,Nursing,0.373017757368546,24
+Islamic Azad University,Physics,0.511610835163505,77
+Islamic Azad University - Roudehen Branch,Accounting,0.504410957747542,49
+Islamic Azad University - Roudehen Branch,Architecture,0.460883540913462,84
+Islamic Azad University - Roudehen Branch,Business,0.457174717404597,14
+Islamic Azad University - Roudehen Branch,Engineering,0.566851265734736,241
+Islamic Azad University - Roudehen Branch,Finance,0.502914703964568,13
+Islamic Azad University - Roudehen Branch,Information Technology,0.569362588780655,15
+Islamic Azad University Central Tehran Branch,Accounting,0.533873178451152,161
+Islamic Azad University Central Tehran Branch,Architecture,0.485216398585561,237
+Islamic Azad University Central Tehran Branch,Biology,0.478847522654762,43
+Islamic Azad University Central Tehran Branch,Business,0.510903980756051,277
+Islamic Azad University Central Tehran Branch,Chemistry,0.489591575111092,78
+Islamic Azad University Central Tehran Branch,Economics,0.548192109231046,79
+Islamic Azad University Central Tehran Branch,Education,0.393699530639232,25
+Islamic Azad University Central Tehran Branch,Engineering,0.547168606775461,1872
+Islamic Azad University Central Tehran Branch,Finance,0.537487166742569,50
+Islamic Azad University Central Tehran Branch,Information Technology,0.624396214333844,54
+Islamic Azad University Central Tehran Branch,Law,0.486690194891682,66
+Islamic Azad University Central Tehran Branch,Mathematics,0.49547200973671,35
+Islamic Azad University Central Tehran Branch,Physics,0.486416616208859,31
+Islamic Azad University Central Tehran Branch,Statistics,0.575118507129974,12
+Islamic Azad University North Tehran Branch,Accounting,0.533420690160596,89
+Islamic Azad University North Tehran Branch,Architecture,0.475583318702603,71
+Islamic Azad University North Tehran Branch,Biology,0.481508835907634,35
+Islamic Azad University North Tehran Branch,Business,0.535889136229007,175
+Islamic Azad University North Tehran Branch,Chemistry,0.503102531933329,73
+Islamic Azad University North Tehran Branch,Engineering,0.568744137337385,958
+Islamic Azad University North Tehran Branch,Finance,0.506850474806869,26
+Islamic Azad University North Tehran Branch,Information Technology,0.625252956915271,99
+Islamic Azad University North Tehran Branch,Law,0.464224741901263,57
+Islamic Azad University North Tehran Branch,Physics,0.536355566704527,32
+"Islamic Azad University, Najafabad Branch",Engineering,0.515704696389192,126
+Jahrom University,Engineering,0.610274237031636,69
+Jahrom University,Information Technology,0.654201146973785,27
+Jahrom University of Medical Sciences,Nursing,0.418511803205134,13
+Jundi Shapur University of Technology,Engineering,0.54240142909338,94
+K.N. Toosi University of Technology,Chemistry,0.519256546666787,93
+K.N. Toosi University of Technology,Engineering,0.551682456678182,2226
+K.N. Toosi University of Technology,Information Technology,0.622610949147929,39
+K.N. Toosi University of Technology,Mathematics,0.566380425654613,93
+K.N. Toosi University of Technology,Physics,0.555360827121247,79
+Kamal-ol-Molk Institute of Higher Education,Architecture,0.559813397301824,19
+Kashan University of Medical Sciences and Health Services,Engineering,0.411842679228422,12
+Kashan University of Medical Sciences and Health Services,Nursing,0.312643973684345,14
+Kerman Medical University,Engineering,0.436445837735495,14
+Kerman Medical University,Nursing,0.398443125364458,29
+Kermanshah University of Medical Sciences,Engineering,0.529919164418726,12
+Kermanshah University of Medical Sciences,Nursing,0.363164300766897,22
+Kermanshah University of Technology,Engineering,0.559603197631853,175
+Kermanshah University of Technology,Information Technology,0.750765133824959,11
+Kharazmi University,Accounting,0.537616540833892,92
+Kharazmi University,Architecture,0.541796149074524,14
+Kharazmi University,Biology,0.508790685583037,121
+Kharazmi University,Business,0.52380126137809,110
+Kharazmi University,Chemistry,0.496327017412809,135
+Kharazmi University,Economics,0.554733125432812,41
+Kharazmi University,Education,0.406800867682821,33
+Kharazmi University,Engineering,0.616492377242533,547
+Kharazmi University,Finance,0.525106248438058,24
+Kharazmi University,Law,0.52099230265752,20
+Kharazmi University,Mathematics,0.537399480843147,79
+Kharazmi University,Physics,0.55338116834611,99
+Khatam University,Accounting,0.543511521901964,10
+Khavaran Institute of Higher Education,Architecture,0.470834923654865,33
+Khavaran Institute of Higher Education,Engineering,0.539648789770924,119
+Khayyam University,Accounting,0.514312347786645,16
+Khayyam University,Architecture,0.484968171453019,132
+Khayyam University,Engineering,0.577621432761463,354
+Khayyam University,Information Technology,0.686133770943003,19
+Khayyam University,Physics,0.490755599166907,12
+Khorasan Institute of Higher Education,Engineering,0.524506296195104,65
+Kurdistan University of Medical Sciences,Nursing,0.387475043547849,19
+Lorestan University of Medical Sciences,Nursing,0.358341987665649,15
+Malayer University,Architecture,0.491745352461402,22
+Malayer University,Chemistry,0.499803860456389,11
+Malayer University,Engineering,0.550364331848345,266
+Malek-Ashtar University of Technology,Engineering,0.524991807275195,161
+Mashhad University of Medical Sciences,Engineering,0.47337982466875,11
+Mashhad University of Medical Sciences,Nursing,0.344311706795261,30
+Mazandaran University,Engineering,0.519485572602003,41
+Mazandaran University of Medical Sciences,Engineering,0.507022417692421,13
+Mazandaran University of Medical Sciences,Nursing,0.389141726920326,34
+Mazandaran University of Science and Technology,Architecture,0.465752541495214,17
+Mazandaran University of Science and Technology,Engineering,0.560670336269305,708
+Mazandaran University of Science and Technology,Information Technology,0.618101037261539,58
+Maziar University,Architecture,0.469197125319908,16
+Maziar University,Engineering,0.556522662991954,12
+Mehrastan Institute of Higher Education,Engineering,0.555651779552695,46
+Mirdamad Institute of Higher Education,Engineering,0.646966259012017,14
+Mofid University,Economics,0.574010592848716,29
+Mofid University,Law,0.50935276125946,38
+Montazeri Technical College of Mashhad,Architecture,0.456400326708368,17
+Montazeri Technical College of Mashhad,Engineering,0.508988019543301,173
+Pars Higher Education Institute of Art and Architecture,Architecture,0.489159199441167,116
+Pars Higher Education Institute of Art and Architecture,Engineering,0.518676821780189,92
+Payame Noor University,Accounting,0.526782439182533,613
+Payame Noor University,Architecture,0.495841018462225,151
+Payame Noor University,Biology,0.452852356962802,19
+Payame Noor University,Business,0.502498862050801,1091
+Payame Noor University,Chemistry,0.476335060685361,146
+Payame Noor University,Economics,0.507371640080236,98
+Payame Noor University,Education,0.359356420974492,67
+Payame Noor University,Engineering,0.580762111468309,2881
+Payame Noor University,Finance,0.52980004642776,137
+Payame Noor University,Information Technology,0.636354544319287,626
+Payame Noor University,Law,0.480172343859553,426
+Payame Noor University,Mathematics,0.52969646240899,118
+Payame Noor University,Physics,0.492987173454931,131
+Payame Noor University,Statistics,0.560963347772932,83
+Persian Gulf University,Accounting,0.579637994953461,20
+Persian Gulf University,Architecture,0.500325927262973,53
+Persian Gulf University,Business,0.505688160737914,62
+Persian Gulf University,Chemistry,0.477765251512516,21
+Persian Gulf University,Economics,0.530246497329516,16
+Persian Gulf University,Engineering,0.505254238394181,578
+Persian Gulf University,Mathematics,0.558778657574239,11
+Persian Gulf University,Physics,0.485905288421358,20
+Persian Gulf University,Statistics,0.535591619526369,17
+Petroleum University of Technology,Accounting,0.56257602054626,78
+Petroleum University of Technology,Business,0.566211299393192,15
+Petroleum University of Technology,Engineering,0.461095443077203,1344
+Petroleum University of Technology,Finance,0.554222966063377,13
+Qazvin Islamic Azad University,Accounting,0.540863161982554,36
+Qazvin Islamic Azad University,Architecture,0.483593523616033,224
+Qazvin Islamic Azad University,Business,0.512672303743043,68
+Qazvin Islamic Azad University,Engineering,0.542223006287346,1565
+Qazvin Islamic Azad University,Finance,0.556282455883878,12
+Qazvin Islamic Azad University,Information Technology,0.640213723244687,109
+Qazvin University of Medical Sciences,Engineering,0.493261027367819,34
+Qazvin University of Medical Sciences,Nursing,0.374307599927638,23
+Qom University of Technology,Engineering,0.580078472788406,380
+Quchan University of Advanced Technology,Engineering,0.574719116135005,202
+Quchan University of Advanced Technology,Information Technology,0.818370944473936,10
+Raja University,Accounting,0.529432339761982,33
+Raja University,Business,0.486801669814936,36
+Raja University,Engineering,0.618568735418799,62
+Razi University,Accounting,0.558072719829079,32
+Razi University,Architecture,0.485800220843562,53
+Razi University,Biology,0.528317739859876,43
+Razi University,Business,0.469539025965936,24
+Razi University,Chemistry,0.500693167123958,79
+Razi University,Economics,0.605065833115584,31
+Razi University,Education,0.369903603087336,13
+Razi University,Engineering,0.526527449695695,790
+Razi University,Mathematics,0.547657627110146,30
+Razi University,Physics,0.48341302622596,40
+Razi University,Statistics,0.600240796257378,38
+SRBIAU,Engineering,0.527136852049737,93
+Sadjad University of Technology,Architecture,0.562117388456764,13
+Sadjad University of Technology,Engineering,0.578900770359956,766
+Sadjad University of Technology,Information Technology,0.635207821169103,40
+Sadra Institute of Higher Education,Business,0.513066928158509,21
+Sadra Institute of Higher Education,Engineering,0.590840202476361,195
+Sahand University of Technology,Engineering,0.506564705905244,811
+Salman Farsi University of Kazerun,Engineering,0.627131054151405,33
+Salman Farsi University of Kazerun,Information Technology,0.677694738356985,10
+Semnan University,Accounting,0.546197519391713,17
+Semnan University,Architecture,0.508258389899426,27
+Semnan University,Biology,0.524189930610841,15
+Semnan University,Business,0.529199932423911,98
+Semnan University,Chemistry,0.445205596230444,35
+Semnan University,Economics,0.60471884321003,20
+Semnan University,Engineering,0.545644666055215,1394
+Semnan University,Information Technology,0.656874765270676,33
+Semnan University,Law,0.487256670195131,21
+Semnan University,Mathematics,0.578953147965362,31
+Semnan University,Physics,0.555287812924844,59
+Semnan University,Statistics,0.625398265157594,17
+Sepahan Institute of Higher Education,Engineering,0.539161008099595,20
+Seraj Institute of Higher Education,Architecture,0.475786246302805,15
+Seraj Institute of Higher Education,Engineering,0.509775971016011,78
+Shahab Danesh University,Architecture,0.422296812249908,16
+Shahab Danesh University,Engineering,0.605626944984253,209
+Shahab Danesh University,Information Technology,0.735254699854658,15
+Shahed University,Biology,0.525865263150712,13
+Shahed University,Business,0.512038033054082,52
+Shahed University,Engineering,0.577467568969005,448
+Shahed University,Law,0.460390067173089,31
+Shahed University,Mathematics,0.555496411374359,43
+Shahed University,Physics,0.57637690350988,35
+Shahid Ashrafi Esfahani University,Accounting,0.563482795093288,11
+Shahid Ashrafi Esfahani University,Architecture,0.467377177293943,40
+Shahid Ashrafi Esfahani University,Business,0.473903344818285,15
+Shahid Ashrafi Esfahani University,Engineering,0.596754071716314,97
+Shahid Bahonar Technical and Engineering College,Architecture,0.493691585018404,24
+Shahid Bahonar Technical and Engineering College,Engineering,0.594419693401728,253
+Shahid Bahonar University of Kerman,Accounting,0.502766726017401,37
+Shahid Bahonar University of Kerman,Architecture,0.501321423882993,81
+Shahid Bahonar University of Kerman,Biology,0.556098015065825,24
+Shahid Bahonar University of Kerman,Business,0.481195898947145,55
+Shahid Bahonar University of Kerman,Chemistry,0.502694035232831,49
+Shahid Bahonar University of Kerman,Economics,0.538467894645858,28
+Shahid Bahonar University of Kerman,Engineering,0.52948196601687,1675
+Shahid Bahonar University of Kerman,Law,0.453474353766984,10
+Shahid Bahonar University of Kerman,Mathematics,0.505943247309986,29
+Shahid Bahonar University of Kerman,Physics,0.489535493695871,40
+Shahid Bahonar University of Kerman,Statistics,0.571102569343281,19
+Shahid Beheshti University,Accounting,0.534742128593177,111
+Shahid Beheshti University,Architecture,0.494085372548558,193
+Shahid Beheshti University,Biology,0.511250470630693,140
+Shahid Beheshti University,Business,0.524479434976909,349
+Shahid Beheshti University,Chemistry,0.509980262163466,184
+Shahid Beheshti University,Economics,0.544764716661383,273
+Shahid Beheshti University,Education,0.384643255774598,31
+Shahid Beheshti University,Engineering,0.553169230973963,1858
+Shahid Beheshti University,Finance,0.537981659431696,38
+Shahid Beheshti University,Law,0.485385328131149,306
+Shahid Beheshti University,Mathematics,0.542393588205483,117
+Shahid Beheshti University,Nursing,0.385412301365239,12
+Shahid Beheshti University,Physics,0.538892501448586,128
+Shahid Beheshti University,Statistics,0.604572890615284,130
+Shahid Beheshti University of Medical Sciences,Education,0.298125671777129,10
+Shahid Beheshti University of Medical Sciences,Engineering,0.478728360590076,216
+Shahid Beheshti University of Medical Sciences,Nursing,0.388221079557721,102
+Shahid Chamran University of Ahvaz,Accounting,0.524779186870025,38
+Shahid Chamran University of Ahvaz,Architecture,0.490129370577357,77
+Shahid Chamran University of Ahvaz,Biology,0.504863042985012,28
+Shahid Chamran University of Ahvaz,Business,0.515184701723111,62
+Shahid Chamran University of Ahvaz,Chemistry,0.491797993652631,50
+Shahid Chamran University of Ahvaz,Economics,0.543256448186819,36
+Shahid Chamran University of Ahvaz,Education,0.429763140402403,15
+Shahid Chamran University of Ahvaz,Engineering,0.518373051338591,1259
+Shahid Chamran University of Ahvaz,Mathematics,0.510946055042629,45
+Shahid Chamran University of Ahvaz,Physics,0.521604990072603,44
+Shahid Chamran University of Ahvaz,Statistics,0.652030790659288,29
+Shahid Rajaee Teacher Training University,Architecture,0.463243360257029,67
+Shahid Rajaee Teacher Training University,Education,0.396388457175165,30
+Shahid Rajaee Teacher Training University,Engineering,0.522663578358187,631
+Shahid Rajaee Teacher Training University,Mathematics,0.40517838394381,14
+Shahid Rajaee Teacher Training University,Physics,0.444690956421515,18
+Shahid Sadoughi University of Medical Sciences and Health Services,Engineering,0.454356337807915,14
+Shahid Sadoughi University of Medical Sciences and Health Services,Nursing,0.401228108689295,11
+Shahid Sattari Air Force University,Engineering,0.476683879107036,29
+Shahrekord University,Biology,0.559930254877875,18
+Shahrekord University,Business,0.482211612695074,10
+Shahrekord University,Engineering,0.520666801407857,483
+Shahrekord University,Law,0.479831199246829,10
+Shahrekord University,Mathematics,0.538899238370203,15
+Shahrekord University,Physics,0.462723542696587,15
+Shahrekord University of Medical Sciences,Nursing,0.395061240185589,12
+Shahrood University of Technology,Accounting,0.54407423187473,50
+Shahrood University of Technology,Architecture,0.48495718343345,61
+Shahrood University of Technology,Business,0.503492609073239,24
+Shahrood University of Technology,Chemistry,0.496624757471759,24
+Shahrood University of Technology,Engineering,0.533379057623823,1136
+Shahrood University of Technology,Information Technology,0.736139462978813,75
+Shahrood University of Technology,Mathematics,0.553834599282605,35
+Shahrood University of Technology,Physics,0.483407821696283,35
+Shamsipour Technical and Vocational College,Accounting,0.503565194153547,54
+Shamsipour Technical and Vocational College,Engineering,0.67236101688694,373
+Shamsipour Technical and Vocational College,Finance,0.556119369210499,20
+Shamsipour Technical and Vocational College,Information Technology,0.593313085320733,23
+Shariaty Technical and Vocational University,Accounting,0.543755428863024,65
+Shariaty Technical and Vocational University,Architecture,0.472730600822245,171
+Shariaty Technical and Vocational University,Education,0.260791808980733,17
+Shariaty Technical and Vocational University,Engineering,0.627203717164735,385
+Shariaty Technical and Vocational University,Finance,0.551068945584599,25
+Sharif University of Technology,Business,0.435333283763204,18
+Sharif University of Technology,Chemistry,0.513056474854299,174
+Sharif University of Technology,Economics,0.533609286994481,10
+Sharif University of Technology,Engineering,0.543806959034766,3741
+Sharif University of Technology,Information Technology,0.639906821076519,92
+Sharif University of Technology,Mathematics,0.549903156969581,85
+Sharif University of Technology,Physics,0.531709563104591,152
+Sheikhbahaee University,Business,0.501837722940488,93
+Sheikhbahaee University,Engineering,0.609324991895106,168
+Sheikhbahaee University,Information Technology,0.638043479533566,49
+Sheikhbahaee University,Mathematics,0.524040823528908,11
+Sheikhbahaee University,Statistics,0.573758057184836,12
+Shiraz Pasargad Higher Education Institute,Engineering,0.552072920851064,13
+Shiraz University,Accounting,0.532777603185799,53
+Shiraz University,Architecture,0.477800627111158,186
+Shiraz University,Biology,0.54682465801653,64
+Shiraz University,Business,0.520648633085906,179
+Shiraz University,Chemistry,0.491185589791569,77
+Shiraz University,Economics,0.516183312669603,64
+Shiraz University,Education,0.423394224701154,29
+Shiraz University,Engineering,0.533875613333616,2105
+Shiraz University,Finance,0.533852022012059,20
+Shiraz University,Information Technology,0.684175378559369,35
+Shiraz University,Law,0.465213580354111,124
+Shiraz University,Mathematics,0.52405463558397,63
+Shiraz University,Physics,0.514036908604195,77
+Shiraz University,Statistics,0.614277219344772,38
+Shiraz University of Medical Sciences,Education,0.385080060713978,11
+Shiraz University of Medical Sciences,Engineering,0.397953571411081,21
+Shiraz University of Medical Sciences,Nursing,0.360014270577891,64
+Shiraz University of Technology,Engineering,0.567650680264184,329
+Shiraz University of Technology,Information Technology,0.657752257762389,60
+Shomal University,Accounting,0.524032647102706,29
+Shomal University,Architecture,0.472299169942994,73
+Shomal University,Business,0.475469032988855,30
+Shomal University,Engineering,0.55609409219054,683
+Shomal University,Finance,0.49806408454366,11
+Sirjan University of Technology,Engineering,0.554778217088031,115
+Soore University,Architecture,0.494711925148708,261
+Soore University,Business,0.536052815798714,22
+Soore University,Engineering,0.496723233594309,60
+Tabari Institute of Higher Education,Architecture,0.461355892222201,34
+Tabari Institute of Higher Education,Engineering,0.549489512437408,71
+Tabriz Islamic Art University,Architecture,0.492750893220648,72
+Tabriz Islamic Art University,Engineering,0.469592890820565,22
+Tabriz University of Medical Sciences,Engineering,0.461043191165196,12
+Tabriz University of Medical Sciences,Nursing,0.347228323009631,36
+Tafresh University,Engineering,0.529883933293793,325
+Tafresh University,Mathematics,0.554844635706273,16
+Tafresh University,Physics,0.563228267493641,15
+Taha Research Institute,Engineering,0.581646923095364,13
+Tarbiat Modares University,Engineering,0.462564435099592,11
+Technical and Vocational University,Architecture,0.531821375808476,26
+Technical and Vocational University,Engineering,0.570739841643449,202
+Tehran University of Economic Sciences,Accounting,0.520726561381528,99
+Tehran University of Economic Sciences,Business,0.517017664159008,93
+Tehran University of Economic Sciences,Economics,0.50571645993132,21
+Tehran University of Economic Sciences,Engineering,0.540005705612162,16
+Tehran University of Economic Sciences,Finance,0.516421142179159,25
+Tehran University of Medical Sciences,Biology,0.504401099596749,11
+Tehran University of Medical Sciences,Business,0.498324123941094,23
+Tehran University of Medical Sciences,Education,0.37412400954506,26
+Tehran University of Medical Sciences,Engineering,0.463035631531236,71
+Tehran University of Medical Sciences,Nursing,0.385046909096046,142
+Toos Institute of Higher Education,Engineering,0.499762846423551,11
+University College of Nabi Akram,Engineering,0.666605255653163,37
+University College of Nabi Akram,Information Technology,0.667597729471384,12
+University of Applied Science and Technology,Accounting,0.548172446275903,127
+University of Applied Science and Technology,Architecture,0.502715741644235,102
+University of Applied Science and Technology,Business,0.490813287908548,356
+University of Applied Science and Technology,Engineering,0.552444951363183,1270
+University of Applied Science and Technology,Finance,0.488505199155538,45
+University of Applied Science and Technology,Information Technology,0.627374217948241,451
+University of Applied Science and Technology,Law,0.521559325321922,29
+University of Applied Science and Technology ( Golrang Holding Branch ),Business,0.507729287624106,14
+"University of Art, Tehran",Architecture,0.480119072371049,131
+"University of Art, Tehran",Business,0.408034872029893,12
+"University of Art, Tehran",Engineering,0.488113611688267,43
+University of Birjand,Engineering,0.559033779666006,109
+University of Bojnord,Architecture,0.53559119567982,10
+University of Bojnord,Engineering,0.565779261365411,114
+University of Bonab,Engineering,0.557644821589192,168
+University of Eyvanekey,Architecture,0.483830405349215,48
+University of Eyvanekey,Business,0.563691453275911,10
+University of Eyvanekey,Engineering,0.568672307653858,196
+University of Eyvanekey,Information Technology,0.658984829006968,34
+University of Garmsar,Architecture,0.486954927493575,41
+University of Garmsar,Engineering,0.508171569814377,259
+University of Ghiaseddin Jamshid Kashani,Engineering,0.492831552474453,18
+University of Gonabad,Engineering,0.706681040176947,10
+University of Guilan,Architecture,0.491807714868429,145
+University of Guilan,Biology,0.527181794969628,106
+University of Guilan,Business,0.511554508346334,135
+University of Guilan,Chemistry,0.489245064779316,90
+University of Guilan,Economics,0.516676009034543,11
+University of Guilan,Education,0.368504614590751,13
+University of Guilan,Engineering,0.534551956923668,1741
+University of Guilan,Law,0.492372151853871,35
+University of Guilan,Mathematics,0.54467920114995,65
+University of Guilan,Physics,0.514904669397914,96
+University of Guilan,Statistics,0.556777674378854,19
+University of Hormozgan,Biology,0.532873294232874,10
+University of Hormozgan,Business,0.526668478088145,47
+University of Hormozgan,Engineering,0.49804750374636,297
+University of Hormozgan,Physics,0.489522946178172,11
+University of Isfahan,Accounting,0.510887051275654,71
+University of Isfahan,Architecture,0.476186174766738,12
+University of Isfahan,Biology,0.518623002116239,91
+University of Isfahan,Business,0.525057403398922,138
+University of Isfahan,Chemistry,0.494043349157738,54
+University of Isfahan,Economics,0.533709250877256,50
+University of Isfahan,Education,0.335005165704941,26
+University of Isfahan,Engineering,0.564214728438812,1167
+University of Isfahan,Finance,0.519147116936282,17
+University of Isfahan,Information Technology,0.651183791033621,65
+University of Isfahan,Law,0.487368654850852,63
+University of Isfahan,Mathematics,0.536295274215076,53
+University of Isfahan,Physics,0.53206764807643,67
+University of Isfahan,Statistics,0.607015413728946,54
+University of Kashan,Architecture,0.498352897008265,78
+University of Kashan,Business,0.520612955029553,34
+University of Kashan,Chemistry,0.490981676006546,44
+University of Kashan,Engineering,0.55025735531777,915
+University of Kashan,Law,0.446705369450117,16
+University of Kashan,Mathematics,0.530913658870231,31
+University of Kashan,Physics,0.492844048529916,33
+University of Kurdistan,Accounting,0.576901326660328,18
+University of Kurdistan,Architecture,0.483909378405754,58
+University of Kurdistan,Business,0.526950185732808,49
+University of Kurdistan,Chemistry,0.460821307800773,32
+University of Kurdistan,Economics,0.543948234830456,12
+University of Kurdistan,Engineering,0.536277338522592,581
+University of Kurdistan,Information Technology,0.679188300921986,37
+University of Kurdistan,Law,0.530830711415799,17
+University of Kurdistan,Mathematics,0.491388508043722,15
+University of Kurdistan,Physics,0.52880119360954,26
+University of Kurdistan,Statistics,0.75860662887459,10
+University of Maragheh,Chemistry,0.53162642116996,19
+University of Maragheh,Engineering,0.500967441137495,48
+University of Mazandaran,Accounting,0.526966803260341,64
+University of Mazandaran,Architecture,0.476680847667852,89
+University of Mazandaran,Biology,0.524881205279518,64
+University of Mazandaran,Business,0.522414583631626,134
+University of Mazandaran,Chemistry,0.496642882002107,98
+University of Mazandaran,Economics,0.513413348102532,106
+University of Mazandaran,Engineering,0.540218409396631,839
+University of Mazandaran,Finance,0.517458604040192,13
+University of Mazandaran,Information Technology,0.646770055849547,41
+University of Mazandaran,Law,0.470442378200428,32
+University of Mazandaran,Mathematics,0.54886465313858,33
+University of Mazandaran,Physics,0.530121682486761,81
+University of Mazandaran,Statistics,0.530189154727658,14
+University of Mohaghegh Ardabili,Architecture,0.49245560595837,52
+University of Mohaghegh Ardabili,Business,0.527545621725923,23
+University of Mohaghegh Ardabili,Chemistry,0.509967148379893,32
+University of Mohaghegh Ardabili,Engineering,0.520047320466404,443
+University of Mohaghegh Ardabili,Mathematics,0.549760207868958,20
+University of Mohaghegh Ardabili,Physics,0.538344821348617,24
+University of Mohaghegh Ardabili,Statistics,0.706389028235781,11
+University of Neyshabur,Engineering,0.514275140118371,12
+University of Qom,Accounting,0.533264781029121,32
+University of Qom,Architecture,0.493573333563039,32
+University of Qom,Business,0.534919935765604,58
+University of Qom,Chemistry,0.487090452307474,30
+University of Qom,Economics,0.537871135814417,14
+University of Qom,Engineering,0.593343547851873,551
+University of Qom,Information Technology,0.673969388959548,17
+University of Qom,Law,0.467790411976235,44
+University of Qom,Mathematics,0.497457074040656,31
+University of Qom,Physics,0.53563472098373,47
+University of Science and Arts of Yazd,Engineering,0.684178604695157,41
+University of Science and Culture,Accounting,0.534595303315132,81
+University of Science and Culture,Architecture,0.481220936367017,157
+University of Science and Culture,Business,0.544535463549115,131
+University of Science and Culture,Engineering,0.59444255754445,953
+University of Science and Culture,Finance,0.548521018384993,18
+University of Science and Culture,Information Technology,0.605653090223033,10
+University of Science and Culture,Law,0.495850380597242,50
+University of Science and Culture,Statistics,0.545119807383752,47
+University of Science and Technology of Mazandaran,Engineering,0.5935699873533,111
+University of Tabriz,Accounting,0.510438064435252,11
+University of Tabriz,Architecture,0.47273695285532,124
+University of Tabriz,Biology,0.494930122508408,55
+University of Tabriz,Business,0.512082716515429,67
+University of Tabriz,Chemistry,0.493471845741396,133
+University of Tabriz,Economics,0.532849726141209,95
+University of Tabriz,Education,0.418067190395431,16
+University of Tabriz,Engineering,0.52896371435987,2763
+University of Tabriz,Information Technology,0.650005580388342,110
+University of Tabriz,Law,0.480661902199309,45
+University of Tabriz,Mathematics,0.537705381760565,53
+University of Tabriz,Physics,0.520255952850425,99
+University of Tabriz,Statistics,0.544201257482652,40
+University of Tehran,Accounting,0.529012928059793,171
+University of Tehran,Architecture,0.492491556563896,344
+University of Tehran,Biology,0.529088540914434,171
+University of Tehran,Business,0.518407682573097,769
+University of Tehran,Chemistry,0.505717742147954,141
+University of Tehran,Economics,0.541252625832787,274
+University of Tehran,Education,0.408524644738827,85
+University of Tehran,Engineering,0.53585547812025,4823
+University of Tehran,Finance,0.515566487929682,67
+University of Tehran,Information Technology,0.660371226696169,92
+University of Tehran,Law,0.481587631078813,364
+University of Tehran,Marketing,0.48637668354902,21
+University of Tehran,Mathematics,0.551261750186037,106
+University of Tehran,Physics,0.548279857459386,113
+University of Tehran,Statistics,0.594791275240963,85
+University of Torbat Heydarieh,Engineering,0.564925408730682,45
+University of Zabol,Architecture,0.480641222878799,18
+University of Zabol,Engineering,0.463583624015541,59
+Urmia University of Medical Sciences,Engineering,0.44824935211892,10
+Urmia University of Medical Sciences,Nursing,0.39462499841086,38
+Urmia University of Technology,Engineering,0.542205042359466,455
+Urmia University of Technology,Information Technology,0.709978573731166,49
+Vali-e-Asr University of Rafsanjan,Accounting,0.507742419939783,12
+Vali-e-Asr University of Rafsanjan,Business,0.577833453651447,16
+Vali-e-Asr University of Rafsanjan,Engineering,0.55686022364757,174
+Vali-e-Asr University of Rafsanjan,Physics,0.522961935514567,14
+Virtual Higher Education Institute of Nooretouba,Law,0.533963559442475,11
+Yasouj University,Engineering,0.507235910934111,70
+Yasouj University,Physics,0.471596601842523,10
+Yasuj University of Medical Sciences,Engineering,0.484627696650025,112
+Yazd University,Accounting,0.539108096181397,24
+Yazd University,Architecture,0.458867607947146,100
+Yazd University,Biology,0.503432278582724,15
+Yazd University,Business,0.509477139764579,93
+Yazd University,Chemistry,0.488867276366172,27
+Yazd University,Economics,0.515800387935401,21
+Yazd University,Engineering,0.531676250800182,1407
+Yazd University,Information Technology,0.619223412617114,18
+Yazd University,Mathematics,0.537546957935644,16
+Yazd University,Physics,0.521175871943498,47
+Yazd University,Statistics,0.652342941172931,13
+Zahedan University of Medical Sciences,Engineering,0.432376847398174,12
+Zanjan University,Accounting,0.53749521479459,13
+Zanjan University,Architecture,0.485313351945993,82
+Zanjan University,Business,0.512487832215664,90
+Zanjan University,Chemistry,0.488598660588648,83
+Zanjan University,Education,0.598702553916542,11
+Zanjan University,Engineering,0.542086664968917,1323
+Zanjan University,Information Technology,0.633715190652736,24
+Zanjan University,Mathematics,0.565543541371015,23
+Zanjan University,Physics,0.497216924707524,75

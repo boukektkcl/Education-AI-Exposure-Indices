@@ -1,0 +1,102 @@
+university_name,field,exposure_alljobs_beta,n_people
+Academy of Fine Arts and Design in Bratislava,Architecture,0.463946127399722,14
+Academy of Performing Arts in Bratislava,Business,0.456920022962657,22
+Alexander Dubcek University in Trencin,Business,0.520086895263833,117
+Alexander Dubcek University in Trencin,Engineering,0.529687297410873,48
+College of Management in Trenčíne,Business,0.522951258569064,180
+Comenius University in Bratislava,Biology,0.509714163843957,58
+Comenius University in Bratislava,Business,0.545461481032734,692
+Comenius University in Bratislava,Chemistry,0.534449648824302,34
+Comenius University in Bratislava,Economics,0.586989831762501,69
+Comenius University in Bratislava,Education,0.449246108446327,86
+Comenius University in Bratislava,Engineering,0.716251301135119,105
+Comenius University in Bratislava,Finance,0.653806075541273,25
+Comenius University in Bratislava,Information Technology,0.656704206920339,19
+Comenius University in Bratislava,Law,0.511963711888279,375
+Comenius University in Bratislava,Marketing,0.561911573663223,57
+Comenius University in Bratislava,Mathematics,0.624022056048209,164
+Comenius University in Bratislava,Physics,0.57577185052379,75
+Constantine the Philosopher University in Nitra,Business,0.510337607482912,62
+Constantine the Philosopher University in Nitra,Education,0.481674553547641,30
+Constantine the Philosopher University in Nitra,Engineering,0.659773787998826,34
+Constantine the Philosopher University in Nitra,Information Technology,0.636186908567818,32
+Constantine the Philosopher University in Nitra,Marketing,0.530626740932082,74
+Faculty of Informatics & Information Technologies,Engineering,0.741826637873034,105
+Faculty of Informatics & Information Technologies,Information Technology,0.771497714097426,68
+"Faculty of Management Science and Informatics, University of Žilina",Business,0.570013166389022,55
+"Faculty of Management Science and Informatics, University of Žilina",Engineering,0.701265015188821,28
+"Faculty of Management Science and Informatics, University of Žilina",Information Technology,0.772738797544065,16
+"Faculty of Management, Comenius University in Bratislava",Business,0.549967719287554,348
+"Faculty of Management, Comenius University in Bratislava",Economics,0.557563796389797,12
+"Faculty of Management, Comenius University in Bratislava",Marketing,0.485960345282409,10
+"Faculty of Mass Media Communication, University of Ss. Cyril and Methodius in Trnava",Business,0.544784460267752,10
+"Faculty of Mass Media Communication, University of Ss. Cyril and Methodius in Trnava",Marketing,0.528512933839624,163
+Faculty of Mechanical Engineering Technical University of Košice,Engineering,0.554940417798146,44
+"Fakulta manažmentu, ekonomiky a obchodu Prešovskej univerzity v Prešove",Business,0.500337260934979,31
+János Selye University in Komárno,Business,0.508189256650231,32
+János Selye University in Komárno,Economics,0.488202796044889,18
+János Selye University in Komárno,Education,0.456050307384825,10
+Matej Bel University in Banská Bystrica,Business,0.526143711459862,170
+Matej Bel University in Banská Bystrica,Chemistry,0.431759017289492,13
+Matej Bel University in Banská Bystrica,Economics,0.529988106925591,73
+Matej Bel University in Banská Bystrica,Education,0.471791151550457,16
+Matej Bel University in Banská Bystrica,Engineering,0.675870166272551,22
+Matej Bel University in Banská Bystrica,Information Technology,0.695011171668586,16
+Matej Bel University in Banská Bystrica,Law,0.482906399805588,49
+Pan-European University,Business,0.522049766806607,44
+Pan-European University,Economics,0.515128869746251,26
+Pan-European University,Engineering,0.743842966350793,11
+Pan-European University,Information Technology,0.654517919604513,14
+Pan-European University,Law,0.504068056215201,129
+Pan-European University,Marketing,0.543153445901569,17
+Slovak University of Agriculture in Nitra,Accounting,0.559933113563306,57
+Slovak University of Agriculture in Nitra,Architecture,0.40049704259348,14
+Slovak University of Agriculture in Nitra,Business,0.529703827149689,273
+Slovak University of Agriculture in Nitra,Economics,0.536462268486668,86
+Slovak University of Agriculture in Nitra,Engineering,0.488897327508672,55
+Slovak University of Technology in Bratislava,Architecture,0.484198669143077,179
+Slovak University of Technology in Bratislava,Business,0.521634283922354,109
+Slovak University of Technology in Bratislava,Chemistry,0.506575728903444,119
+Slovak University of Technology in Bratislava,Engineering,0.571913569962585,968
+Slovak University of Technology in Bratislava,Information Technology,0.755518178176702,144
+Slovak University of Technology in Bratislava,Mathematics,0.657962867843546,23
+Technical University in Zvolen,Business,0.536396371794839,38
+Technical University in Zvolen,Economics,0.516541700390902,11
+Technical University in Zvolen,Engineering,0.464766853707443,26
+Technical University of Košice,Architecture,0.494627336436083,16
+Technical University of Košice,Business,0.614590210908176,251
+Technical University of Košice,Economics,0.572730317604044,63
+Technical University of Košice,Engineering,0.596419821673607,465
+Technical University of Košice,Finance,0.549330108677225,20
+Technical University of Košice,Information Technology,0.725472115279009,89
+The Catholic University in Ružomberok,Business,0.559977027351162,31
+The Catholic University in Ružomberok,Education,0.408710668663584,11
+University of Economics in Bratislava,Accounting,0.552301450455576,248
+University of Economics in Bratislava,Business,0.56373729367905,1428
+University of Economics in Bratislava,Economics,0.563246895898102,224
+University of Economics in Bratislava,Engineering,0.616346849401553,21
+University of Economics in Bratislava,Finance,0.595476759139308,69
+University of Economics in Bratislava,Information Technology,0.711686755605975,17
+University of Economics in Bratislava,Law,0.552591199520886,47
+University of Economics in Bratislava,Marketing,0.551078303521039,12
+University of Prešov in Prešov,Business,0.54321466532501,135
+University of Prešov in Prešov,Education,0.449880561762973,24
+University of Prešov in Prešov,Marketing,0.568131982772474,15
+University of Ss. Cyril and Methodius in Trnava,Business,0.577042681191638,15
+University of Ss. Cyril and Methodius in Trnava,Engineering,0.622759947541331,10
+University of Ss. Cyril and Methodius in Trnava,Information Technology,0.648800685661463,18
+University of Ss. Cyril and Methodius in Trnava,Marketing,0.533721004382812,46
+University of Trnava in Trnave,Education,0.453150505711383,21
+University of Trnava in Trnave,Law,0.499134223119556,96
+University of Zilina,Business,0.549739449492504,186
+University of Zilina,Economics,0.53471136063314,42
+University of Zilina,Engineering,0.560341181958239,393
+University of Zilina,Information Technology,0.764118002916176,39
+Univerzita Pavla Jozefa Šafárika,Biology,0.552149988086681,10
+Univerzita Pavla Jozefa Šafárika,Chemistry,0.511818560720327,38
+Univerzita Pavla Jozefa Šafárika,Engineering,0.805099664996886,15
+Univerzita Pavla Jozefa Šafárika,Law,0.527105252209551,72
+Univerzita Pavla Jozefa Šafárika,Mathematics,0.648293435263164,12
+Univerzita Pavla Jozefa Šafárika,Physics,0.563878265747641,12
+Vysoká škola ekonómie a manažmentu v Bratislave,Business,0.496563629638443,103
+Vysoká škola ekonómie a manažmentu v Bratislave,Economics,0.552878985780702,17

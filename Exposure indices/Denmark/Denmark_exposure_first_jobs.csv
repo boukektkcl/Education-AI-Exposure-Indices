@@ -1,0 +1,165 @@
+university_name,field,exposure_firstjob_beta,n_people
+AU Herning,Business,0.548263652754574,14
+Aalborg University,Architecture,0.47858472680427,262
+Aalborg University,Biology,0.390881127825475,18
+Aalborg University,Business,0.51642472259841,1779
+Aalborg University,Chemistry,0.48467675456019,31
+Aalborg University,Economics,0.511107545712804,410
+Aalborg University,Education,0.369681331845258,10
+Aalborg University,Engineering,0.534942941002287,2334
+Aalborg University,Information Technology,0.598208796137924,122
+Aalborg University,Law,0.455091356553048,185
+Aalborg University,Mathematics,0.548525706660905,56
+Aalborg University,Medicine,0.477120901475528,379
+Aalborg University,Physics,0.513599209635492,23
+Aarhus School of Architecture,Architecture,0.471704308901365,263
+Aarhus School of Marine and Technical Engineering,Business,0.39710013225722,43
+Aarhus School of Marine and Technical Engineering,Engineering,0.423881165865074,409
+Aarhus University,Biology,0.477880617857809,429
+Aarhus University,Business,0.526486580400206,6348
+Aarhus University,Chemistry,0.479672877094092,304
+Aarhus University,Economics,0.523663815369383,915
+Aarhus University,Education,0.478736385072754,163
+Aarhus University,Engineering,0.541992577402837,1666
+Aarhus University,Finance,0.549557308261879,19
+Aarhus University,Information Technology,0.574809599685601,55
+Aarhus University,Law,0.476508684249276,875
+Aarhus University,Marketing,0.487307306415808,66
+Aarhus University,Mathematics,0.584081449497349,110
+Aarhus University,Medicine,0.45344286332105,528
+Aarhus University,Physics,0.538409867166636,210
+Aarhus University,Statistics,0.612415985150953,15
+Business Academy Aarhus,Business,0.522446766268675,68
+Business Academy Aarhus,Finance,0.449088412204651,10
+Business Academy Aarhus,Marketing,0.524256794603641,28
+Business Academy Copenhagen North,Marketing,0.512005583280422,10
+CPH WEST,Business,0.555686179054034,10
+Copenhagen Business School,Accounting,0.534228925004569,18
+Copenhagen Business School,Business,0.526556527357504,13878
+Copenhagen Business School,Economics,0.526438457300166,646
+Copenhagen Business School,Engineering,0.610618701440228,274
+Copenhagen Business School,Finance,0.520588409037154,63
+Copenhagen Business School,Information Technology,0.519642567533857,33
+Copenhagen Business School,Law,0.499196449576215,52
+Copenhagen Business School,Marketing,0.516415861724493,596
+Copenhagen Business School,Mathematics,0.514280332846455,10
+Copenhagen School of Design & Technology,Architecture,0.439127096353518,33
+Copenhagen School of Design & Technology,Business,0.495025967833411,1065
+Copenhagen School of Design & Technology,Economics,0.550187555329922,19
+Copenhagen School of Design & Technology,Engineering,0.621882686569139,81
+Copenhagen School of Design & Technology,Information Technology,0.66608961850792,12
+Copenhagen School of Design & Technology,Marketing,0.539796201132655,26
+Copenhagen School of Marine Engineering and Technology Management,Business,0.351645152383616,14
+Copenhagen School of Marine Engineering and Technology Management,Engineering,0.401080436200357,202
+Danish School of Media and Journalism,Business,0.505873838296191,182
+Engineering College of Aarhus,Engineering,0.516628338144651,808
+Engineering College of Aarhus,Information Technology,0.64215725061784,15
+Erhvervsakademi SydVest,Business,0.474850754013188,105
+Erhvervsakademi SydVest,Engineering,0.634412339450356,23
+Erhvervsakademi SydVest,Marketing,0.499863570901548,115
+"Faculty of Engineering, University of Southern Denmark",Business,0.546249886162134,29
+"Faculty of Engineering, University of Southern Denmark",Engineering,0.530384937457637,496
+Fredericia School of Technology Management and Marine Engineering,Business,0.387935548282691,12
+Fredericia School of Technology Management and Marine Engineering,Engineering,0.402036261568473,222
+IBA International Business Academy,Business,0.488545788325569,201
+IBA International Business Academy,Marketing,0.499850312863941,135
+IT University of Copenhagen,Business,0.580196072273697,297
+IT University of Copenhagen,Engineering,0.689619576598762,74
+IT University of Copenhagen,Information Technology,0.644360935224355,13
+KAOSPILOT,Business,0.477894142898621,27
+Københavns Professionshøjskole,Business,0.426643594808521,49
+Københavns Professionshøjskole,Education,0.368643502696121,131
+Københavns Professionshøjskole,Nursing,0.371960970484516,188
+"Leisure Management, Professionshøjskolen Absalon",Business,0.385612736611149,25
+MARTEC - Maritime and Polytechnic University College,Business,0.426868582595566,11
+MARTEC - Maritime and Polytechnic University College,Engineering,0.430582746156975,203
+Niels Brock Copenhagen Business College,Business,0.489780177625878,214
+Niels Brock Copenhagen Business College,Economics,0.481827851217033,18
+Niels Brock Copenhagen Business College,Marketing,0.492349891641133,72
+Professionshøjskolen Metropol,Business,0.453457733525635,11
+Professionshøjskolen Metropol,Nursing,0.405498438135018,44
+Professionshøjskolen UCC,Education,0.386229740743458,123
+Professionshøjskolen UCC,Nursing,0.388930350341369,25
+Rhythmic Music Conservatory,Business,0.494627906735788,62
+Rhythmic Music Conservatory,Engineering,0.45793409217101,15
+Roskilde University,Biology,0.490599061716243,192
+Roskilde University,Business,0.52692974595008,998
+Roskilde University,Chemistry,0.485986752533284,68
+Roskilde University,Economics,0.507616413982005,132
+Roskilde University,Education,0.392463338426227,16
+Roskilde University,Engineering,0.632435961075236,179
+Roskilde University,Information Technology,0.615834894823449,12
+Roskilde University,Mathematics,0.497331538231399,23
+Royal Danish Academy,Architecture,0.477099009304257,148
+Royal Danish Air Force Academy,Business,0.521617460688336,12
+SIMAC - Svendborg International Maritime Academy,Business,0.323595097869273,83
+SIMAC - Svendborg International Maritime Academy,Engineering,0.368230366789349,162
+Syddansk Erhvervsskole,Business,0.484487790301178,44
+Syddansk Erhvervsskole,Engineering,0.498061429594957,14
+Technical University of Denmark,Biology,0.496476482414961,16
+Technical University of Denmark,Business,0.551801028659167,127
+Technical University of Denmark,Chemistry,0.474392800349354,165
+Technical University of Denmark,Engineering,0.528485207439665,5029
+Technical University of Denmark,Information Technology,0.689819416461579,49
+Technical University of Denmark,Mathematics,0.603545940809178,138
+Technical University of Denmark,Medicine,0.599041321916047,40
+Technical University of Denmark,Physics,0.528727693085729,220
+Tietgenskolen,Business,0.452965778759061,28
+Tietgenskolen,Marketing,0.531479550411202,11
+UCL Erhvervsakademi og Professionshøjskole,Business,0.448071605084235,168
+UCL Erhvervsakademi og Professionshøjskole,Education,0.396286601853112,47
+UCL Erhvervsakademi og Professionshøjskole,Engineering,0.673037155707804,14
+UCL Erhvervsakademi og Professionshøjskole,Marketing,0.509560837129946,41
+UCL Erhvervsakademi og Professionshøjskole,Nursing,0.359253940212318,53
+University College Absalon,Business,0.466128775404128,101
+University College Absalon,Education,0.352665799432198,66
+University College Absalon,Engineering,0.382976841811756,19
+University College Absalon,Nursing,0.364378046023941,60
+University College Copenhagen,Business,0.508976331775921,12
+University College Copenhagen,Education,0.412290174721267,11
+University College South Denmark,Business,0.527362055326176,38
+University College South Denmark,Education,0.361047495143018,117
+University College South Denmark,Marketing,0.466544691496219,18
+University College South Denmark,Nursing,0.373747452416655,59
+University College of Northern Denmark,Business,0.467770875006034,496
+University College of Northern Denmark,Education,0.390540192108176,148
+University College of Northern Denmark,Engineering,0.582792302324423,25
+University College of Northern Denmark,Marketing,0.494014021770339,95
+University College of Northern Denmark,Nursing,0.378112512288138,101
+University of Copenhagen,Architecture,0.402796972750474,153
+University of Copenhagen,Biology,0.485218090930415,468
+University of Copenhagen,Business,0.500248439079578,122
+University of Copenhagen,Chemistry,0.466292530958889,195
+University of Copenhagen,Economics,0.547366493521627,1344
+University of Copenhagen,Education,0.477007274066136,81
+University of Copenhagen,Engineering,0.61243093729319,577
+University of Copenhagen,Information Technology,0.536930277783996,15
+University of Copenhagen,Law,0.473654516728136,1505
+University of Copenhagen,Mathematics,0.541574244311197,243
+University of Copenhagen,Medicine,0.423732182059756,745
+University of Copenhagen,Physics,0.548503422747223,304
+University of Copenhagen,Statistics,0.642728913998705,19
+University of Southern Denmark,Accounting,0.545714693246318,14
+University of Southern Denmark,Biology,0.471669858584922,178
+University of Southern Denmark,Business,0.517877760009044,3815
+University of Southern Denmark,Chemistry,0.480347321733887,85
+University of Southern Denmark,Economics,0.515840952934171,716
+University of Southern Denmark,Education,0.425870819190267,47
+University of Southern Denmark,Engineering,0.54083092333108,1353
+University of Southern Denmark,Finance,0.515530024473831,18
+University of Southern Denmark,Information Technology,0.621426481459589,27
+University of Southern Denmark,Law,0.466196882500312,354
+University of Southern Denmark,Marketing,0.504058070438515,201
+University of Southern Denmark,Mathematics,0.537795876541306,47
+University of Southern Denmark,Medicine,0.430489843796038,224
+University of Southern Denmark,Physics,0.565647157880032,38
+VIA University College,Architecture,0.449587199865799,31
+VIA University College,Business,0.493918677811709,1507
+VIA University College,Education,0.397384647313489,320
+VIA University College,Engineering,0.531782202538562,874
+VIA University College,Information Technology,0.736129724541858,27
+VIA University College,Marketing,0.494021681980513,71
+VIA University College,Nursing,0.379850470039204,285
+Zealand - Sjællands Erhvervsakademi,Business,0.46989092538834,274
+Zealand - Sjællands Erhvervsakademi,Engineering,0.75970053735929,18
+Zealand - Sjællands Erhvervsakademi,Marketing,0.481581156460465,158

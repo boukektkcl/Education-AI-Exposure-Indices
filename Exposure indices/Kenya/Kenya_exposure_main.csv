@@ -1,0 +1,488 @@
+university_name,field,exposure_alljobs_beta,n_people
+Africa International University,Business,0.52441749549064,77
+Africa International University,Information Technology,0.60126699048866,19
+Africa Nazarene University,Accounting,0.535819092019961,102
+Africa Nazarene University,Business,0.55095759829946,707
+Africa Nazarene University,Education,0.364973842984312,67
+Africa Nazarene University,Engineering,0.59933243023484,266
+Africa Nazarene University,Finance,0.540268692740651,225
+Africa Nazarene University,Information Technology,0.592335171022248,25
+Africa Nazarene University,Law,0.520736752650685,108
+Africa Nazarene University,Marketing,0.524455026180273,95
+Amref International University,Business,0.529955130224654,11
+Chuka University,Accounting,0.584065291438992,80
+Chuka University,Biology,0.458976754333969,16
+Chuka University,Business,0.522296615404132,839
+Chuka University,Chemistry,0.465000754750683,19
+Chuka University,Economics,0.52788852705586,291
+Chuka University,Education,0.452366698302435,154
+Chuka University,Engineering,0.64603667710281,365
+Chuka University,Finance,0.561106715098866,116
+Chuka University,Law,0.482294248940816,12
+Chuka University,Marketing,0.535638444782906,24
+Chuka University,Nursing,0.421895100129674,39
+Chuka University,Statistics,0.578044314829208,261
+Daystar University,Accounting,0.527077504961639,261
+Daystar University,Business,0.538205516226058,1128
+Daystar University,Economics,0.554933709746892,147
+Daystar University,Education,0.440695335765101,46
+Daystar University,Engineering,0.614814366741134,193
+Daystar University,Finance,0.500343700149137,59
+Daystar University,Information Technology,0.641632535192691,13
+Daystar University,Law,0.485476823419936,10
+Daystar University,Marketing,0.523437048849144,312
+Daystar University,Nursing,0.404072262145399,48
+Dedan Kimathi University of Technology,Accounting,0.55781525025205,158
+Dedan Kimathi University of Technology,Business,0.544078435995315,1011
+Dedan Kimathi University of Technology,Chemistry,0.515583956323393,90
+Dedan Kimathi University of Technology,Engineering,0.523638439437903,1475
+Dedan Kimathi University of Technology,Finance,0.561449620004922,275
+Dedan Kimathi University of Technology,Information Technology,0.641633951752389,244
+Dedan Kimathi University of Technology,Marketing,0.531101912784163,26
+Dedan Kimathi University of Technology,Nursing,0.428817152597025,51
+Dedan Kimathi University of Technology,Statistics,0.610749309870895,20
+Egerton University,Accounting,0.554692593339556,497
+Egerton University,Biology,0.520213995945088,142
+Egerton University,Business,0.513578980293262,2167
+Egerton University,Chemistry,0.49209804993508,150
+Egerton University,Economics,0.530931369250803,1369
+Egerton University,Education,0.446542886352931,819
+Egerton University,Engineering,0.542244714122516,1457
+Egerton University,Finance,0.540044194576122,682
+Egerton University,Information Technology,0.630250342981167,22
+Egerton University,Law,0.527650890879351,128
+Egerton University,Marketing,0.536481131295765,122
+Egerton University,Mathematics,0.555233571594979,117
+Egerton University,Medicine,0.44668973487702,118
+Egerton University,Nursing,0.409136088669608,44
+Egerton University,Physics,0.622063311676978,23
+Egerton University,Statistics,0.570597868036761,561
+GRETSA University,Accounting,0.511526762506942,14
+GRETSA University,Business,0.528555952603979,85
+GRETSA University,Engineering,0.67713890247658,38
+GRETSA University,Finance,0.552412336803535,21
+Garissa University,Business,0.497148016851407,26
+Garissa University,Education,0.506971163747372,12
+Great Lakes University of Kisumu,Business,0.436061805835868,24
+Great Lakes University of Kisumu,Education,0.360647233113995,10
+Great Lakes University of Kisumu,Information Technology,0.635078445420929,25
+Great Lakes University of Kisumu,Medicine,0.440254663501147,19
+Great Lakes University of Kisumu,Nursing,0.425853141123834,43
+Inoorero University,Business,0.518520592864333,19
+Inoorero University,Information Technology,0.575075647123516,18
+International Leadership University,Business,0.505897713117803,14
+Jaramogi Oginga Odinga University of Science and Technology,Business,0.52471521885955,777
+Jaramogi Oginga Odinga University of Science and Technology,Education,0.424077270414558,143
+Jaramogi Oginga Odinga University of Science and Technology,Engineering,0.577068336663095,171
+Jaramogi Oginga Odinga University of Science and Technology,Information Technology,0.638920732405458,35
+Jaramogi Oginga Odinga University of Science and Technology,Medicine,0.485148664578292,11
+Jomo Kenyatta University of Agriculture and Technology,Accounting,0.545430682688115,568
+Jomo Kenyatta University of Agriculture and Technology,Architecture,0.473360459567413,705
+Jomo Kenyatta University of Agriculture and Technology,Biology,0.509397735462681,345
+Jomo Kenyatta University of Agriculture and Technology,Business,0.557856259081887,6591
+Jomo Kenyatta University of Agriculture and Technology,Chemistry,0.501048305732538,460
+Jomo Kenyatta University of Agriculture and Technology,Economics,0.543383673417134,280
+Jomo Kenyatta University of Agriculture and Technology,Education,0.536809705198844,12
+Jomo Kenyatta University of Agriculture and Technology,Engineering,0.556824889871793,6328
+Jomo Kenyatta University of Agriculture and Technology,Finance,0.547595904591568,1356
+Jomo Kenyatta University of Agriculture and Technology,Information Technology,0.61860526332984,3229
+Jomo Kenyatta University of Agriculture and Technology,Law,0.507874109137337,344
+Jomo Kenyatta University of Agriculture and Technology,Marketing,0.522449727921052,280
+Jomo Kenyatta University of Agriculture and Technology,Mathematics,0.551568351918836,211
+Jomo Kenyatta University of Agriculture and Technology,Medicine,0.456873322390977,192
+Jomo Kenyatta University of Agriculture and Technology,Nursing,0.432604009487339,75
+Jomo Kenyatta University of Agriculture and Technology,Physics,0.53268811992334,98
+Jomo Kenyatta University of Agriculture and Technology,Statistics,0.620234509353782,430
+KCA University,Business,0.549130927731406,11
+KCA University,Finance,0.508660235964111,11
+Kabarak University,Accounting,0.552405653097086,151
+Kabarak University,Business,0.559605974226617,538
+Kabarak University,Economics,0.556914205053946,117
+Kabarak University,Education,0.443801968633222,86
+Kabarak University,Engineering,0.623258039268324,498
+Kabarak University,Finance,0.548469340477213,352
+Kabarak University,Information Technology,0.631046812211248,138
+Kabarak University,Law,0.519195546630092,288
+Kabarak University,Marketing,0.506438569749954,85
+Kabarak University,Medicine,0.503610007332362,26
+Kabarak University,Nursing,0.396624824707097,37
+Kabarak University,Statistics,0.607288559755845,38
+Karatina University,Biology,0.488382474029883,11
+Karatina University,Business,0.527516885361944,676
+Karatina University,Economics,0.563717024211011,99
+Karatina University,Education,0.445912798112044,125
+Karatina University,Engineering,0.654487785741407,175
+Karatina University,Finance,0.576779753430568,20
+Karatina University,Information Technology,0.615769378572862,83
+Karatina University,Statistics,0.621644673790689,204
+Kenya Methodist University,Accounting,0.514941065459528,25
+Kenya Methodist University,Biology,0.498348044605194,20
+Kenya Methodist University,Business,0.52830575620362,4061
+Kenya Methodist University,Education,0.432445283415542,128
+Kenya Methodist University,Engineering,0.599804913426994,514
+Kenya Methodist University,Finance,0.531748159460181,205
+Kenya Methodist University,Information Technology,0.598269518681689,72
+Kenya Methodist University,Marketing,0.496638744462315,69
+Kenya Methodist University,Medicine,0.449202878925416,51
+Kenya Methodist University,Nursing,0.406227822069017,157
+Kenya Utalii College,Business,0.454843424310812,34
+Kenyatta University,Accounting,0.546255448164197,949
+Kenyatta University,Architecture,0.501403631832771,40
+Kenyatta University,Biology,0.52890142783694,224
+Kenyatta University,Business,0.514381777574962,4654
+Kenyatta University,Chemistry,0.496161012763822,320
+Kenyatta University,Economics,0.549006354506507,1733
+Kenyatta University,Education,0.462923593478078,3520
+Kenyatta University,Engineering,0.569284413048782,2547
+Kenyatta University,Finance,0.548448042956856,3771
+Kenyatta University,Information Technology,0.608148953474872,492
+Kenyatta University,Law,0.504053310488461,720
+Kenyatta University,Marketing,0.512524802916382,598
+Kenyatta University,Mathematics,0.539002599029632,159
+Kenyatta University,Medicine,0.45027290949244,225
+Kenyatta University,Nursing,0.419485878759401,194
+Kenyatta University,Physics,0.489868986834562,43
+Kenyatta University,Statistics,0.583036886788496,1190
+Kibabii University,Accounting,0.551320721370381,75
+Kibabii University,Business,0.540543554144344,113
+Kibabii University,Chemistry,0.566407211242294,10
+Kibabii University,Education,0.435290430610259,102
+Kibabii University,Engineering,0.663838453979341,128
+Kibabii University,Finance,0.550192662056258,85
+Kibabii University,Information Technology,0.615034952797203,111
+Kibabii University,Marketing,0.460999886911589,11
+Kibabii University,Mathematics,0.589356897438206,35
+Kibabii University,Statistics,0.624895295320637,39
+Kirinyaga University,Accounting,0.569783240996987,68
+Kirinyaga University,Business,0.557390196781817,182
+Kirinyaga University,Engineering,0.611460328250862,144
+Kirinyaga University,Finance,0.559382096482753,106
+Kirinyaga University,Information Technology,0.660331364766863,77
+Kirinyaga University,Marketing,0.568059323020449,20
+Kirinyaga University,Medicine,0.50242198041285,11
+Kirinyaga University,Statistics,0.619904661416376,63
+Kiriri Women's University of Science and Technology,Business,0.533059648906995,60
+Kisii University,Accounting,0.541738979540849,187
+Kisii University,Biology,0.477215170462584,18
+Kisii University,Business,0.529853793232766,959
+Kisii University,Chemistry,0.516632153266074,77
+Kisii University,Economics,0.518813787015877,84
+Kisii University,Education,0.437602576218182,197
+Kisii University,Engineering,0.633056891701118,342
+Kisii University,Finance,0.543425392033533,205
+Kisii University,Information Technology,0.625521521848025,33
+Kisii University,Law,0.502530679511648,98
+Kisii University,Marketing,0.497404446454528,23
+Kisii University,Mathematics,0.579026608461416,22
+Kisii University,Medicine,0.480869558468453,11
+Kisii University,Nursing,0.398751048707885,13
+Kisii University,Statistics,0.586753423966572,138
+Laikipia University,Accounting,0.57554297715166,33
+Laikipia University,Business,0.503127571825865,238
+Laikipia University,Economics,0.536273653771056,229
+Laikipia University,Education,0.463283544502741,178
+Laikipia University,Engineering,0.638375798409752,136
+Laikipia University,Finance,0.530125328367173,109
+Laikipia University,Information Technology,0.605687630713829,39
+Laikipia University,Law,0.464158297249252,22
+Laikipia University,Statistics,0.574342984383683,263
+Lukenya University,Education,0.519539328697845,14
+Lukenya University,Finance,0.410156839205804,12
+Maasai Mara University,Accounting,0.56837246967429,48
+Maasai Mara University,Biology,0.543884512781893,20
+Maasai Mara University,Business,0.52362095328472,829
+Maasai Mara University,Chemistry,0.46942252014722,26
+Maasai Mara University,Economics,0.550866176444167,266
+Maasai Mara University,Education,0.426291970304359,129
+Maasai Mara University,Engineering,0.650670215646211,168
+Maasai Mara University,Finance,0.551179141582463,91
+Maasai Mara University,Information Technology,0.584855808675723,10
+Maasai Mara University,Mathematics,0.569336585483766,39
+Maasai Mara University,Physics,0.492608340046744,18
+Maasai Mara University,Statistics,0.599328492314325,185
+Machakos University,Accounting,0.554492508061353,63
+Machakos University,Business,0.497986316576578,200
+Machakos University,Economics,0.566248396189624,61
+Machakos University,Education,0.439943245098464,111
+Machakos University,Engineering,0.607716555643278,196
+Machakos University,Finance,0.544552541647892,174
+Machakos University,Information Technology,0.653268603757663,50
+Machakos University,Marketing,0.50938450196494,36
+Machakos University,Mathematics,0.568136706499729,18
+Machakos University,Statistics,0.60267665811397,119
+Management University of Africa,Business,0.51731578118443,362
+Maseno University,Accounting,0.527042860544444,50
+Maseno University,Architecture,0.496761106864931,27
+Maseno University,Biology,0.588391884712688,12
+Maseno University,Business,0.529975787423321,2534
+Maseno University,Chemistry,0.501112664670612,121
+Maseno University,Economics,0.547245495333515,560
+Maseno University,Education,0.432910227735117,647
+Maseno University,Engineering,0.640624437408874,813
+Maseno University,Finance,0.538467032961802,75
+Maseno University,Information Technology,0.552247996394538,647
+Maseno University,Marketing,0.491249199640655,27
+Maseno University,Mathematics,0.540848283851091,76
+Maseno University,Medicine,0.451294665086615,74
+Maseno University,Nursing,0.421972339824478,20
+Maseno University,Physics,0.515505557308496,10
+Maseno University,Statistics,0.617931232405968,498
+Masinde Muliro University of Science and Technology,Accounting,0.5645007864558,152
+Masinde Muliro University of Science and Technology,Biology,0.499762722128506,27
+Masinde Muliro University of Science and Technology,Business,0.514638392158207,904
+Masinde Muliro University of Science and Technology,Chemistry,0.519006026555753,80
+Masinde Muliro University of Science and Technology,Economics,0.519449804795591,131
+Masinde Muliro University of Science and Technology,Education,0.445302864733328,340
+Masinde Muliro University of Science and Technology,Engineering,0.531844422709644,740
+Masinde Muliro University of Science and Technology,Finance,0.538613679527725,286
+Masinde Muliro University of Science and Technology,Information Technology,0.625739209514205,160
+Masinde Muliro University of Science and Technology,Law,0.584892814159796,11
+Masinde Muliro University of Science and Technology,Marketing,0.547266132358282,17
+Masinde Muliro University of Science and Technology,Mathematics,0.592261682383277,28
+Masinde Muliro University of Science and Technology,Medicine,0.468236782026628,23
+Masinde Muliro University of Science and Technology,Nursing,0.396925633244341,109
+Masinde Muliro University of Science and Technology,Physics,0.457020204380459,31
+Masinde Muliro University of Science and Technology,Statistics,0.605445457585587,88
+Meru University of Science and Technology,Accounting,0.534947985731292,61
+Meru University of Science and Technology,Business,0.562462067691288,440
+Meru University of Science and Technology,Chemistry,0.498329507662596,18
+Meru University of Science and Technology,Economics,0.55763165908106,41
+Meru University of Science and Technology,Education,0.508264281628878,18
+Meru University of Science and Technology,Engineering,0.605716371971293,408
+Meru University of Science and Technology,Finance,0.548196580080107,105
+Meru University of Science and Technology,Information Technology,0.639371286231663,120
+Meru University of Science and Technology,Physics,0.517429072317594,11
+Meru University of Science and Technology,Statistics,0.617831936438785,102
+Moi University,Accounting,0.543832874832095,222
+Moi University,Biology,0.484346778851132,45
+Moi University,Business,0.526384431318642,8372
+Moi University,Chemistry,0.483450725485136,187
+Moi University,Economics,0.535376682381123,789
+Moi University,Education,0.459497627402885,1446
+Moi University,Engineering,0.529803369438605,2343
+Moi University,Finance,0.539827816021434,471
+Moi University,Information Technology,0.622191803123583,250
+Moi University,Law,0.481157454935394,1338
+Moi University,Marketing,0.514939380029324,60
+Moi University,Mathematics,0.546071815623744,91
+Moi University,Medicine,0.448985823947197,209
+Moi University,Nursing,0.429529872524788,127
+Moi University,Physics,0.531616596352488,26
+Moi University,Statistics,0.605094300516308,448
+Moringa School,Engineering,0.585164015448228,11
+Mount Kenya University,Accounting,0.531008080549811,211
+Mount Kenya University,Business,0.528637203231572,3525
+Mount Kenya University,Chemistry,0.501154727401206,30
+Mount Kenya University,Economics,0.514341726664395,74
+Mount Kenya University,Education,0.413092124642163,670
+Mount Kenya University,Engineering,0.576059986718319,341
+Mount Kenya University,Finance,0.537467332354653,743
+Mount Kenya University,Information Technology,0.608184648769564,404
+Mount Kenya University,Law,0.510558137895808,436
+Mount Kenya University,Marketing,0.527459511313709,92
+Mount Kenya University,Medicine,0.44653614273716,114
+Mount Kenya University,Nursing,0.375324133656918,57
+Mount Kenya University,Statistics,0.583445334756729,120
+Multimedia University of Kenya,Accounting,0.547638162624794,124
+Multimedia University of Kenya,Business,0.578380625074359,464
+Multimedia University of Kenya,Chemistry,0.515030559207341,91
+Multimedia University of Kenya,Economics,0.5102283380443,26
+Multimedia University of Kenya,Engineering,0.624993032955761,704
+Multimedia University of Kenya,Finance,0.544262756152003,323
+Multimedia University of Kenya,Information Technology,0.65803706118257,179
+Multimedia University of Kenya,Marketing,0.538341425689871,38
+Murang'a University of Technology,Accounting,0.51716479039982,20
+Murang'a University of Technology,Business,0.556084347949942,302
+Murang'a University of Technology,Chemistry,0.514356130442735,15
+Murang'a University of Technology,Economics,0.51610562396432,25
+Murang'a University of Technology,Education,0.554823139093687,10
+Murang'a University of Technology,Engineering,0.639598612788746,184
+Murang'a University of Technology,Finance,0.558105871819901,43
+Murang'a University of Technology,Information Technology,0.631669368423161,77
+Murang'a University of Technology,Statistics,0.675640151963541,30
+Pan Africa Christian University,Business,0.517275590519043,61
+Pan Africa Christian University,Finance,0.55550064303446,18
+Pioneer International University,Accounting,0.53852654457222,18
+Pioneer International University,Business,0.512942669359815,21
+Pioneer International University,Engineering,0.586685808761499,17
+Pioneer International University,Finance,0.521537084211054,20
+Pioneer International University,Information Technology,0.592953830950538,29
+Riara University,Business,0.549562756418696,178
+Riara University,Education,0.404175472186069,26
+Riara University,Engineering,0.634538418585011,69
+Riara University,Law,0.513707973091555,119
+Rongo University,Business,0.532882604332321,241
+Rongo University,Economics,0.546908235036223,69
+Rongo University,Education,0.413688476156754,55
+Rongo University,Engineering,0.642857049294069,69
+Rongo University,Information Technology,0.670674423739798,18
+Rongo University,Mathematics,0.566261422313854,16
+Rongo University,Statistics,0.62380020077966,72
+Scott Christian University,Business,0.548971044855534,32
+South Eastern Kenya University,Accounting,0.580403612247867,24
+South Eastern Kenya University,Biology,0.51688904060264,51
+South Eastern Kenya University,Business,0.525732825352753,360
+South Eastern Kenya University,Chemistry,0.435341169202778,18
+South Eastern Kenya University,Economics,0.523806512816551,71
+South Eastern Kenya University,Education,0.433438594584352,85
+South Eastern Kenya University,Engineering,0.595437265925716,104
+South Eastern Kenya University,Finance,0.529675345831089,69
+South Eastern Kenya University,Information Technology,0.622675457306561,77
+South Eastern Kenya University,Mathematics,0.54187455863841,50
+South Eastern Kenya University,Statistics,0.577792481397857,208
+St Paul's University,Accounting,0.552594054314415,49
+St Paul's University,Biology,0.531688257253329,55
+St Paul's University,Business,0.509909126792547,452
+St Paul's University,Chemistry,0.48043857321611,81
+St Paul's University,Economics,0.546586562537373,82
+St Paul's University,Education,0.425582783110045,210
+St Paul's University,Engineering,0.576438601888205,99
+St Paul's University,Finance,0.548490541603308,92
+St Paul's University,Marketing,0.383637506325102,14
+St Paul's University,Mathematics,0.521576192723025,10
+St Paul's University,Nursing,0.409801758521259,64
+St Paul's University,Physics,0.525461233556647,12
+St Paul's University,Statistics,0.543362306051557,28
+St. Paul's University,Accounting,0.575078756804899,16
+St. Paul's University,Business,0.539669776368143,1398
+St. Paul's University,Education,0.420591541008095,20
+St. Paul's University,Engineering,0.621185998831544,134
+St. Paul's University,Finance,0.537783482133996,62
+St. Paul's University,Information Technology,0.663594277071337,36
+St. Paul's University,Marketing,0.503361380325409,23
+Strathmore Business School,Business,0.536011506800529,59
+Strathmore Business School,Finance,0.533269368068414,41
+Strathmore University,Accounting,0.539963190649416,254
+Strathmore University,Business,0.57085796157007,2316
+Strathmore University,Economics,0.555564766698905,67
+Strathmore University,Engineering,0.636480798053049,409
+Strathmore University,Finance,0.535530433656443,1285
+Strathmore University,Information Technology,0.615842117839688,131
+Strathmore University,Law,0.511869219164998,366
+Strathmore University,Marketing,0.536414923206087,261
+Taita Taveta University,Accounting,0.555410210477998,39
+Taita Taveta University,Business,0.587608144543089,237
+Taita Taveta University,Engineering,0.61125699353209,192
+Taita Taveta University,Finance,0.556236656648334,43
+Taita Taveta University,Information Technology,0.642499949516566,90
+Taita Taveta University,Marketing,0.500030835583187,12
+Taita Taveta University,Statistics,0.597985520564817,101
+Technical University of Mombasa,Accounting,0.550762129067012,75
+Technical University of Mombasa,Architecture,0.46521871552777,15
+Technical University of Mombasa,Biology,0.508013477301221,19
+Technical University of Mombasa,Business,0.535216782884454,734
+Technical University of Mombasa,Chemistry,0.439079590197723,115
+Technical University of Mombasa,Engineering,0.468968593316665,1236
+Technical University of Mombasa,Finance,0.55046466762538,131
+Technical University of Mombasa,Information Technology,0.621370132984559,190
+Technical University of Mombasa,Medicine,0.352920507171119,11
+Technical University of Mombasa,Physics,0.471481804282305,59
+The Catholic University of Eastern Africa,Accounting,0.535342576579224,262
+The Catholic University of Eastern Africa,Business,0.525023505528976,633
+The Catholic University of Eastern Africa,Chemistry,0.457441049607203,16
+The Catholic University of Eastern Africa,Economics,0.544337748607467,155
+The Catholic University of Eastern Africa,Education,0.439506968546365,223
+The Catholic University of Eastern Africa,Engineering,0.612897054122303,456
+The Catholic University of Eastern Africa,Finance,0.538161879681992,891
+The Catholic University of Eastern Africa,Law,0.496966622973329,1011
+The Catholic University of Eastern Africa,Marketing,0.519627184894784,244
+The Catholic University of Eastern Africa,Mathematics,0.499126281198737,22
+The Catholic University of Eastern Africa,Medicine,0.474896537173259,20
+The Catholic University of Eastern Africa,Nursing,0.405145026811825,39
+The Catholic University of Eastern Africa,Statistics,0.540883596294978,21
+The Co-operative University of Kenya,Accounting,0.540338522774915,20
+The Co-operative University of Kenya,Business,0.542159900576175,118
+The Co-operative University of Kenya,Finance,0.516358589121687,79
+The East African University,Business,0.501030554339636,37
+The East African University,Engineering,0.64507327344986,21
+The Management University of Africa,Business,0.509850309646176,102
+The Presbyterian University of East Africa,Business,0.522456053255245,113
+The Presbyterian University of East Africa,Education,0.411494925494231,36
+The Presbyterian University of East Africa,Engineering,0.61942867430736,40
+The Technical University of Kenya,Accounting,0.575183130318811,90
+The Technical University of Kenya,Architecture,0.503442755876375,86
+The Technical University of Kenya,Biology,0.454613428537423,56
+The Technical University of Kenya,Business,0.524894159954362,503
+The Technical University of Kenya,Chemistry,0.496830591405736,90
+The Technical University of Kenya,Economics,0.55912112920594,89
+The Technical University of Kenya,Engineering,0.484611031306916,1183
+The Technical University of Kenya,Finance,0.558500373294588,163
+The Technical University of Kenya,Information Technology,0.614837894406568,64
+The Technical University of Kenya,Mathematics,0.586553662263289,53
+The Technical University of Kenya,Physics,0.476955886913879,22
+The Technical University of Kenya,Statistics,0.599510934693622,60
+Tom Mboya University,Business,0.436432344141118,10
+Umma University,Business,0.539035478488271,38
+Umma University,Engineering,0.576040142631798,26
+United States International University - Africa,Accounting,0.532553945096946,63
+United States International University - Africa,Business,0.511956378070502,2588
+United States International University - Africa,Economics,0.566566768446171,15
+United States International University - Africa,Engineering,0.61588347631914,297
+United States International University - Africa,Finance,0.525239382925146,272
+United States International University - Africa,Information Technology,0.599719441414231,130
+United States International University - Africa,Marketing,0.519388948102855,100
+"University of Eastern Africa, Baraton",Accounting,0.530082364501503,27
+"University of Eastern Africa, Baraton",Biology,0.516184986525414,34
+"University of Eastern Africa, Baraton",Business,0.548029018720042,327
+"University of Eastern Africa, Baraton",Chemistry,0.522482727972052,24
+"University of Eastern Africa, Baraton",Education,0.440367430406517,56
+"University of Eastern Africa, Baraton",Engineering,0.546347698797231,204
+"University of Eastern Africa, Baraton",Finance,0.528345387038877,14
+"University of Eastern Africa, Baraton",Information Technology,0.622030321194809,10
+"University of Eastern Africa, Baraton",Mathematics,0.538212752106249,11
+"University of Eastern Africa, Baraton",Nursing,0.416137878205906,205
+"University of Eastern Africa, Baraton",Statistics,0.535936094226394,15
+University of Eldoret,Accounting,0.549694020806272,33
+University of Eldoret,Biology,0.492478663860775,86
+University of Eldoret,Business,0.512818646877094,957
+University of Eldoret,Chemistry,0.500242589721429,151
+University of Eldoret,Economics,0.537924033855193,243
+University of Eldoret,Education,0.450339950121188,340
+University of Eldoret,Engineering,0.573991172521434,481
+University of Eldoret,Finance,0.524930383859715,54
+University of Eldoret,Information Technology,0.637687103010042,55
+University of Eldoret,Law,0.540789371331675,15
+University of Eldoret,Mathematics,0.505497290408317,29
+University of Eldoret,Physics,0.492507857475667,12
+University of Eldoret,Statistics,0.600697104547602,294
+University of Embu,Accounting,0.559004873375779,21
+University of Embu,Business,0.528366580983732,106
+University of Embu,Chemistry,0.467836021750236,44
+University of Embu,Economics,0.546802075352421,39
+University of Embu,Education,0.494649158292249,62
+University of Embu,Engineering,0.633041041191324,73
+University of Embu,Finance,0.541336114366561,37
+University of Embu,Statistics,0.584956172583171,48
+University of Kabianga,Accounting,0.57656581251744,14
+University of Kabianga,Business,0.530887285094295,537
+University of Kabianga,Chemistry,0.478250769188357,17
+University of Kabianga,Economics,0.548211471181432,142
+University of Kabianga,Education,0.410025053922644,83
+University of Kabianga,Engineering,0.630976289333781,127
+University of Kabianga,Finance,0.576773569310718,22
+University of Kabianga,Information Technology,0.668081305186485,49
+University of Kabianga,Mathematics,0.55811525170115,13
+University of Kabianga,Nursing,0.417610338320237,37
+University of Kabianga,Statistics,0.610263230614635,116
+University of Nairobi,Accounting,0.535868371021451,1107
+University of Nairobi,Architecture,0.495459817437087,615
+University of Nairobi,Biology,0.520386928084054,155
+University of Nairobi,Business,0.520377647100962,5728
+University of Nairobi,Chemistry,0.496260364712827,717
+University of Nairobi,Economics,0.539990407988285,3355
+University of Nairobi,Education,0.459110290997596,1741
+University of Nairobi,Engineering,0.527551547654218,3844
+University of Nairobi,Finance,0.54015875474835,2725
+University of Nairobi,Information Technology,0.611693575034376,116
+University of Nairobi,Law,0.498337274958159,2366
+University of Nairobi,Marketing,0.517751267426907,742
+University of Nairobi,Mathematics,0.555253349409137,533
+University of Nairobi,Medicine,0.433820254273137,1388
+University of Nairobi,Nursing,0.434437764170721,404
+University of Nairobi,Physics,0.53460171454867,122
+University of Nairobi,Statistics,0.570403118884783,1737
+Uzima University,Medicine,0.469959685553498,21
+Zetech University,Business,0.541762272925439,306
+Zetech University,Engineering,0.608034704057722,60
+Zetech University,Finance,0.555994591008307,43
+Zetech University,Information Technology,0.599916992456861,148

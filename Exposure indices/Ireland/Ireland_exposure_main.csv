@@ -1,0 +1,303 @@
+university_name,field,exposure_alljobs_beta,n_people
+American College Dublin,Business,0.500360851126967,64
+Athlone Institute of Technology,Accounting,0.527312291774899,80
+Athlone Institute of Technology,Business,0.463837502949336,608
+Athlone Institute of Technology,Education,0.403195249674766,19
+Athlone Institute of Technology,Engineering,0.500221033688467,238
+Athlone Institute of Technology,Finance,0.521738594639371,24
+Athlone Institute of Technology,Law,0.535039474976744,21
+Athlone Institute of Technology,Nursing,0.390484600840607,73
+Atlantic Technological University,Accounting,0.516116157803655,53
+Atlantic Technological University,Architecture,0.388635897429964,13
+Atlantic Technological University,Biology,0.430960244963503,37
+Atlantic Technological University,Business,0.483717584282718,962
+Atlantic Technological University,Chemistry,0.518989473305704,22
+Atlantic Technological University,Economics,0.47543660546264,13
+Atlantic Technological University,Education,0.316877256572491,63
+Atlantic Technological University,Engineering,0.518900845138435,756
+Atlantic Technological University,Finance,0.488794597570216,18
+Atlantic Technological University,Information Technology,0.603314339035098,38
+Atlantic Technological University,Law,0.517987551145993,198
+Atlantic Technological University,Marketing,0.468107259551529,40
+Atlantic Technological University,Nursing,0.339094572145297,128
+Atlantic Technological University,Physics,0.440668103931123,12
+Ballyfermot College of Further Education,Business,0.520750552865511,65
+CCT College Dublin,Business,0.458134864373773,423
+CCT College Dublin,Engineering,0.560675338351972,75
+CCT College Dublin,Information Technology,0.528290645741979,277
+Carlow Institute of Technology,Accounting,0.531689365493271,140
+Carlow Institute of Technology,Architecture,0.469870157648605,15
+Carlow Institute of Technology,Biology,0.474582592547168,26
+Carlow Institute of Technology,Business,0.482637423607112,1476
+Carlow Institute of Technology,Chemistry,0.468645894575294,21
+Carlow Institute of Technology,Education,0.360527811984582,245
+Carlow Institute of Technology,Engineering,0.526354889890732,795
+Carlow Institute of Technology,Finance,0.525798535721142,29
+Carlow Institute of Technology,Information Technology,0.586927647142167,12
+Carlow Institute of Technology,Law,0.521894084933531,177
+Carlow Institute of Technology,Marketing,0.487493051973854,70
+"Dhún Laoghaire Institute of Art, Design and Technology",Business,0.490197989930007,824
+"Dhún Laoghaire Institute of Art, Design and Technology",Engineering,0.558094552304696,193
+"Dhún Laoghaire Institute of Art, Design and Technology",Information Technology,0.572916356832993,25
+Dorset College,Business,0.486856663037872,53
+Dorset College Dublin,Business,0.500535906601628,404
+Dorset College Dublin,Engineering,0.480605254866253,35
+Dublin Business School,Accounting,0.537996563914157,18
+Dublin Business School,Business,0.520400339624047,1656
+Dublin Business School,Engineering,0.597936174767296,40
+Dublin Business School,Finance,0.541379938020281,543
+Dublin Business School,Law,0.523872526822171,159
+Dublin Business School,Marketing,0.515522738092933,367
+Dublin City University,Accounting,0.540262785873987,13
+Dublin City University,Biology,0.457482568087187,187
+Dublin City University,Business,0.518700289431094,2630
+Dublin City University,Chemistry,0.479982831113487,128
+Dublin City University,Economics,0.526901720280209,45
+Dublin City University,Education,0.389108279095887,973
+Dublin City University,Engineering,0.582512039737834,1223
+Dublin City University,Finance,0.525049421347734,1013
+Dublin City University,Information Technology,0.588374164720013,192
+Dublin City University,Law,0.50904985078883,925
+Dublin City University,Marketing,0.512806101007694,178
+Dublin City University,Mathematics,0.615099510238965,227
+Dublin City University,Nursing,0.382899986176902,447
+Dublin City University,Physics,0.522772881236331,167
+Dundalk Institute of Technology,Accounting,0.51880387584316,18
+Dundalk Institute of Technology,Biology,0.455483133261145,29
+Dundalk Institute of Technology,Business,0.503166691463565,1631
+Dundalk Institute of Technology,Education,0.362164565977128,41
+Dundalk Institute of Technology,Engineering,0.513507837534444,744
+Dundalk Institute of Technology,Finance,0.531511102917409,390
+Dundalk Institute of Technology,Information Technology,0.618402194912854,12
+Dundalk Institute of Technology,Marketing,0.505209708135467,72
+Dundalk Institute of Technology,Nursing,0.342275938234203,251
+Galway Business School,Business,0.474128119255933,115
+Galway-Mayo Institute of Technology,Accounting,0.502326981756145,101
+Galway-Mayo Institute of Technology,Architecture,0.481154322747996,11
+Galway-Mayo Institute of Technology,Biology,0.448251817099459,338
+Galway-Mayo Institute of Technology,Business,0.492337823188873,2920
+Galway-Mayo Institute of Technology,Chemistry,0.44125806404174,39
+Galway-Mayo Institute of Technology,Economics,0.47208867700684,125
+Galway-Mayo Institute of Technology,Education,0.375060455142744,101
+Galway-Mayo Institute of Technology,Engineering,0.484757747028435,1161
+Galway-Mayo Institute of Technology,Finance,0.512591839094992,57
+Galway-Mayo Institute of Technology,Information Technology,0.613505572863358,60
+Galway-Mayo Institute of Technology,Marketing,0.463864389879131,66
+Galway-Mayo Institute of Technology,Nursing,0.371375133626216,56
+Galway-Mayo Institute of Technology,Physics,0.451715980961959,69
+Griffith College Cork,Business,0.500546766268724,117
+Griffith College Cork,Engineering,0.546079370807886,21
+Griffith College Cork,Finance,0.5037162501382,41
+Griffith College Cork,Law,0.506363099905166,42
+Griffith College Dublin,Accounting,0.456111597457489,15
+Griffith College Dublin,Architecture,0.481896128810299,166
+Griffith College Dublin,Business,0.495139809790196,890
+Griffith College Dublin,Engineering,0.538048161138198,343
+Griffith College Dublin,Finance,0.524110367377008,375
+Griffith College Dublin,Law,0.507567892638423,349
+Griffith College Dublin,Marketing,0.457375580104263,31
+Griffith College Limerick,Business,0.469546832156829,64
+Griffith College Limerick,Engineering,0.421428860975965,79
+Griffith College Limerick,Finance,0.518694474261532,22
+Hibernia College,Education,0.291433544079418,18
+IBAT College Dublin,Business,0.492227377399564,66
+ICD Business School,Finance,0.488724464758128,11
+Independent College,Business,0.467761512608521,286
+Independent College,Finance,0.498017202727718,52
+Independent College,Law,0.527039380348703,24
+Independent College,Marketing,0.441838415099636,67
+Institute of Technology Sligo,Accounting,0.529105764964338,90
+Institute of Technology Sligo,Architecture,0.446906084155934,79
+Institute of Technology Sligo,Business,0.485233366871041,1773
+Institute of Technology Sligo,Chemistry,0.430079522263272,26
+Institute of Technology Sligo,Education,0.374436748536612,109
+Institute of Technology Sligo,Engineering,0.463905975146015,1154
+Institute of Technology Sligo,Finance,0.545618172843998,21
+Institute of Technology Sligo,Marketing,0.492015396094817,81
+Institute of Technology Tralee,Business,0.475249455727716,20
+King’s Inns,Law,0.462200223926158,18
+Limerick Institute of Technology,Accounting,0.529580959939764,18
+Limerick Institute of Technology,Biology,0.412097392675407,66
+Limerick Institute of Technology,Business,0.492060591914902,1591
+Limerick Institute of Technology,Chemistry,0.470612735225639,30
+Limerick Institute of Technology,Economics,0.522215338999484,34
+Limerick Institute of Technology,Engineering,0.478142780241841,1062
+Limerick Institute of Technology,Finance,0.528687096309633,112
+Limerick Institute of Technology,Information Technology,0.598242811760453,61
+Limerick Institute of Technology,Law,0.547800566451356,26
+Limerick Institute of Technology,Marketing,0.45185690057453,19
+Mary Immaculate College,Business,0.365147988157969,25
+Mary Immaculate College,Education,0.331270942625927,747
+Mary Immaculate College,Mathematics,0.458260588725977,36
+Munster Technological University,Accounting,0.530031756218083,262
+Munster Technological University,Architecture,0.460870102655243,160
+Munster Technological University,Biology,0.476894973024407,89
+Munster Technological University,Business,0.493718334341179,4652
+Munster Technological University,Chemistry,0.467824372441408,142
+Munster Technological University,Economics,0.523062212896595,31
+Munster Technological University,Education,0.34603975619349,166
+Munster Technological University,Engineering,0.479472664427601,2815
+Munster Technological University,Finance,0.545569502579506,27
+Munster Technological University,Information Technology,0.593141356262166,129
+Munster Technological University,Marketing,0.489816592225417,282
+Munster Technological University,Nursing,0.37681914215129,94
+Munster Technological University,Physics,0.491455457256517,144
+National College of Art & Design,Education,0.404890912687692,51
+National College of Ireland,Accounting,0.530305964478527,311
+National College of Ireland,Business,0.520003098275985,2385
+National College of Ireland,Education,0.382765217604587,44
+National College of Ireland,Engineering,0.623987126972905,347
+National College of Ireland,Finance,0.512425883646654,147
+National College of Ireland,Information Technology,0.634364632823379,20
+National College of Ireland,Law,0.492405872232406,11
+National College of Ireland,Marketing,0.498297750270316,261
+National University of Ireland,Accounting,0.478060126283689,30
+National University of Ireland,Business,0.484951159333551,135
+National University of Ireland,Economics,0.435432451242418,14
+National University of Ireland,Education,0.423282028065226,31
+National University of Ireland,Engineering,0.497015553814978,21
+National University of Ireland,Finance,0.469981436295214,13
+National University of Ireland,Law,0.370996990416448,11
+National University of Ireland,Marketing,0.530518407797619,15
+National University of Ireland,Nursing,0.374353594641057,28
+National University of Ireland Institute of Public Administration,Business,0.492655108368477,19
+National University of Ireland Maynooth University,Accounting,0.499832911354723,96
+National University of Ireland Maynooth University,Biology,0.495104631894367,78
+National University of Ireland Maynooth University,Business,0.492205887240365,1959
+National University of Ireland Maynooth University,Chemistry,0.464146810935262,342
+National University of Ireland Maynooth University,Economics,0.51566408548927,236
+National University of Ireland Maynooth University,Education,0.372746966302471,159
+National University of Ireland Maynooth University,Engineering,0.595321214706106,700
+National University of Ireland Maynooth University,Finance,0.520564425480358,690
+National University of Ireland Maynooth University,Law,0.486272323725296,793
+National University of Ireland Maynooth University,Marketing,0.471830902972101,166
+National University of Ireland Maynooth University,Mathematics,0.498367270144922,225
+National University of Ireland Maynooth University,Physics,0.543116966323339,150
+National University of Ireland Maynooth University,Statistics,0.530406774917788,64
+National University of Ireland University College Cork,Accounting,0.528038225422686,659
+National University of Ireland University College Cork,Architecture,0.468909010049928,167
+National University of Ireland University College Cork,Biology,0.439498306516879,161
+National University of Ireland University College Cork,Business,0.573466358169645,1404
+National University of Ireland University College Cork,Chemistry,0.470380215461145,510
+National University of Ireland University College Cork,Economics,0.510164187106822,1303
+National University of Ireland University College Cork,Education,0.377535714512152,281
+National University of Ireland University College Cork,Engineering,0.559063810126481,1262
+National University of Ireland University College Cork,Finance,0.525150234491527,537
+National University of Ireland University College Cork,Information Technology,0.550776366013969,85
+National University of Ireland University College Cork,Law,0.484697281320568,734
+National University of Ireland University College Cork,Marketing,0.502909419159752,257
+National University of Ireland University College Cork,Mathematics,0.588793826001063,276
+National University of Ireland University College Cork,Medicine,0.411713004947366,127
+National University of Ireland University College Cork,Nursing,0.384719111105419,554
+National University of Ireland University College Cork,Physics,0.513393020976935,125
+National University of Ireland University College Dublin,Accounting,0.51582329978229,416
+National University of Ireland University College Dublin,Architecture,0.462776550009959,483
+National University of Ireland University College Dublin,Biology,0.47084270646852,354
+National University of Ireland University College Dublin,Business,0.485401494282767,2196
+National University of Ireland University College Dublin,Chemistry,0.454917796588231,390
+National University of Ireland University College Dublin,Economics,0.505367246334856,1513
+National University of Ireland University College Dublin,Education,0.417626325313401,32
+National University of Ireland University College Dublin,Engineering,0.527192816414077,2336
+National University of Ireland University College Dublin,Finance,0.525315170998676,513
+National University of Ireland University College Dublin,Information Technology,0.581042733310027,21
+National University of Ireland University College Dublin,Law,0.472148852310729,709
+National University of Ireland University College Dublin,Marketing,0.509909242502,147
+National University of Ireland University College Dublin,Mathematics,0.537744950222444,211
+National University of Ireland University College Dublin,Medicine,0.377175633955803,276
+National University of Ireland University College Dublin,Nursing,0.37881490381192,671
+National University of Ireland University College Dublin,Physics,0.560355784058557,169
+National University of Ireland University College Dublin,Statistics,0.534019445088821,139
+Portobello College,Business,0.498833912771937,45
+Portobello Institute,Business,0.457635909404536,11
+Portobello Institute,Education,0.365650449599851,33
+"School of Nursing & Midwifery, Trinity College Dublin",Nursing,0.407099967632506,15
+Shannon College of Hotel Management,Business,0.455518640684377,226
+South East Technological University,Accounting,0.520063748125239,329
+South East Technological University,Architecture,0.480675620653225,195
+South East Technological University,Biology,0.438872543372895,105
+South East Technological University,Business,0.47490622085592,2618
+South East Technological University,Chemistry,0.491336717859401,30
+South East Technological University,Economics,0.506053838137006,68
+South East Technological University,Education,0.405199484028016,170
+South East Technological University,Engineering,0.491226251709553,1065
+South East Technological University,Finance,0.524212102251077,98
+South East Technological University,Information Technology,0.581518842193474,242
+South East Technological University,Law,0.501057414127608,194
+South East Technological University,Marketing,0.50602252564603,306
+South East Technological University,Nursing,0.390212038739975,190
+South East Technological University,Physics,0.47005296579434,17
+Technological University Dublin,Accounting,0.519873546020704,156
+Technological University Dublin,Architecture,0.469739054578062,361
+Technological University Dublin,Biology,0.460469187132874,45
+Technological University Dublin,Business,0.500471960921459,9096
+Technological University Dublin,Chemistry,0.443843136143958,555
+Technological University Dublin,Economics,0.484226601316556,340
+Technological University Dublin,Education,0.325235771104762,239
+Technological University Dublin,Engineering,0.501639110455967,5194
+Technological University Dublin,Finance,0.522625672407411,891
+Technological University Dublin,Information Technology,0.625308618658924,321
+Technological University Dublin,Law,0.500930754074496,357
+Technological University Dublin,Marketing,0.507787043871675,1492
+Technological University Dublin,Mathematics,0.537074058182328,80
+Technological University Dublin,Physics,0.478030572486185,218
+Technological University of the Shannon,Accounting,0.4817398211752,12
+Technological University of the Shannon,Biology,0.337091556313586,15
+Technological University of the Shannon,Business,0.458067291789412,214
+Technological University of the Shannon,Engineering,0.414914956158677,153
+Technological University of the Shannon,Finance,0.435424731966367,11
+Technological University of the Shannon,Nursing,0.361380132052212,15
+"Technological University of the Shannon, Athlone Campus",Accounting,0.511376297131912,150
+"Technological University of the Shannon, Athlone Campus",Business,0.48790700784138,794
+"Technological University of the Shannon, Athlone Campus",Education,0.324226370660697,16
+"Technological University of the Shannon, Athlone Campus",Engineering,0.51005037752936,510
+"Technological University of the Shannon, Athlone Campus",Finance,0.562528448006434,31
+"Technological University of the Shannon, Athlone Campus",Law,0.553014957873273,15
+"Technological University of the Shannon, Athlone Campus",Marketing,0.59264661379916,16
+"Technological University of the Shannon, Athlone Campus",Nursing,0.371344812321709,143
+The Marketing Institute of Ireland,Marketing,0.499702451613805,12
+"Trinity College Dublin, The University of Dublin",Architecture,0.510300205126027,109
+"Trinity College Dublin, The University of Dublin",Biology,0.468837349986846,164
+"Trinity College Dublin, The University of Dublin",Business,0.528231044749207,1573
+"Trinity College Dublin, The University of Dublin",Chemistry,0.491375990687802,351
+"Trinity College Dublin, The University of Dublin",Economics,0.528748930476176,519
+"Trinity College Dublin, The University of Dublin",Education,0.352689704328525,319
+"Trinity College Dublin, The University of Dublin",Engineering,0.557130992122672,1314
+"Trinity College Dublin, The University of Dublin",Finance,0.513853581930417,15
+"Trinity College Dublin, The University of Dublin",Information Technology,0.652324991611661,27
+"Trinity College Dublin, The University of Dublin",Law,0.489143034414996,656
+"Trinity College Dublin, The University of Dublin",Mathematics,0.563683178572065,230
+"Trinity College Dublin, The University of Dublin",Medicine,0.440551107899052,226
+"Trinity College Dublin, The University of Dublin",Nursing,0.3898092240125,604
+"Trinity College Dublin, The University of Dublin",Physics,0.546791500146427,310
+University of Galway,Accounting,0.525841270933645,477
+University of Galway,Biology,0.430597525753837,137
+University of Galway,Business,0.54027406970525,908
+University of Galway,Chemistry,0.450827856468858,319
+University of Galway,Economics,0.520723392939155,682
+University of Galway,Education,0.432112843950095,271
+University of Galway,Engineering,0.525360008321257,1634
+University of Galway,Finance,0.500433922779899,177
+University of Galway,Information Technology,0.579284753198383,253
+University of Galway,Law,0.483506677989576,1821
+University of Galway,Marketing,0.494379933407055,291
+University of Galway,Mathematics,0.540480666119134,170
+University of Galway,Medicine,0.39499562500004,155
+University of Galway,Nursing,0.382054073757238,251
+University of Galway,Physics,0.516129241054123,192
+University of Galway,Statistics,0.472435725511758,16
+University of Limerick,Accounting,0.502807854095999,25
+University of Limerick,Architecture,0.473286868826482,106
+University of Limerick,Business,0.509968706885741,3374
+University of Limerick,Chemistry,0.471151643093677,224
+University of Limerick,Economics,0.521923609301758,301
+University of Limerick,Education,0.37532167564068,403
+University of Limerick,Engineering,0.517939323508597,2013
+University of Limerick,Finance,0.524898852572468,259
+University of Limerick,Information Technology,0.619185435142901,71
+University of Limerick,Law,0.507161171688353,987
+University of Limerick,Marketing,0.504878811056498,66
+University of Limerick,Mathematics,0.570116721348622,163
+University of Limerick,Medicine,0.420676633351981,127
+University of Limerick,Nursing,0.392455373488198,236
+University of Limerick,Physics,0.509610433320625,87
+University of Limerick,Statistics,0.592559786407753,37

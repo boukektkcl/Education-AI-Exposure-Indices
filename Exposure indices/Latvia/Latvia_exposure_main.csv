@@ -1,0 +1,103 @@
+university_name,field,exposure_alljobs_beta,n_people
+BA School of Business and Finance,Business,0.530923881868841,751
+BA School of Business and Finance,Economics,0.542739316818868,39
+BA School of Business and Finance,Finance,0.548017835476261,478
+Baltic International Academy,Business,0.517999158432243,220
+Baltic International Academy,Economics,0.507991268373775,13
+Baltic International Academy,Engineering,0.581183597987542,27
+Baltic International Academy,Law,0.468073560587537,80
+Baltic International Academy,Marketing,0.502969992436763,18
+Daugavpils University,Economics,0.512029873161477,31
+Daugavpils University,Education,0.46117176313416,13
+Daugavpils University,Engineering,0.74479704000921,32
+Daugavpils University,Information Technology,0.796408331380178,29
+Daugavpils University,Law,0.415671197037658,10
+Ekonomikas un kultūras augstskola / EKA University of Applied Sciences,Accounting,0.536601816862867,12
+Ekonomikas un kultūras augstskola / EKA University of Applied Sciences,Business,0.499248549710095,123
+Ekonomikas un kultūras augstskola / EKA University of Applied Sciences,Economics,0.542019185947825,30
+ISMA University of Applied Sciences,Business,0.51481446870389,254
+ISMA University of Applied Sciences,Engineering,0.618693507731251,31
+ISMA University of Applied Sciences,Information Technology,0.625306503530641,19
+Latvia University of Life Sciences and Technologies,Architecture,0.433458646769829,19
+Latvia University of Life Sciences and Technologies,Business,0.512322598177117,48
+Latvia University of Life Sciences and Technologies,Economics,0.525468638370889,56
+Latvia University of Life Sciences and Technologies,Engineering,0.530042751514652,121
+Latvia University of Life Sciences and Technologies,Finance,0.550431413875289,14
+Latvia University of Life Sciences and Technologies,Information Technology,0.7418365413728,23
+Latvian Academy of Culture,Business,0.508793124414059,106
+Latvian Academy of Sport Education,Business,0.376988071743798,30
+Latvian Academy of Sport Education,Education,0.424206043465086,15
+Latvian Maritime Academy,Business,0.546972848516728,39
+Latvian Maritime Academy,Engineering,0.358349012017492,36
+Liepaja University,Business,0.507994391703481,113
+Liepaja University,Education,0.427556266871403,19
+Liepaja University,Engineering,0.628717547001381,46
+Liepaja University,Information Technology,0.760338386848732,19
+RISEBA University of Applied Sciences,Architecture,0.476836441937373,31
+RISEBA University of Applied Sciences,Business,0.509070451763337,1188
+RISEBA University of Applied Sciences,Economics,0.515272507081685,29
+RISEBA University of Applied Sciences,Marketing,0.509907359046073,20
+Riga Aeronautical Institute,Business,0.478419232371834,42
+Riga Aeronautical Institute,Engineering,0.308809578151958,11
+Riga Business School,Business,0.527778200612505,189
+Riga Graduate School of Law,Business,0.516737709844348,126
+Riga Graduate School of Law,Law,0.50953143835673,131
+Riga Stradiņš University,Business,0.535014750160344,205
+Riga Stradiņš University,Economics,0.496871865364662,19
+Riga Stradiņš University,Law,0.509411157970998,160
+Riga Stradiņš University,Marketing,0.548122049978772,152
+Riga Stradiņš University,Medicine,0.408693232574096,30
+Riga Stradiņš University,Nursing,0.411789358322307,30
+Riga Teacher Training & Educational Management Academy,Business,0.479229274073501,34
+Riga Teacher Training & Educational Management Academy,Education,0.456908774984944,26
+Riga Technical University,Accounting,0.535959873705951,11
+Riga Technical University,Architecture,0.485641723138985,144
+Riga Technical University,Business,0.531248541424969,1316
+Riga Technical University,Chemistry,0.50338392655814,50
+Riga Technical University,Economics,0.52143941427991,383
+Riga Technical University,Engineering,0.559751069442876,3300
+Riga Technical University,Finance,0.660364762237393,14
+Riga Technical University,Information Technology,0.705577747126797,440
+Riga Technical University,Law,0.533033720174232,10
+Stockholm School of Economics in Riga,Business,0.531359762677039,485
+Stockholm School of Economics in Riga,Economics,0.537425269110061,126
+Stockholm School of Economics in Riga,Finance,0.535864020955681,44
+Transport and Telecommunication Institute,Business,0.531481589432897,348
+Transport and Telecommunication Institute,Economics,0.532968180267829,35
+Transport and Telecommunication Institute,Engineering,0.675480921976808,291
+Transport and Telecommunication Institute,Information Technology,0.694406578360889,29
+Turība University,Business,0.511688977896663,944
+Turība University,Economics,0.511321555640466,13
+Turība University,Law,0.483723410189023,179
+Turība University,Marketing,0.487526956007404,33
+University of Latvia,Accounting,0.550624441674122,33
+University of Latvia,Biology,0.517944747112232,53
+University of Latvia,Business,0.531412109695944,1376
+University of Latvia,Chemistry,0.477020550546252,169
+University of Latvia,Economics,0.53112755120653,630
+University of Latvia,Education,0.43302509949735,174
+University of Latvia,Engineering,0.736808870828645,525
+University of Latvia,Finance,0.550100552129491,115
+University of Latvia,Information Technology,0.667616060330314,60
+University of Latvia,Law,0.486993689947274,811
+University of Latvia,Marketing,0.520100478567121,38
+University of Latvia,Mathematics,0.568863853187598,87
+University of Latvia,Medicine,0.445435791982279,20
+University of Latvia,Nursing,0.421018597423347,19
+University of Latvia,Physics,0.561798947491024,147
+University of Latvia,Statistics,0.608588716910912,113
+"University of Latvia Faculty of Business, Management and Economics",Business,0.529715802323163,272
+"University of Latvia Faculty of Business, Management and Economics",Economics,0.554662492118069,129
+"University of Latvia Faculty of Business, Management and Economics",Finance,0.537163180750448,14
+University of Latvia Faculty of Economics and Social Sciences,Business,0.527444027397464,32
+University of Latvia Faculty of Economics and Social Sciences,Economics,0.522268187272449,15
+Ventspils Augstskola,Business,0.516875532150094,218
+Ventspils Augstskola,Economics,0.531668260035407,20
+Ventspils Augstskola,Engineering,0.706323707900259,135
+Ventspils Augstskola,Finance,0.509354588827936,11
+Ventspils Augstskola,Information Technology,0.703674421588484,50
+Ventspils University of Applied Sciences,Business,0.548471496366783,23
+Ventspils University of Applied Sciences,Engineering,0.699895872967182,12
+Vidzeme University of Applied Sciences,Business,0.519135225753503,303
+Vidzeme University of Applied Sciences,Engineering,0.662020620794175,58
+Vidzeme University of Applied Sciences,Information Technology,0.730601520492407,110

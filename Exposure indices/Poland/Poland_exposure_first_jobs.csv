@@ -1,0 +1,454 @@
+university_name,field,exposure_firstjob_beta,n_people
+AGH University of Science and Technology in Kraków,Business,0.553530013934548,194
+AGH University of Science and Technology in Kraków,Engineering,0.608808045903008,3108
+AGH University of Science and Technology in Kraków,Information Technology,0.659479003699895,87
+AGH University of Science and Technology in Kraków,Mathematics,0.627523564899309,209
+AGH University of Science and Technology in Kraków,Physics,0.60020091429525,44
+Academy of Fine Arts in Gdańsk,Education,0.547098886964285,10
+Academy of Tourism and Hotel Management in Gdansk,Business,0.518926184443476,32
+Adam Mickiewicz University in Poznań,Biology,0.557706010032263,44
+Adam Mickiewicz University in Poznań,Business,0.567885091916616,119
+Adam Mickiewicz University in Poznań,Chemistry,0.514661569056206,107
+Adam Mickiewicz University in Poznań,Education,0.482490591876509,84
+Adam Mickiewicz University in Poznań,Engineering,0.684778145906193,191
+Adam Mickiewicz University in Poznań,Information Technology,0.672436374929913,15
+Adam Mickiewicz University in Poznań,Law,0.546905293565228,60
+Adam Mickiewicz University in Poznań,Marketing,0.547768119226329,30
+Adam Mickiewicz University in Poznań,Mathematics,0.636243621537252,62
+Adam Mickiewicz University in Poznań,Physics,0.552545906346461,26
+Akademia Nauk Stosowanych Wyższa Szkoła Zarządzania i Administracji w Opolu,Business,0.506684451042346,22
+Akademia WSB Dabrowa Gornicza,Business,0.58855415705376,65
+Akademia WSB Dabrowa Gornicza,Engineering,0.692697272359691,31
+Alcide De Gasperi University of Euroregional Economy in Józefów,Business,0.451312312864688,60
+Andrzej Frycz Modrzewski Kraków University,Architecture,0.505836972014878,19
+Andrzej Frycz Modrzewski Kraków University,Business,0.583592049071115,185
+Andrzej Frycz Modrzewski Kraków University,Education,0.574003596203143,12
+Andrzej Frycz Modrzewski Kraków University,Engineering,0.626630477910126,14
+Bialystok University of Technology,Architecture,0.530407928546644,44
+Bialystok University of Technology,Business,0.594502015904061,53
+Bialystok University of Technology,Engineering,0.612445647265845,315
+Bialystok University of Technology,Information Technology,0.808890703490674,12
+Bielsko-Biała School of Finances and Law,Finance,0.582999493956879,15
+Cardinal Stefan Wyszynski University in Warsaw,Biology,0.506976386732591,10
+Cardinal Stefan Wyszynski University in Warsaw,Economics,0.574903342586743,40
+Cardinal Stefan Wyszynski University in Warsaw,Education,0.529191419541489,12
+Cardinal Stefan Wyszynski University in Warsaw,Engineering,0.677901059919477,43
+Cardinal Stefan Wyszynski University in Warsaw,Mathematics,0.615327745590384,14
+College of Communications and Management in Poznan,Business,0.582910319901919,11
+College of Communications and Management in Poznan,Engineering,0.7337993897153,12
+College of Economics and Computer Science in Kraków,Business,0.605107760047567,53
+College of Economics and Computer Science in Kraków,Engineering,0.717210365902231,73
+College of Economics and Computer Science in Kraków,Finance,0.68780743235047,11
+College of Entrepreneurship and Administration in Lublin,Architecture,0.482205991612035,11
+College of Entrepreneurship and Administration in Lublin,Business,0.563053941965878,37
+College of Entrepreneurship and Administration in Lublin,Engineering,0.688141609277883,50
+College of Linguistics in Częstochowa,Business,0.479364312382275,15
+College of Logistics in Poznań,Business,0.546172450739186,44
+"College of Promotion, Media and Show Business in Warsaw",Business,0.506455440286111,37
+Collegium Civitas,Business,0.572640837075159,58
+Collegium Civitas,Marketing,0.488449045435316,22
+Collegium Da Vinci,Business,0.554319080541043,36
+Collegium Da Vinci,Engineering,0.689679089027197,58
+Collegium Da Vinci,Marketing,0.557424964475257,22
+Copernicus University of Information Technology and Management inWroclaw,Engineering,0.68710158634592,63
+Cracow University of Economics,Accounting,0.570055578043611,390
+Cracow University of Economics,Business,0.573121000349374,956
+Cracow University of Economics,Economics,0.570588604191752,573
+Cracow University of Economics,Education,0.494674301664177,19
+Cracow University of Economics,Engineering,0.634298909503895,258
+Cracow University of Economics,Finance,0.559897350934382,920
+Cracow University of Economics,Information Technology,0.636942759559297,36
+Cracow University of Economics,Marketing,0.56208915392716,96
+Cracow University of Technology,Architecture,0.486981930847396,213
+Cracow University of Technology,Engineering,0.583235011666585,901
+Cracow University of Technology,Finance,0.546931974734488,18
+Cracow University of Technology,Information Technology,0.690850934561359,16
+Cracow University of Technology,Mathematics,0.624361323876374,37
+Czestochowa University of Technology,Business,0.567797898255126,56
+Czestochowa University of Technology,Engineering,0.670388137285946,139
+Czestochowa University of Technology,Finance,0.505473868198349,13
+European University of Information Technology and Economics in Warsaw,Engineering,0.74588084939864,10
+Faculty of Economic Sciences at Warsaw University,Accounting,0.54050951506634,13
+Faculty of Economic Sciences at Warsaw University,Economics,0.58791022462954,14
+Faculty of Economic Sciences at Warsaw University,Finance,0.555304903089288,18
+Feliks Nowowiejski Academy of Music in Bydgoszcz,Engineering,0.501290947864806,11
+Gdansk University of Technology,Architecture,0.490445789289099,94
+Gdansk University of Technology,Business,0.547506126555738,162
+Gdansk University of Technology,Chemistry,0.441919433454968,10
+Gdansk University of Technology,Economics,0.621908061623442,12
+Gdansk University of Technology,Engineering,0.586305106683319,1603
+Gdansk University of Technology,Information Technology,0.703991486903116,23
+Gdansk University of Technology,Mathematics,0.647402684039845,102
+Gdansk University of Technology,Physics,0.657488693007451,11
+Gdańsk College of Health Sciences,Engineering,0.753670839437844,19
+Helena Chodkowska University of Technology and Economics,Business,0.55396335481779,39
+Helena Chodkowska University of Technology and Economics,Finance,0.597267712050613,13
+Higher School of Information Technology in Katowice,Engineering,0.71321591297138,60
+Higher School of Information Technology in Katowice,Information Technology,0.712591666397877,15
+Higher School of Management and Banking in Kraków,Business,0.551432863641112,99
+Higher School of Management and Banking in Kraków,Engineering,0.704528327798346,83
+Higher School of Management and Banking in Kraków,Finance,0.564493640878288,103
+Higher School of Management and Banking in Kraków,Information Technology,0.636047615020771,12
+Higher School of Management and Banking in Kraków,Marketing,0.570104397717299,12
+Higher School of Management and Banking in Poznan,Business,0.577874932321039,16
+Higher School of Tourism and Foreign Languages in Warsaw,Business,0.497589836355365,16
+Humanitas University in Sosnowiec,Business,0.55568210110561,31
+Ignatianum Jesuit University of Philosophy and Education in Kraków,Business,0.508353103787233,25
+Ignatianum Jesuit University of Philosophy and Education in Kraków,Education,0.500496988291622,10
+"International University of Logistics and Transport, Wrocław",Business,0.58354284315012,37
+"International University of Logistics and Transport, Wrocław",Engineering,0.576061628993311,10
+Jagiellonian University in Kraków,Biology,0.535782949191457,88
+Jagiellonian University in Kraków,Business,0.545958419020537,593
+Jagiellonian University in Kraków,Chemistry,0.511544942452962,129
+Jagiellonian University in Kraków,Economics,0.5723335879172,161
+Jagiellonian University in Kraków,Education,0.544400991242195,60
+Jagiellonian University in Kraków,Engineering,0.703014170632751,292
+Jagiellonian University in Kraków,Finance,0.662811282422067,11
+Jagiellonian University in Kraków,Information Technology,0.744834606356933,10
+Jagiellonian University in Kraków,Law,0.531704852133879,68
+Jagiellonian University in Kraków,Mathematics,0.631858725913304,115
+Jagiellonian University in Kraków,Nursing,0.464761279944313,29
+Jagiellonian University in Kraków,Physics,0.686753262259427,21
+Jan Kochanowski University in Kielce,Business,0.54530724110356,17
+Józef Piłsudski Academy of Physical Education in Warsaw,Business,0.479356479284153,20
+Józef Piłsudski Academy of Physical Education in Warsaw,Education,0.455614841396045,28
+Jędrzej Śniadecki Academy of Physical Education and Sport in Gdańsk,Business,0.493627356247067,11
+Jędrzej Śniadecki Academy of Physical Education and Sport in Gdańsk,Education,0.458448565166623,12
+Kazimierz Wielki University in Bydgoszcz,Business,0.585956676713003,11
+Kazimierz Wielki University in Bydgoszcz,Education,0.475937941683746,17
+Kazimierz Wielki University in Bydgoszcz,Engineering,0.71552846465738,55
+Kielce University of Technology,Business,0.540814258879922,10
+Kielce University of Technology,Engineering,0.61451897268073,166
+Kielce University of Technology,Information Technology,0.734354831806093,10
+Koszalin University of Technology,Engineering,0.600623570462916,18
+Kozminski University,Business,0.539713588116564,928
+Kozminski University,Economics,0.545469583374168,103
+Kozminski University,Finance,0.556420745636338,305
+Kozminski University,Marketing,0.514121350699618,30
+Kozminski University in Warsaw,Business,0.527515911813369,123
+Kozminski University in Warsaw,Finance,0.552043223440842,39
+Lodz University of Technology,Architecture,0.48550959527648,92
+Lodz University of Technology,Business,0.562150221934781,138
+Lodz University of Technology,Chemistry,0.487686822273022,15
+Lodz University of Technology,Engineering,0.602856949582738,1043
+Lodz University of Technology,Information Technology,0.742020223392049,43
+Lodz University of Technology,Mathematics,0.629919309673189,74
+Lublin University of Technology,Engineering,0.622812979668876,49
+Marie Curie-Skłodowska University,Biology,0.488080691436987,11
+Marie Curie-Skłodowska University,Business,0.536433802162758,124
+Marie Curie-Skłodowska University,Chemistry,0.504213380482796,54
+Marie Curie-Skłodowska University,Economics,0.587063395457513,83
+Marie Curie-Skłodowska University,Education,0.558082854505866,24
+Marie Curie-Skłodowska University,Engineering,0.706911070081659,81
+Marie Curie-Skłodowska University,Finance,0.590186139682466,95
+Marie Curie-Skłodowska University,Information Technology,0.693165228219371,15
+Marie Curie-Skłodowska University,Mathematics,0.666710708465998,18
+Maritime University of Szczecin,Engineering,0.390076614193055,141
+Medical University of Gdańsk,Nursing,0.402061618561018,13
+Medical University of Warsaw,Medicine,0.486620897175531,16
+Medical University of Warsaw,Nursing,0.456836264557577,28
+Medical University of Łódź,Medicine,0.472892854412898,11
+Menedżerska Akademia Nauk Stosowanych w Warszawie,Business,0.552014793253421,61
+Menedżerska Akademia Nauk Stosowanych w Warszawie,Engineering,0.695320827231993,18
+Military University of Technology,Business,0.563451529338359,55
+Military University of Technology,Engineering,0.63010025442654,292
+Nicolaus Copernicus University in Toruń,Biology,0.488228477070989,15
+Nicolaus Copernicus University in Toruń,Business,0.56217706064303,125
+Nicolaus Copernicus University in Toruń,Chemistry,0.497285940957242,56
+Nicolaus Copernicus University in Toruń,Economics,0.583040294340941,71
+Nicolaus Copernicus University in Toruń,Education,0.546201126718306,28
+Nicolaus Copernicus University in Toruń,Engineering,0.685095314043654,98
+Nicolaus Copernicus University in Toruń,Finance,0.548375460423106,62
+Nicolaus Copernicus University in Toruń,Information Technology,0.700143819783264,10
+Nicolaus Copernicus University in Toruń,Law,0.583755054879357,13
+Nicolaus Copernicus University in Toruń,Mathematics,0.533182369514593,15
+Nicolaus Copernicus University in Toruń,Physics,0.613373410411394,16
+Opole University of Technology,Business,0.520727304879563,23
+Opole University of Technology,Economics,0.510257769576717,10
+Opole University of Technology,Engineering,0.646558378968124,189
+Państwowa Wyższa Szkoła Zawodowa w Elblągu,Engineering,0.691461353464415,19
+Pedagogical University of Cracow,Business,0.462115816377871,11
+Pedagogical University of Cracow,Education,0.499742393818058,50
+Pedagogical University of Cracow,Engineering,0.659502252653749,37
+Pedagogical University of Cracow,Mathematics,0.538135500713276,13
+Polish Japanese Institute of Information Technology,Engineering,0.597874894927372,22
+Polish Naval Academy in Gdynia,Engineering,0.537290229356716,36
+Polish-Japanese Academy of Information Technology,Business,0.659268948643508,42
+Polish-Japanese Academy of Information Technology,Engineering,0.712068602158655,371
+Polish-Japanese Academy of Information Technology,Information Technology,0.730277357509113,62
+Politechnika Morska w Szczecinie,Engineering,0.382122404118351,77
+Politechnika Radomska im. Kazimierza Pułaskiego,Engineering,0.624003033587001,27
+Politechnika Rzeszowska im. Ignacego Łukasiewicza,Architecture,0.490510776491138,10
+Politechnika Rzeszowska im. Ignacego Łukasiewicza,Business,0.570982740109198,53
+Politechnika Rzeszowska im. Ignacego Łukasiewicza,Engineering,0.576674179898147,277
+Politechnika Rzeszowska im. Ignacego Łukasiewicza,Finance,0.536212391752013,45
+Politechnika Rzeszowska im. Ignacego Łukasiewicza,Mathematics,0.570892838909061,12
+Poznan School of Banking,Business,0.553962071705297,196
+Poznan School of Banking,Engineering,0.591351832134556,67
+Poznan School of Banking,Finance,0.57608209365659,99
+Poznan School of Banking,Information Technology,0.64730348033936,10
+Poznan University of Technology,Architecture,0.498064380523845,130
+Poznan University of Technology,Business,0.593691405086021,30
+Poznan University of Technology,Engineering,0.603569050455119,1423
+Poznan University of Technology,Information Technology,0.749089215045284,27
+Poznan University of Technology,Mathematics,0.648845222959644,20
+Poznań University of Economics and Business,Accounting,0.550163460487826,14
+Poznań University of Economics and Business,Business,0.554828172953654,773
+Poznań University of Economics and Business,Economics,0.56616499864752,269
+Poznań University of Economics and Business,Engineering,0.649158921777216,147
+Poznań University of Economics and Business,Finance,0.557552208395884,527
+Poznań University of Economics and Business,Information Technology,0.667989575249325,15
+Poznań University of Economics and Business,Law,0.516229776343211,29
+Poznań University of Economics and Business,Marketing,0.539353671833533,31
+Rzeszów University of Technology,Business,0.57251368452783,19
+Rzeszów University of Technology,Engineering,0.535151173414034,135
+Rzeszów University of Technology,Finance,0.517397896879348,20
+SWPS University of Social Sciences and Humanities,Business,0.555158968008003,216
+SWPS University of Social Sciences and Humanities,Education,0.507394841678958,10
+SWPS University of Social Sciences and Humanities,Marketing,0.544877589659981,18
+Siedlce University of Natural Sciences and Humanities,Business,0.510005468563119,23
+Siedlce University of Natural Sciences and Humanities,Engineering,0.697608377587601,15
+Silesian University of Technology,Architecture,0.502263580230036,102
+Silesian University of Technology,Business,0.571138731125678,54
+Silesian University of Technology,Engineering,0.601908496648458,1097
+Silesian University of Technology,Information Technology,0.806553555624628,17
+Silesian University of Technology,Mathematics,0.631224953683916,41
+Społeczna Wyższa Szkoła Przedsiębiorczości i Zarządzania,Business,0.543890175369847,14
+"State Higher Vocational School, Tarnów",Engineering,0.742362254906366,28
+State University of Applied Sciences in Nowy Sącz,Engineering,0.61983462968338,10
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Architecture,0.458852496410794,14
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Biology,0.481557797055901,37
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Business,0.554807039364711,141
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Economics,0.584070979671334,136
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Education,0.528917132336059,14
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Engineering,0.576013534811747,266
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Finance,0.567725004933477,126
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Information Technology,0.730126448866352,21
+The Bogdan Jański Academy,Business,0.533249571410987,10
+The Faculty of Management of the University of Warsaw,Accounting,0.501597823806776,20
+The Faculty of Management of the University of Warsaw,Business,0.541322447005312,71
+The Faculty of Management of the University of Warsaw,Finance,0.555112365848297,21
+The Jerzy Kukuczka Academy of Physical Education in Katowice,Business,0.5339122687829,95
+The John Paul II Catholic University of Lublin,Business,0.569398524424287,24
+The John Paul II Catholic University of Lublin,Economics,0.603248557437421,34
+The John Paul II Catholic University of Lublin,Engineering,0.743419073450037,42
+The John Paul II Catholic University of Lublin,Information Technology,0.726423193873527,17
+The Maria Grzegorzewska University,Education,0.460657367857705,44
+"The Polish National Film, Television and Theatre School in Lodz",Business,0.509915635512651,11
+The State School of Higher Education in Chełm,Engineering,0.3652395204023,11
+The Witelon University of Applied Sciences in Legnica,Engineering,0.630920656506214,11
+Tischner European University,Business,0.555445952216145,112
+University School of Physical Education in Poznan,Business,0.519060810694176,12
+University School of Physical Education in Poznan,Education,0.477676622050871,11
+University School of Physical Education in Wrocław,Business,0.449237842150916,19
+University School of Physical Education in Wrocław,Education,0.491107459579253,18
+University of Applied Sciences in Nysa,Business,0.562711808957044,16
+University of Applied Sciences in Nysa,Engineering,0.660986462168254,14
+University of Białystok,Business,0.548892677520628,18
+University of Białystok,Economics,0.575836397876565,32
+University of Białystok,Engineering,0.7124078720364,31
+University of Białystok,Finance,0.565499857679023,12
+University of Białystok,Information Technology,0.831904231591516,12
+University of Business and Administration in Gdynia,Business,0.54807084273097,78
+University of Computer Science and Management in Bielsko-Biala,Engineering,0.716923158623165,13
+University of Computer Sciences and Skills in Łódź,Engineering,0.612972811581765,50
+University of Ecology and Management in Warsaw,Architecture,0.521636386424898,45
+University of Ecology and Management in Warsaw,Business,0.480817635742356,17
+University of Ecology and Management in Warsaw,Engineering,0.541277752842549,28
+University of Economics and Human Sciences in Warsaw,Business,0.549282739392638,121
+University of Economics and Human Sciences in Warsaw,Engineering,0.716056714806672,25
+University of Economics and Human Sciences in Warsaw,Finance,0.563029726737983,64
+University of Economics and Humanities in Bielsko-Biała,Business,0.568462178499177,16
+University of Economics and Innovation in Lublin,Business,0.524597379282064,20
+University of Economics and Innovation in Lublin,Engineering,0.647317977466541,18
+University of Economics in Katowice,Accounting,0.518182686311744,14
+University of Economics in Katowice,Business,0.541078044996997,432
+University of Economics in Katowice,Economics,0.574533404758289,168
+University of Economics in Katowice,Education,0.5868139982606,11
+University of Economics in Katowice,Engineering,0.696089818616861,118
+University of Economics in Katowice,Finance,0.565554802082554,398
+University of Economics in Katowice,Information Technology,0.728045123345617,27
+University of Economy in Bydgoszcz,Business,0.497430300424358,70
+University of Economy in Bydgoszcz,Economics,0.57607567977829,18
+University of Economy in Bydgoszcz,Engineering,0.604554703115838,52
+University of Finance and Management Bialystok,Business,0.591634221243895,10
+University of Gdańsk,Accounting,0.555293502380691,13
+University of Gdańsk,Biology,0.537362032507185,73
+University of Gdańsk,Business,0.554367757196438,507
+University of Gdańsk,Chemistry,0.510098159264878,80
+University of Gdańsk,Economics,0.567037891288615,318
+University of Gdańsk,Education,0.525659536536693,64
+University of Gdańsk,Engineering,0.699354855316232,170
+University of Gdańsk,Finance,0.573808376559866,266
+University of Gdańsk,Information Technology,0.736677714347838,42
+University of Gdańsk,Law,0.480734361994086,18
+University of Gdańsk,Marketing,0.548845280763764,45
+University of Gdańsk,Mathematics,0.59877309498866,18
+University of Gdańsk,Physics,0.595411915664163,10
+"University of Information Technology and Management, Rzeszow",Business,0.543654986367546,14
+University of Life Sciences In Lublin,Engineering,0.578340205689216,22
+University of Lodz,Accounting,0.568440286374553,24
+University of Lodz,Biology,0.574042245474856,17
+University of Lodz,Business,0.568276587706675,636
+University of Lodz,Chemistry,0.537625681303948,23
+University of Lodz,Economics,0.581370705480849,204
+University of Lodz,Education,0.498019105879499,35
+University of Lodz,Engineering,0.685006447322934,183
+University of Lodz,Finance,0.568890781168479,275
+University of Lodz,Information Technology,0.723039753269933,26
+University of Lodz,Marketing,0.54923447431216,84
+University of Lodz,Mathematics,0.614997183634385,30
+University of Lower Silesia,Business,0.550382682682181,12
+University of Lower Silesia,Education,0.554930701794235,10
+University of Occupational Safety Management in Katowice,Business,0.542773002703545,23
+University of Opole,Business,0.555524063032177,63
+University of Opole,Economics,0.57716537245954,23
+University of Opole,Education,0.501012742827584,17
+University of Opole,Engineering,0.659882146014121,40
+University of Physical Education in Krakow,Business,0.436922526306774,12
+University of Silesia,Biology,0.532821376892058,15
+University of Silesia,Business,0.562640036897418,252
+University of Silesia,Chemistry,0.516131668222267,31
+University of Silesia,Education,0.534606287510172,32
+University of Silesia,Engineering,0.72870626094589,159
+University of Silesia,Information Technology,0.689271728801495,17
+University of Silesia,Mathematics,0.657228082904736,22
+University of Silesia,Physics,0.60311550497229,24
+University of Social Sciences,Business,0.538612426823542,161
+University of Social Sciences,Engineering,0.643744899919458,57
+University of Social Sciences,Finance,0.580782973181093,19
+University of Social Sciences,Marketing,0.519124470304993,15
+University of Technology & Life Sciences in Bydgoszcz,Business,0.579024146739301,19
+University of Technology & Life Sciences in Bydgoszcz,Engineering,0.607936207590701,136
+University of Technology and Life Sciences in Bydgoszcz,Engineering,0.614304239508594,15
+University of Warmia and Mazury in Olsztyn,Business,0.562409098392794,62
+University of Warmia and Mazury in Olsztyn,Economics,0.552062761770202,44
+University of Warmia and Mazury in Olsztyn,Education,0.489126033016402,19
+University of Warmia and Mazury in Olsztyn,Engineering,0.595731321012075,149
+University of Warmia and Mazury in Olsztyn,Information Technology,0.724587145229658,12
+University of Warsaw,Accounting,0.563796532903326,171
+University of Warsaw,Biology,0.550744091687048,64
+University of Warsaw,Business,0.544527010860108,847
+University of Warsaw,Chemistry,0.527901758454286,131
+University of Warsaw,Economics,0.584447027599121,260
+University of Warsaw,Education,0.519283967841971,135
+University of Warsaw,Engineering,0.677588169672324,373
+University of Warsaw,Finance,0.562710388180722,462
+University of Warsaw,Information Technology,0.664942125187508,16
+University of Warsaw,Law,0.508154955137765,32
+University of Warsaw,Marketing,0.534203490177893,135
+University of Warsaw,Mathematics,0.61209677993266,195
+University of Warsaw,Medicine,0.547101752381076,21
+University of Warsaw,Physics,0.589403167991705,125
+University of Wroclaw,Biology,0.562949809427716,47
+University of Wroclaw,Business,0.559564455189853,130
+University of Wroclaw,Chemistry,0.536477774814073,69
+University of Wroclaw,Economics,0.581133542773975,148
+University of Wroclaw,Education,0.535081160082077,48
+University of Wroclaw,Engineering,0.732977478887153,118
+University of Wroclaw,Law,0.553574547191976,20
+University of Wroclaw,Mathematics,0.673265644962057,67
+University of Wroclaw,Physics,0.611493059683912,27
+University of Wrocław,Biology,0.531774870930154,37
+University of Wrocław,Business,0.520090271849004,76
+University of Wrocław,Chemistry,0.532122226027496,47
+University of Wrocław,Economics,0.550356905353815,73
+University of Wrocław,Education,0.469568868662071,23
+University of Wrocław,Engineering,0.726750060361167,35
+University of Wrocław,Law,0.530909704428867,15
+University of Wrocław,Mathematics,0.619253172702214,28
+University of Zielona Góra,Engineering,0.682682505659034,40
+University of the Arts Poznań,Architecture,0.509738892854486,28
+"University of the National Education Commission, Krakow",Education,0.570431794533194,19
+"University of the National Education Commission, Krakow",Engineering,0.698159580987474,22
+Uniwersytet Bielsko-Bialski,Business,0.55920338762479,33
+Uniwersytet Bielsko-Bialski,Engineering,0.618440376819938,105
+Uniwersytet WSB Merito Bydgoszcz,Business,0.485518775166995,14
+Uniwersytet WSB Merito Chorzów,Business,0.538905207689813,42
+Uniwersytet WSB Merito Chorzów,Engineering,0.640895765818706,12
+Uniwersytet WSB Merito Chorzów,Finance,0.519567306674639,21
+Uniwersytet WSB Merito Gdańsk,Business,0.578859374459763,142
+Uniwersytet WSB Merito Gdańsk,Engineering,0.654522053729368,62
+Uniwersytet WSB Merito Gdańsk,Finance,0.561554050513125,62
+Uniwersytet WSB Merito Gdańsk,Information Technology,0.650524433631219,11
+Uniwersytet WSB Merito Toruń,Business,0.561094399991638,76
+Uniwersytet WSB Merito Toruń,Finance,0.599127646070081,15
+Uniwersytet WSB Merito Wrocław,Accounting,0.599333760398055,10
+Uniwersytet WSB Merito Wrocław,Business,0.556409803749565,358
+Uniwersytet WSB Merito Wrocław,Education,0.509718603465206,13
+Uniwersytet WSB Merito Wrocław,Engineering,0.628194627221996,45
+Uniwersytet WSB Merito Wrocław,Finance,0.600588403816619,144
+Uniwersytet WSB Merito Wrocław,Information Technology,0.712528224490281,15
+Uniwersytet WSB Merito Wrocław,Marketing,0.538098454907777,27
+Vincent Pol University in Lublin,Business,0.539565634554073,24
+Vistula University,Architecture,0.542151878030925,19
+Vistula University,Business,0.561137311898614,328
+Vistula University,Economics,0.587946230884017,77
+Vistula University,Engineering,0.645354370503637,148
+Vistula University,Finance,0.597607084793487,102
+Vistula University,Marketing,0.542780555864293,20
+WSB University in Bydgoszcz,Business,0.603580671417705,16
+WSB University in Toruń,Business,0.563977397400373,71
+WSB University in Toruń,Engineering,0.573509635968192,27
+WSB University in Toruń,Finance,0.594157103956212,23
+WSEI University,Engineering,0.688690984338756,12
+WSPiA Rzeszowska Szkoła Wyższa,Business,0.439934494833571,11
+War Studies University,Business,0.504200509646748,15
+Warsaw School of Computer Science,Business,0.576285962509956,11
+Warsaw School of Computer Science,Engineering,0.711872987390694,142
+Warsaw School of Computer Science,Information Technology,0.623495175302181,13
+Warsaw School of Economics,Accounting,0.557148194048708,23
+Warsaw School of Economics,Business,0.537133802729329,762
+Warsaw School of Economics,Economics,0.597100371263185,1531
+Warsaw School of Economics,Finance,0.548680881857484,2512
+Warsaw School of Economics,Marketing,0.515349748091676,43
+Warsaw School of Information Technology under the auspices of the Polish Academy of Sciences,Business,0.588547883973034,25
+Warsaw School of Information Technology under the auspices of the Polish Academy of Sciences,Engineering,0.680409811449469,146
+Warsaw School of Information Technology under the auspices of the Polish Academy of Sciences,Information Technology,0.620561388054517,11
+Warsaw School of Management - Graduate and Postgraduate School,Business,0.499782284242552,11
+Warsaw University of Life Sciences,Biology,0.588340571934887,11
+Warsaw University of Life Sciences,Business,0.551857435869961,32
+Warsaw University of Life Sciences,Economics,0.542020235259033,25
+Warsaw University of Life Sciences,Engineering,0.568613282510466,54
+Warsaw University of Life Sciences,Finance,0.553449554723598,18
+Warsaw University of Technology,Architecture,0.491010208216521,229
+Warsaw University of Technology,Business,0.577545690445263,247
+Warsaw University of Technology,Economics,0.58632236075582,42
+Warsaw University of Technology,Engineering,0.607794204089769,3650
+Warsaw University of Technology,Information Technology,0.72205902378354,112
+Warsaw University of Technology,Mathematics,0.693363700439709,80
+Warsaw University of Technology,Physics,0.596575063034104,17
+"West Pomeranian University of Technology, Szczecin",Architecture,0.489481743705258,28
+"West Pomeranian University of Technology, Szczecin",Business,0.507081912162739,28
+"West Pomeranian University of Technology, Szczecin",Economics,0.599883884424345,14
+"West Pomeranian University of Technology, Szczecin",Engineering,0.589725564617215,416
+Wroclaw Academy of Business In Applied Sciences,Business,0.548519771931667,66
+Wroclaw Academy of Business In Applied Sciences,Engineering,0.66062695214842,17
+Wroclaw University of Environmental and Life Sciences,Engineering,0.561014965570248,32
+"Wrocław School of Information Technology """"Horyzont""""",Engineering,0.707289286604704,41
+Wrocław University of Economics,Accounting,0.522497873368765,18
+Wrocław University of Economics,Business,0.572984185810291,526
+Wrocław University of Economics,Economics,0.577179093162438,78
+Wrocław University of Economics,Engineering,0.581509493185295,55
+Wrocław University of Economics,Finance,0.57077039659789,463
+Wrocław University of Environmental and Life Sciences,Biology,0.551694851974879,10
+Wrocław University of Environmental and Life Sciences,Business,0.630533163506265,10
+Wrocław University of Environmental and Life Sciences,Economics,0.598768746284955,12
+Wrocław University of Environmental and Life Sciences,Engineering,0.555506938127679,82
+Wyzsza Szkola Zarzadzania Marketingowego I Jezykow Obcych,Business,0.531683447487762,29
+Wyższa Szkoła Biznesu - National Louis University,Business,0.541091521651309,162
+Wyższa Szkoła Biznesu - National Louis University,Engineering,0.672180363014894,94
+Wyższa Szkoła Biznesu - National Louis University,Marketing,0.496012027762714,20
+Wyższa Szkoła Hotelarstwa i Gastronomii,Business,0.549091110549532,30
+Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,Business,0.557385735941178,308
+Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,Economics,0.576421653095885,36
+Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,Engineering,0.6569220975271,117
+Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,Information Technology,0.669071459661133,50
+Wyższa Szkoła Zarządzania i Psychologii w Poznaniu,Business,0.554179176100559,14
+Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych,Business,0.52420555803963,29
+Zachodniopomorska Szkoła Biznesu - Akademia Nauk Stosowanych,Engineering,0.639909192995489,15
+Łazarski University,Business,0.561046404230253,272
+Łazarski University,Economics,0.562787030784266,115
+Łazarski University,Finance,0.571874860476171,52
+Łazarski University,Law,0.598667669676668,14
+Łazarski University,Marketing,0.534682711587885,23

@@ -1,0 +1,458 @@
+university_name,field,exposure_firstjob_beta,n_people
+Al Baha Private College of Science,Business,0.579603870385102,10
+Al Baha Private College of Science,Engineering,0.553914464120364,83
+Al Yamamah University,Accounting,0.557020436843223,27
+Al Yamamah University,Architecture,0.484034544309646,50
+Al Yamamah University,Business,0.533393695649849,704
+Al Yamamah University,Engineering,0.574631550453139,141
+Al Yamamah University,Finance,0.539466227002,138
+Al Yamamah University,Law,0.504275733486548,69
+Al Yamamah University,Marketing,0.5336529722122,74
+Al-Imam Mohammad Ibn Saud Islamic University,Accounting,0.548738366950529,835
+Al-Imam Mohammad Ibn Saud Islamic University,Business,0.538336905951924,3052
+Al-Imam Mohammad Ibn Saud Islamic University,Chemistry,0.457095524341231,56
+Al-Imam Mohammad Ibn Saud Islamic University,Economics,0.530104321136749,151
+Al-Imam Mohammad Ibn Saud Islamic University,Education,0.489872322982022,136
+Al-Imam Mohammad Ibn Saud Islamic University,Engineering,0.596806863313211,524
+Al-Imam Mohammad Ibn Saud Islamic University,Finance,0.527352650637654,500
+Al-Imam Mohammad Ibn Saud Islamic University,Information Technology,0.603304549131854,84
+Al-Imam Mohammad Ibn Saud Islamic University,Law,0.490636203965793,543
+Al-Imam Mohammad Ibn Saud Islamic University,Marketing,0.543861545675363,304
+Al-Imam Mohammad Ibn Saud Islamic University,Mathematics,0.553076523744433,31
+Al-Imam Mohammad Ibn Saud Islamic University,Medicine,0.462572192183316,63
+Al-Imam Mohammad Ibn Saud Islamic University,Physics,0.508506439122662,26
+Al-Riyada College For Health Sciences,Nursing,0.409916447626789,17
+AlMaarefa colleges,Medicine,0.450254280743725,74
+AlMaarefa colleges,Nursing,0.32514814730717,10
+Alasala Colleges,Business,0.524885643383016,29
+Alasala Colleges,Engineering,0.37604838194342,15
+Alasala Colleges,Law,0.493446649533961,29
+Albaha University,Business,0.465500488470228,16
+Albaha University,Engineering,0.48505370110255,52
+Alfaisal University,Accounting,0.567235935084929,41
+Alfaisal University,Business,0.546163807822629,707
+Alfaisal University,Engineering,0.532773912869732,496
+Alfaisal University,Finance,0.533990977012471,71
+Alfaisal University,Marketing,0.562494560641318,34
+Alfaisal University,Medicine,0.456682465531434,202
+Almaarefa University,Medicine,0.405510476280137,25
+Applied Engineering College,Business,0.611703446029966,10
+Applied Engineering College,Engineering,0.518125062515516,331
+Arab Open University,Accounting,0.571746028002255,33
+Arab Open University,Business,0.51741866193015,886
+Arab Open University,Education,0.457195594540979,17
+Arab Open University,Engineering,0.596502329115563,149
+Arab Open University,Information Technology,0.595927360376085,675
+Arab Open University,Marketing,0.539735305919984,20
+Batterjee Medical College,Medicine,0.418632150369141,120
+Batterjee Medical College,Nursing,0.425328414947948,14
+Dammam Community College - KFUPM,Business,0.433250819705154,13
+Dar Al Uloom University,Architecture,0.491993729802356,117
+Dar Al Uloom University,Business,0.529450768187617,248
+Dar Al Uloom University,Engineering,0.516894302373248,136
+Dar Al Uloom University,Finance,0.532721620894158,135
+Dar Al Uloom University,Information Technology,0.613284330645163,22
+Dar Al Uloom University,Law,0.501367062080288,487
+Dar Al Uloom University,Marketing,0.510511833139812,63
+Dar Al Uloom University,Medicine,0.457679460451998,14
+Dar Al-Hekma University,Architecture,0.483538266529366,186
+Dar Al-Hekma University,Business,0.556696385222927,212
+Dar Al-Hekma University,Education,0.417064000632784,58
+Dar Al-Hekma University,Finance,0.535114443252002,180
+Dar Al-Hekma University,Law,0.488997807958251,195
+Dar Al-Hekma University,Marketing,0.516445752976336,67
+Dar Al-Hekma University,Nursing,0.398272084574073,12
+Effat University,Architecture,0.489267060009764,462
+Effat University,Business,0.535996386873078,245
+Effat University,Education,0.466213776416445,16
+Effat University,Engineering,0.566023138784158,300
+Effat University,Finance,0.546106976357621,112
+Effat University,Marketing,0.517340371164568,60
+Fahad Bin Sultan University,Business,0.520176811042646,53
+Fahad Bin Sultan University,Engineering,0.489392182368175,327
+Fakeeh College of Medical Sciences,Nursing,0.378842685771312,16
+Ibn Sina National College for Medical Studies,Medicine,0.399186745970013,133
+Imam Abdulrahman Bin Faisal University,Accounting,0.561288358332805,771
+Imam Abdulrahman Bin Faisal University,Architecture,0.473504187195536,338
+Imam Abdulrahman Bin Faisal University,Biology,0.459370745106197,72
+Imam Abdulrahman Bin Faisal University,Business,0.546840028653423,2454
+Imam Abdulrahman Bin Faisal University,Chemistry,0.473044077695975,260
+Imam Abdulrahman Bin Faisal University,Education,0.473062947867774,237
+Imam Abdulrahman Bin Faisal University,Engineering,0.560936280963419,1402
+Imam Abdulrahman Bin Faisal University,Finance,0.555096933274109,546
+Imam Abdulrahman Bin Faisal University,Information Technology,0.597781946632964,16
+Imam Abdulrahman Bin Faisal University,Law,0.541453608306019,14
+Imam Abdulrahman Bin Faisal University,Marketing,0.523764626907476,153
+Imam Abdulrahman Bin Faisal University,Mathematics,0.487540543868133,89
+Imam Abdulrahman Bin Faisal University,Medicine,0.444825762876837,255
+Imam Abdulrahman Bin Faisal University,Nursing,0.405147637953501,208
+Imam Abdulrahman Bin Faisal University,Physics,0.520495780024906,76
+Imam Abdulrahman Bin Faisal University,Statistics,0.594472144036366,19
+Institute of Public Administration Saudi Arabia,Business,0.54174057509831,14
+"International Indian School, Dammam",Engineering,0.588910269293231,12
+"International Indian School, Riyadh",Engineering,0.546699883827851,10
+Islamic University,Engineering,0.495433694464796,13
+Islamic University,Law,0.475267743635869,14
+Islamic University of Madinah,Chemistry,0.420128961005723,26
+Islamic University of Madinah,Engineering,0.525345806889587,148
+Islamic University of Madinah,Information Technology,0.590064909808645,31
+Islamic University of Madinah,Law,0.473143312588973,121
+Jazan University,Accounting,0.548126929017355,70
+Jazan University,Architecture,0.471311274140833,64
+Jazan University,Biology,0.422937774281817,21
+Jazan University,Business,0.521013703807756,437
+Jazan University,Chemistry,0.427373767817879,53
+Jazan University,Education,0.467690898107088,98
+Jazan University,Engineering,0.512882886809424,1744
+Jazan University,Finance,0.53846643699972,30
+Jazan University,Information Technology,0.623371549356335,10
+Jazan University,Law,0.471367013217477,43
+Jazan University,Marketing,0.494712861675149,26
+Jazan University,Mathematics,0.464959152924382,14
+Jazan University,Medicine,0.442429399014273,52
+Jazan University,Physics,0.504263666886402,22
+Jeddah International College,Business,0.516339582942954,36
+Jouf University,Accounting,0.533722040270074,24
+Jouf University,Business,0.555354686751687,111
+Jouf University,Chemistry,0.497695123769637,21
+Jouf University,Education,0.475516419460893,33
+Jouf University,Engineering,0.503856589287004,387
+Jouf University,Law,0.498953461966492,36
+Jouf University,Mathematics,0.472001375104656,16
+Jouf University,Nursing,0.410449763890657,10
+Jouf University,Physics,0.387484088178571,10
+Jubail University College,Accounting,0.544471132643949,107
+Jubail University College,Architecture,0.521598526235833,15
+Jubail University College,Business,0.569508078871656,1182
+Jubail University College,Engineering,0.475737575720397,1568
+KFUPM Business School,Accounting,0.556354477571074,14
+KFUPM Business School,Business,0.566802980624997,22
+KFUPM Business School,Finance,0.502428498343643,28
+KFUPM Business School,Marketing,0.520283463739012,11
+KKU College of Engineering,Business,0.485504311071899,17
+KKU College of Engineering,Engineering,0.500690896195276,129
+King Abdulaziz University,Accounting,0.552802180271671,1102
+King Abdulaziz University,Architecture,0.47682635342188,580
+King Abdulaziz University,Biology,0.453516378552062,226
+King Abdulaziz University,Business,0.510590155490983,10055
+King Abdulaziz University,Chemistry,0.450354433593771,364
+King Abdulaziz University,Economics,0.505923350017022,504
+King Abdulaziz University,Education,0.461377739253582,255
+King Abdulaziz University,Engineering,0.516460638827954,6047
+King Abdulaziz University,Finance,0.547636300151978,452
+King Abdulaziz University,Information Technology,0.605251512250637,780
+King Abdulaziz University,Law,0.478562278500762,1942
+King Abdulaziz University,Marketing,0.510907390642123,671
+King Abdulaziz University,Mathematics,0.509647103492951,135
+King Abdulaziz University,Medicine,0.417184376972904,666
+King Abdulaziz University,Nursing,0.408249896500836,214
+King Abdulaziz University,Physics,0.462126780099933,224
+King Abdulaziz University,Statistics,0.583008948482128,188
+King Abdullah University of Science and Technology,Business,0.454916398593015,12
+King Fahd University of Petroleum and Minerals,Accounting,0.532961576675834,342
+King Fahd University of Petroleum and Minerals,Architecture,0.484189217934193,145
+King Fahd University of Petroleum and Minerals,Business,0.55436672090675,717
+King Fahd University of Petroleum and Minerals,Chemistry,0.441775611436008,40
+King Fahd University of Petroleum and Minerals,Engineering,0.501331572916207,8717
+King Fahd University of Petroleum and Minerals,Finance,0.519349506658198,524
+King Fahd University of Petroleum and Minerals,Marketing,0.518756498128317,278
+King Fahd University of Petroleum and Minerals,Mathematics,0.574739362055687,36
+King Fahd University of Petroleum and Minerals,Physics,0.509637862030692,22
+King Faisal University,Accounting,0.550108575610873,454
+King Faisal University,Architecture,0.459032711790015,79
+King Faisal University,Biology,0.434018935931591,49
+King Faisal University,Business,0.515806941422198,5435
+King Faisal University,Chemistry,0.434693810118147,170
+King Faisal University,Economics,0.519827729208345,58
+King Faisal University,Education,0.473934176024372,239
+King Faisal University,Engineering,0.56108284289727,1149
+King Faisal University,Finance,0.533361273338039,95
+King Faisal University,Information Technology,0.595512438966081,28
+King Faisal University,Law,0.491509249879957,158
+King Faisal University,Marketing,0.527930000396309,118
+King Faisal University,Mathematics,0.500637347787142,47
+King Faisal University,Medicine,0.412659181441967,172
+King Faisal University,Nursing,0.437945416378616,44
+King Faisal University,Physics,0.4107145737494,39
+King Khalid University,Accounting,0.541797829127563,227
+King Khalid University,Biology,0.456405515225142,29
+King Khalid University,Business,0.530519345994833,660
+King Khalid University,Chemistry,0.485396839037652,70
+King Khalid University,Economics,0.52692203766711,13
+King Khalid University,Education,0.517306348698256,103
+King Khalid University,Engineering,0.525097740821918,1996
+King Khalid University,Finance,0.514514760795234,28
+King Khalid University,Information Technology,0.595005664312313,24
+King Khalid University,Law,0.478410848950458,90
+King Khalid University,Marketing,0.522134716362336,54
+King Khalid University,Mathematics,0.531996661984955,58
+King Khalid University,Medicine,0.434975437117309,130
+King Khalid University,Nursing,0.414135165521323,25
+King Khalid University,Physics,0.455228792254707,39
+King Saud Bin Abdulaziz University for Health Sciences,Business,0.519188055360526,13
+King Saud Bin Abdulaziz University for Health Sciences,Medicine,0.443698070347539,367
+King Saud Bin Abdulaziz University for Health Sciences,Nursing,0.410221191033258,307
+King Saud University,Accounting,0.540405146345159,2173
+King Saud University,Architecture,0.480394454943002,705
+King Saud University,Biology,0.47267141681174,51
+King Saud University,Business,0.543814325197943,6783
+King Saud University,Chemistry,0.458116640988371,293
+King Saud University,Economics,0.53163563746373,590
+King Saud University,Education,0.481960080198584,1053
+King Saud University,Engineering,0.555146081863905,7705
+King Saud University,Finance,0.537746011067679,688
+King Saud University,Information Technology,0.638582102874336,990
+King Saud University,Law,0.488559638521456,2938
+King Saud University,Marketing,0.523747807927799,566
+King Saud University,Mathematics,0.598038523901887,192
+King Saud University,Medicine,0.447987220630808,707
+King Saud University,Nursing,0.411463497967583,341
+King Saud University,Physics,0.508956496976829,141
+King Saud University,Statistics,0.62424622716396,139
+Madinah College Of Technology,Engineering,0.420119906308806,75
+Majmaah University,Accounting,0.564369706051684,159
+Majmaah University,Business,0.549849628240392,410
+Majmaah University,Education,0.464749463865329,96
+Majmaah University,Engineering,0.543662427997654,495
+Majmaah University,Finance,0.534578040370569,26
+Majmaah University,Information Technology,0.605619743931988,85
+Majmaah University,Law,0.498466010954803,119
+Majmaah University,Mathematics,0.539659459795784,22
+Majmaah University,Medicine,0.426774890988595,14
+Majmaah University,Nursing,0.376683226042416,16
+Mohammad Al-Mana College of Health Sciences,Nursing,0.359672627807752,29
+Najran University,Accounting,0.56969001406097,25
+Najran University,Business,0.529456709493083,97
+Najran University,Education,0.470453139598304,22
+Najran University,Engineering,0.511964620269904,250
+Najran University,Law,0.450310513952918,20
+Northern Border University,Accounting,0.565032922098495,20
+Northern Border University,Business,0.519714800502929,112
+Northern Border University,Chemistry,0.42202073407598,33
+Northern Border University,Education,0.482766808544892,17
+Northern Border University,Engineering,0.509435780341219,311
+Northern Border University,Information Technology,0.583630317647208,31
+Northern Border University,Law,0.505128465219913,18
+Northern Border University,Mathematics,0.48863492287081,12
+Northern Border University,Medicine,0.443165460629803,10
+Onaizah Colleges,Business,0.542725010968292,26
+Onaizah Colleges,Engineering,0.419749894331073,46
+Onaizah Colleges,Law,0.508362436874878,15
+Pakistan International School Jeddah - PISJ AZIZIA,Business,0.461449731857713,27
+Pakistan International School Jeddah - PISJ AZIZIA,Engineering,0.502916146485808,28
+Prince Mohammad Bin Fahd University,Accounting,0.569170629338029,101
+Prince Mohammad Bin Fahd University,Architecture,0.491171930084185,12
+Prince Mohammad Bin Fahd University,Business,0.548556679357354,1115
+Prince Mohammad Bin Fahd University,Engineering,0.483755007158,1266
+Prince Mohammad Bin Fahd University,Finance,0.548973005001295,298
+Prince Mohammad Bin Fahd University,Information Technology,0.630042447481933,115
+Prince Mohammad Bin Fahd University,Law,0.502154581183514,333
+Prince Sattam bin Abdulaziz University,Accounting,0.547790645533426,124
+Prince Sattam bin Abdulaziz University,Biology,0.549444225567771,16
+Prince Sattam bin Abdulaziz University,Business,0.543028028130475,481
+Prince Sattam bin Abdulaziz University,Chemistry,0.425265090567277,83
+Prince Sattam bin Abdulaziz University,Education,0.499783162657919,74
+Prince Sattam bin Abdulaziz University,Engineering,0.543378428646163,903
+Prince Sattam bin Abdulaziz University,Finance,0.566346849834121,41
+Prince Sattam bin Abdulaziz University,Information Technology,0.623617685638551,12
+Prince Sattam bin Abdulaziz University,Law,0.47453621286404,151
+Prince Sattam bin Abdulaziz University,Mathematics,0.482768575912103,69
+Prince Sattam bin Abdulaziz University,Medicine,0.477710790404619,16
+Prince Sattam bin Abdulaziz University,Nursing,0.415134710847499,13
+Prince Sattam bin Abdulaziz University,Physics,0.496613546298883,36
+Prince Sultan Military College of Health Sciences - Al Dhahran,Business,0.537224035786681,14
+Prince Sultan Military College of Health Sciences - Al Dhahran,Nursing,0.395891642696167,75
+Prince Sultan University,Accounting,0.54374906679963,128
+Prince Sultan University,Architecture,0.49191790306072,229
+Prince Sultan University,Business,0.534863794172475,611
+Prince Sultan University,Engineering,0.554261855302195,995
+Prince Sultan University,Finance,0.529695150588203,425
+Prince Sultan University,Information Technology,0.626132387994436,10
+Prince Sultan University,Law,0.486747539425428,499
+Prince Sultan University,Marketing,0.513096144733211,194
+Princess Nourah Bint Abdulrahman University,Accounting,0.562077257759559,1187
+Princess Nourah Bint Abdulrahman University,Biology,0.488154281879767,186
+Princess Nourah Bint Abdulrahman University,Business,0.553174351508493,2146
+Princess Nourah Bint Abdulrahman University,Chemistry,0.491249409090468,382
+Princess Nourah Bint Abdulrahman University,Economics,0.56003756868974,539
+Princess Nourah Bint Abdulrahman University,Education,0.500629022475852,639
+Princess Nourah Bint Abdulrahman University,Engineering,0.639292308617412,1524
+Princess Nourah Bint Abdulrahman University,Finance,0.567078399968554,78
+Princess Nourah Bint Abdulrahman University,Information Technology,0.638171152373042,613
+Princess Nourah Bint Abdulrahman University,Law,0.506381626646875,1038
+Princess Nourah Bint Abdulrahman University,Marketing,0.526833098692403,47
+Princess Nourah Bint Abdulrahman University,Mathematics,0.537360396662545,89
+Princess Nourah Bint Abdulrahman University,Medicine,0.43294996651056,43
+Princess Nourah Bint Abdulrahman University,Nursing,0.395510707110723,119
+Princess Nourah Bint Abdulrahman University,Physics,0.504842390018161,111
+Princess Nourah Bint Abdulrahman University,Statistics,0.55366609923673,27
+Qassim University,Accounting,0.545243712724628,322
+Qassim University,Architecture,0.482509785199086,111
+Qassim University,Biology,0.506915179520575,18
+Qassim University,Business,0.540752315489844,734
+Qassim University,Chemistry,0.430672107746024,85
+Qassim University,Economics,0.53159425964399,27
+Qassim University,Education,0.451308512018074,167
+Qassim University,Engineering,0.526793498212505,1493
+Qassim University,Finance,0.553875198095456,145
+Qassim University,Information Technology,0.615339819528372,260
+Qassim University,Law,0.483488716054108,278
+Qassim University,Marketing,0.526646453924764,15
+Qassim University,Mathematics,0.519353213660039,129
+Qassim University,Medicine,0.423257634268201,161
+Qassim University,Nursing,0.384582808742053,32
+Qassim University,Physics,0.518991204291061,51
+Qassim University,Statistics,0.555989326227851,10
+Riyadh Elm University,Nursing,0.352713377840492,13
+Royal Commission Colleges & Institute,Accounting,0.568875025135779,153
+Royal Commission Colleges & Institute,Business,0.542381115079915,770
+Royal Commission Colleges & Institute,Engineering,0.532879881786735,487
+Royal Commission Colleges & Institute,Marketing,0.497753896140068,14
+Saad College of Nursing and Allied Health Sciences,Nursing,0.398259573290359,13
+Saudi Electronic University,Accounting,0.549423295053493,217
+Saudi Electronic University,Business,0.514323269148324,709
+Saudi Electronic University,Education,0.517252189368107,11
+Saudi Electronic University,Engineering,0.560009478432086,45
+Saudi Electronic University,Finance,0.494488193049508,36
+Saudi Electronic University,Information Technology,0.58032454330226,659
+Saudi Electronic University,Law,0.487892257574965,333
+School of Business at King Faisal University,Business,0.477256661335482,45
+Shaqra University,Accounting,0.538302009592854,78
+Shaqra University,Biology,0.502121856319119,11
+Shaqra University,Business,0.55159565651665,552
+Shaqra University,Chemistry,0.51559146499248,33
+Shaqra University,Education,0.525379595576205,88
+Shaqra University,Engineering,0.568922622228926,540
+Shaqra University,Finance,0.561754173452327,37
+Shaqra University,Information Technology,0.608578568756374,11
+Shaqra University,Law,0.484798401482038,147
+Shaqra University,Mathematics,0.516614787083373,64
+Shaqra University,Nursing,0.408218840717897,35
+Shaqra University,Physics,0.513439916964092,16
+Sulaiman AlRajhi School of Business,Business,0.522876860597348,16
+Sulaiman Alrajhi University,Medicine,0.471061417200667,27
+Taibah University,Accounting,0.546759332798892,107
+Taibah University,Architecture,0.500713220275401,11
+Taibah University,Biology,0.445985799035982,61
+Taibah University,Business,0.529557704619338,1104
+Taibah University,Chemistry,0.418546775415606,242
+Taibah University,Economics,0.50259313384423,13
+Taibah University,Education,0.444345524539886,146
+Taibah University,Engineering,0.530841112583458,1721
+Taibah University,Finance,0.528416184951693,71
+Taibah University,Information Technology,0.562914615638901,17
+Taibah University,Law,0.49071553327053,174
+Taibah University,Marketing,0.50126317482501,31
+Taibah University,Mathematics,0.47652112766539,92
+Taibah University,Medicine,0.447942049132669,95
+Taibah University,Nursing,0.389150319936001,69
+Taibah University,Physics,0.44151201326205,70
+Taibah University,Statistics,0.562658321692792,23
+Taif University,Accounting,0.543873410670372,181
+Taif University,Biology,0.449553924433841,32
+Taif University,Business,0.520800160662434,962
+Taif University,Chemistry,0.476383661711957,89
+Taif University,Economics,0.531478035287432,33
+Taif University,Education,0.460564839050932,99
+Taif University,Engineering,0.544473113798707,887
+Taif University,Finance,0.527658519538518,92
+Taif University,Information Technology,0.593240645182366,179
+Taif University,Law,0.459810334869746,147
+Taif University,Marketing,0.527340371427733,32
+Taif University,Mathematics,0.505395476513363,27
+Taif University,Medicine,0.408468165934715,65
+Taif University,Nursing,0.406443306462437,35
+Taif University,Physics,0.472224194965083,36
+Taif University,Statistics,0.483407189727259,17
+Technical College of Telecom & Information,Engineering,0.587743945678141,231
+Technical and Vocational Training Corporation,Accounting,0.562550122059322,106
+Technical and Vocational Training Corporation,Architecture,0.479703743778891,10
+Technical and Vocational Training Corporation,Business,0.524108314079689,94
+Technical and Vocational Training Corporation,Engineering,0.465756554877581,1794
+Technical and Vocational Training Corporation,Information Technology,0.538280786950084,12
+Umm Al-Qura University,Accounting,0.544981476760407,392
+Umm Al-Qura University,Architecture,0.476465493718613,290
+Umm Al-Qura University,Biology,0.448745627247226,67
+Umm Al-Qura University,Business,0.52607528534951,938
+Umm Al-Qura University,Chemistry,0.4441613373803,249
+Umm Al-Qura University,Economics,0.522285206758175,149
+Umm Al-Qura University,Education,0.467238378670534,381
+Umm Al-Qura University,Engineering,0.507814389215895,2962
+Umm Al-Qura University,Finance,0.555353246694344,84
+Umm Al-Qura University,Information Technology,0.535239192112615,28
+Umm Al-Qura University,Law,0.482180905563484,177
+Umm Al-Qura University,Marketing,0.509818838747736,122
+Umm Al-Qura University,Mathematics,0.48236481751508,60
+Umm Al-Qura University,Medicine,0.426593077946575,366
+Umm Al-Qura University,Nursing,0.408676295899256,48
+Umm Al-Qura University,Physics,0.443508937095478,145
+University of Bisha,Business,0.533990207207766,114
+University of Bisha,Chemistry,0.428521299911972,16
+University of Bisha,Engineering,0.507243614119611,133
+University of Bisha,Mathematics,0.530640953779617,13
+University of Business and Technology,Accounting,0.54742932824361,203
+University of Business and Technology,Business,0.530797896742482,1150
+University of Business and Technology,Engineering,0.486096496115838,688
+University of Business and Technology,Finance,0.530277256301857,255
+University of Business and Technology,Law,0.509718558793876,41
+University of Business and Technology,Marketing,0.507438313206453,238
+University of Dammam,Accounting,0.558414948504538,98
+University of Dammam,Architecture,0.468396446533604,93
+University of Dammam,Business,0.557952846680967,230
+University of Dammam,Chemistry,0.419656186057777,19
+University of Dammam,Education,0.466570286661007,23
+University of Dammam,Engineering,0.556074727858734,224
+University of Dammam,Finance,0.54182003201938,41
+University of Dammam,Marketing,0.56723534148839,19
+University of Dammam,Mathematics,0.488392715506003,22
+University of Dammam,Medicine,0.456057219624889,74
+University of Dammam,Nursing,0.368255736634165,46
+University of Hafr Al Batin,Biology,0.540179158429171,21
+University of Hafr Al Batin,Business,0.490339101229823,14
+University of Hafr Al Batin,Chemistry,0.492776311302767,34
+University of Hafr Al Batin,Education,0.528175534780177,18
+University of Hafr Al Batin,Engineering,0.51595119415466,203
+University of Hafr Al Batin,Mathematics,0.487944518928123,12
+University of Hail,Accounting,0.544933264933419,61
+University of Hail,Architecture,0.501329512094559,25
+University of Hail,Biology,0.340407054708723,11
+University of Hail,Business,0.530722556170962,509
+University of Hail,Chemistry,0.487717096458836,21
+University of Hail,Education,0.495550300062223,104
+University of Hail,Engineering,0.521155037430365,1258
+University of Hail,Finance,0.522412602536622,25
+University of Hail,Mathematics,0.436024060857139,11
+University of Hail,Medicine,0.390784391103669,33
+University of Hail,Nursing,0.392284151520758,32
+University of Jeddah,Accounting,0.556065920209075,113
+University of Jeddah,Biology,0.423019873979468,32
+University of Jeddah,Business,0.540911190863667,517
+University of Jeddah,Chemistry,0.439390374453277,71
+University of Jeddah,Education,0.450637655752378,109
+University of Jeddah,Engineering,0.543604750245755,507
+University of Jeddah,Finance,0.545746408040017,79
+University of Jeddah,Information Technology,0.626991947095384,183
+University of Jeddah,Law,0.487427745532574,213
+University of Jeddah,Marketing,0.521353243209889,39
+University of Jeddah,Mathematics,0.479817790862807,24
+University of Jeddah,Medicine,0.434424483097219,10
+University of Jeddah,Physics,0.426759916557417,35
+University of Jeddah,Statistics,0.574512035931809,40
+University of Prince Mugrin,Architecture,0.519077763231686,11
+University of Prince Mugrin,Business,0.527600546946292,24
+University of Prince Mugrin,Engineering,0.496226735962107,124
+University of Tabuk,Accounting,0.545647047977906,91
+University of Tabuk,Biology,0.464143543629464,36
+University of Tabuk,Business,0.512777811158094,381
+University of Tabuk,Chemistry,0.414300933948889,61
+University of Tabuk,Education,0.452186113981913,60
+University of Tabuk,Engineering,0.513669255062781,751
+University of Tabuk,Finance,0.513116398591401,72
+University of Tabuk,Information Technology,0.569383566805664,44
+University of Tabuk,Law,0.48180580004907,82
+University of Tabuk,Marketing,0.543319150643388,32
+University of Tabuk,Mathematics,0.459169445343498,36
+University of Tabuk,Medicine,0.41794054906731,15
+University of Tabuk,Nursing,0.371533106766924,20
+University of Tabuk,Physics,0.458515034195729,24
+​Inaya Medical College,Medicine,0.387934002020729,26

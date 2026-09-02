@@ -1,0 +1,1307 @@
+university_name,field,exposure_alljobs_beta,n_people
+Academy of Learning Career College,Business,0.498874811132769,24
+Acadia University,Accounting,0.524494352664512,40
+Acadia University,Biology,0.446330366958898,183
+Acadia University,Business,0.490843304501501,1363
+Acadia University,Chemistry,0.462107422928027,113
+Acadia University,Economics,0.510142856683054,87
+Acadia University,Education,0.384219023525642,232
+Acadia University,Engineering,0.564673037742963,269
+Acadia University,Finance,0.529783728166424,28
+Acadia University,Marketing,0.514005723990784,32
+Acadia University,Mathematics,0.526701748250848,20
+Acadia University,Physics,0.506097834325553,32
+Acadia University,Statistics,0.525515666572984,49
+Acsenda School of Management - Vancouver,Business,0.472802592895483,429
+Alberta Bible College,Education,0.436116988443801,11
+Alberta School of Business,Accounting,0.519275427766172,190
+Alberta School of Business,Business,0.510060894109789,356
+Alberta School of Business,Economics,0.520588844447555,17
+Alberta School of Business,Education,0.523589156504903,17
+Alberta School of Business,Finance,0.524645462764085,183
+Alberta School of Business,Law,0.466476629486745,11
+Alberta School of Business,Marketing,0.506758592008812,71
+Algoma University,Accounting,0.538916906392645,37
+Algoma University,Biology,0.442290022868799,16
+Algoma University,Business,0.512298610325213,405
+Algoma University,Economics,0.465541721941479,18
+Algoma University,Engineering,0.619293805646804,185
+Algoma University,Finance,0.518119111627491,25
+Algoma University,Law,0.468743026475833,103
+Algoma University,Mathematics,0.445720448743124,11
+Algonquin College,Architecture,0.413098803205208,30
+Algonquin College,Business,0.486886505943751,1028
+Algonquin College,Education,0.394372390552864,30
+Algonquin College,Engineering,0.524560974336813,150
+Algonquin College,Information Technology,0.634911490542646,50
+Algonquin College,Marketing,0.473025627579632,17
+Algonquin College,Nursing,0.325859475972215,18
+Ambrose School of Business,Business,0.434178599603848,18
+Ambrose University,Biology,0.495529489361643,19
+Ambrose University,Business,0.489034201858207,96
+Ambrose University,Education,0.315897403814491,107
+Ambrose University College,Business,0.507996397378628,11
+Ambrose University College,Education,0.337250902276873,12
+Asper School of Business,Accounting,0.561004245128874,13
+Asper School of Business,Business,0.510725307722648,29
+Asper School of Business,Marketing,0.548258695868739,17
+Assiniboine Community College,Business,0.438909637764085,37
+Athabasca University,Accounting,0.53457786590327,525
+Athabasca University,Architecture,0.432946299253355,38
+Athabasca University,Biology,0.378541804682966,12
+Athabasca University,Business,0.501474179182562,1556
+Athabasca University,Economics,0.544701370614125,13
+Athabasca University,Education,0.361369940609003,20
+Athabasca University,Engineering,0.613829697813168,163
+Athabasca University,Finance,0.527335914324287,137
+Athabasca University,Information Technology,0.588446903123217,13
+Athabasca University,Marketing,0.512307446999559,36
+Athabasca University,Mathematics,0.526083431338022,16
+Athabasca University,Nursing,0.381802834346593,502
+BCIT School of Business + Media,Accounting,0.542865878351917,106
+BCIT School of Business + Media,Business,0.503503561874865,342
+BCIT School of Business + Media,Finance,0.56197886958795,16
+Bishop's University,Accounting,0.536393484719637,55
+Bishop's University,Biology,0.438190150850516,95
+Bishop's University,Business,0.512495769362933,1285
+Bishop's University,Chemistry,0.444823987608416,27
+Bishop's University,Economics,0.50570764082986,98
+Bishop's University,Education,0.364501745414124,216
+Bishop's University,Engineering,0.64289026631421,98
+Bishop's University,Finance,0.512236278750178,46
+Bishop's University,Information Technology,0.619978144385167,15
+Bishop's University,Law,0.475808849569089,16
+Bishop's University,Marketing,0.506506236721775,74
+Bishop's University,Mathematics,0.504991774369764,24
+Bishop's University,Physics,0.503227254954825,22
+Booth University College,Business,0.502689818037104,11
+Bow Valley College,Business,0.440700708770455,152
+Brandon University,Biology,0.433899938198713,25
+Brandon University,Business,0.514415991257907,317
+Brandon University,Chemistry,0.428699231097697,20
+Brandon University,Economics,0.474635087092274,19
+Brandon University,Education,0.333549531208189,217
+Brandon University,Engineering,0.587574430297189,75
+Brandon University,Mathematics,0.440660458018953,30
+Brandon University,Nursing,0.381976542061173,115
+Brandon University,Physics,0.468038145254316,18
+Briercrest Bible College & Seminary,Business,0.451805873825485,79
+British Columbia Institute of Technology,Accounting,0.543267771147156,650
+British Columbia Institute of Technology,Architecture,0.481443582538523,99
+British Columbia Institute of Technology,Business,0.504445427445464,2186
+British Columbia Institute of Technology,Engineering,0.531523775865878,1350
+British Columbia Institute of Technology,Finance,0.531052887499109,83
+British Columbia Institute of Technology,Information Technology,0.579997703518828,25
+British Columbia Institute of Technology,Marketing,0.509229300593617,22
+British Columbia Institute of Technology,Nursing,0.378050992458865,566
+Brock University,Accounting,0.532678507836278,945
+Brock University,Biology,0.42778400324495,88
+Brock University,Business,0.487268711349185,4357
+Brock University,Chemistry,0.461022534836952,74
+Brock University,Economics,0.519588483724504,467
+Brock University,Education,0.382191629796743,3162
+Brock University,Engineering,0.625129439865483,426
+Brock University,Finance,0.515989921048328,87
+Brock University,Law,0.481474974690942,25
+Brock University,Marketing,0.506128810127004,46
+Brock University,Mathematics,0.4595909465245,109
+Brock University,Medicine,0.409332823754554,34
+Brock University,Nursing,0.365629238333353,284
+Brock University,Physics,0.546979985954003,50
+Brock University,Statistics,0.543815554035114,61
+Burman University,Biology,0.43696133027559,11
+Burman University,Business,0.495872954678393,77
+Burman University,Education,0.326359956998456,60
+CDI College,Business,0.435654911690848,130
+CDI College,Engineering,0.515946785593144,19
+Camosun College,Accounting,0.542786015552589,92
+Camosun College,Business,0.499684902932041,1273
+Camosun College,Engineering,0.494800178448021,27
+Camosun College,Finance,0.467559598634407,15
+Camosun College,Marketing,0.475400389171041,21
+Camosun College,Nursing,0.353324421692309,54
+Canadian Business College,Business,0.44558233683861,18
+Canadian College,Business,0.29661695291199,48
+Canadian International College,Business,0.512456228851106,13
+Canadian International College,Engineering,0.516202531472183,15
+Canadian Mennonite University,Business,0.492332380680273,59
+Cape Breton University,Accounting,0.52516885754323,21
+Cape Breton University,Biology,0.42129257931464,63
+Cape Breton University,Business,0.481336432448896,861
+Cape Breton University,Chemistry,0.416411193655189,35
+Cape Breton University,Education,0.352644351627396,44
+Cape Breton University,Engineering,0.407420425664096,640
+Cape Breton University,Finance,0.542770031853798,13
+Cape Breton University,Information Technology,0.596238028179232,16
+Cape Breton University,Marketing,0.494846825098113,20
+Cape Breton University,Mathematics,0.458734083548329,21
+Cape Breton University,Nursing,0.368913096011912,88
+Carleton University,Accounting,0.532740015917966,692
+Carleton University,Architecture,0.479515009297215,661
+Carleton University,Biology,0.456944717053611,429
+Carleton University,Business,0.517342086745729,2192
+Carleton University,Chemistry,0.493678267816903,217
+Carleton University,Economics,0.520887709709857,1232
+Carleton University,Education,0.508459662185747,37
+Carleton University,Engineering,0.563348261219319,5369
+Carleton University,Finance,0.536178377870639,412
+Carleton University,Information Technology,0.605234701154148,444
+Carleton University,Law,0.495866129998357,2250
+Carleton University,Marketing,0.501433742491039,333
+Carleton University,Mathematics,0.544529678718235,158
+Carleton University,Physics,0.537630623351744,85
+Carleton University,Statistics,0.574527119217948,182
+Centennial College,Accounting,0.528005399180481,30
+Centennial College,Architecture,0.465745108682281,13
+Centennial College,Biology,0.483602641814534,11
+Centennial College,Business,0.467895065181089,505
+Centennial College,Education,0.326813206082521,13
+Centennial College,Engineering,0.515329437758159,319
+Centennial College,Finance,0.531262899920844,10
+Centennial College,Information Technology,0.588490008898292,40
+Centennial College,Marketing,0.512132885797223,18
+Centennial College,Nursing,0.344980323002332,61
+Chartered Professional Accountants of Canada (CPA Canada),Accounting,0.52686450666648,39
+Chartered Professional Accountants of Canada (CPA Canada),Business,0.517391753711561,29
+Chartered Professional Accountants of Canada (CPA Canada),Finance,0.523655189303111,38
+Coast Mountain College,Business,0.357790931106895,18
+College Dawson,Business,0.494584589961682,47
+College Dawson,Engineering,0.525944136726833,14
+College of the Rockies,Business,0.504754831341725,52
+College of the Rockies,Nursing,0.399577143809318,13
+"Collège LaSalle, Montréal",Business,0.453350689601662,40
+"Collège LaSalle, Montréal",Engineering,0.530623652774677,14
+"Collège LaSalle, Montréal",Marketing,0.392472036575813,10
+Collège communautaire du Nouveau-Brunswick (CCNB),Business,0.481465561730762,11
+Columbia College (British Columbia),Business,0.422068055490912,14
+Concordia University,Accounting,0.539583023161254,2526
+Concordia University,Biology,0.491302458506648,621
+Concordia University,Business,0.532747446415221,5250
+Concordia University,Chemistry,0.510831589485207,120
+Concordia University,Economics,0.534641405324688,1392
+Concordia University,Education,0.402784031242531,523
+Concordia University,Engineering,0.574175519502767,5569
+Concordia University,Finance,0.529991902242356,2313
+Concordia University,Information Technology,0.619496705393906,14
+Concordia University,Law,0.505672279454425,159
+Concordia University,Marketing,0.50932040565331,2229
+Concordia University,Mathematics,0.612158416658456,253
+Concordia University,Physics,0.508514273301,68
+Concordia University,Statistics,0.591893294984849,284
+Concordia University of Edmonton,Accounting,0.590138280430089,10
+Concordia University of Edmonton,Biology,0.412898409517709,41
+Concordia University of Edmonton,Business,0.489792540839022,355
+Concordia University of Edmonton,Chemistry,0.41322961527168,71
+Concordia University of Edmonton,Education,0.345238472544693,218
+Concordia University of Edmonton,Engineering,0.477002365548801,11
+Concordia University of Edmonton,Information Technology,0.462446520048557,13
+Concordia University of Edmonton,Mathematics,0.408040548040103,25
+Conestoga College,Accounting,0.564348749552123,43
+Conestoga College,Architecture,0.469263352118537,19
+Conestoga College,Business,0.495359412076021,1316
+Conestoga College,Education,0.303444801639515,56
+Conestoga College,Engineering,0.508555437160012,412
+Conestoga College,Information Technology,0.545550571349882,43
+Conestoga College,Marketing,0.447503184101042,16
+Conestoga College,Nursing,0.356978124984354,27
+Confederation College,Business,0.398428763409348,33
+Confederation College,Engineering,0.420905240088609,15
+Crandall University,Business,0.506820848427207,279
+Crandall University,Education,0.353049435513428,140
+Cégep de la Gaspésie et des Îles,Engineering,0.433954086756876,13
+Dalhousie University,Accounting,0.524496767521997,440
+Dalhousie University,Architecture,0.468303653797938,374
+Dalhousie University,Biology,0.447970998916542,991
+Dalhousie University,Business,0.492425698883774,1509
+Dalhousie University,Chemistry,0.448122206197229,277
+Dalhousie University,Economics,0.506297996724952,479
+Dalhousie University,Education,0.456461455234773,58
+Dalhousie University,Engineering,0.514754627170059,3815
+Dalhousie University,Finance,0.522402789678072,338
+Dalhousie University,Law,0.457184125459775,275
+Dalhousie University,Marketing,0.507190174738309,160
+Dalhousie University,Mathematics,0.519074779680381,136
+Dalhousie University,Medicine,0.360224898262209,18
+Dalhousie University,Nursing,0.367368370334733,431
+Dalhousie University,Physics,0.537202484586488,109
+Dalhousie University,Statistics,0.560624483891892,134
+DeGroote School of Business,Accounting,0.522580081948475,115
+DeGroote School of Business,Business,0.518654808237777,74
+DeGroote School of Business,Economics,0.530751015216744,46
+DeGroote School of Business,Finance,0.528845392841221,88
+DeGroote School of Business,Marketing,0.507134948571803,43
+DeVry Institute of Technology,Business,0.524427403603513,305
+DeVry Institute of Technology,Engineering,0.56920301663844,392
+DeVry Institute of Technology,Information Technology,0.574209576419493,11
+Douglas College,Accounting,0.524487466454857,80
+Douglas College,Business,0.51689668025093,692
+Douglas College,Education,0.305863795161684,123
+Douglas College,Engineering,0.49705160879214,29
+Douglas College,Finance,0.481983694216042,20
+Douglas College,Nursing,0.377802665498167,363
+Durham College Educational Network,Accounting,0.543013798310353,13
+Durham College Educational Network,Business,0.46198691605096,247
+Durham College Educational Network,Engineering,0.457173366853722,55
+Durham College Educational Network,Marketing,0.417518024584918,24
+Eastern College,Business,0.501089479786144,16
+Edwards School of Business,Accounting,0.528570021334234,16
+Edwards School of Business,Business,0.502710528513374,18
+Emily Carr University of Art and Design,Engineering,0.474854743550482,16
+Faculty of Applied Sciences at Simon Fraser University,Engineering,0.615899604979303,184
+Faculty of Engineering & Applied Science,Engineering,0.522283977209457,254
+Faculty of Engineering - McMaster University,Engineering,0.526894032931066,388
+"Faculty of Engineering, University of Alberta",Engineering,0.49007433616322,552
+"Faculty of Science, University of Manitoba",Engineering,0.564474101210516,16
+Fanshawe College,Accounting,0.541854961935841,156
+Fanshawe College,Architecture,0.310411302893148,15
+Fanshawe College,Business,0.47464076684952,471
+Fanshawe College,Education,0.370841757685503,34
+Fanshawe College,Engineering,0.415917422700276,88
+Fanshawe College,Finance,0.534096155666231,14
+Fanshawe College,Marketing,0.485699207450405,160
+Fanshawe College,Nursing,0.348743959566577,19
+First Nations University of Canada,Business,0.478102327213167,51
+First Nations University of Canada,Education,0.350236233677891,19
+Fisheries and Marine Institute of Memorial University of Newfoundland,Engineering,0.482381867139505,20
+Fraser International College Ltd.,Business,0.45535754342705,140
+Fraser International College Ltd.,Economics,0.384500150544041,12
+Fraser International College Ltd.,Engineering,0.541099743823355,55
+George Brown College,Accounting,0.527311230740781,153
+George Brown College,Architecture,0.448193396088102,21
+George Brown College,Business,0.450608965811926,2004
+George Brown College,Education,0.341138296140664,100
+George Brown College,Engineering,0.458041148004448,135
+George Brown College,Finance,0.517576094965117,69
+George Brown College,Marketing,0.459528617844488,41
+George Brown College,Nursing,0.359163096485969,98
+Georgian College,Business,0.454432086532431,812
+Georgian College,Engineering,0.458856217368265,83
+Georgian College,Marketing,0.482040918737771,28
+Georgian College,Nursing,0.361858500371658,105
+Glendon Campus of York University | Campus Glendon de l’Université York,Business,0.523782490186082,95
+Glendon Campus of York University | Campus Glendon de l’Université York,Economics,0.517827953760421,113
+Glendon Campus of York University | Campus Glendon de l’Université York,Education,0.396966353595572,69
+Glendon Campus of York University | Campus Glendon de l’Université York,Law,0.526862086207858,18
+Glendon Campus of York University | Campus Glendon de l’Université York,Mathematics,0.477089925407378,12
+Goodman School of Business at Brock University,Accounting,0.540620614968338,574
+Goodman School of Business at Brock University,Business,0.529408705211889,1296
+Goodman School of Business at Brock University,Finance,0.544573013837731,45
+Goodman School of Business at Brock University,Marketing,0.502510246397396,16
+Grande Prairie Regional College,Accounting,0.504650383440122,24
+Grande Prairie Regional College,Business,0.428519195641153,60
+Grande Prairie Regional College,Education,0.382224113301613,43
+Grande Prairie Regional College,Engineering,0.466713139613276,17
+Grande Prairie Regional College,Nursing,0.347868898481953,19
+Grant MacEwan University,Accounting,0.511475957451568,1280
+Grant MacEwan University,Biology,0.382044766086716,112
+Grant MacEwan University,Business,0.491035286094939,2154
+Grant MacEwan University,Chemistry,0.419425670447734,39
+Grant MacEwan University,Economics,0.45968190833811,103
+Grant MacEwan University,Education,0.372767097151337,198
+Grant MacEwan University,Engineering,0.514477351986712,492
+Grant MacEwan University,Finance,0.502338035286504,189
+Grant MacEwan University,Law,0.465156625635651,13
+Grant MacEwan University,Marketing,0.468588875604064,426
+Grant MacEwan University,Mathematics,0.467624258343266,33
+Grant MacEwan University,Nursing,0.371968098835112,358
+Grant MacEwan University,Statistics,0.558128924136987,20
+Greystone College,Business,0.381343080205066,13
+Hanson Canada,Business,0.285804698220826,37
+Herzing College,Business,0.438304873260272,64
+Herzing College,Engineering,0.44198393823301,10
+Hill and Levene Schools of Business at University of Regina,Business,0.499554899119951,26
+Holland College,Business,0.387518508415596,30
+Humber College,Accounting,0.536972155244316,367
+Humber College,Architecture,0.451311052608626,32
+Humber College,Business,0.494748012171669,3860
+Humber College,Economics,0.46986541141468,20
+Humber College,Education,0.349379316678847,325
+Humber College,Engineering,0.475242333586592,150
+Humber College,Finance,0.523203181201617,173
+Humber College,Information Technology,0.583812123746491,18
+Humber College,Law,0.476167029239207,67
+Humber College,Marketing,0.482573266123114,315
+Humber College,Nursing,0.358975373456655,294
+Huron University College,Accounting,0.458157333825764,12
+Huron University College,Business,0.492492856404006,163
+Huron University College,Economics,0.511108552631833,49
+Huron University College,Finance,0.447199722880674,13
+ILAC International College,Business,0.412139126721401,19
+Ian O. Ihnatowycz Institute For Leadership,Business,0.524231467650002,1312
+Ian O. Ihnatowycz Institute For Leadership,Finance,0.504536727686801,11
+Institute of Naturopathic Education & Research,Medicine,0.451981193663,18
+John Abbott College,Business,0.492715563790715,42
+John Abbott College,Nursing,0.349501578771028,10
+John Molson School of Business,Accounting,0.527901566687235,76
+John Molson School of Business,Business,0.520164680670182,206
+John Molson School of Business,Finance,0.53456010116738,120
+John Molson School of Business,Marketing,0.492125621383835,110
+Justice Institute of British Columbia,Business,0.427927461509621,41
+Justice Institute of British Columbia,Law,0.377450832823267,37
+Keyano College,Business,0.416363017081143,23
+Keyano College,Education,0.346335018492457,13
+Keyano College,Nursing,0.325183631134954,22
+King's University College (Ontario),Accounting,0.550862017727479,31
+King's University College (Ontario),Business,0.518083376641548,206
+King's University College (Ontario),Economics,0.515106842875636,70
+King's University College (Ontario),Finance,0.533549299353208,30
+Kingswood University,Education,0.401004810219471,15
+Kwantlen Polytechnic University,Accounting,0.53899731513718,234
+Kwantlen Polytechnic University,Biology,0.431734873812238,24
+Kwantlen Polytechnic University,Business,0.512034413404334,2780
+Kwantlen Polytechnic University,Economics,0.4078264534579,20
+Kwantlen Polytechnic University,Education,0.367711517661311,16
+Kwantlen Polytechnic University,Engineering,0.517593836012221,53
+Kwantlen Polytechnic University,Finance,0.567695862985074,13
+Kwantlen Polytechnic University,Information Technology,0.625305211679446,242
+Kwantlen Polytechnic University,Marketing,0.491329602875691,116
+Kwantlen Polytechnic University,Mathematics,0.465914914310516,20
+Kwantlen Polytechnic University,Nursing,0.369330970363515,312
+La Cité collégiale,Business,0.48023232802326,41
+La Cité collégiale,Engineering,0.583044179819882,15
+Lakehead University,Accounting,0.529091453164446,137
+Lakehead University,Biology,0.435598415201723,94
+Lakehead University,Business,0.480941126656069,665
+Lakehead University,Chemistry,0.439557697191579,48
+Lakehead University,Economics,0.523210657211205,44
+Lakehead University,Education,0.370177906710618,1822
+Lakehead University,Engineering,0.475639637519331,2351
+Lakehead University,Finance,0.531086616673733,96
+Lakehead University,Law,0.434168071546055,17
+Lakehead University,Marketing,0.490512079313549,88
+Lakehead University,Mathematics,0.47845406440316,39
+Lakehead University,Nursing,0.374480237165239,425
+Lakehead University,Physics,0.450314489159717,28
+Lakeland College,Business,0.437666246744899,204
+Lambton College,Business,0.420333508025765,281
+Lambton College,Engineering,0.45903451459075,120
+Lambton College,Nursing,0.310643230457285,20
+Lang School of Business and Economics - University of Guelph,Accounting,0.515632910671094,209
+Lang School of Business and Economics - University of Guelph,Business,0.477256303550924,675
+Lang School of Business and Economics - University of Guelph,Economics,0.515066664131192,22
+Lang School of Business and Economics - University of Guelph,Finance,0.496311289379954,55
+Lang School of Business and Economics - University of Guelph,Marketing,0.483192261623805,47
+Langara College,Accounting,0.530370283505633,52
+Langara College,Business,0.48957844900933,1059
+Langara College,Engineering,0.516213910169508,29
+Langara College,Marketing,0.486971925335569,27
+Langara College,Nursing,0.366788531899535,345
+Lassonde School of Engineering - York University,Engineering,0.588377726965163,403
+Laurentian University,Accounting,0.518754443033848,294
+Laurentian University,Architecture,0.454753689161214,189
+Laurentian University,Biology,0.437916031900212,250
+Laurentian University,Business,0.511537317125855,1354
+Laurentian University,Chemistry,0.482267898149625,74
+Laurentian University,Economics,0.531994415268569,171
+Laurentian University,Education,0.370210343418452,780
+Laurentian University,Engineering,0.507976030214257,733
+Laurentian University,Finance,0.506318517991193,179
+Laurentian University,Law,0.480038570584117,343
+Laurentian University,Marketing,0.511071205187424,45
+Laurentian University,Mathematics,0.484217975212109,38
+Laurentian University,Nursing,0.373426391710706,820
+Laurentian University,Physics,0.477487811693815,52
+Laval University,Accounting,0.53436236104438,69
+Laval University,Architecture,0.488329412851362,280
+Laval University,Biology,0.497172009006922,70
+Laval University,Business,0.518765650303146,2266
+Laval University,Chemistry,0.462744524496904,100
+Laval University,Economics,0.541644306603013,160
+Laval University,Education,0.402956158615383,150
+Laval University,Engineering,0.552519338306122,1700
+Laval University,Finance,0.523143599975067,79
+Laval University,Information Technology,0.727459442288945,19
+Laval University,Law,0.484226193293742,363
+Laval University,Marketing,0.51657035109408,65
+Laval University,Mathematics,0.575444485157655,35
+Laval University,Nursing,0.409589756399651,91
+Laval University,Physics,0.51529037856381,75
+Laval University,Statistics,0.708745986235375,24
+Lazaridis School of Business & Economics,Accounting,0.561402942395436,90
+Lazaridis School of Business & Economics,Business,0.534783825103544,2390
+Lazaridis School of Business & Economics,Economics,0.529560740842526,174
+Lazaridis School of Business & Economics,Engineering,0.541758254856898,18
+Lazaridis School of Business & Economics,Finance,0.514187877274697,16
+Lethbridge College,Business,0.45272092591829,64
+Lethbridge Polytechnic,Business,0.420381789048519,78
+Loyalist College,Business,0.393999289089189,93
+Loyalist College,Engineering,0.468441954560512,17
+Loyalist College,Nursing,0.340919105103476,28
+Malaspina University College,Business,0.48394279065492,11
+Manitoba Institute of Trades and Technology,Business,0.452570610696803,20
+McGill University,Accounting,0.524225409107793,828
+McGill University,Architecture,0.481229290801918,347
+McGill University,Biology,0.484004995335948,1222
+McGill University,Business,0.521079295941843,1649
+McGill University,Chemistry,0.501715604973384,304
+McGill University,Economics,0.522155953690051,1650
+McGill University,Education,0.376606360677839,1186
+McGill University,Engineering,0.557482611514346,5319
+McGill University,Finance,0.52925220800876,1182
+McGill University,Information Technology,0.613305642843555,13
+McGill University,Law,0.476864348488702,652
+McGill University,Marketing,0.510379869225535,574
+McGill University,Mathematics,0.564781311778201,319
+McGill University,Medicine,0.487449251081588,61
+McGill University,Nursing,0.396653122318628,730
+McGill University,Physics,0.547093048278078,286
+McGill University,Statistics,0.588473456084701,88
+McMaster University,Accounting,0.525739432492667,712
+McMaster University,Biology,0.473446932715335,1464
+McMaster University,Business,0.501909440291874,785
+McMaster University,Chemistry,0.469462674322362,200
+McMaster University,Economics,0.524257155263777,1434
+McMaster University,Education,0.386614770919624,41
+McMaster University,Engineering,0.535591433628666,6108
+McMaster University,Finance,0.519096844941653,621
+McMaster University,Information Technology,0.629334064587868,39
+McMaster University,Law,0.475292188924246,226
+McMaster University,Marketing,0.500257799443267,320
+McMaster University,Mathematics,0.559809305083479,308
+McMaster University,Medicine,0.465248530844011,12
+McMaster University,Nursing,0.373357511595478,1869
+McMaster University,Physics,0.511089080060813,226
+McMaster University,Statistics,0.57868033306766,339
+Medicine Hat College,Business,0.461567847190956,80
+Medicine Hat College,Education,0.37721507508234,27
+Medicine Hat College,Engineering,0.513017272619589,14
+Medicine Hat College,Nursing,0.35192818194288,20
+Memorial University,Accounting,0.525147973016124,318
+Memorial University,Biology,0.442195841302968,321
+Memorial University,Business,0.505665072545282,2275
+Memorial University,Chemistry,0.436294552375749,150
+Memorial University,Economics,0.540767150430701,103
+Memorial University,Education,0.387995543041274,842
+Memorial University,Engineering,0.498616065554366,2102
+Memorial University,Finance,0.525891138034467,107
+Memorial University,Law,0.475639266974798,57
+Memorial University,Marketing,0.509127348329197,156
+Memorial University,Mathematics,0.491979767444721,172
+Memorial University,Nursing,0.38141724184737,472
+Memorial University,Physics,0.504859681269493,64
+Memorial University,Statistics,0.586333365911818,24
+Mohawk College of Applied Arts and Technology,Business,0.453004256315151,226
+Mohawk College of Applied Arts and Technology,Education,0.330151741200571,15
+Mohawk College of Applied Arts and Technology,Engineering,0.468524502970909,133
+Mohawk College of Applied Arts and Technology,Marketing,0.457351804570956,12
+Mohawk College of Applied Arts and Technology,Nursing,0.374380973219821,21
+Mount Allison University,Accounting,0.524754887472602,99
+Mount Allison University,Biology,0.443923102972313,129
+Mount Allison University,Business,0.506504992125182,69
+Mount Allison University,Chemistry,0.479670966380799,162
+Mount Allison University,Economics,0.503349163645934,140
+Mount Allison University,Engineering,0.548948683562784,67
+Mount Allison University,Finance,0.482869495739937,54
+Mount Allison University,Marketing,0.500890301141817,60
+Mount Allison University,Mathematics,0.497419097724594,55
+Mount Allison University,Physics,0.491005044688594,58
+Mount Royal University,Accounting,0.531260793433646,163
+Mount Royal University,Biology,0.410513471585635,103
+Mount Royal University,Business,0.498945432245789,4780
+Mount Royal University,Chemistry,0.401293424782654,57
+Mount Royal University,Economics,0.501264801707587,28
+Mount Royal University,Education,0.351432175267366,404
+Mount Royal University,Engineering,0.627632712179276,495
+Mount Royal University,Finance,0.526504769997368,55
+Mount Royal University,Marketing,0.483057451326558,119
+Mount Royal University,Nursing,0.366754963499658,562
+Mount Saint Vincent University,Accounting,0.548704371671203,42
+Mount Saint Vincent University,Biology,0.47882055477225,33
+Mount Saint Vincent University,Business,0.505427811573783,1177
+Mount Saint Vincent University,Chemistry,0.450744596339533,43
+Mount Saint Vincent University,Economics,0.488361512070641,13
+Mount Saint Vincent University,Education,0.383943771964704,313
+Mount Saint Vincent University,Information Technology,0.609372495274097,23
+Mount Saint Vincent University,Marketing,0.529377196702122,97
+Mount Saint Vincent University,Mathematics,0.481993067935222,40
+N.B. Community College,Business,0.465800837276148,121
+NAIT,Accounting,0.529323873591749,142
+NAIT,Business,0.498370623264869,3779
+NAIT,Engineering,0.545383448173371,173
+NAIT,Finance,0.500475645689934,60
+NAIT,Information Technology,0.647703960005306,133
+NAIT,Marketing,0.458338138287324,30
+Niagara College,Business,0.457709029072807,688
+Niagara College,Education,0.357115476958279,18
+Niagara College,Engineering,0.484625741944591,34
+Niagara College,Marketing,0.468490991376979,23
+Niagara College,Nursing,0.427150716616371,21
+Nipissing University,Accounting,0.546003813807067,210
+Nipissing University,Biology,0.433573031461866,128
+Nipissing University,Business,0.513337309386836,963
+Nipissing University,Chemistry,0.427204658998073,16
+Nipissing University,Economics,0.571054655341546,13
+Nipissing University,Education,0.365893687569767,2362
+Nipissing University,Engineering,0.633846320274875,51
+Nipissing University,Finance,0.54544444030677,36
+Nipissing University,Marketing,0.496317051298525,59
+Nipissing University,Mathematics,0.453020654305214,46
+Nipissing University,Nursing,0.356861749501226,493
+NorQuest College,Business,0.405478594152149,148
+North Island College,Business,0.520106284430962,136
+North Island College,Nursing,0.367342975649112,33
+Northern College of Applied Arts & Technology,Business,0.347249600863536,67
+Northern College of Applied Arts & Technology,Engineering,0.424300747223795,22
+Northern College of Applied Arts & Technology,Nursing,0.362251387654562,11
+Nova Scotia Community College,Business,0.462197413321806,301
+Nova Scotia Community College,Engineering,0.493412365901585,14
+OCAD University,Architecture,0.474981750470872,34
+Okanagan College,Accounting,0.516449049405047,75
+Okanagan College,Business,0.491807240604196,1599
+Okanagan College,Engineering,0.624018774201389,94
+Okanagan College,Finance,0.519626697661753,28
+Okanagan College,Marketing,0.4768239751806,32
+Okanagan University College,Business,0.530431380465676,31
+Olds College,Business,0.388855688011849,165
+Ontario Institute for Studies in Education,Business,0.41287488229154,52
+Ontario Institute for Studies in Education,Education,0.391610868209736,1788
+Ontario Institute for Studies in Education,Engineering,0.430716196451161,33
+Ontario Institute for Studies in Education,Mathematics,0.397499664806536,15
+Ontario Tech University,Accounting,0.518889278471308,305
+Ontario Tech University,Biology,0.442814287587319,35
+Ontario Tech University,Business,0.511297895525096,344
+Ontario Tech University,Chemistry,0.434887551994331,105
+Ontario Tech University,Education,0.367227417940789,414
+Ontario Tech University,Engineering,0.516772698698229,1494
+Ontario Tech University,Finance,0.531021115731029,264
+Ontario Tech University,Information Technology,0.617539297384405,316
+Ontario Tech University,Law,0.508563709440936,31
+Ontario Tech University,Marketing,0.477228583704113,185
+Ontario Tech University,Mathematics,0.473185446318129,25
+Ontario Tech University,Nursing,0.356699641564373,345
+Ontario Tech University,Physics,0.475074533995448,42
+Osgoode Hall Law School,Law,0.441937967138723,165
+Pacific Coast University for Workplace Health Sciences,Business,0.469813519493586,11
+Peter A. Allard School of Law,Law,0.424712186981547,20
+Providence University College and Theological Seminary,Business,0.487443653605246,53
+Queen's University,Accounting,0.503559516071333,158
+Queen's University,Biology,0.458852593281128,756
+Queen's University,Business,0.505315470631979,247
+Queen's University,Chemistry,0.471364532002473,263
+Queen's University,Economics,0.516135604668043,1371
+Queen's University,Education,0.380479705767752,2918
+Queen's University,Engineering,0.518001147190663,5546
+Queen's University,Finance,0.519573676543226,270
+Queen's University,Law,0.459804994573015,121
+Queen's University,Marketing,0.510282840059934,146
+Queen's University,Mathematics,0.528157882390026,319
+Queen's University,Nursing,0.384341318803959,647
+Queen's University,Physics,0.516271484467241,161
+Queen's University,Statistics,0.575986141230964,86
+Queen's University - Faculty of Education,Education,0.335168357057232,21
+Quest University Canada,Biology,0.48298237541909,14
+Quest University Canada,Business,0.46104808338115,18
+Quest University Canada,Economics,0.551189655127222,17
+Quest University Canada,Engineering,0.521942219483206,11
+Rcc Institute of Technology,Engineering,0.503402700889581,133
+Red Deer College,Accounting,0.537148188233511,38
+Red Deer College,Business,0.475344722151572,174
+Red Deer College,Education,0.346519610684789,128
+Red Deer College,Engineering,0.446988265317177,61
+Red Deer College,Finance,0.490879913978483,13
+Red Deer College,Nursing,0.350336586731801,62
+Red River College,Business,0.461038285262882,389
+Red River College,Education,0.417940822102796,14
+Red River College,Engineering,0.369439468366051,15
+Red River College,Nursing,0.354884760606772,85
+Red River College Polytechnic,Business,0.501728326558179,126
+Red River College Polytechnic,Nursing,0.390454184559168,19
+Redeemer University,Accounting,0.509890562979678,17
+Redeemer University,Business,0.486221507335665,65
+Redeemer University,Education,0.355960455412166,90
+Redeemer University,Mathematics,0.408222454450173,10
+Redeemer University College,Accounting,0.508144617738185,16
+Redeemer University College,Business,0.490097608345737,45
+Redeemer University College,Education,0.348894423872384,85
+Reeves College,Business,0.427160661663263,23
+Robertson College,Business,0.496561488182827,36
+Royal Military College of Canada,Business,0.443299437317989,220
+Royal Military College of Canada,Chemistry,0.421684145522521,32
+Royal Military College of Canada,Economics,0.430056312341744,29
+Royal Military College of Canada,Engineering,0.442905145726527,475
+Royal Military College of Canada,Mathematics,0.514402060798997,17
+Royal Military College of Canada,Physics,0.411706723494917,40
+Royal Roads University,Business,0.485228744188255,1191
+Royal Roads University,Law,0.48448981580243,10
+Saint Mary's University,Accounting,0.524272891884082,847
+Saint Mary's University,Biology,0.441335015747163,135
+Saint Mary's University,Business,0.506216464803845,965
+Saint Mary's University,Chemistry,0.460202528065359,92
+Saint Mary's University,Economics,0.506609290162209,160
+Saint Mary's University,Education,0.399971182779171,15
+Saint Mary's University,Engineering,0.575225578951374,317
+Saint Mary's University,Finance,0.513525889633921,551
+Saint Mary's University,Marketing,0.492620254099249,484
+Saint Mary's University,Mathematics,0.551016404432238,33
+Saint Mary's University,Physics,0.475596539675037,20
+Saint-Anne University,Business,0.508950755742113,95
+Saint-Anne University,Education,0.365310624772992,42
+Sait Polytechnic,Business,0.508911649949302,22
+Saskatchewan Polytechnic,Business,0.42925415575733,60
+Saskatchewan Polytechnic,Engineering,0.52402287439461,13
+Saskatchewan Polytechnic,Nursing,0.36392332906852,18
+Sauder School of Business,Accounting,0.518482142114927,485
+Sauder School of Business,Business,0.534477451151061,497
+Sauder School of Business,Economics,0.473836211074337,14
+Sauder School of Business,Engineering,0.606414934684925,61
+Sauder School of Business,Finance,0.523828105008859,402
+Sauder School of Business,Law,0.441571597425055,10
+Sauder School of Business,Marketing,0.501540827397907,398
+Sault College,Nursing,0.42189002046815,10
+Schulich School of Engineering,Engineering,0.504824471921198,1095
+Selkirk College,Business,0.438347759674484,28
+Selkirk College,Nursing,0.305579807447424,11
+Seneca College,Accounting,0.476060954017935,21
+Seneca College,Business,0.478893872029928,807
+Seneca College,Education,0.391695623616532,40
+Seneca College,Engineering,0.582676213538906,175
+Seneca College,Finance,0.544676734504359,235
+Seneca College,Information Technology,0.632695907347336,20
+Seneca College,Marketing,0.511160730650972,37
+Seneca College,Nursing,0.39127326928858,71
+Seneca College School of Hospitality & Tourism,Business,0.365517076976455,16
+Seneca Polytechnic,Accounting,0.443658916421598,31
+Seneca Polytechnic,Business,0.483016943904717,850
+Seneca Polytechnic,Education,0.356416223847165,57
+Seneca Polytechnic,Engineering,0.587303924507814,175
+Seneca Polytechnic,Finance,0.561324109722651,320
+Seneca Polytechnic,Information Technology,0.575275398092999,22
+Seneca Polytechnic,Marketing,0.491585679990491,27
+Seneca Polytechnic,Nursing,0.336584083326229,73
+Simon Fraser University,Accounting,0.529978786288679,211
+Simon Fraser University,Biology,0.460047875136185,992
+Simon Fraser University,Business,0.52279577654746,5990
+Simon Fraser University,Chemistry,0.471050937993064,267
+Simon Fraser University,Economics,0.526335692449637,1568
+Simon Fraser University,Education,0.371027824935973,1091
+Simon Fraser University,Engineering,0.630068589132411,2037
+Simon Fraser University,Finance,0.528427353303369,231
+Simon Fraser University,Information Technology,0.582357008772081,34
+Simon Fraser University,Law,0.504493853687153,23
+Simon Fraser University,Marketing,0.50090754941012,113
+Simon Fraser University,Mathematics,0.561483590309056,167
+Simon Fraser University,Physics,0.51992589423373,106
+Simon Fraser University,Statistics,0.604398036332717,227
+Sobey School of Business,Accounting,0.519361261447178,113
+Sobey School of Business,Business,0.512943408816441,101
+Sobey School of Business,Economics,0.565766123445186,12
+Sobey School of Business,Finance,0.521209582456441,91
+Sobey School of Business,Marketing,0.471188555939955,54
+Southern Alberta Institute of Technology,Accounting,0.533475602689087,225
+Southern Alberta Institute of Technology,Architecture,0.355735045991184,10
+Southern Alberta Institute of Technology,Business,0.502843591245088,2733
+Southern Alberta Institute of Technology,Engineering,0.454439581577328,540
+Southern Alberta Institute of Technology,Finance,0.490075376225187,27
+Southern Alberta Institute of Technology,Information Technology,0.57046836630415,30
+Southern Alberta Institute of Technology,Marketing,0.508597811497014,45
+Sprott School of Business,Accounting,0.507117789233505,32
+Sprott School of Business,Business,0.503000417433903,53
+Sprott School of Business,Finance,0.541248114690994,31
+Sprott School of Business,Marketing,0.469369063759159,24
+Sprott Shaw College Corp.,Business,0.441013839302472,50
+St. Clair College of Applied Arts & Technology,Business,0.432421574131895,259
+St. Clair College of Applied Arts & Technology,Engineering,0.475197697011174,73
+St. Clair College of Applied Arts & Technology,Nursing,0.347622601527803,41
+St. Francis Xavier University,Accounting,0.517197218308151,75
+St. Francis Xavier University,Biology,0.42805125149652,252
+St. Francis Xavier University,Business,0.505238769365354,1814
+St. Francis Xavier University,Chemistry,0.456508468798163,141
+St. Francis Xavier University,Economics,0.521507375378226,117
+St. Francis Xavier University,Education,0.358266186838444,251
+St. Francis Xavier University,Engineering,0.594164917954697,124
+St. Francis Xavier University,Finance,0.538172065111014,41
+St. Francis Xavier University,Marketing,0.509837299778257,39
+St. Francis Xavier University,Mathematics,0.481565876226647,55
+St. Francis Xavier University,Nursing,0.371934274393085,391
+St. Francis Xavier University,Physics,0.541732037705849,40
+St. Francis Xavier University,Statistics,0.567383138755574,11
+St. Lawrence College (Canada),Accounting,0.395852183655611,11
+St. Lawrence College (Canada),Business,0.425792520849185,263
+St. Lawrence College (Canada),Engineering,0.43036672697992,49
+St. Lawrence College (Canada),Nursing,0.329305341510013,82
+St. Thomas University,Business,0.514410940171899,30
+St. Thomas University,Economics,0.487810935269532,101
+St. Thomas University,Education,0.357184657880416,183
+St. Thomas University,Mathematics,0.371508304334684,10
+Summit Pacific College,Business,0.335872413215529,11
+TREBAS,Engineering,0.469367975127359,12
+Ted Rogers School of Management - Toronto Metropolitan University,Accounting,0.531409715855186,44
+Ted Rogers School of Management - Toronto Metropolitan University,Business,0.51625870926363,1024
+Ted Rogers School of Management - Toronto Metropolitan University,Economics,0.502721667568936,24
+Ted Rogers School of Management - Toronto Metropolitan University,Finance,0.543296220598051,149
+Ted Rogers School of Management - Toronto Metropolitan University,Information Technology,0.52948331053408,25
+Ted Rogers School of Management - Toronto Metropolitan University,Law,0.529639134325514,18
+Ted Rogers School of Management - Toronto Metropolitan University,Marketing,0.481548880085983,93
+Telfer School of Management,Accounting,0.531137989841376,502
+Telfer School of Management,Business,0.531410198453465,692
+Telfer School of Management,Finance,0.540935693651495,432
+Telfer School of Management,Marketing,0.508482599796693,344
+The Canadore College Foundation,Business,0.448642235963209,93
+The Canadore College Foundation,Engineering,0.468487293160502,27
+The College of New Caledonia,Business,0.41263624498806,47
+The College of New Caledonia,Nursing,0.412449034001542,24
+The Haskayne School of Business,Accounting,0.534652159023405,580
+The Haskayne School of Business,Business,0.517678015575327,633
+The Haskayne School of Business,Education,0.535182470444774,11
+The Haskayne School of Business,Finance,0.527014195695771,312
+The Haskayne School of Business,Marketing,0.500798447680337,224
+The International College of Manitoba,Business,0.410091127717821,23
+The International College of Manitoba,Engineering,0.457689498642518,40
+The King's University,Accounting,0.564535185316789,14
+The King's University,Biology,0.42540399937571,22
+The King's University,Business,0.45827553486766,40
+The King's University,Chemistry,0.452501125733202,45
+The King's University,Economics,0.476968382952981,29
+The King's University,Education,0.342309152129248,68
+The King's University,Engineering,0.602459387737878,35
+The Michener Institute of Applied Health Sciences,Medicine,0.39361145445528,10
+The Sault College of Applied Arts & Technology,Business,0.300746722521661,24
+The Sault College of Applied Arts & Technology,Nursing,0.359936383476188,32
+The Schulich School of Business,Accounting,0.5154288516422,148
+The Schulich School of Business,Business,0.520032917761074,3016
+The Schulich School of Business,Finance,0.516689594147615,176
+The Schulich School of Business,Marketing,0.521760805467348,71
+The Stephen J.R. Smith School of Business,Accounting,0.534031635478851,52
+The Stephen J.R. Smith School of Business,Business,0.50999321321923,87
+The Stephen J.R. Smith School of Business,Finance,0.524947577828532,111
+The Stephen J.R. Smith School of Business,Marketing,0.498953687726588,51
+The University of British Columbia,Accounting,0.522294140756775,909
+The University of British Columbia,Architecture,0.452962243699712,55
+The University of British Columbia,Biology,0.4555376506216,1729
+The University of British Columbia,Business,0.499714700772726,2547
+The University of British Columbia,Chemistry,0.475694355719664,635
+The University of British Columbia,Economics,0.525579463974794,2115
+The University of British Columbia,Education,0.369854561865376,2015
+The University of British Columbia,Engineering,0.535432415184613,8509
+The University of British Columbia,Finance,0.514360108877977,606
+The University of British Columbia,Law,0.4609525266402,230
+The University of British Columbia,Marketing,0.507007910923905,608
+The University of British Columbia,Mathematics,0.539350821182874,517
+The University of British Columbia,Medicine,0.45219115202055,44
+The University of British Columbia,Nursing,0.382173876358027,833
+The University of British Columbia,Physics,0.527831251791555,307
+The University of British Columbia,Statistics,0.587814800433904,305
+The University of Winnipeg,Accounting,0.535489931876167,33
+The University of Winnipeg,Biology,0.438671971845355,101
+The University of Winnipeg,Business,0.502379470073048,1707
+The University of Winnipeg,Chemistry,0.437451319311058,79
+The University of Winnipeg,Economics,0.495001163768533,159
+The University of Winnipeg,Education,0.362183327427029,517
+The University of Winnipeg,Engineering,0.574240895925797,286
+The University of Winnipeg,Finance,0.539159266981221,29
+The University of Winnipeg,Law,0.44066471873918,10
+The University of Winnipeg,Marketing,0.526480332528494,18
+The University of Winnipeg,Mathematics,0.447028966903828,52
+The University of Winnipeg,Physics,0.486296101135042,62
+The University of Winnipeg,Statistics,0.562183144602204,37
+The Wilson School of Design at Kwantlen Polytechnic University,Marketing,0.494553834734379,54
+Thompson Rivers University,Accounting,0.550443527273007,124
+Thompson Rivers University,Biology,0.412819304115373,274
+Thompson Rivers University,Business,0.47797974025655,2148
+Thompson Rivers University,Chemistry,0.432118093171778,60
+Thompson Rivers University,Economics,0.473576059053304,65
+Thompson Rivers University,Education,0.352386364788837,141
+Thompson Rivers University,Engineering,0.58875398643618,388
+Thompson Rivers University,Finance,0.51146258322472,66
+Thompson Rivers University,Marketing,0.487996694733799,113
+Thompson Rivers University,Mathematics,0.504988247056629,28
+Thompson Rivers University,Nursing,0.368793333891109,184
+Thompson Rivers University,Physics,0.538788108621576,25
+Toronto Metropolitan University,Accounting,0.531951442104952,60
+Toronto Metropolitan University,Architecture,0.480043541231058,102
+Toronto Metropolitan University,Biology,0.47636137454286,47
+Toronto Metropolitan University,Business,0.520885311639149,1603
+Toronto Metropolitan University,Chemistry,0.47699517509186,47
+Toronto Metropolitan University,Economics,0.531768034891999,35
+Toronto Metropolitan University,Education,0.353384261928638,63
+Toronto Metropolitan University,Engineering,0.544269757271996,808
+Toronto Metropolitan University,Finance,0.517524809891463,194
+Toronto Metropolitan University,Information Technology,0.568115302512835,38
+Toronto Metropolitan University,Law,0.510819977407311,24
+Toronto Metropolitan University,Marketing,0.485194880147929,122
+Toronto Metropolitan University,Mathematics,0.505990321045139,25
+Toronto Metropolitan University,Nursing,0.374062037139191,391
+Toronto Metropolitan University,Physics,0.460079808817469,40
+Toronto Metropolitan University of,Accounting,0.535459994769769,856
+Toronto Metropolitan University of,Architecture,0.480922156409257,486
+Toronto Metropolitan University of,Biology,0.470653667079937,161
+Toronto Metropolitan University of,Business,0.523609492620565,10363
+Toronto Metropolitan University of,Chemistry,0.47936990573076,267
+Toronto Metropolitan University of,Economics,0.520933350381344,262
+Toronto Metropolitan University of,Education,0.35560254441697,608
+Toronto Metropolitan University of,Engineering,0.547783629928819,5952
+Toronto Metropolitan University of,Finance,0.532140766262311,1728
+Toronto Metropolitan University of,Information Technology,0.596441353205829,407
+Toronto Metropolitan University of,Law,0.506465443289026,116
+Toronto Metropolitan University of,Marketing,0.501833533782261,994
+Toronto Metropolitan University of,Mathematics,0.525094293102637,120
+Toronto Metropolitan University of,Nursing,0.3723123224224,2785
+Toronto Metropolitan University of,Physics,0.482906331059751,140
+Toronto School of Management,Business,0.46787559085347,44
+Trent University,Accounting,0.532383970465828,12
+Trent University,Biology,0.430139549535755,811
+Trent University,Business,0.499655211041748,1879
+Trent University,Chemistry,0.444956096141083,168
+Trent University,Economics,0.498296700863348,220
+Trent University,Education,0.358019441666536,783
+Trent University,Engineering,0.600729597364399,272
+Trent University,Law,0.469554030372891,53
+Trent University,Marketing,0.520539725068048,11
+Trent University,Mathematics,0.509162524227502,75
+Trent University,Nursing,0.361662287659558,698
+Trent University,Physics,0.49855518629414,45
+Trinity College (Canada),Accounting,0.550856052181348,13
+Trinity College (Canada),Biology,0.497766578258089,41
+Trinity College (Canada),Business,0.534618857624157,10
+Trinity College (Canada),Economics,0.493565610076945,61
+Trinity College (Canada),Engineering,0.624124170849256,18
+Trinity College (Canada),Finance,0.493192110651247,24
+Trinity College (Canada),Law,0.491427484224514,59
+Trinity College (Canada),Mathematics,0.590954726881876,12
+Trinity College (Canada),Statistics,0.575137932238265,10
+Trinity Western University,Accounting,0.531987629623063,22
+Trinity Western University,Biology,0.437649187521528,36
+Trinity Western University,Business,0.50111296326305,634
+Trinity Western University,Chemistry,0.422361216091208,39
+Trinity Western University,Economics,0.534328707117673,10
+Trinity Western University,Education,0.372361998907651,108
+Trinity Western University,Engineering,0.64030191530599,36
+Trinity Western University,Finance,0.517427036963051,22
+Trinity Western University,Nursing,0.367376386953422,164
+Tyndale University College and Seminary,Business,0.489736842061868,70
+Tyndale University College and Seminary,Education,0.381226290390701,202
+UBC Electrical and Computer Engineering,Engineering,0.599438599311652,125
+UFV School of Business,Business,0.488659968236498,14
+UWinnipeg PACE,Business,0.554781175450404,12
+University Canada West,Business,0.521892922959629,92
+University Canada West,Engineering,0.607019565735847,16
+University College of the North,Business,0.503980297521858,13
+University College of the North,Education,0.305976441015296,15
+University of Alberta,Accounting,0.525416689940853,1231
+University of Alberta,Biology,0.453054954111412,739
+University of Alberta,Business,0.503922181573203,2127
+University of Alberta,Chemistry,0.452860610367352,556
+University of Alberta,Economics,0.511246381536635,1168
+University of Alberta,Education,0.366926768234903,3191
+University of Alberta,Engineering,0.504581666119072,7223
+University of Alberta,Finance,0.523591064562237,919
+University of Alberta,Law,0.454551177242054,264
+University of Alberta,Marketing,0.49564863735623,510
+University of Alberta,Mathematics,0.518900489532114,286
+University of Alberta,Medicine,0.438256172269663,22
+University of Alberta,Nursing,0.376033529584251,1299
+University of Alberta,Physics,0.499625366172525,162
+University of Alberta,Statistics,0.565149804035639,134
+University of Calgary,Accounting,0.524409998463136,1146
+University of Calgary,Architecture,0.485861561847664,40
+University of Calgary,Biology,0.433424065367284,569
+University of Calgary,Business,0.521235375537367,1342
+University of Calgary,Chemistry,0.456029068841831,471
+University of Calgary,Economics,0.514532808688323,1407
+University of Calgary,Education,0.360249600635179,1200
+University of Calgary,Engineering,0.537140488589934,5294
+University of Calgary,Finance,0.522665864430331,559
+University of Calgary,Law,0.47467645185393,616
+University of Calgary,Marketing,0.504270992215772,401
+University of Calgary,Mathematics,0.5155688917396,337
+University of Calgary,Medicine,0.393427782322428,57
+University of Calgary,Nursing,0.382672510587052,896
+University of Calgary,Physics,0.494798175896415,147
+University of Calgary,Statistics,0.585539691266297,114
+University of Capilano,Accounting,0.513601632784105,39
+University of Capilano,Business,0.484954512914336,2226
+University of Capilano,Education,0.364644617950837,77
+University of Capilano,Engineering,0.497358161353013,28
+University of Capilano,Finance,0.504969870773079,16
+University of Capilano,Marketing,0.501791575092845,65
+University of Guelph,Accounting,0.536658029589449,787
+University of Guelph,Architecture,0.316952953225469,519
+University of Guelph,Biology,0.419362861274918,2495
+University of Guelph,Business,0.50264316393512,4916
+University of Guelph,Chemistry,0.464371820845696,367
+University of Guelph,Economics,0.510489558187636,585
+University of Guelph,Education,0.349109996116571,65
+University of Guelph,Engineering,0.545163633325679,2780
+University of Guelph,Finance,0.533900768339181,279
+University of Guelph,Law,0.517918258985389,12
+University of Guelph,Marketing,0.483044903856434,318
+University of Guelph,Mathematics,0.530778074295528,133
+University of Guelph,Physics,0.521406987947898,198
+University of Guelph,Statistics,0.585222080192477,100
+University of King’s College,Biology,0.473568429151202,23
+University of King’s College,Economics,0.493513839183438,28
+University of Lethbridge,Accounting,0.535461934611241,321
+University of Lethbridge,Biology,0.45688344779277,42
+University of Lethbridge,Business,0.509232574933309,4015
+University of Lethbridge,Chemistry,0.490335675808974,47
+University of Lethbridge,Economics,0.496426099915371,107
+University of Lethbridge,Education,0.354687602265717,577
+University of Lethbridge,Engineering,0.640821024751739,363
+University of Lethbridge,Finance,0.52313264397682,166
+University of Lethbridge,Marketing,0.486584795843734,134
+University of Lethbridge,Mathematics,0.453155243581738,67
+University of Lethbridge,Nursing,0.366421340554692,260
+University of Lethbridge,Physics,0.490276575507485,32
+University of Lethbridge,Statistics,0.537619746354378,18
+University of Manitoba,Accounting,0.523991705094805,777
+University of Manitoba,Architecture,0.455138731756791,360
+University of Manitoba,Biology,0.440895613586702,184
+University of Manitoba,Business,0.502274713082125,2135
+University of Manitoba,Chemistry,0.455111624176923,139
+University of Manitoba,Economics,0.505668172145952,865
+University of Manitoba,Education,0.357332825920554,588
+University of Manitoba,Engineering,0.531900439224469,2550
+University of Manitoba,Finance,0.523074962760753,699
+University of Manitoba,Law,0.468819020879506,105
+University of Manitoba,Marketing,0.504639608239514,390
+University of Manitoba,Mathematics,0.561109727932312,156
+University of Manitoba,Medicine,0.442370776500791,41
+University of Manitoba,Nursing,0.372139243441952,470
+University of Manitoba,Physics,0.517936136313829,43
+University of Manitoba,Statistics,0.568686010500345,121
+University of Moncton,Accounting,0.517079972708371,53
+University of Moncton,Biology,0.478537798668188,23
+University of Moncton,Business,0.51508851995055,811
+University of Moncton,Chemistry,0.455782605134075,15
+University of Moncton,Economics,0.498468872308105,16
+University of Moncton,Education,0.402729774244954,97
+University of Moncton,Engineering,0.523212844766826,470
+University of Moncton,Finance,0.559022458408861,44
+University of Moncton,Law,0.44606028137777,44
+University of Moncton,Marketing,0.50766910784765,44
+University of Moncton,Nursing,0.391115348916213,109
+University of Moncton,Physics,0.520086949700048,21
+University of Montreal,Accounting,0.521318905030255,231
+University of Montreal,Architecture,0.460281028203369,454
+University of Montreal,Biology,0.493934484933234,167
+University of Montreal,Business,0.527679779043306,5593
+University of Montreal,Chemistry,0.471230090765274,203
+University of Montreal,Economics,0.54607064653292,594
+University of Montreal,Education,0.377032774820985,133
+University of Montreal,Engineering,0.565161734616693,3692
+University of Montreal,Finance,0.524176682555646,317
+University of Montreal,Information Technology,0.648071711665192,60
+University of Montreal,Law,0.480420918256764,1278
+University of Montreal,Marketing,0.508965279569491,285
+University of Montreal,Mathematics,0.576764951680754,245
+University of Montreal,Medicine,0.485145459680726,72
+University of Montreal,Nursing,0.401269610013334,357
+University of Montreal,Physics,0.536332838448555,135
+University of Montreal,Statistics,0.670727478917255,73
+University of New Brunswick,Accounting,0.550185434251877,100
+University of New Brunswick,Biology,0.457560927289285,309
+University of New Brunswick,Business,0.502428479651047,2790
+University of New Brunswick,Chemistry,0.440894592900517,165
+University of New Brunswick,Economics,0.524217956286058,65
+University of New Brunswick,Education,0.381037971329707,571
+University of New Brunswick,Engineering,0.521523034426316,2408
+University of New Brunswick,Finance,0.527774192374326,75
+University of New Brunswick,Law,0.473895474392324,128
+University of New Brunswick,Marketing,0.494122118930663,69
+University of New Brunswick,Mathematics,0.517754188731086,69
+University of New Brunswick,Nursing,0.374798006820481,1000
+University of New Brunswick,Physics,0.530347950935404,39
+University of New Brunswick,Statistics,0.59792877870837,26
+University of Northern British Columbia,Accounting,0.516707540744842,170
+University of Northern British Columbia,Biology,0.4248400031755,168
+University of Northern British Columbia,Business,0.471225818316122,462
+University of Northern British Columbia,Chemistry,0.425479651455783,48
+University of Northern British Columbia,Economics,0.499391528220729,36
+University of Northern British Columbia,Education,0.391144946512495,69
+University of Northern British Columbia,Engineering,0.532372003496091,265
+University of Northern British Columbia,Finance,0.519351370069589,244
+University of Northern British Columbia,Marketing,0.48347635380774,110
+University of Northern British Columbia,Mathematics,0.494359001018246,30
+University of Northern British Columbia,Nursing,0.374868536904415,154
+University of Northern British Columbia,Physics,0.407156462660572,14
+University of Ontario Institute of Technology,Accounting,0.526958541324131,192
+University of Ontario Institute of Technology,Business,0.515875011578278,156
+University of Ontario Institute of Technology,Chemistry,0.446042413842351,51
+University of Ontario Institute of Technology,Education,0.376076942468996,302
+University of Ontario Institute of Technology,Engineering,0.521985681659119,708
+University of Ontario Institute of Technology,Finance,0.541501210088776,157
+University of Ontario Institute of Technology,Information Technology,0.625974587629729,186
+University of Ontario Institute of Technology,Marketing,0.509102945862229,141
+University of Ontario Institute of Technology,Mathematics,0.490003406876478,17
+University of Ontario Institute of Technology,Nursing,0.365973436417445,137
+University of Ontario Institute of Technology,Physics,0.475071123849249,31
+University of Ottawa,Accounting,0.525243665946877,908
+University of Ottawa,Biology,0.470861828232846,572
+University of Ottawa,Business,0.520709866300481,1809
+University of Ottawa,Chemistry,0.482768707327253,319
+University of Ottawa,Economics,0.535090420591191,988
+University of Ottawa,Education,0.379954807454757,2520
+University of Ottawa,Engineering,0.54888912633296,3921
+University of Ottawa,Finance,0.52623405357602,542
+University of Ottawa,Law,0.477892057513895,734
+University of Ottawa,Marketing,0.514094198017514,562
+University of Ottawa,Mathematics,0.528817956507487,151
+University of Ottawa,Medicine,0.494147571030462,146
+University of Ottawa,Nursing,0.386327290770996,1140
+University of Ottawa,Physics,0.515025214916119,114
+University of Ottawa,Statistics,0.597534442683267,96
+University of Ottawa Faculty of Law,Law,0.454874000536326,36
+University of Prince Edward Island,Accounting,0.529828877770898,32
+University of Prince Edward Island,Biology,0.430071886655553,163
+University of Prince Edward Island,Business,0.507889585564859,1175
+University of Prince Edward Island,Chemistry,0.431012437156613,127
+University of Prince Edward Island,Economics,0.496051469681242,76
+University of Prince Edward Island,Education,0.380292643971615,173
+University of Prince Edward Island,Engineering,0.583516186156762,211
+University of Prince Edward Island,Mathematics,0.542182053698919,40
+University of Prince Edward Island,Nursing,0.40712767579157,115
+University of Prince Edward Island,Physics,0.508351112171947,36
+University of Quebec,Accounting,0.539336104919638,101
+University of Quebec,Biology,0.490677408933394,81
+University of Quebec,Business,0.514597254363854,1167
+University of Quebec,Chemistry,0.482214957623306,22
+University of Quebec,Education,0.378962531557057,64
+University of Quebec,Engineering,0.566771832879054,3011
+University of Quebec,Finance,0.538747083970149,33
+University of Quebec,Information Technology,0.707570819511404,46
+University of Quebec,Law,0.478133800211637,28
+University of Quebec,Marketing,0.495387033816734,65
+University of Quebec,Mathematics,0.610125921093871,13
+University of Quebec,Nursing,0.359665309241937,33
+University of Quebec,Physics,0.570700380612521,14
+University of Quebec University of Quebec - Montreal,Accounting,0.516657619834195,208
+University of Quebec University of Quebec - Montreal,Architecture,0.500487647885505,11
+University of Quebec University of Quebec - Montreal,Biology,0.484823688081644,59
+University of Quebec University of Quebec - Montreal,Business,0.521152433128047,2348
+University of Quebec University of Quebec - Montreal,Chemistry,0.492323902673915,41
+University of Quebec University of Quebec - Montreal,Economics,0.523007664327164,67
+University of Quebec University of Quebec - Montreal,Education,0.404930815121505,234
+University of Quebec University of Quebec - Montreal,Engineering,0.695023301544487,412
+University of Quebec University of Quebec - Montreal,Finance,0.53495814674026,91
+University of Quebec University of Quebec - Montreal,Information Technology,0.718475149191141,18
+University of Quebec University of Quebec - Montreal,Law,0.498976196503468,349
+University of Quebec University of Quebec - Montreal,Marketing,0.513476177416572,340
+University of Quebec University of Quebec - Montreal,Mathematics,0.579765534638604,34
+University of Quebec University of Quebec - Montreal,Statistics,0.619662259205304,15
+University of Quebec University of Quebec - Trois-Rivières,Business,0.510566885599176,41
+University of Regina,Accounting,0.530531639954308,85
+University of Regina,Biology,0.444897424701565,107
+University of Regina,Business,0.504261074520336,2221
+University of Regina,Chemistry,0.43138377083806,61
+University of Regina,Economics,0.523438766656736,172
+University of Regina,Education,0.365552437026866,553
+University of Regina,Engineering,0.517261271154555,1396
+University of Regina,Finance,0.518087808480285,49
+University of Regina,Marketing,0.506124173871257,58
+University of Regina,Mathematics,0.511743571355723,37
+University of Regina,Nursing,0.344820579841231,154
+University of Regina,Physics,0.585490331661717,23
+University of Regina,Statistics,0.591805180467926,26
+University of Saint-Boniface,Business,0.502191005442303,102
+University of Saint-Boniface,Education,0.365416762845547,43
+University of Saint-Boniface,Nursing,0.374736190558499,16
+University of Saskatchewan,Accounting,0.526924756479994,935
+University of Saskatchewan,Biology,0.443236261460467,308
+University of Saskatchewan,Business,0.493635177829768,1375
+University of Saskatchewan,Chemistry,0.435672620452183,86
+University of Saskatchewan,Economics,0.503271819450664,260
+University of Saskatchewan,Education,0.365482911840922,655
+University of Saskatchewan,Engineering,0.511861499948301,2799
+University of Saskatchewan,Finance,0.511281036566159,446
+University of Saskatchewan,Law,0.440025839211273,110
+University of Saskatchewan,Marketing,0.499742174731852,456
+University of Saskatchewan,Mathematics,0.514804985629516,59
+University of Saskatchewan,Nursing,0.370305746358097,502
+University of Saskatchewan,Physics,0.509042893712189,49
+University of Saskatchewan,Statistics,0.581954623300268,22
+University of Sherbrooke,Accounting,0.524645875639285,52
+University of Sherbrooke,Biology,0.474662223419146,68
+University of Sherbrooke,Business,0.531542256688798,1435
+University of Sherbrooke,Chemistry,0.498158855192958,82
+University of Sherbrooke,Economics,0.564678619954159,48
+University of Sherbrooke,Education,0.408528889445634,153
+University of Sherbrooke,Engineering,0.572676012374081,1490
+University of Sherbrooke,Finance,0.517958963224495,89
+University of Sherbrooke,Information Technology,0.718707729699841,17
+University of Sherbrooke,Law,0.488732372558786,465
+University of Sherbrooke,Marketing,0.521413170801584,136
+University of Sherbrooke,Mathematics,0.59812184942205,24
+University of Sherbrooke,Nursing,0.394127445737369,74
+University of Sherbrooke,Physics,0.544711510776671,84
+University of St. Michael's College,Biology,0.482204896345767,44
+University of St. Michael's College,Economics,0.540341839368607,28
+University of St. Michael's College,Statistics,0.588371956045587,15
+University of Toronto,Accounting,0.532305201539841,1907
+University of Toronto,Architecture,0.47070601201272,498
+University of Toronto,Biology,0.466958111276033,4835
+University of Toronto,Business,0.52743624977406,5658
+University of Toronto,Chemistry,0.480178957851963,1001
+University of Toronto,Economics,0.538001650037311,2812
+University of Toronto,Education,0.391427577821312,1443
+University of Toronto,Engineering,0.588038580058975,9235
+University of Toronto,Finance,0.54102565933676,2243
+University of Toronto,Information Technology,0.536438594692097,351
+University of Toronto,Law,0.505850937878909,439
+University of Toronto,Marketing,0.515074750720911,192
+University of Toronto,Mathematics,0.548704791334112,655
+University of Toronto,Medicine,0.427456409678918,134
+University of Toronto,Nursing,0.389246271427014,1040
+University of Toronto,Physics,0.546361077784442,367
+University of Toronto,Statistics,0.597420012753878,1808
+"University of Toronto - John H. Daniels Faculty of Architecture, Landscape, and Design",Architecture,0.463508323413507,58
+University of Victoria,Accounting,0.518607766946443,48
+University of Victoria,Biology,0.443828036955445,751
+University of Victoria,Business,0.502357171239213,1296
+University of Victoria,Chemistry,0.449783619895252,314
+University of Victoria,Economics,0.512615383741375,1286
+University of Victoria,Education,0.378650965727652,703
+University of Victoria,Engineering,0.570223809073655,2797
+University of Victoria,Finance,0.519183730805356,130
+University of Victoria,Information Technology,0.52198839447345,10
+University of Victoria,Law,0.453226840056167,111
+University of Victoria,Marketing,0.498739234202329,27
+University of Victoria,Mathematics,0.550916410767712,90
+University of Victoria,Nursing,0.38667717744648,661
+University of Victoria,Physics,0.529562181684964,137
+University of Victoria,Statistics,0.57705797707903,83
+University of Waterloo,Accounting,0.534388893527624,98
+University of Waterloo,Architecture,0.490222503514831,408
+University of Waterloo,Biology,0.474731030764472,822
+University of Waterloo,Business,0.527361067130352,5935
+University of Waterloo,Chemistry,0.487429588743437,300
+University of Waterloo,Economics,0.550722840796257,963
+University of Waterloo,Education,0.485696819221472,86
+University of Waterloo,Engineering,0.571231948640849,8011
+University of Waterloo,Finance,0.577663543090945,687
+University of Waterloo,Law,0.503160246740145,24
+University of Waterloo,Mathematics,0.603085431221805,1708
+University of Waterloo,Physics,0.537084669771788,399
+University of Waterloo,Statistics,0.659614105372369,1015
+University of Western Ontario,Biology,0.415293601903699,10
+University of Western Ontario,Business,0.525091180131846,23
+University of Western Ontario,Education,0.372647963269177,29
+University of Western Ontario,Engineering,0.560788745706499,13
+University of Windsor,Accounting,0.529673692343335,317
+University of Windsor,Biology,0.446530217733054,178
+University of Windsor,Business,0.501604384082459,1975
+University of Windsor,Chemistry,0.486331996448844,148
+University of Windsor,Economics,0.516497862549658,143
+University of Windsor,Education,0.376650839523373,1600
+University of Windsor,Engineering,0.538550599485945,2578
+University of Windsor,Finance,0.506686214960867,200
+University of Windsor,Information Technology,0.548268796168902,42
+University of Windsor,Law,0.454629198440949,221
+University of Windsor,Marketing,0.502378696536915,130
+University of Windsor,Mathematics,0.513591698737591,76
+University of Windsor,Nursing,0.368068089411554,654
+University of Windsor,Physics,0.531772259888992,61
+University of Windsor,Statistics,0.538230106932458,30
+University of the Fraser Valley,Accounting,0.523139921579883,39
+University of the Fraser Valley,Biology,0.428139830148517,109
+University of the Fraser Valley,Business,0.488461742543366,1425
+University of the Fraser Valley,Chemistry,0.467624345686624,33
+University of the Fraser Valley,Economics,0.461511434238105,37
+University of the Fraser Valley,Education,0.390207450001671,142
+University of the Fraser Valley,Engineering,0.59298416780089,447
+University of the Fraser Valley,Finance,0.512254145846274,19
+University of the Fraser Valley,Marketing,0.522163039902545,22
+University of the Fraser Valley,Mathematics,0.589018809101564,23
+University of the Fraser Valley,Nursing,0.369520165893516,109
+University of the Fraser Valley,Physics,0.465249374492091,54
+Université de Hearst,Business,0.519736371824463,21
+Université du Québec Engineering School - University of Quebec,Engineering,0.522585228361919,11
+Université du Québec en Abitibi-Témiscamingue,Business,0.528389676161967,74
+Université du Québec en Abitibi-Témiscamingue,Engineering,0.504575982390238,20
+Université du Québec en Outaouais,Accounting,0.523000746887408,101
+Université du Québec en Outaouais,Business,0.513764041722982,886
+Université du Québec en Outaouais,Economics,0.522651377597636,13
+Université du Québec en Outaouais,Education,0.407513760747318,42
+Université du Québec en Outaouais,Engineering,0.659326131677395,121
+Université du Québec en Outaouais,Finance,0.506255951411149,35
+Université du Québec en Outaouais,Marketing,0.519922886880812,33
+Université du Québec en Outaouais,Nursing,0.371363243334419,90
+Université du Québec à Chicoutimi,Business,0.51684637217585,312
+Université du Québec à Chicoutimi,Education,0.422244271694545,29
+Université du Québec à Chicoutimi,Engineering,0.602599114006372,160
+Université du Québec à Chicoutimi,Nursing,0.425017573442661,10
+Université du Québec à Rimouski,Accounting,0.557112932395444,24
+Université du Québec à Rimouski,Biology,0.459860140432777,45
+Université du Québec à Rimouski,Business,0.507934140626383,470
+Université du Québec à Rimouski,Education,0.377375007429909,36
+Université du Québec à Rimouski,Engineering,0.598638541968835,46
+Université du Québec à Rimouski,Finance,0.557157269984427,17
+Université du Québec à Rimouski,Marketing,0.52677205591432,14
+Université du Québec à Rimouski,Nursing,0.387986311396632,16
+Vancouver Community College,Business,0.44799227450558,183
+Vancouver Community College,Nursing,0.356146838151576,77
+Vancouver Island University,Accounting,0.5027891315897,27
+Vancouver Island University,Biology,0.43206453083492,56
+Vancouver Island University,Business,0.484502696452907,1272
+Vancouver Island University,Chemistry,0.494871099976927,29
+Vancouver Island University,Economics,0.532761536415157,24
+Vancouver Island University,Education,0.346632360841138,312
+Vancouver Island University,Engineering,0.606874704926144,125
+Vancouver Island University,Finance,0.522756865764675,22
+Vancouver Island University,Marketing,0.489057181991669,28
+Vancouver Island University,Nursing,0.387872427212127,115
+Vancouver School of Economics,Economics,0.523688381382999,23
+Vanier College,Business,0.476882751014976,49
+Vanier College,Engineering,0.566074359798028,13
+"W Booth School of Engineering Practice and Technology, McMaster University",Engineering,0.507889249873415,11
+Western University,Accounting,0.534791760548497,378
+Western University,Biology,0.471849269430858,1368
+Western University,Business,0.513976899030385,4917
+Western University,Chemistry,0.474545915952899,427
+Western University,Economics,0.52863893651469,1048
+Western University,Education,0.379826674125139,2206
+Western University,Engineering,0.546812854990154,3190
+Western University,Finance,0.528477413940057,494
+Western University,Information Technology,0.520242999572619,18
+Western University,Law,0.455733113959868,144
+Western University,Marketing,0.508364188150474,41
+Western University,Mathematics,0.545611056034493,155
+Western University,Medicine,0.441475348053481,28
+Western University,Nursing,0.38070879128124,1084
+Western University,Physics,0.496444877191186,113
+Western University,Statistics,0.544569136838587,68
+Wilfrid Laurier University,Accounting,0.524524451281019,385
+Wilfrid Laurier University,Biology,0.442188727568207,562
+Wilfrid Laurier University,Business,0.524629230297629,6186
+Wilfrid Laurier University,Chemistry,0.460622596524118,312
+Wilfrid Laurier University,Economics,0.523722755902101,743
+Wilfrid Laurier University,Education,0.360274703700324,811
+Wilfrid Laurier University,Engineering,0.619784960204271,561
+Wilfrid Laurier University,Finance,0.528961838884299,153
+Wilfrid Laurier University,Law,0.473857648071568,189
+Wilfrid Laurier University,Marketing,0.508032739045132,109
+Wilfrid Laurier University,Mathematics,0.538090517130168,260
+Wilfrid Laurier University,Physics,0.449968864262897,35
+York University,Accounting,0.537155553264877,1343
+York University,Biology,0.470678984325392,571
+York University,Business,0.517429606651029,7003
+York University,Chemistry,0.465451044263813,493
+York University,Economics,0.526068696671382,1784
+York University,Education,0.376321911158987,3042
+York University,Engineering,0.610580461394812,1720
+York University,Finance,0.538894423575896,722
+York University,Information Technology,0.603277568791321,1070
+York University,Law,0.492857605954371,1491
+York University,Marketing,0.50525377998457,590
+York University,Mathematics,0.543695252979263,322
+York University,Nursing,0.374524071602501,2107
+York University,Physics,0.554508974759802,109
+York University,Statistics,0.58640276494087,127
+York University – Faculty of Liberal Arts & Professional Studies,Accounting,0.552025667904311,57
+York University – Faculty of Liberal Arts & Professional Studies,Business,0.536788224196433,134
+York University – Faculty of Liberal Arts & Professional Studies,Economics,0.537862855936695,14
+York University – Faculty of Liberal Arts & Professional Studies,Finance,0.500246544721903,15
+York University – Faculty of Liberal Arts & Professional Studies,Information Technology,0.62480902173087,13
+York University – Faculty of Liberal Arts & Professional Studies,Marketing,0.514492164396838,31
+Yorkville University,Accounting,0.484324909979866,17
+Yorkville University,Business,0.459662889391602,1328
+Yorkville University,Engineering,0.508187945019501,38
+l'Institut de Tourisme et d'Hôtellerie du Québec,Business,0.433800388669234,32
+triOS College Business Technology Healthcare,Business,0.461372547091722,54
+triOS College Business Technology Healthcare,Engineering,0.662917239079833,10
+École Des Sciences De La Gestion,Accounting,0.543647859238075,210
+École Des Sciences De La Gestion,Business,0.525856700966316,2616
+École Des Sciences De La Gestion,Economics,0.54108288696741,62
+École Des Sciences De La Gestion,Engineering,0.666857452763553,18
+École Des Sciences De La Gestion,Finance,0.519554087729289,104
+École Des Sciences De La Gestion,Information Technology,0.615561698843578,14
+École Des Sciences De La Gestion,Marketing,0.50587015105816,127

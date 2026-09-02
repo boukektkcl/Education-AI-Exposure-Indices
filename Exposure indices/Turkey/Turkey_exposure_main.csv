@@ -1,0 +1,735 @@
+university_name,field,exposure_alljobs_beta,n_people
+Abdullah Gül University,Architecture,0.507330885483235,18
+Abdullah Gül University,Biology,0.566361100033658,15
+Abdullah Gül University,Business,0.531390420415556,32
+Abdullah Gül University,Engineering,0.542477783467935,121
+Adana Alparslan Türkeş Science and Technology University,Business,0.514462814056275,15
+Adana Alparslan Türkeş Science and Technology University,Engineering,0.56196637363057,80
+Afyon Kocatepe University,Architecture,0.501251102528854,10
+Afyon Kocatepe University,Biology,0.502586274159466,15
+Afyon Kocatepe University,Business,0.536474044451744,122
+Afyon Kocatepe University,Chemistry,0.34410284241561,10
+Afyon Kocatepe University,Economics,0.523059195040858,12
+Afyon Kocatepe University,Education,0.406153993881112,12
+Afyon Kocatepe University,Engineering,0.515603955275648,286
+Afyon Kocatepe University,Finance,0.53660927577698,31
+Akdeniz University,Architecture,0.456856648523764,29
+Akdeniz University,Business,0.49776062702239,202
+Akdeniz University,Chemistry,0.477835404822895,10
+Akdeniz University,Economics,0.535260498831536,35
+Akdeniz University,Education,0.416901465920831,24
+Akdeniz University,Engineering,0.519750348292012,268
+Akdeniz University,Finance,0.455865050578198,12
+Akdeniz University,Law,0.511673090079994,27
+Aksaray University,Business,0.58298155020587,16
+Aksaray University,Engineering,0.510453526684552,126
+Alanya Alaaddin Keykubat University,Business,0.529811154559501,17
+Alanya Alaaddin Keykubat University,Engineering,0.590593516269057,25
+Altinbas University,Architecture,0.492062081803952,85
+Altinbas University,Business,0.507818382927361,84
+Altinbas University,Economics,0.568272464852675,25
+Altinbas University,Engineering,0.566313665927379,176
+Altinbas University,Law,0.48058785484346,53
+Amasya University,Engineering,0.50751139574579,32
+Anadolu University,Accounting,0.52514380615034,25
+Anadolu University,Architecture,0.491900559840405,110
+Anadolu University,Biology,0.4898140404024,17
+Anadolu University,Business,0.524673118517713,7819
+Anadolu University,Chemistry,0.474517779750052,39
+Anadolu University,Economics,0.521286998961604,1091
+Anadolu University,Education,0.451915010537476,209
+Anadolu University,Engineering,0.542427307964774,953
+Anadolu University,Finance,0.525742756217717,124
+Anadolu University,Law,0.490840292703531,103
+Anadolu University,Marketing,0.518659477030543,13
+Anadolu University,Mathematics,0.459485669170153,20
+Anadolu University,Physics,0.516799868777534,22
+Anadolu University,Statistics,0.576028665812778,55
+Ankara University,Architecture,0.462044053773235,31
+Ankara University,Biology,0.487258494282262,49
+Ankara University,Business,0.52457943126862,154
+Ankara University,Chemistry,0.50054709272901,86
+Ankara University,Economics,0.521571644739153,142
+Ankara University,Education,0.385951448657265,50
+Ankara University,Engineering,0.545330871640477,928
+Ankara University,Finance,0.539851302591404,50
+Ankara University,Law,0.485582331098576,475
+Ankara University,Mathematics,0.526803491339804,64
+Ankara University,Medicine,0.426280751521924,77
+Ankara University,Physics,0.554267655339938,25
+Ankara University,Statistics,0.607779632062144,65
+Ankara University Faculty Of Engineering,Engineering,0.526350922226658,10
+Ankara Yildirim Beyazit University,Business,0.593252056310909,114
+Ankara Yildirim Beyazit University,Economics,0.5851474213628,20
+Ankara Yildirim Beyazit University,Engineering,0.557484500512685,289
+Ankara Yildirim Beyazit University,Finance,0.553983445022878,36
+Ankara Yildirim Beyazit University,Law,0.49945788541614,50
+Ankara Yildirim Beyazit University,Medicine,0.528072545594261,12
+Antalya Science University,Architecture,0.479778513182347,24
+Antalya Science University,Business,0.531377929560905,49
+Antalya Science University,Economics,0.539496308482385,15
+Antalya Science University,Engineering,0.579142278540427,128
+Antalya Science University,Law,0.482829740731412,14
+Atatürk University,Architecture,0.524486724389751,16
+Atatürk University,Biology,0.518228803067148,15
+Atatürk University,Business,0.501859099860966,90
+Atatürk University,Economics,0.527356363241494,10
+Atatürk University,Education,0.467979683314669,45
+Atatürk University,Engineering,0.520487578282117,455
+Atatürk University,Law,0.462191032284687,26
+Atilim University,Architecture,0.476524410332159,27
+Atilim University,Business,0.523261414594616,105
+Atilim University,Economics,0.543944393713923,25
+Atilim University,Engineering,0.562005989253382,622
+Atilim University,Law,0.469512054362252,75
+Atilim University,Mathematics,0.584259966760521,16
+Aydın Adnan Menderes University,Business,0.505601633654553,166
+Aydın Adnan Menderes University,Chemistry,0.524346914579764,15
+Aydın Adnan Menderes University,Economics,0.53968623706738,30
+Aydın Adnan Menderes University,Education,0.422837331495181,29
+Aydın Adnan Menderes University,Engineering,0.527521172208079,199
+Aydın Adnan Menderes University,Finance,0.530089652303575,20
+Aydın Adnan Menderes University,Medicine,0.368242547923251,18
+BAHÇELIEVLER DENEME ANADOLU LISESI,Business,0.615136235941692,16
+BAHÇELIEVLER DENEME ANADOLU LISESI,Engineering,0.60100474434761,106
+Balikesir University,Architecture,0.489039744469422,33
+Balikesir University,Biology,0.503564055749683,18
+Balikesir University,Business,0.507786602326084,137
+Balikesir University,Chemistry,0.490439533777438,22
+Balikesir University,Economics,0.499415433470662,27
+Balikesir University,Education,0.477648142454229,32
+Balikesir University,Engineering,0.512876413186568,541
+Bandırma Onyedi Eylül University,Business,0.531257424384054,10
+Bartin University,Business,0.640030566691606,13
+Bartin University,Engineering,0.51239463376254,49
+Batman University,Engineering,0.493504526574393,17
+Bayburt University,Engineering,0.469339696881671,26
+Başkent University,Architecture,0.507288535649919,51
+Başkent University,Biology,0.609103452524205,10
+Başkent University,Business,0.548856535254035,256
+Başkent University,Economics,0.538789971220724,58
+Başkent University,Education,0.375057332303424,28
+Başkent University,Engineering,0.565135596681275,671
+Başkent University,Law,0.466949342440971,179
+Başkent University,Nursing,0.38273253152537,14
+Beykoz University,Business,0.520808843990442,14
+Bilkent University,Accounting,0.533113762380116,22
+Bilkent University,Architecture,0.488743293178383,435
+Bilkent University,Biology,0.556349949690366,156
+Bilkent University,Business,0.51539021729352,1173
+Bilkent University,Chemistry,0.533097814554502,93
+Bilkent University,Economics,0.530987322244416,571
+Bilkent University,Education,0.425254966944597,14
+Bilkent University,Engineering,0.583971656867161,2488
+Bilkent University,Finance,0.523312329208161,67
+Bilkent University,Law,0.478112745016702,550
+Bilkent University,Mathematics,0.567861658208647,70
+Bilkent University,Physics,0.57969375639618,69
+Biruni University,Engineering,0.538508692678347,10
+Bolu Abant Izzet Baysal University,Business,0.480459496768931,26
+Bolu Abant Izzet Baysal University,Chemistry,0.530963080584094,24
+Bolu Abant Izzet Baysal University,Education,0.402159174056021,16
+Bolu Abant Izzet Baysal University,Engineering,0.536286995888453,52
+Bolu Abant Izzet Baysal University,Mathematics,0.47117174423921,13
+Boğaziçi University,Biology,0.56013491676612,115
+Boğaziçi University,Business,0.553502439549814,1012
+Boğaziçi University,Chemistry,0.522966749809463,196
+Boğaziçi University,Economics,0.533607967672587,569
+Boğaziçi University,Education,0.455872148413648,433
+Boğaziçi University,Engineering,0.560459046565878,1868
+Boğaziçi University,Mathematics,0.56661803113037,159
+Boğaziçi University,Physics,0.580165008276087,111
+Burdur Mehmet Akif Ersoy University,Business,0.600171722723429,47
+Burdur Mehmet Akif Ersoy University,Engineering,0.533427575752809,24
+Bursa Technical University,Engineering,0.519922843302118,149
+Bursa Uludağ University,Architecture,0.512429191896027,70
+Bursa Uludağ University,Biology,0.539402845643673,40
+Bursa Uludağ University,Business,0.510761121355027,408
+Bursa Uludağ University,Chemistry,0.496221223589676,85
+Bursa Uludağ University,Economics,0.526376555446846,295
+Bursa Uludağ University,Education,0.43980292822168,104
+Bursa Uludağ University,Engineering,0.535029903055294,1647
+Bursa Uludağ University,Finance,0.50809457039782,55
+Bursa Uludağ University,Law,0.473058191407416,29
+Bursa Uludağ University,Mathematics,0.560708340288901,28
+Bursa Uludağ University,Medicine,0.41674998038286,32
+Bursa Uludağ University,Nursing,0.453455805997484,10
+Bursa Uludağ University,Physics,0.519581710125794,16
+Cyprus International University,Architecture,0.47113740565922,39
+Cyprus International University,Business,0.501878978219077,48
+Cyprus International University,Engineering,0.560840514692792,175
+Cyprus International University,Law,0.479170495375027,32
+DEU Mechanical Engineering,Engineering,0.526261278413351,18
+Dicle University,Business,0.468683927464943,10
+Dicle University,Education,0.477900147761031,19
+Dicle University,Engineering,0.515495773535306,78
+Dicle University,Law,0.452709973841055,10
+Dogus University,Architecture,0.488601065509135,43
+Dogus University,Business,0.522402745068749,118
+Dogus University,Economics,0.505915685450076,10
+Dogus University,Engineering,0.585488981687788,575
+Dogus University,Finance,0.538030706750859,41
+Dogus University,Law,0.474991387520847,37
+Dokuz Eylül University,Architecture,0.49263565096029,122
+Dokuz Eylül University,Business,0.529070381707607,1279
+Dokuz Eylül University,Chemistry,0.500582460059702,40
+Dokuz Eylül University,Economics,0.538452900431939,508
+Dokuz Eylül University,Education,0.469397546487158,132
+Dokuz Eylül University,Engineering,0.528868443360446,2213
+Dokuz Eylül University,Finance,0.53466762637139,59
+Dokuz Eylül University,Law,0.479814198670357,165
+Dokuz Eylül University,Mathematics,0.555127623163391,64
+Dokuz Eylül University,Nursing,0.423598764326938,11
+Dokuz Eylül University,Physics,0.525258278674678,19
+Dokuz Eylül University,Statistics,0.603914940239616,86
+Düzce University,Business,0.509787119594011,26
+Düzce University,Engineering,0.586107454307669,117
+Eastern Mediterranean University,Architecture,0.501843430139311,159
+Eastern Mediterranean University,Business,0.508738395420443,199
+Eastern Mediterranean University,Economics,0.537252565450758,27
+Eastern Mediterranean University,Education,0.454562896758986,22
+Eastern Mediterranean University,Engineering,0.550634927175103,531
+Eastern Mediterranean University,Finance,0.571039932852056,25
+Eastern Mediterranean University,Information Technology,0.613976149956809,48
+Eastern Mediterranean University,Law,0.453659510030922,55
+Ege University,Architecture,0.448885019382691,47
+Ege University,Biology,0.492670591412989,125
+Ege University,Business,0.526180628274401,441
+Ege University,Chemistry,0.502024656411668,173
+Ege University,Economics,0.535659695169595,225
+Ege University,Education,0.432655889663207,76
+Ege University,Engineering,0.543631286779336,1839
+Ege University,Mathematics,0.530246991962406,61
+Ege University,Nursing,0.404291353544081,39
+Ege University,Physics,0.512717733102731,45
+Ege University,Statistics,0.596894305618934,153
+Ege Üniversitesi İktisadi ve İdari Bilimler Fakültesi,Business,0.485394798993593,14
+Erciyes University,Architecture,0.495264215430258,40
+Erciyes University,Business,0.500950112642295,119
+Erciyes University,Chemistry,0.423210463587504,12
+Erciyes University,Economics,0.527253784963775,35
+Erciyes University,Education,0.46907229552003,19
+Erciyes University,Engineering,0.532107129334073,1188
+Erciyes University,Law,0.517655456214076,16
+Erciyes University,Physics,0.570594172194312,10
+Erzurum Technical University,Engineering,0.506728623034613,39
+Eskişehir Osmangazi University,Architecture,0.492472054852239,55
+Eskişehir Osmangazi University,Biology,0.511760014596681,19
+Eskişehir Osmangazi University,Business,0.51222146045785,146
+Eskişehir Osmangazi University,Chemistry,0.499861807214882,51
+Eskişehir Osmangazi University,Economics,0.564976304556069,48
+Eskişehir Osmangazi University,Education,0.479821424170113,22
+Eskişehir Osmangazi University,Engineering,0.534905101052069,1956
+Eskişehir Osmangazi University,Finance,0.526472419730431,19
+Eskişehir Osmangazi University,Mathematics,0.626933635602866,11
+Eskişehir Osmangazi University,Physics,0.53257302100839,15
+Eskişehir Osmangazi University,Statistics,0.591957885437358,62
+European University of Lefke,Architecture,0.510706605571961,29
+European University of Lefke,Business,0.586962560539421,32
+European University of Lefke,Engineering,0.581137190232656,138
+European University of Lefke,Law,0.461582435557733,11
+Fatih Sultan Mehmet University,Architecture,0.493901965349409,63
+Fatih Sultan Mehmet University,Engineering,0.55209273469982,53
+Fatih Sultan Mehmet University,Law,0.47050372624565,25
+Firat University,Education,0.481560719698418,13
+Firat University,Engineering,0.558737960113893,677
+Galatasaray University,Business,0.515381861046352,129
+Galatasaray University,Economics,0.538264139006881,120
+Galatasaray University,Engineering,0.571469162185162,247
+Galatasaray University,Law,0.47446786662066,172
+Galatasaray University,Mathematics,0.568153620196719,33
+Gazi University,Architecture,0.506217389436299,103
+Gazi University,Biology,0.502207808717044,18
+Gazi University,Business,0.519623366429456,369
+Gazi University,Chemistry,0.483410806499891,50
+Gazi University,Economics,0.527534747516872,208
+Gazi University,Education,0.448729737334827,261
+Gazi University,Engineering,0.541346242259075,2104
+Gazi University,Finance,0.502381590387017,39
+Gazi University,Law,0.481571067010539,100
+Gazi University,Mathematics,0.553065271211027,22
+Gazi University,Medicine,0.51632806554873,16
+Gazi University,Physics,0.500757293211536,28
+Gazi University,Statistics,0.582020687084131,70
+Gaziantep University,Architecture,0.495875616471456,54
+Gaziantep University,Business,0.527949410749175,96
+Gaziantep University,Economics,0.531241906211077,24
+Gaziantep University,Education,0.478990263622691,22
+Gaziantep University,Engineering,0.521079368808071,1538
+Gaziantep University,Law,0.48327209380493,16
+Gebze Technical University,Architecture,0.506144758925764,51
+Gebze Technical University,Biology,0.556750047857713,34
+Gebze Technical University,Business,0.563785505860889,43
+Gebze Technical University,Engineering,0.574889955527159,347
+Gebze Technical University,Mathematics,0.58437982854006,21
+Gebze Technical University,Physics,0.570891727327649,21
+Gediz University,Business,0.57737065771247,11
+Gediz University,Engineering,0.533520266166036,43
+Giresun University,Business,0.540304379090414,11
+Giresun University,Engineering,0.496583997387251,24
+Girne American University,Architecture,0.485071048681374,106
+Girne American University,Business,0.539786873010637,98
+Girne American University,Engineering,0.54263915427054,170
+Girne American University,Law,0.438534645624908,18
+Gümüşhane University,Engineering,0.533567292213014,49
+Hacettepe University,Architecture,0.479262088645742,51
+Hacettepe University,Biology,0.515011737582369,105
+Hacettepe University,Business,0.539665245025928,450
+Hacettepe University,Chemistry,0.518172443668786,161
+Hacettepe University,Economics,0.530951409308189,370
+Hacettepe University,Education,0.452902937486745,152
+Hacettepe University,Engineering,0.545950390137225,1921
+Hacettepe University,Finance,0.553290854836657,50
+Hacettepe University,Law,0.481059628206191,69
+Hacettepe University,Mathematics,0.53627864698735,74
+Hacettepe University,Medicine,0.484088431476385,22
+Hacettepe University,Nursing,0.465964236849036,26
+Hacettepe University,Statistics,0.599252975300195,182
+Haliç University,Architecture,0.501691024615575,53
+Haliç University,Biology,0.500381071600542,39
+Haliç University,Business,0.514121125179906,134
+Haliç University,Engineering,0.574301885043072,167
+Harran University,Engineering,0.546763290602965,89
+Hasan Kalyoncu University,Architecture,0.554456074169877,15
+Hasan Kalyoncu University,Engineering,0.521031544072285,69
+Hasan Kalyoncu University,Law,0.480340612335893,14
+Hatay Mustafa Kemal University,Architecture,0.476806452722513,20
+Hatay Mustafa Kemal University,Business,0.488788122814981,59
+Hatay Mustafa Kemal University,Education,0.367344018880974,15
+Hatay Mustafa Kemal University,Engineering,0.508154485247128,129
+Hitit University,Business,0.513133326982649,10
+Hitit University,Engineering,0.49531391358241,78
+Inönü University,Biology,0.55464425897287,16
+Inönü University,Business,0.483894221358169,22
+Inönü University,Chemistry,0.460428203309837,13
+Inönü University,Economics,0.610079467028642,10
+Inönü University,Education,0.399711978963791,12
+Inönü University,Engineering,0.52576613358034,234
+Inönü University,Mathematics,0.49420695302446,13
+Isparta Uygulamalı Bilimler Üniversitesi,Engineering,0.48405576756333,20
+Istanbul Arel University,Architecture,0.49533951896742,29
+Istanbul Arel University,Biology,0.463251540171695,10
+Istanbul Arel University,Business,0.484725388855379,48
+Istanbul Arel University,Engineering,0.559812133116508,114
+Istanbul Arel University,Finance,0.523026253999953,15
+Istanbul Aydin University,Architecture,0.487311964198383,67
+Istanbul Aydin University,Business,0.519548741180108,144
+Istanbul Aydin University,Education,0.451268197008919,18
+Istanbul Aydin University,Engineering,0.576143586000256,388
+Istanbul Aydin University,Finance,0.52341437747998,17
+Istanbul Aydin University,Law,0.463616192405537,38
+Istanbul Beykent University,Architecture,0.496678248912642,127
+Istanbul Beykent University,Business,0.554354690563714,278
+Istanbul Beykent University,Economics,0.563742676242269,32
+Istanbul Beykent University,Engineering,0.584005195600309,557
+Istanbul Beykent University,Finance,0.495121164005183,17
+Istanbul Beykent University,Law,0.470167235861704,54
+Istanbul Bilgi University,Architecture,0.489364551965856,176
+Istanbul Bilgi University,Business,0.520212815290215,1019
+Istanbul Bilgi University,Economics,0.518244708529001,191
+Istanbul Bilgi University,Education,0.467965199160611,23
+Istanbul Bilgi University,Engineering,0.570657787795847,642
+Istanbul Bilgi University,Finance,0.521509284405783,144
+Istanbul Bilgi University,Law,0.469668306583866,351
+Istanbul Bilgi University,Marketing,0.52620381622852,39
+Istanbul Bilgi University,Mathematics,0.512601976562135,47
+Istanbul Commerce University,Architecture,0.503273183326639,44
+Istanbul Commerce University,Business,0.524215680475885,155
+Istanbul Commerce University,Economics,0.547760086439124,36
+Istanbul Commerce University,Engineering,0.608515004004326,292
+Istanbul Commerce University,Finance,0.501542565919757,18
+Istanbul Commerce University,Law,0.478279855414712,97
+Istanbul Commerce University,Mathematics,0.583301491617514,10
+Istanbul Commerce University,Statistics,0.665357675207947,22
+Istanbul Gelişim University,Architecture,0.492369391717106,34
+Istanbul Gelişim University,Business,0.519228788471121,59
+Istanbul Gelişim University,Engineering,0.547107018696357,95
+Istanbul Kultur University,Architecture,0.495569308407228,203
+Istanbul Kultur University,Biology,0.512595541125159,52
+Istanbul Kultur University,Business,0.51116004736846,196
+Istanbul Kultur University,Economics,0.533934070255295,27
+Istanbul Kultur University,Education,0.442506348887117,16
+Istanbul Kultur University,Engineering,0.580981848915322,626
+Istanbul Kultur University,Law,0.456567993691654,126
+Istanbul Medeniyet University,Biology,0.59819461882622,12
+Istanbul Medeniyet University,Business,0.520244597749072,17
+Istanbul Medeniyet University,Engineering,0.538979466662259,30
+Istanbul Medeniyet University,Law,0.528908472233722,10
+Istanbul Medipol University,Architecture,0.500733577676809,71
+Istanbul Medipol University,Business,0.576367587685468,90
+Istanbul Medipol University,Engineering,0.580156147994477,114
+Istanbul Medipol University,Finance,0.555176047470736,30
+Istanbul Medipol University,Law,0.484158582513942,54
+Istanbul Nişantaşi University,Architecture,0.460445067456342,54
+Istanbul Nişantaşi University,Business,0.540081870848039,49
+Istanbul Nişantaşi University,Engineering,0.493288915062957,93
+Istanbul Sabahattin Zaim University,Architecture,0.487496688793359,24
+Istanbul Sabahattin Zaim University,Business,0.53937659260848,35
+Istanbul Sabahattin Zaim University,Engineering,0.631467838442076,91
+Istanbul Sabahattin Zaim University,Finance,0.540625921419579,15
+Istanbul Sabahattin Zaim University,Law,0.481044973256254,14
+Istanbul Technical University,Architecture,0.499980157694798,877
+Istanbul Technical University,Biology,0.543639915981118,155
+Istanbul Technical University,Business,0.507259940288593,159
+Istanbul Technical University,Chemistry,0.512098956278244,234
+Istanbul Technical University,Economics,0.53975117001831,140
+Istanbul Technical University,Engineering,0.536906806235288,9259
+Istanbul Technical University,Marketing,0.518667168245386,31
+Istanbul Technical University,Mathematics,0.674941070338979,10
+Istanbul University,Architecture,0.477198004443085,56
+Istanbul University,Biology,0.509148396775158,202
+Istanbul University,Business,0.529723788848522,1992
+Istanbul University,Chemistry,0.526927490683005,109
+Istanbul University,Economics,0.53173160401241,1175
+Istanbul University,Education,0.450777997904625,125
+Istanbul University,Engineering,0.546053552169765,2232
+Istanbul University,Finance,0.536560632716705,75
+Istanbul University,Law,0.472869837500761,911
+Istanbul University,Marketing,0.528881684085178,10
+Istanbul University,Mathematics,0.571439866293785,102
+Istanbul University,Medicine,0.393494275343906,49
+Istanbul University,Nursing,0.382190291086274,30
+Istanbul University,Physics,0.552845588577678,95
+Istanbul Yeni Yüzyıl University,Architecture,0.489468702821489,13
+Istanbul Yeni Yüzyıl University,Engineering,0.521915385044581,30
+Istanbul Yeni Yüzyıl University,Law,0.454666030034969,10
+Istinye University,Architecture,0.522253710190435,10
+Izmir Institute of Technology,Architecture,0.510492210315882,164
+Izmir Institute of Technology,Biology,0.564004942305907,82
+Izmir Institute of Technology,Chemistry,0.523296885083131,92
+Izmir Institute of Technology,Engineering,0.556884039681983,691
+Izmir Institute of Technology,Mathematics,0.61542737878994,22
+Izmir Institute of Technology,Physics,0.576056853757854,45
+Izmir Katip Çelebi University,Business,0.542777802008331,44
+Izmir Katip Çelebi University,Engineering,0.529658368241347,276
+Izmir University of Economics,Accounting,0.564721740288,10
+Izmir University of Economics,Architecture,0.507061555029461,192
+Izmir University of Economics,Business,0.519089649469102,417
+Izmir University of Economics,Economics,0.540664767423914,80
+Izmir University of Economics,Engineering,0.583723971491539,629
+Izmir University of Economics,Finance,0.536021555306881,127
+Izmir University of Economics,Law,0.467695302320415,51
+Izmir University of Economics,Mathematics,0.568099965096513,29
+Işik University,Architecture,0.49440446849537,83
+Işik University,Business,0.548221712211062,195
+Işik University,Economics,0.532253926233046,25
+Işik University,Engineering,0.562345661953027,658
+Işik University,Information Technology,0.603116613311548,33
+Işik University,Mathematics,0.621532505656436,11
+Işik University,Physics,0.600180166149521,13
+KTO Karatay University,Architecture,0.480695818829439,20
+KTO Karatay University,Business,0.590652801432646,13
+KTO Karatay University,Engineering,0.531343820228622,86
+KTO Karatay University,Law,0.48977115012303,20
+Kadir Has University,Architecture,0.503954020267333,73
+Kadir Has University,Business,0.545126467257519,191
+Kadir Has University,Economics,0.53534759579089,45
+Kadir Has University,Engineering,0.600349093296926,430
+Kadir Has University,Finance,0.551150687433373,55
+Kadir Has University,Law,0.452887856285552,143
+Kahramanmaras Sütçü Imam Üniversitesi,Business,0.565535445584298,21
+Kahramanmaras Sütçü Imam Üniversitesi,Engineering,0.522091951480739,164
+Karabük University,Architecture,0.476402557343873,32
+Karabük University,Business,0.552535045687036,55
+Karabük University,Economics,0.529204067204125,11
+Karabük University,Education,0.432589653292386,19
+Karabük University,Engineering,0.552214111660288,1195
+Karadeniz Technical University,Architecture,0.501425301624904,113
+Karadeniz Technical University,Biology,0.52818422047722,12
+Karadeniz Technical University,Business,0.517672223737701,98
+Karadeniz Technical University,Chemistry,0.483305095218366,38
+Karadeniz Technical University,Economics,0.528374862806626,56
+Karadeniz Technical University,Education,0.454724414871432,39
+Karadeniz Technical University,Engineering,0.531257975902035,1258
+Karadeniz Technical University,Finance,0.546922394351536,10
+Karadeniz Technical University,Law,0.459865415774394,11
+Karadeniz Technical University,Mathematics,0.525228431407858,16
+Karadeniz Technical University,Physics,0.544797525540206,10
+Kastamonu University,Business,0.500087941405337,10
+Kastamonu University,Engineering,0.57682836453844,30
+Kilis 7 December University,Business,0.572061118313474,11
+Kirikkale University,Business,0.573277452543739,28
+Kirikkale University,Engineering,0.540533607018492,411
+Kirikkale University,Law,0.471671346716572,50
+Kirikkale University,Medicine,0.307992537159496,10
+Kocaeli University,Architecture,0.492000771652724,115
+Kocaeli University,Biology,0.505214877496124,13
+Kocaeli University,Business,0.520002438963655,393
+Kocaeli University,Chemistry,0.505994681118637,87
+Kocaeli University,Economics,0.535430083609636,244
+Kocaeli University,Education,0.434044514720307,89
+Kocaeli University,Engineering,0.542941847208076,3370
+Kocaeli University,Law,0.49752246027018,59
+Kocaeli University,Mathematics,0.571538985459734,38
+Kocaeli University,Physics,0.535388048858153,33
+Koç University,Biology,0.570625425306614,48
+Koç University,Business,0.513525279236284,1009
+Koç University,Chemistry,0.533779262987376,43
+Koç University,Economics,0.533031458312373,528
+Koç University,Engineering,0.546107502023989,1281
+Koç University,Law,0.47594840263457,257
+Koç University,Mathematics,0.584715697539476,30
+Koç University,Nursing,0.458375237624432,31
+Koç University,Physics,0.547492035819535,30
+Kütahya Dumlupinar University,Business,0.512273287783858,97
+Kütahya Dumlupinar University,Chemistry,0.443325634372125,22
+Kütahya Dumlupinar University,Economics,0.514889329408178,53
+Kütahya Dumlupinar University,Education,0.380756291414598,21
+Kütahya Dumlupinar University,Engineering,0.537169113268917,526
+Kütahya Dumlupinar University,Finance,0.550206093967376,18
+Kütahya Dumlupinar University,Mathematics,0.533703026603635,12
+MEF University,Architecture,0.501753245945247,60
+MEF University,Business,0.560407996224979,36
+MEF University,Economics,0.529819413722312,19
+MEF University,Engineering,0.558323803766986,180
+MEF University,Law,0.485219859946901,61
+Maltepe University,Architecture,0.498614387912461,161
+Maltepe University,Business,0.537189135371147,59
+Maltepe University,Education,0.414242315326892,19
+Maltepe University,Engineering,0.617593994713681,182
+Maltepe University,Law,0.467444307544178,74
+Manisa Celal Bayar Universitesi,Biology,0.50374369408589,15
+Manisa Celal Bayar Universitesi,Business,0.53643661969068,180
+Manisa Celal Bayar Universitesi,Chemistry,0.438210111839238,31
+Manisa Celal Bayar Universitesi,Economics,0.527472127224249,60
+Manisa Celal Bayar Universitesi,Education,0.400228527133228,29
+Manisa Celal Bayar Universitesi,Engineering,0.530683268959083,805
+Manisa Celal Bayar Universitesi,Finance,0.526764956591836,29
+Manisa Celal Bayar Universitesi,Mathematics,0.430072956172023,15
+Manisa Celal Bayar Universitesi,Physics,0.503271561221985,15
+Marmara University,Architecture,0.5143936395966,31
+Marmara University,Biology,0.524225745646381,52
+Marmara University,Business,0.535668456789889,1684
+Marmara University,Chemistry,0.489320980315741,98
+Marmara University,Economics,0.532799139542862,951
+Marmara University,Education,0.449983395421955,279
+Marmara University,Engineering,0.561294703992242,1955
+Marmara University,Finance,0.541250070479658,93
+Marmara University,Law,0.46989355944212,591
+Marmara University,Mathematics,0.603001581113766,46
+Marmara University,Medicine,0.455966627786301,11
+Marmara University,Nursing,0.414691301435709,15
+Marmara University,Physics,0.548880997003168,48
+Marmara University,Statistics,0.639474488303118,20
+Mersin University,Architecture,0.487753784772262,50
+Mersin University,Business,0.506313207013549,113
+Mersin University,Chemistry,0.493336285238517,10
+Mersin University,Economics,0.535952139558125,26
+Mersin University,Education,0.434808659322604,33
+Mersin University,Engineering,0.536355238755313,353
+Middle East Technical University,Architecture,0.5041455453358,323
+Middle East Technical University,Biology,0.538961019741594,164
+Middle East Technical University,Business,0.525268137314803,757
+Middle East Technical University,Chemistry,0.529451033895121,282
+Middle East Technical University,Economics,0.543853245845698,543
+Middle East Technical University,Education,0.467941564738829,412
+Middle East Technical University,Engineering,0.538023662875691,6485
+Middle East Technical University,Mathematics,0.571305514285591,231
+Middle East Technical University,Physics,0.549488335155965,244
+Middle East Technical University,Statistics,0.608093381372278,176
+Mimar Sinan Fine Arts University,Architecture,0.496379731625097,259
+Mimar Sinan Fine Arts University,Mathematics,0.56308815777169,47
+Mimar Sinan Fine Arts University,Statistics,0.594532940932296,109
+Munzur University,Engineering,0.597267989432825,10
+Muğla Sıtkı Koçman University,Biology,0.470788839764195,23
+Muğla Sıtkı Koçman University,Business,0.488471772340901,162
+Muğla Sıtkı Koçman University,Chemistry,0.546979314085888,13
+Muğla Sıtkı Koçman University,Economics,0.497896764897445,54
+Muğla Sıtkı Koçman University,Education,0.418130854700292,38
+Muğla Sıtkı Koçman University,Engineering,0.565972061314259,243
+Muğla Sıtkı Koçman University,Statistics,0.593587574119345,19
+Near East University,Architecture,0.488065930860655,19
+Near East University,Business,0.506685436931421,27
+Near East University,Engineering,0.576367437003558,86
+Necmettin Erbakan University,Business,0.564355342712716,26
+Necmettin Erbakan University,Education,0.458897480399294,17
+Necmettin Erbakan University,Engineering,0.547171778067513,156
+Nuh Naci Yazgan University,Engineering,0.567225489186741,27
+Ondokuz Mayis University,Architecture,0.503592842172855,18
+Ondokuz Mayis University,Business,0.568192219209454,29
+Ondokuz Mayis University,Chemistry,0.495397943753589,19
+Ondokuz Mayis University,Economics,0.511615995824651,21
+Ondokuz Mayis University,Education,0.449605443606022,53
+Ondokuz Mayis University,Engineering,0.535642405508247,464
+Ondokuz Mayis University,Law,0.475274484466845,18
+Ondokuz Mayis University,Medicine,0.47112681528029,16
+Ondokuz Mayis University,Statistics,0.610548543057342,36
+Osmaniye Korkut Ata University,Business,0.553026161091165,14
+Osmaniye Korkut Ata University,Engineering,0.505978455665636,80
+Pamukkale University,Architecture,0.482530511596609,22
+Pamukkale University,Business,0.545011303080966,161
+Pamukkale University,Chemistry,0.496416980116115,13
+Pamukkale University,Economics,0.536316877252894,115
+Pamukkale University,Education,0.424937638396406,47
+Pamukkale University,Engineering,0.51898533477505,865
+Pamukkale University,Finance,0.540335189599593,47
+Piri Reis University,Business,0.534765194249435,58
+Piri Reis University,Engineering,0.42074493856662,223
+Piri Reis University,Finance,0.52822232298507,15
+Recep Tayyip Erdoğan University,Engineering,0.504906223346616,13
+Sabanci University,Business,0.515473788664262,483
+Sabanci University,Economics,0.532064507703823,197
+Sabanci University,Engineering,0.551693180591326,1883
+Sabancı Business School,Business,0.521070188186669,18
+Sakarya University,Architecture,0.530108565045716,20
+Sakarya University,Business,0.538799473903022,372
+Sakarya University,Chemistry,0.508863432073454,34
+Sakarya University,Economics,0.543188188795082,109
+Sakarya University,Education,0.444466628962676,44
+Sakarya University,Engineering,0.54931499461016,2529
+Sakarya University,Finance,0.539878919730053,22
+Sakarya University,Law,0.507323247755481,36
+Sakarya University,Mathematics,0.494900002454819,22
+Sakarya University,Physics,0.495682555322804,11
+Sakarya University of Applied Sciences,Engineering,0.496275278739345,25
+Sakarya Uygulamalı Bilimler Üniversitesi,Engineering,0.524069305267489,32
+Samsun Üniversitesi,Engineering,0.533213222241395,21
+Selçuk University,Architecture,0.503999170924028,57
+Selçuk University,Business,0.514711106440515,140
+Selçuk University,Chemistry,0.480278620201158,26
+Selçuk University,Economics,0.54834724961018,45
+Selçuk University,Education,0.479477908251114,46
+Selçuk University,Engineering,0.54278070749749,937
+Selçuk University,Law,0.47255122544103,83
+Selçuk University,Mathematics,0.542174096039808,15
+Selçuk University,Medicine,0.384919127245841,23
+Selçuk University,Statistics,0.560937699070889,22
+Siirt University,Engineering,0.550293080586249,13
+Sivas Cumhuriyet University,Business,0.497586840915334,25
+Sivas Cumhuriyet University,Chemistry,0.461406519248821,13
+Sivas Cumhuriyet University,Economics,0.596775827789076,11
+Sivas Cumhuriyet University,Education,0.354333553250745,18
+Sivas Cumhuriyet University,Engineering,0.532521454498906,340
+Süleyman Demirel University,Architecture,0.482087737168352,25
+Süleyman Demirel University,Business,0.491459743868712,74
+Süleyman Demirel University,Economics,0.54405790240776,18
+Süleyman Demirel University,Education,0.510867713812134,12
+Süleyman Demirel University,Engineering,0.538285048045571,594
+TED University,Architecture,0.5243027244885,65
+TED University,Business,0.514762921186885,58
+TED University,Economics,0.525054018043299,25
+TED University,Education,0.364991448859275,18
+TED University,Engineering,0.561225578278644,222
+TOBB Economics and Technology University,Architecture,0.498544853963405,67
+TOBB Economics and Technology University,Business,0.539584734400944,156
+TOBB Economics and Technology University,Economics,0.533308910366104,90
+TOBB Economics and Technology University,Engineering,0.571016268410883,812
+TOBB Economics and Technology University,Law,0.489568996667477,58
+TOBB Economics and Technology University,Mathematics,0.638858222261735,20
+Tekirdağ Namik Kemal University,Architecture,0.508715568450857,17
+Tekirdağ Namik Kemal University,Business,0.467909715243616,12
+Tekirdağ Namik Kemal University,Engineering,0.561266515824006,246
+Tokat Gaziosmanpasa University,Business,0.462748401594658,20
+Tokat Gaziosmanpasa University,Chemistry,0.486130473762244,11
+Tokat Gaziosmanpasa University,Engineering,0.519664505192406,86
+Toros University,Engineering,0.577421264557492,46
+Trakya University,Architecture,0.499177152501873,63
+Trakya University,Business,0.523387070078644,122
+Trakya University,Chemistry,0.513518619576532,46
+Trakya University,Economics,0.52560934847628,61
+Trakya University,Education,0.413272479449239,55
+Trakya University,Engineering,0.566032613171059,567
+Trakya University,Physics,0.513253644918593,20
+Turkish - German University,Business,0.565144612005555,33
+Turkish - German University,Engineering,0.565518215656152,88
+Turkish - German University,Law,0.506724603656343,25
+Turkish Military Academy,Business,0.511532234443466,11
+Turkish Military Academy,Engineering,0.494326507155824,103
+Ufuk University,Business,0.586794364279661,18
+Ufuk University,Law,0.478870871146225,30
+University of Eurasia,Architecture,0.474203387844636,10
+University of Eurasia,Engineering,0.635852837552556,10
+University of Kyrenia,Engineering,0.390539934903649,10
+University of Turkish Aeronautical Association,Business,0.476859637832481,81
+University of Turkish Aeronautical Association,Engineering,0.579103966651319,286
+Uşak University,Business,0.552557062256327,18
+Uşak University,Engineering,0.508688136106144,119
+Van Yüzüncü Yil University,Engineering,0.505490334527528,27
+Yalova University,Business,0.468463655939198,17
+Yalova University,Engineering,0.564731305462803,54
+Yalova University,Law,0.48925589255058,16
+Yaşar University,Architecture,0.502074375610122,137
+Yaşar University,Business,0.542107650975566,173
+Yaşar University,Economics,0.546347507334383,27
+Yaşar University,Engineering,0.588232160606536,455
+Yaşar University,Finance,0.539318087071136,65
+Yaşar University,Law,0.461747292226297,113
+Yeditepe University,Architecture,0.488793129263414,296
+Yeditepe University,Business,0.525240508253879,878
+Yeditepe University,Economics,0.514054315505373,146
+Yeditepe University,Education,0.454462748670082,66
+Yeditepe University,Engineering,0.555265645516907,1218
+Yeditepe University,Finance,0.533221932829986,57
+Yeditepe University,Information Technology,0.624546403087474,15
+Yeditepe University,Law,0.470116672074429,306
+Yeditepe University,Mathematics,0.614836010570265,36
+Yeditepe University,Medicine,0.442482622007858,13
+Yeditepe University,Physics,0.477462286605587,24
+Yildiz Technical University,Architecture,0.49784849650861,373
+Yildiz Technical University,Biology,0.556233678986587,66
+Yildiz Technical University,Business,0.541176391905434,310
+Yildiz Technical University,Chemistry,0.519456891825939,233
+Yildiz Technical University,Economics,0.534517683538669,400
+Yildiz Technical University,Education,0.470549951949924,34
+Yildiz Technical University,Engineering,0.546548678589467,6606
+Yildiz Technical University,Mathematics,0.602214933825493,98
+Yildiz Technical University,Physics,0.546277476566704,90
+Yildiz Technical University,Statistics,0.610287093686448,162
+Yozgat Bozok University,Engineering,0.523711731890158,24
+Zirve University,Engineering,0.499555540134435,20
+Zonguldak Bülent Ecevit University,Biology,0.567787623387421,15
+Zonguldak Bülent Ecevit University,Business,0.512305341425489,114
+Zonguldak Bülent Ecevit University,Chemistry,0.517229841806454,13
+Zonguldak Bülent Ecevit University,Economics,0.494245507881878,19
+Zonguldak Bülent Ecevit University,Education,0.394060124177908,14
+Zonguldak Bülent Ecevit University,Engineering,0.512529877446793,473
+Çanakkale Onsekiz Mart University,Biology,0.537416564698074,42
+Çanakkale Onsekiz Mart University,Business,0.504389110424736,143
+Çanakkale Onsekiz Mart University,Chemistry,0.514665193184548,19
+Çanakkale Onsekiz Mart University,Economics,0.569103470181946,70
+Çanakkale Onsekiz Mart University,Education,0.491869116778773,75
+Çanakkale Onsekiz Mart University,Engineering,0.575619078553084,211
+Çanakkale Onsekiz Mart University,Mathematics,0.483548150033326,12
+Çanakkale Onsekiz Mart University,Physics,0.475733427783728,12
+Çankaya University,Architecture,0.485995492279269,91
+Çankaya University,Business,0.526766627234873,113
+Çankaya University,Economics,0.543326263715894,47
+Çankaya University,Engineering,0.578617012953192,691
+Çankaya University,Finance,0.541278590239664,17
+Çankaya University,Law,0.467420271560553,83
+Çankiri Karatekin University,Engineering,0.422639600389832,10
+Çağ University,Business,0.503631430720461,56
+Çağ University,Finance,0.546339530333461,11
+Çağ University,Law,0.49261440552477,33
+Çukurova University,Architecture,0.493664681174111,86
+Çukurova University,Business,0.521317112330037,197
+Çukurova University,Chemistry,0.47973551025668,37
+Çukurova University,Economics,0.520706828166418,104
+Çukurova University,Education,0.407249055599414,74
+Çukurova University,Engineering,0.530885269381522,1429
+Çukurova University,Law,0.485685252529266,27
+Çukurova University,Mathematics,0.499198696767928,13
+Çukurova University,Physics,0.600068975306483,13
+Çukurova University,Statistics,0.545487834385355,31
+Ömer Halisdemir University,Business,0.509636023112359,17
+Ömer Halisdemir University,Engineering,0.510301521516062,203
+Özyeğin University,Architecture,0.495330700619034,170
+Özyeğin University,Business,0.529113453261218,445
+Özyeğin University,Economics,0.562901695289177,32
+Özyeğin University,Engineering,0.567651257926085,612
+Özyeğin University,Finance,0.513814312240096,19
+Özyeğin University,Law,0.475044836543005,157
+Üsküdar University,Biology,0.529388101383305,68
+Üsküdar University,Engineering,0.620760041079106,110
+İskenderun Technical University,Business,0.48038728543728,23
+İskenderun Technical University,Engineering,0.537607495368536,176
+İstanbul Okan University,Architecture,0.472396786607865,85
+İstanbul Okan University,Business,0.536482168833853,108
+İstanbul Okan University,Engineering,0.553163725801689,293
+İstanbul Okan University,Finance,0.526206269984055,17
+İstanbul Okan University,Law,0.456795212165408,52
+İstanbul University-Cerrahpaşa,Engineering,0.503877803879943,89
+İzmir Bakırçay University,Engineering,0.558441006470221,10
+İzmir Democracy University,Engineering,0.505942201189998,17
+İzmir Üniversitesi,Business,0.51702674573019,11
+İzmir Üniversitesi,Engineering,0.661019934340614,41

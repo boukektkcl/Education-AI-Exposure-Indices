@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Working material kept out of the data release (on disk and OneDrive only)
+Code/
+Documents/
+Graphs/
+Tables/
+
+# NOTE: the index CSVs in "Exposure indices/" are deliberately tracked —
+# they are the data release this repository exists for.

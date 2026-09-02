@@ -1,0 +1,1293 @@
+university_name,field,exposure_alljobs_beta,n_people
+Alfonso Reyes University,Business,0.547277793995285,17
+Alfonso Reyes University,Engineering,0.556021458489828,14
+American University of Acapulco,Business,0.55593086766776,10
+American University of Morelos,Business,0.528816164458819,11
+Anáhuac Mexico University,Architecture,0.483833903178176,51
+Anáhuac Mexico University,Business,0.513965497390751,312
+Anáhuac Mexico University,Economics,0.546503066500469,36
+Anáhuac Mexico University,Engineering,0.526124389044814,114
+Anáhuac Mexico University,Finance,0.536702409413513,61
+Anáhuac Mexico University,Law,0.469945164591428,113
+Anáhuac Mexico University,Marketing,0.514289927489944,176
+Anáhuac Mexico University,Medicine,0.453488537449781,40
+Anáhuac Mexico University Anáhuac Cancún University,Architecture,0.481028444795873,82
+Anáhuac Mexico University Anáhuac Cancún University,Business,0.508122395379594,654
+Anáhuac Mexico University Anáhuac Cancún University,Economics,0.514594903720194,53
+Anáhuac Mexico University Anáhuac Cancún University,Education,0.455968797182684,14
+Anáhuac Mexico University Anáhuac Cancún University,Engineering,0.521123470097569,262
+Anáhuac Mexico University Anáhuac Cancún University,Finance,0.527043055626144,108
+Anáhuac Mexico University Anáhuac Cancún University,Law,0.474043643594946,93
+Anáhuac Mexico University Anáhuac Cancún University,Marketing,0.512472403245357,325
+Anáhuac Mexico University Anáhuac Cancún University,Medicine,0.453667235929589,48
+Autonomous University of Aguascalientes,Accounting,0.537114836740713,72
+Autonomous University of Aguascalientes,Architecture,0.487183070649349,77
+Autonomous University of Aguascalientes,Business,0.549095971847392,290
+Autonomous University of Aguascalientes,Chemistry,0.444318285870651,15
+Autonomous University of Aguascalientes,Economics,0.535781392922835,32
+Autonomous University of Aguascalientes,Education,0.4311850344161,13
+Autonomous University of Aguascalientes,Engineering,0.573602995347957,265
+Autonomous University of Aguascalientes,Finance,0.547240602660342,29
+Autonomous University of Aguascalientes,Information Technology,0.693505322116752,43
+Autonomous University of Aguascalientes,Law,0.502342608155338,113
+Autonomous University of Aguascalientes,Marketing,0.534173145759978,220
+Autonomous University of Aguascalientes,Medicine,0.441425237430154,16
+Autonomous University of Baja California,Accounting,0.557765106362572,223
+Autonomous University of Baja California,Architecture,0.480821949828515,185
+Autonomous University of Baja California,Biology,0.460101361956128,16
+Autonomous University of Baja California,Business,0.544423438119368,1074
+Autonomous University of Baja California,Chemistry,0.46692458651112,19
+Autonomous University of Baja California,Economics,0.542725478508637,140
+Autonomous University of Baja California,Education,0.461546494229823,36
+Autonomous University of Baja California,Engineering,0.543684225170354,1475
+Autonomous University of Baja California,Finance,0.545315905493577,66
+Autonomous University of Baja California,Information Technology,0.62720100768948,34
+Autonomous University of Baja California,Law,0.501991475500582,306
+Autonomous University of Baja California,Marketing,0.518803119458315,574
+Autonomous University of Baja California,Mathematics,0.508049569027986,19
+Autonomous University of Baja California,Medicine,0.446057286837059,44
+Autonomous University of Baja California,Nursing,0.375025222728464,25
+Autonomous University of Baja California,Physics,0.523080495738062,40
+Autonomous University of Campeche,Accounting,0.550852201560956,30
+Autonomous University of Campeche,Business,0.569071786787149,14
+Autonomous University of Campeche,Engineering,0.646389212433846,16
+Autonomous University of Campeche,Law,0.502510560335445,18
+Autonomous University of Carmen,Accounting,0.543726437002965,13
+Autonomous University of Carmen,Business,0.554051478500195,80
+Autonomous University of Carmen,Engineering,0.48002732922428,116
+Autonomous University of Carmen,Marketing,0.508222371657412,20
+Autonomous University of Chapingo,Business,0.535186482963002,12
+Autonomous University of Chapingo,Economics,0.51537237142243,42
+Autonomous University of Chapingo,Engineering,0.510254421845594,31
+Autonomous University of Chapingo,Statistics,0.585132731289412,18
+Autonomous University of Chiapas,Accounting,0.544861059531184,54
+Autonomous University of Chiapas,Architecture,0.481582876778138,63
+Autonomous University of Chiapas,Business,0.511749875265322,111
+Autonomous University of Chiapas,Economics,0.524780924140681,10
+Autonomous University of Chiapas,Education,0.37930333395415,12
+Autonomous University of Chiapas,Engineering,0.523716053887812,81
+Autonomous University of Chiapas,Law,0.497311193157056,40
+Autonomous University of Ciudad Juárez,Accounting,0.569451914448192,98
+Autonomous University of Ciudad Juárez,Architecture,0.470944270420044,98
+Autonomous University of Ciudad Juárez,Biology,0.489687914409512,13
+Autonomous University of Ciudad Juárez,Business,0.529647899316259,381
+Autonomous University of Ciudad Juárez,Chemistry,0.456186207074435,68
+Autonomous University of Ciudad Juárez,Economics,0.516916688305496,53
+Autonomous University of Ciudad Juárez,Education,0.435533785042649,49
+Autonomous University of Ciudad Juárez,Engineering,0.544655624611639,862
+Autonomous University of Ciudad Juárez,Finance,0.530215027637734,28
+Autonomous University of Ciudad Juárez,Law,0.505595504859769,100
+Autonomous University of Ciudad Juárez,Marketing,0.494347499070623,28
+Autonomous University of Ciudad Juárez,Mathematics,0.38029563765434,10
+Autonomous University of Ciudad Juárez,Medicine,0.432610258752775,32
+Autonomous University of Ciudad Juárez,Nursing,0.423751449245502,21
+Autonomous University of Coahuila,Accounting,0.55865753654236,136
+Autonomous University of Coahuila,Architecture,0.482366903123017,81
+Autonomous University of Coahuila,Business,0.538762143280307,397
+Autonomous University of Coahuila,Chemistry,0.473482967348733,27
+Autonomous University of Coahuila,Economics,0.536826446636639,50
+Autonomous University of Coahuila,Education,0.424319718428017,10
+Autonomous University of Coahuila,Engineering,0.524717106220772,213
+Autonomous University of Coahuila,Finance,0.53571074549779,65
+Autonomous University of Coahuila,Law,0.499953862910994,145
+Autonomous University of Coahuila,Marketing,0.524684160333238,214
+Autonomous University of Coahuila,Mathematics,0.514828210585993,11
+Autonomous University of Coahuila,Medicine,0.443529093611343,15
+Autonomous University of Coahuila,Nursing,0.379294889981189,27
+Autonomous University of Durango,Architecture,0.493435592943656,65
+Autonomous University of Durango,Business,0.53108008724203,50
+Autonomous University of Durango,Engineering,0.559976171251396,12
+Autonomous University of Durango,Law,0.502754978404524,32
+Autonomous University of Durango,Marketing,0.518596240236297,52
+Autonomous University of Guadalajara,Accounting,0.557222986650738,29
+Autonomous University of Guadalajara,Architecture,0.48452081939487,79
+Autonomous University of Guadalajara,Business,0.522959168664094,198
+Autonomous University of Guadalajara,Economics,0.542533685948064,13
+Autonomous University of Guadalajara,Education,0.340247658270478,11
+Autonomous University of Guadalajara,Engineering,0.528677036851823,304
+Autonomous University of Guadalajara,Finance,0.552745695966073,13
+Autonomous University of Guadalajara,Law,0.498738143138838,54
+Autonomous University of Guadalajara,Marketing,0.496668396004532,103
+Autonomous University of Guadalajara,Medicine,0.438662392012368,60
+Autonomous University of La Laguna,Business,0.534350354768635,34
+Autonomous University of La Laguna,Marketing,0.463793315389066,14
+Autonomous University of Nuevo León,Accounting,0.562128633006301,382
+Autonomous University of Nuevo León,Architecture,0.481859162393345,580
+Autonomous University of Nuevo León,Biology,0.501944279467612,16
+Autonomous University of Nuevo León,Business,0.561163745064745,2411
+Autonomous University of Nuevo León,Chemistry,0.47516333500388,130
+Autonomous University of Nuevo León,Economics,0.547486485819791,154
+Autonomous University of Nuevo León,Education,0.48238108039199,112
+Autonomous University of Nuevo León,Engineering,0.543301892394401,2199
+Autonomous University of Nuevo León,Finance,0.56815912494697,144
+Autonomous University of Nuevo León,Information Technology,0.645433852951722,276
+Autonomous University of Nuevo León,Law,0.520025333717772,702
+Autonomous University of Nuevo León,Marketing,0.53169079309362,318
+Autonomous University of Nuevo León,Mathematics,0.483483821314853,49
+Autonomous University of Nuevo León,Medicine,0.463552806880322,126
+Autonomous University of Nuevo León,Nursing,0.388255880240478,60
+Autonomous University of Nuevo León,Physics,0.546258273226893,58
+Autonomous University of Querétaro,Accounting,0.559534306965878,108
+Autonomous University of Querétaro,Architecture,0.456683097562027,24
+Autonomous University of Querétaro,Business,0.550792156327634,315
+Autonomous University of Querétaro,Chemistry,0.556701969650349,17
+Autonomous University of Querétaro,Economics,0.528676855084717,31
+Autonomous University of Querétaro,Education,0.483497463606384,15
+Autonomous University of Querétaro,Engineering,0.552532992330146,266
+Autonomous University of Querétaro,Finance,0.57746190102545,30
+Autonomous University of Querétaro,Information Technology,0.638567367710048,10
+Autonomous University of Querétaro,Law,0.490791059024764,177
+Autonomous University of Querétaro,Marketing,0.578602501234028,17
+Autonomous University of Querétaro,Mathematics,0.529547355033814,11
+Autonomous University of Querétaro,Medicine,0.434215006407057,21
+Autonomous University of Querétaro,Nursing,0.323990178872995,14
+Autonomous University of Quintana Roo,Business,0.501228113825382,27
+Autonomous University of Quintana Roo,Law,0.492087023770677,24
+Autonomous University of Quintana Roo,Marketing,0.456362538662559,12
+Autonomous University of San Luis Potosí,Accounting,0.558489616125797,161
+Autonomous University of San Luis Potosí,Architecture,0.476795483876042,103
+Autonomous University of San Luis Potosí,Business,0.555962354847178,395
+Autonomous University of San Luis Potosí,Chemistry,0.485934035996114,48
+Autonomous University of San Luis Potosí,Economics,0.533605348996847,99
+Autonomous University of San Luis Potosí,Engineering,0.495724185750161,532
+Autonomous University of San Luis Potosí,Finance,0.575705182738694,49
+Autonomous University of San Luis Potosí,Law,0.490443367001368,168
+Autonomous University of San Luis Potosí,Marketing,0.516426648440431,82
+Autonomous University of San Luis Potosí,Medicine,0.454332734198936,16
+Autonomous University of San Luis Potosí,Nursing,0.398983548449144,46
+Autonomous University of San Luis Potosí,Physics,0.460269195380194,13
+Autonomous University of Sinaloa,Accounting,0.541040157312121,96
+Autonomous University of Sinaloa,Architecture,0.480473725734758,229
+Autonomous University of Sinaloa,Business,0.51898332507156,278
+Autonomous University of Sinaloa,Chemistry,0.422518867009912,19
+Autonomous University of Sinaloa,Economics,0.553732917993922,57
+Autonomous University of Sinaloa,Education,0.453697999718227,17
+Autonomous University of Sinaloa,Engineering,0.566734156662313,288
+Autonomous University of Sinaloa,Finance,0.551170659369996,33
+Autonomous University of Sinaloa,Information Technology,0.694005804720925,14
+Autonomous University of Sinaloa,Law,0.530633863056448,103
+Autonomous University of Sinaloa,Marketing,0.513682827273527,132
+Autonomous University of Sinaloa,Medicine,0.419146418804529,29
+Autonomous University of Sinaloa,Nursing,0.349647221902663,23
+Autonomous University of Sinaloa,Physics,0.526507456535845,12
+Autonomous University of Tamaulipas,Accounting,0.572338997617854,13
+Autonomous University of Tamaulipas,Architecture,0.465720699477762,15
+Autonomous University of Tamaulipas,Business,0.511413542332817,50
+Autonomous University of Tamaulipas,Engineering,0.52865474917494,47
+Autonomous University of Tamaulipas,Law,0.488138414071073,16
+Autonomous University of Tlaxcala,Accounting,0.58984409706389,21
+Autonomous University of Tlaxcala,Business,0.550509704656222,72
+Autonomous University of Tlaxcala,Engineering,0.537849453756261,19
+Autonomous University of Tlaxcala,Law,0.501262511493196,36
+Autonomous University of Yucatan,Accounting,0.527970164727427,85
+Autonomous University of Yucatan,Architecture,0.482367460833698,80
+Autonomous University of Yucatan,Biology,0.473750559695662,15
+Autonomous University of Yucatan,Business,0.532949778836122,108
+Autonomous University of Yucatan,Chemistry,0.506592900141316,25
+Autonomous University of Yucatan,Economics,0.579359915460021,50
+Autonomous University of Yucatan,Education,0.44628493628444,37
+Autonomous University of Yucatan,Engineering,0.6007577808327,210
+Autonomous University of Yucatan,Finance,0.539421952587219,26
+Autonomous University of Yucatan,Information Technology,0.673635671383482,23
+Autonomous University of Yucatan,Law,0.499030339954925,77
+Autonomous University of Yucatan,Marketing,0.509028047220644,111
+Autonomous University of Yucatan,Mathematics,0.522088914361224,19
+Autonomous University of Yucatan,Medicine,0.410812883599273,19
+Autonomous University of Yucatan,Nursing,0.392383151155862,16
+Autonomous University of the State of Hidalgo,Accounting,0.560025595001999,58
+Autonomous University of the State of Hidalgo,Architecture,0.473465624280265,58
+Autonomous University of the State of Hidalgo,Business,0.540950980303753,207
+Autonomous University of the State of Hidalgo,Chemistry,0.478193445096241,38
+Autonomous University of the State of Hidalgo,Economics,0.514995245238058,39
+Autonomous University of the State of Hidalgo,Education,0.429466263815093,19
+Autonomous University of the State of Hidalgo,Engineering,0.552887004620524,278
+Autonomous University of the State of Hidalgo,Finance,0.560228472007068,23
+Autonomous University of the State of Hidalgo,Law,0.473987480235743,103
+Autonomous University of the State of Hidalgo,Marketing,0.525262791851891,293
+Autonomous University of the State of Hidalgo,Mathematics,0.501394488868742,14
+Autonomous University of the State of Hidalgo,Medicine,0.516169814742155,18
+Autonomous University of the State of Hidalgo,Nursing,0.414288403319121,15
+Autonomous University of the State of Mexico,Accounting,0.564245684927077,205
+Autonomous University of the State of Mexico,Architecture,0.503159231972987,69
+Autonomous University of the State of Mexico,Business,0.542809852875984,580
+Autonomous University of the State of Mexico,Chemistry,0.462442622345545,60
+Autonomous University of the State of Mexico,Economics,0.534637163984525,136
+Autonomous University of the State of Mexico,Education,0.45451704061863,20
+Autonomous University of the State of Mexico,Engineering,0.54563694093929,317
+Autonomous University of the State of Mexico,Finance,0.543843096229921,61
+Autonomous University of the State of Mexico,Information Technology,0.60683859396959,20
+Autonomous University of the State of Mexico,Law,0.511975189444709,301
+Autonomous University of the State of Mexico,Marketing,0.52586370734343,175
+Autonomous University of the State of Mexico,Medicine,0.473954073382661,17
+Autonomous University of the State of Mexico,Nursing,0.371145809093294,37
+Autonomous University of the State of Mexico,Physics,0.482564576947863,19
+Autonomous University of the State of Morelos,Accounting,0.564206345759756,49
+Autonomous University of the State of Morelos,Architecture,0.489164936808599,63
+Autonomous University of the State of Morelos,Biology,0.495561623731223,27
+Autonomous University of the State of Morelos,Business,0.52856992500222,126
+Autonomous University of the State of Morelos,Chemistry,0.532256400624939,12
+Autonomous University of the State of Morelos,Economics,0.557257038305907,15
+Autonomous University of the State of Morelos,Education,0.383166694139595,10
+Autonomous University of the State of Morelos,Engineering,0.502046067312642,127
+Autonomous University of the State of Morelos,Finance,0.584424945001704,18
+Autonomous University of the State of Morelos,Law,0.48964509225042,63
+Autonomous University of the State of Morelos,Medicine,0.414114416218245,14
+Autonomous University of the West,Business,0.530786376683834,35
+Autonomous University of the West,Engineering,0.5254664547414,20
+Autonomous University of the West,Marketing,0.523517080856235,58
+Banking University of Mexico,Business,0.515618152803767,10
+Benemérita Autonomous University of Puebla,Accounting,0.573077135658937,131
+Benemérita Autonomous University of Puebla,Architecture,0.476096114697104,236
+Benemérita Autonomous University of Puebla,Biology,0.545180489000483,13
+Benemérita Autonomous University of Puebla,Business,0.530980769720831,511
+Benemérita Autonomous University of Puebla,Chemistry,0.487556302338315,56
+Benemérita Autonomous University of Puebla,Economics,0.571014129552319,97
+Benemérita Autonomous University of Puebla,Education,0.444010431197524,18
+Benemérita Autonomous University of Puebla,Engineering,0.524044714697114,718
+Benemérita Autonomous University of Puebla,Finance,0.557942709158018,61
+Benemérita Autonomous University of Puebla,Law,0.502586094623976,196
+Benemérita Autonomous University of Puebla,Marketing,0.539283585875069,55
+Benemérita Autonomous University of Puebla,Mathematics,0.509565478392381,20
+Benemérita Autonomous University of Puebla,Medicine,0.426508324886059,66
+Benemérita Autonomous University of Puebla,Physics,0.540875657671516,64
+Bicentennial Mexico State University,Accounting,0.535235458330866,18
+Bicentennial Mexico State University,Business,0.520449254750585,24
+Bicentennial Mexico State University,Engineering,0.527907408680657,15
+CEDIM México,Architecture,0.531806102658418,22
+CEDVA Group Educational Centre,Engineering,0.540359589896344,11
+CESSA University,Business,0.485506256967532,118
+CETYS University,Accounting,0.55954451758399,30
+CETYS University,Business,0.531854361512736,490
+CETYS University,Engineering,0.553983776288994,788
+CETYS University,Law,0.508912766041543,34
+CETYS University,Marketing,0.524635749836297,91
+CUDEC Multicultural University,Business,0.536404384865329,10
+CUDEC Multicultural University,Marketing,0.55835844966902,11
+Campeche Institute,Marketing,0.582503639216613,10
+Casa Blanca University,Marketing,0.468935174126004,11
+Central University of Querétaro,Marketing,0.471991454239343,10
+Centre for Advanced Studies in Education,Law,0.567661013144923,11
+Centre for Advanced Studies of the North West,Accounting,0.59946863403834,11
+Centre for Advanced Studies of the North West,Business,0.5347801767883,44
+Centre for Advanced Studies of the North West,Engineering,0.590197703330868,13
+"Centre for Design, Cinema and Television",Architecture,0.48627432400532,46
+"Centre for Design, Cinema and Television",Marketing,0.516899181222322,79
+Centre for Research and Teaching in Economics,Economics,0.560141319916988,117
+Centre for Research and Teaching in Economics,Law,0.501778359364984,52
+Centre for Studies in Communication Sciences,Business,0.556046802264666,17
+Centre for Studies in Communication Sciences,Marketing,0.506094649198148,103
+Centre for Technical Industrial Studies,Engineering,0.604265283481026,392
+Christopher Columbus University,Accounting,0.49566613637323,11
+Christopher Columbus University,Architecture,0.491846810382286,55
+Christopher Columbus University,Business,0.537572191242867,85
+Christopher Columbus University,Economics,0.54591000954419,33
+Christopher Columbus University,Engineering,0.530972656252313,48
+Christopher Columbus University,Law,0.507602883522004,57
+Christopher Columbus University,Marketing,0.532224199543849,30
+Colegio de Estudios Científicos y Tecnológicos del Estado de Guanajuato,Engineering,0.431432067751404,16
+College of Consultants in Public Image,Business,0.519017119795572,25
+ETAC University,Business,0.530729420236858,88
+ETAC University,Engineering,0.707263614862789,10
+ETAC University,Law,0.513447801664013,35
+ETAC University,Marketing,0.530899368466818,65
+Enrique Díaz de León University,Business,0.559873105596053,14
+Enrique Díaz de León University,Law,0.620683180953914,10
+"Escuela Superior de Comercio Exterior, A.C.",Business,0.477557604864808,10
+Euro Hispanic-American University,Business,0.555062154745553,15
+Euro Hispanic-American University,Law,0.501585219780384,10
+Facultad de Ingeniería de la UNAM,Business,0.554775787369688,14
+Facultad de Ingeniería de la UNAM,Engineering,0.563765918751744,416
+Faculty of Law of the National Bar of Lawyers,Law,0.465220641704857,104
+Fidel Velasquez Technological University,Business,0.568101508390007,14
+Francisco García Salinas Autonomous University of Zacatecas,Accounting,0.568526338396563,36
+Francisco García Salinas Autonomous University of Zacatecas,Business,0.509472582419208,14
+Francisco García Salinas Autonomous University of Zacatecas,Chemistry,0.455342139752916,13
+Francisco García Salinas Autonomous University of Zacatecas,Economics,0.548522204947325,26
+Francisco García Salinas Autonomous University of Zacatecas,Engineering,0.532552057009246,102
+Francisco García Salinas Autonomous University of Zacatecas,Finance,0.586122813607706,15
+Francisco García Salinas Autonomous University of Zacatecas,Law,0.509267925846247,49
+Francisco García Salinas Autonomous University of Zacatecas,Medicine,0.430756785641616,14
+Francisco García Salinas Autonomous University of Zacatecas,Nursing,0.344048573077,14
+Francisco García Salinas Autonomous University of Zacatecas,Physics,0.497140856727552,24
+Gestalt University of Design,Architecture,0.429850990823401,12
+Grupo Educativo Siglo XXI,Business,0.499116943424262,11
+Higher Teacher Training School of the State of South Baja California,Education,0.406153724364203,15
+Higher Technological Institute of Cajeme,Architecture,0.486266409621692,22
+Higher Technological Institute of Cajeme,Business,0.528183650206614,48
+Higher Technological Institute of Cajeme,Engineering,0.60018001285564,45
+Higher Technological Institute of Ciudad Acuña,Business,0.494130305483948,31
+Higher Technological Institute of Ciudad Acuña,Engineering,0.500701730634684,95
+Higher Technological Institute of Coatzacoalcos,Engineering,0.464907087320203,52
+Higher Technological Institute of Comalcalco,Engineering,0.514595916625703,11
+Higher Technological Institute of Fresnillo,Engineering,0.568950685638183,10
+Higher Technological Institute of Irapuato,Engineering,0.490323879685927,60
+Higher Technological Institute of Lerdo,Engineering,0.532764601350339,20
+Higher Technological Institute of Misantla,Engineering,0.435960986422914,36
+Higher Technological Institute of Monclova,Engineering,0.479589359783548,29
+Higher Technological Institute of Poza Rica,Engineering,0.476363860877148,56
+Higher Technological Institute of Teziutlán,Engineering,0.610170756562383,13
+Higher Technological Institute of Tierra Blanca,Engineering,0.497918566129169,16
+Higher Technological Institute of Zapopan,Engineering,0.638622059812211,28
+Higher Technological Institute of the West of the State of Hidalgo,Engineering,0.496867179636698,12
+ICEL University,Architecture,0.482143066297113,16
+ICEL University,Business,0.545144570066209,78
+ICEL University,Engineering,0.588167350126538,35
+ICEL University,Law,0.524165061966151,32
+ICEL University,Marketing,0.501230356471159,13
+IEST Anáhuac,Architecture,0.5020579824513,15
+IEST Anáhuac,Business,0.534054288955809,90
+IEST Anáhuac,Engineering,0.487978492666938,91
+IEST Anáhuac,Finance,0.542895140456771,30
+IEST Anáhuac,Law,0.496222793082648,18
+IEST Anáhuac,Marketing,0.540804414367442,36
+IEU University,Business,0.52597052996468,74
+IEU University,Engineering,0.512954355405459,16
+IEU University,Finance,0.534758086154118,10
+IEU University,Law,0.498476960346411,13
+IEU University,Marketing,0.516218965679534,59
+IPADE Business School,Business,0.463307989628997,21
+ISEC University of Business Studies,Accounting,0.495450436461222,10
+ISEC University of Business Studies,Business,0.540492489691934,140
+ISEC University of Business Studies,Law,0.475413338588144,18
+ISEC University of Business Studies,Marketing,0.529020186709688,79
+ITNL - Instituto Tecnológico de Nuevo León,Business,0.537072397069344,36
+ITNL - Instituto Tecnológico de Nuevo León,Engineering,0.533909256416354,111
+"Ibero-American University, Mexico City",Accounting,0.563958046708131,23
+"Ibero-American University, Mexico City",Architecture,0.489416031010832,549
+"Ibero-American University, Mexico City",Business,0.516526648637728,957
+"Ibero-American University, Mexico City",Economics,0.527012508025218,135
+"Ibero-American University, Mexico City",Education,0.417417714836817,11
+"Ibero-American University, Mexico City",Engineering,0.527343473881829,1038
+"Ibero-American University, Mexico City",Finance,0.519115637935935,89
+"Ibero-American University, Mexico City",Law,0.482064634434166,483
+"Ibero-American University, Mexico City",Marketing,0.517890797658447,471
+Incarnate Word University Centre,Business,0.519927428943858,52
+Incarnate Word University Centre,Law,0.471171973816811,21
+Incarnate Word University Centre,Marketing,0.519573292167728,30
+Institute of Advanced Studies of the East,Business,0.538941253762067,11
+Institute of Architecture and Design,Architecture,0.511219279093315,26
+Institute of Higher Studies of Chiapas,Engineering,0.471597866132197,11
+Institute of Higher Studies of Chiapas,Law,0.523013280902352,11
+Institute of Marketing and Advertising,Marketing,0.524552664578453,41
+Institute of Science and Higher Studies of Tamaulipas,Business,0.504440153318258,47
+Institute of Science and Higher Studies of Tamaulipas,Engineering,0.488596192240032,40
+Institute of Science and Higher Studies of Tamaulipas,Nursing,0.373155342351939,52
+Instituto Tecnologico de Orizaba,Engineering,0.494927693058012,38
+Instituto Tecnológico Superior de Xalapa,Engineering,0.533964266293162,68
+Instituto Tecnológico de Aguascalientes,Business,0.527970339112445,48
+Instituto Tecnológico de Aguascalientes,Engineering,0.489745753850355,229
+Instituto Tecnológico de Aguascalientes,Information Technology,0.677619384201794,12
+Instituto Tecnológico de Celaya,Business,0.541643728946505,93
+Instituto Tecnológico de Celaya,Engineering,0.517067043808735,373
+Instituto Tecnológico de Chihuahua,Business,0.543066627202522,90
+Instituto Tecnológico de Chihuahua,Engineering,0.51768665186262,380
+Instituto Tecnológico de Chihuahua,Marketing,0.477903374753274,27
+Instituto Tecnológico de Morelia,Business,0.534277509335751,115
+Instituto Tecnológico de Morelia,Engineering,0.526072154406807,292
+Instituto Tecnológico de Morelia,Marketing,0.516626140476488,11
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Accounting,0.559875085644374,45
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Architecture,0.490381736674878,1458
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Business,0.523673359011062,6625
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Chemistry,0.533343310887608,44
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Economics,0.533548687719296,503
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Education,0.458171277599601,13
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Engineering,0.544972035399297,9409
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Finance,0.526710724948288,1311
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Information Technology,0.629535983539617,118
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Law,0.486046452009245,663
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Marketing,0.511604917302804,2879
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Medicine,0.464447740414594,34
+Instituto Tecnológico y de Estudios Superiores de Monterrey,Physics,0.566800657486023,16
+Insurgentes University,Accounting,0.545902494720317,81
+Insurgentes University,Architecture,0.487912637803911,51
+Insurgentes University,Business,0.533546384033427,201
+Insurgentes University,Engineering,0.594713616132908,24
+Insurgentes University,Finance,0.563114813824193,17
+Insurgentes University,Information Technology,0.603970900583016,13
+Insurgentes University,Law,0.501611649891562,89
+Insurgentes University,Marketing,0.525398035162486,110
+"Inter-American University for Development, Tlalnepantla",Business,0.524132148192688,772
+"Inter-American University for Development, Tlalnepantla",Education,0.392670268802096,17
+"Inter-American University for Development, Tlalnepantla",Engineering,0.625395716691873,82
+"Inter-American University for Development, Tlalnepantla",Finance,0.554715832839197,78
+"Inter-American University for Development, Tlalnepantla",Information Technology,0.640990955794791,22
+"Inter-American University for Development, Tlalnepantla",Law,0.495503898017339,213
+"Inter-American University for Development, Tlalnepantla",Marketing,0.506500641788718,667
+Interamerican University of the North and of Technology of the Sierra Madre,Accounting,0.522241663610443,10
+Interamerican University of the North and of Technology of the Sierra Madre,Business,0.531554319271926,71
+Interamerican University of the North and of Technology of the Sierra Madre,Engineering,0.495871740725854,55
+Intercultural University of Veracruz,Accounting,0.553947275618586,313
+Intercultural University of Veracruz,Architecture,0.479939373433469,178
+Intercultural University of Veracruz,Biology,0.520993376026941,25
+Intercultural University of Veracruz,Business,0.533224433402535,608
+Intercultural University of Veracruz,Chemistry,0.457074840308588,45
+Intercultural University of Veracruz,Economics,0.550701023530402,89
+Intercultural University of Veracruz,Education,0.400865930474849,32
+Intercultural University of Veracruz,Engineering,0.500224494216128,739
+Intercultural University of Veracruz,Finance,0.548638091980351,68
+Intercultural University of Veracruz,Information Technology,0.71965045804689,17
+Intercultural University of Veracruz,Law,0.503046664496584,273
+Intercultural University of Veracruz,Marketing,0.50108883839357,11
+Intercultural University of Veracruz,Mathematics,0.4713815798211,17
+Intercultural University of Veracruz,Medicine,0.378164717958359,40
+Intercultural University of Veracruz,Nursing,0.394021521145404,45
+Intercultural University of Veracruz,Physics,0.498099218877135,27
+Intercultural University of Veracruz,Statistics,0.59073442470951,10
+"International Institute of Higher Studies, Tamaulipas",Accounting,0.513805749069494,11
+"International Institute of Higher Studies, Tamaulipas",Business,0.537612639103049,33
+"International Institute of Higher Studies, Tamaulipas",Engineering,0.498019494790779,35
+"International Institute of Higher Studies, Tamaulipas",Marketing,0.527318152667124,21
+International University,Architecture,0.471890568024945,13
+International University,Business,0.548646534040623,52
+International University,Engineering,0.60091809637198,14
+International University,Marketing,0.521557372695581,47
+Itaca University,Accounting,0.587125867620697,15
+Itaca University,Business,0.523689539521429,50
+Itaca University,Engineering,0.507607507106474,15
+Itaca University,Law,0.464452847023798,21
+Itaca University,Marketing,0.520515481848724,52
+José Vasconcelos University of Oaxaca,Business,0.547526231268779,10
+Juarez Autonomous University of Tabasco,Accounting,0.550820541676559,65
+Juarez Autonomous University of Tabasco,Architecture,0.486905727284086,24
+Juarez Autonomous University of Tabasco,Business,0.523343653045939,124
+Juarez Autonomous University of Tabasco,Economics,0.564324905211854,27
+Juarez Autonomous University of Tabasco,Education,0.459297701905026,18
+Juarez Autonomous University of Tabasco,Engineering,0.485220725108373,129
+Juarez Autonomous University of Tabasco,Finance,0.575260368027481,15
+Juarez Autonomous University of Tabasco,Information Technology,0.53216903415116,11
+Juarez Autonomous University of Tabasco,Law,0.528660612162984,71
+Juarez Autonomous University of Tabasco,Marketing,0.487999136884346,79
+Juarez Autonomous University of Tabasco,Mathematics,0.44217622174943,11
+Juarez Autonomous University of Tabasco,Medicine,0.387901195398426,15
+Juarez Autonomous University of Tabasco,Nursing,0.380790005108,21
+Justo Sierra University,Business,0.521706053122534,15
+Justo Sierra University,Law,0.506843770982213,16
+Justo Sierra University,Marketing,0.500920707393612,19
+Juárez University of the State of Durango,Accounting,0.488979739187057,26
+Juárez University of the State of Durango,Architecture,0.47399909035474,28
+Juárez University of the State of Durango,Business,0.531995938960282,39
+Juárez University of the State of Durango,Chemistry,0.438517055162396,10
+Juárez University of the State of Durango,Economics,0.514621494344722,15
+Juárez University of the State of Durango,Engineering,0.509500002641956,19
+Juárez University of the State of Durango,Finance,0.566752361648614,10
+Juárez University of the State of Durango,Law,0.520390414643936,37
+Juárez University of the State of Durango,Medicine,0.450892422627003,10
+Kino University,Business,0.503680327615854,21
+Kino University,Engineering,0.572708765976319,12
+La Concordia University,Business,0.514442575843903,27
+La Concordia University,Law,0.451405925843717,19
+La Concordia University,Marketing,0.532333040319999,29
+La Salle University,Accounting,0.587977911976062,25
+La Salle University,Architecture,0.468383086639569,53
+La Salle University,Business,0.53008424329946,162
+La Salle University,Engineering,0.522614257653462,67
+La Salle University,Finance,0.527200582510607,10
+La Salle University,Law,0.468201357903194,42
+La Salle University,Marketing,0.520124456121054,139
+Lamar Guadalajara University,Business,0.550436186593704,33
+Lamar Guadalajara University,Engineering,0.703519435937747,16
+Lamar Guadalajara University,Marketing,0.501535592623396,16
+Latin America University,Business,0.549404041244063,30
+Latin America University,Marketing,0.519225975252953,15
+Latin American University,Accounting,0.571636541218986,32
+Latin American University,Architecture,0.486587067737573,24
+Latin American University,Business,0.531360878007742,398
+Latin American University,Engineering,0.506668044307324,28
+Latin American University,Finance,0.536715456517054,14
+Latin American University,Law,0.496178374197792,102
+Latin American University,Marketing,0.523891986352282,270
+Latin University,Business,0.537801028879416,76
+Latin University,Law,0.496667627288555,41
+Latin University,Marketing,0.525545613691349,123
+Latin University of America,Business,0.500797661564236,48
+Latin University of America,Engineering,0.541522743153059,10
+Latin University of America,Law,0.483488028191209,38
+Latin University of America,Marketing,0.518983030216754,30
+Leonardo Bravo Institute,Business,0.524047970965331,30
+Leonardo Bravo Institute,Law,0.508441234313394,10
+Londres University,Accounting,0.570470849749527,18
+Londres University,Business,0.539469607199872,88
+Londres University,Engineering,0.630630465744909,16
+Londres University,Information Technology,0.666957860291322,23
+Londres University,Law,0.489567441044291,46
+Londres University,Marketing,0.544854546758212,85
+Loyola University of the Pacific,Business,0.567545586531817,11
+Loyola University of the Pacific,Marketing,0.476384721872199,16
+Lucerna University,Business,0.569004742598903,49
+Lucerna University,Law,0.485060646175623,15
+Lucerna University,Marketing,0.53774854967674,45
+Madero University,Business,0.519434903553594,55
+Madero University,Engineering,0.594575757052485,21
+Madero University,Law,0.496992671202346,16
+Madero University,Marketing,0.53386813494748,59
+Marist University,Business,0.540290101872854,12
+Marist University,Engineering,0.536492425403077,19
+Marist University,Law,0.459288683926808,14
+Meso-American University of San Agustín,Business,0.506351294284808,19
+Meso-American University of San Agustín,Marketing,0.513025699486377,18
+Metropolitan University of Monterrey,Accounting,0.521139143807113,27
+Metropolitan University of Monterrey,Architecture,0.476308505980859,76
+Metropolitan University of Monterrey,Business,0.537152850130687,292
+Metropolitan University of Monterrey,Education,0.464810112896328,28
+Metropolitan University of Monterrey,Engineering,0.605561388940402,56
+Metropolitan University of Monterrey,Finance,0.554736155957954,27
+Metropolitan University of Monterrey,Law,0.523251082504367,49
+Metropolitan University of Monterrey,Marketing,0.531372317249895,113
+Metropolitan University of Monterrey,Nursing,0.312492207293161,12
+Mexican University,Accounting,0.542121644527956,85
+Mexican University,Business,0.530483006539405,361
+Mexican University,Education,0.398914622409001,19
+Mexican University,Engineering,0.610350692295983,102
+Mexican University,Finance,0.557223988105482,27
+Mexican University,Law,0.493139917227516,125
+Mexican University,Marketing,0.518478474148261,244
+Mexico-American University of the North,Business,0.526988590216414,25
+Mexico-American University of the North,Engineering,0.475027294532865,22
+Michoacan University of Saint Nicholas of Hidalgo,Accounting,0.565445238356697,82
+Michoacan University of Saint Nicholas of Hidalgo,Architecture,0.487583850595503,112
+Michoacan University of Saint Nicholas of Hidalgo,Business,0.525494872565176,79
+Michoacan University of Saint Nicholas of Hidalgo,Chemistry,0.424232547744551,23
+Michoacan University of Saint Nicholas of Hidalgo,Economics,0.544738921411058,59
+Michoacan University of Saint Nicholas of Hidalgo,Engineering,0.50346888966905,172
+Michoacan University of Saint Nicholas of Hidalgo,Finance,0.553804711861608,19
+Michoacan University of Saint Nicholas of Hidalgo,Law,0.51273482706722,95
+Michoacan University of Saint Nicholas of Hidalgo,Marketing,0.523352175300451,16
+Michoacan University of Saint Nicholas of Hidalgo,Mathematics,0.571175398808926,15
+Michoacan University of Saint Nicholas of Hidalgo,Medicine,0.467436543124236,16
+Modelo University,Architecture,0.468832849537083,11
+Modelo University,Business,0.514371087822057,26
+Modelo University,Engineering,0.492373108088796,23
+Modelo University,Law,0.507475697570861,18
+Motolinía University of the Pedegral,Business,0.53462625680583,10
+National Autonomous University of Mexico,Accounting,0.558304361544064,685
+National Autonomous University of Mexico,Architecture,0.492484419399681,966
+National Autonomous University of Mexico,Biology,0.509214633094435,232
+National Autonomous University of Mexico,Business,0.542803691430017,2403
+National Autonomous University of Mexico,Chemistry,0.503516147082712,462
+National Autonomous University of Mexico,Economics,0.54503318294024,1272
+National Autonomous University of Mexico,Education,0.482789072387449,101
+National Autonomous University of Mexico,Engineering,0.551988513337701,2120
+National Autonomous University of Mexico,Finance,0.54996103516924,448
+National Autonomous University of Mexico,Information Technology,0.612847413593979,76
+National Autonomous University of Mexico,Law,0.490921316772925,2051
+National Autonomous University of Mexico,Marketing,0.528280531398273,151
+National Autonomous University of Mexico,Mathematics,0.589308324673987,321
+National Autonomous University of Mexico,Medicine,0.446911943283763,225
+National Autonomous University of Mexico,Nursing,0.36503174446129,107
+National Autonomous University of Mexico,Physics,0.55564623869319,262
+National Autonomous University of Mexico,Statistics,0.585556348731591,35
+National Polytechnic Institute,Accounting,0.554181612724981,475
+National Polytechnic Institute,Architecture,0.505120840510177,53
+National Polytechnic Institute,Biology,0.448653084224012,13
+National Polytechnic Institute,Business,0.546098451924999,1455
+National Polytechnic Institute,Chemistry,0.503928923071162,38
+National Polytechnic Institute,Economics,0.553976109299407,575
+National Polytechnic Institute,Engineering,0.553377132563172,3476
+National Polytechnic Institute,Finance,0.543701289026001,173
+National Polytechnic Institute,Information Technology,0.646181354943899,43
+National Polytechnic Institute,Law,0.562775365766783,11
+National Polytechnic Institute,Marketing,0.521094559873585,354
+National Polytechnic Institute,Mathematics,0.582640884859044,71
+National Polytechnic Institute,Medicine,0.430841181104799,65
+National Polytechnic Institute,Nursing,0.411147126799959,22
+National Polytechnic Institute,Physics,0.524463107992823,37
+National Technological Institute of Mexico,Accounting,0.537342391568227,12
+National Technological Institute of Mexico,Architecture,0.480796304479002,25
+National Technological Institute of Mexico,Business,0.54976040919464,56
+National Technological Institute of Mexico,Engineering,0.52964197937818,319
+National University of Education Sciences,Education,0.422421041796042,68
+Olmec University,Business,0.541760641868159,12
+Olmec University,Engineering,0.488522820032545,72
+Online Latin American Technological University,Business,0.599419677176742,13
+Panamerican University,Accounting,0.536217911385068,128
+Panamerican University,Business,0.513543362774479,1051
+Panamerican University,Economics,0.527004698114733,99
+Panamerican University,Education,0.448851489954855,32
+Panamerican University,Engineering,0.544651086042541,737
+Panamerican University,Finance,0.518943935526315,170
+Panamerican University,Law,0.486228554748112,611
+Panamerican University,Marketing,0.515780590138644,207
+Panamerican University,Medicine,0.469744293595363,25
+Panamerican University,Nursing,0.396001562475127,14
+People's Autonomous University of the State of Puebla,Accounting,0.531120002317513,13
+People's Autonomous University of the State of Puebla,Architecture,0.497564892330358,40
+People's Autonomous University of the State of Puebla,Business,0.511240459347817,164
+People's Autonomous University of the State of Puebla,Economics,0.552682459752356,27
+People's Autonomous University of the State of Puebla,Engineering,0.551712299191472,196
+People's Autonomous University of the State of Puebla,Law,0.475193005742456,51
+People's Autonomous University of the State of Puebla,Marketing,0.524667024497223,119
+People's Autonomous University of the State of Puebla,Medicine,0.455550902859038,52
+People's Autonomous University of the State of Puebla,Nursing,0.352454040173537,13
+Polytechnic University of Aguascalientes,Business,0.530337623729816,103
+Polytechnic University of Aguascalientes,Engineering,0.542423071960127,213
+Polytechnic University of Altamira,Engineering,0.485848752889751,18
+Polytechnic University of Baja California,Business,0.562978326284885,12
+Polytechnic University of Baja California,Engineering,0.490277512148089,48
+Polytechnic University of Chiapas,Engineering,0.552710864328346,71
+Polytechnic University of Chihuahua,Engineering,0.517407796971582,59
+Polytechnic University of Durango,Business,0.540785817562703,16
+Polytechnic University of Durango,Engineering,0.593044000898564,22
+Polytechnic University of Guanajuato,Business,0.532904978359547,29
+Polytechnic University of Guanajuato,Engineering,0.613300187295893,14
+Polytechnic University of Gómez Palacio,Business,0.534405479709802,20
+Polytechnic University of Pachuca,Engineering,0.59154084057414,34
+Polytechnic University of Penjamo,Business,0.582146397924457,14
+Polytechnic University of Puebla,Engineering,0.535290400155265,41
+Polytechnic University of Querétaro,Business,0.552657025811035,172
+Polytechnic University of Querétaro,Engineering,0.609035106161727,63
+Polytechnic University of San Luis Potosí,Business,0.57521465556413,180
+Polytechnic University of San Luis Potosí,Engineering,0.573213158366874,194
+Polytechnic University of San Luis Potosí,Information Technology,0.705394526750912,20
+Polytechnic University of San Luis Potosí,Marketing,0.53594389010453,178
+Polytechnic University of Sinaloa,Engineering,0.627235992236045,125
+Polytechnic University of Tecamac,Business,0.523039168001214,23
+Polytechnic University of Tlaxcala,Engineering,0.532886930534303,75
+Polytechnic University of Tulancingo,Business,0.511170864685788,79
+Polytechnic University of Tulancingo,Engineering,0.583371021763617,33
+Polytechnic University of Victoria,Business,0.566545866993548,39
+Polytechnic University of Victoria,Engineering,0.589465825315668,38
+Polytechnic University of Zacatecas,Business,0.529098184403125,34
+Polytechnic University of Zacatecas,Engineering,0.494393448285285,30
+Polytechnic University of the Centre,Engineering,0.514962262835938,10
+Polytechnic University of the Gulf of Mexico,Engineering,0.45335302335945,30
+Polytechnic University of the Metropolitan Zone of Guadalajara,Engineering,0.427725398939412,15
+Polytechnic University of the South of Zacatecas,Business,0.549215926757559,11
+Polytechnic University of the State of Morelos,Business,0.54852402315156,82
+Polytechnic University of the State of Morelos,Engineering,0.542536989357675,80
+Polytechnic University of the Valley of Mexico,Business,0.544650152979019,75
+Polytechnic University of the Valley of Mexico,Engineering,0.535961077029177,61
+Polytechnic University of the Valley of Toluca,Business,0.53611558631602,59
+Polytechnic University of the Valley of Toluca,Engineering,0.550146480593725,46
+Popular University of Chontalpa,Engineering,0.453616421789327,14
+Posgrado ESCA Tepepan,Business,0.513571853962475,11
+Private Faculty of Law of Monterrey,Law,0.479648770790019,62
+Private Law School,Law,0.471042900399678,58
+Private Law School of Puebla,Law,0.496337275391832,55
+Private Law School of Sinaloa,Law,0.502945364623304,19
+Private University of the State of Mexico,Accounting,0.612444200973966,13
+Private University of the State of Mexico,Business,0.555715435764682,42
+Private University of the State of Mexico,Engineering,0.615048918630884,12
+Private University of the State of Mexico,Law,0.515585355491628,24
+Private University of the State of Mexico,Marketing,0.476406586308761,18
+Regional University of the North,Business,0.487306784085065,57
+Regional University of the North,Engineering,0.475399207311468,24
+Regional University of the North,Law,0.499153523605351,15
+Roberto Cañedo Martínez School of Tourism,Engineering,0.457867230826695,12
+SAE Institute México,Engineering,0.520089546963271,26
+San Carlos University,Business,0.529435161210313,11
+San Miguel University,Business,0.503219566626855,19
+School of Banking and Commerce,Accounting,0.55737421071449,349
+School of Banking and Commerce,Business,0.534144627010127,1013
+School of Banking and Commerce,Economics,0.547594070601646,59
+School of Banking and Commerce,Finance,0.541158512686342,286
+School of Banking and Commerce,Law,0.515806386820853,28
+School of Banking and Commerce,Marketing,0.525600121116438,788
+School of Commerce of the Chamber of Commerce,Business,0.548903512000462,16
+School of Commerce of the Chamber of Commerce,Marketing,0.493334244336666,11
+Simón Bolívar University,Business,0.564872001032028,25
+Simón Bolívar University,Engineering,0.518339849726633,19
+Simón Bolívar University,Marketing,0.535770981405428,32
+State University of the Valley of Ecatepec,Business,0.557376301988481,25
+TecMilenio University,Business,0.509054342894531,20
+TecMilenio University,Engineering,0.426092320996413,10
+Technological Building Institute,Architecture,0.491336127390843,10
+Technological Institute of Acapulco,Business,0.525986428810845,16
+Technological Institute of Acapulco,Engineering,0.610542752489216,13
+Technological Institute of Advanced Studies of Coacalco,Business,0.526995672032212,16
+Technological Institute of Advanced Studies of Coacalco,Engineering,0.526208845889182,19
+Technological Institute of Advanced Studies of Cuautitlán Izcalli,Engineering,0.62506836937116,15
+Technological Institute of Advanced Studies of Ecatepec,Accounting,0.554187993665871,39
+Technological Institute of Advanced Studies of Ecatepec,Business,0.54987830087445,45
+Technological Institute of Advanced Studies of Ecatepec,Engineering,0.571100618077562,145
+Technological Institute of Advanced Studies of Ecatepec,Finance,0.604064094752374,20
+Technological Institute of Advanced Studies of Zamora,Engineering,0.583027399627402,27
+Technological Institute of Apizaco,Engineering,0.516790373730049,25
+Technological Institute of Cancún,Business,0.574017665668102,16
+Technological Institute of Cerro Azul,Engineering,0.461661485543283,19
+Technological Institute of Chetumal,Engineering,0.543871191947902,10
+Technological Institute of Chihuahua II,Architecture,0.482691998633554,90
+Technological Institute of Chihuahua II,Business,0.525775101284413,46
+Technological Institute of Chihuahua II,Engineering,0.598221688676384,82
+Technological Institute of Ciudad Guzman,Engineering,0.616962690612925,39
+Technological Institute of Ciudad Juárez,Accounting,0.537989051284114,19
+Technological Institute of Ciudad Juárez,Business,0.550687924998309,103
+Technological Institute of Ciudad Juárez,Engineering,0.541429103831872,447
+Technological Institute of Ciudad Juárez,Finance,0.525779206781109,11
+Technological Institute of Ciudad Madero,Engineering,0.489099899470559,13
+Technological Institute of Ciudad Valles,Engineering,0.578683342123881,10
+Technological Institute of Ciudad Victoria,Engineering,0.502930386094998,19
+Technological Institute of Colima,Architecture,0.464922630456884,10
+Technological Institute of Colima,Engineering,0.595710158927761,38
+Technological Institute of Cuautla,Engineering,0.454137261447019,15
+Technological Institute of Culiacán,Engineering,0.577078814070403,142
+Technological Institute of Durango,Architecture,0.468293350628106,49
+Technological Institute of Durango,Business,0.521085252282401,51
+Technological Institute of Durango,Engineering,0.518127902047259,189
+Technological Institute of Hermosillo,Business,0.507161049974506,15
+Technological Institute of Hermosillo,Engineering,0.504499809421022,265
+Technological Institute of La Laguna,Business,0.49634111432393,48
+Technological Institute of La Laguna,Engineering,0.521880638256498,397
+Technological Institute of La Paz,Architecture,0.471666994743522,25
+Technological Institute of La Paz,Business,0.517174328631601,20
+Technological Institute of La Paz,Engineering,0.555202183453004,46
+Technological Institute of La Piedad,Engineering,0.606770755921422,17
+Technological Institute of León,Business,0.535262446047919,14
+Technological Institute of León,Engineering,0.563298473252972,61
+Technological Institute of Los Mochis,Architecture,0.497092466608725,16
+Technological Institute of Los Mochis,Business,0.509276955230607,10
+Technological Institute of Los Mochis,Engineering,0.496381409818061,81
+Technological Institute of Lázaro Cárdenas,Engineering,0.513936687704358,15
+Technological Institute of Matamoros,Accounting,0.618370244852097,11
+Technological Institute of Matamoros,Business,0.498285033987068,25
+Technological Institute of Matamoros,Engineering,0.487343211866937,98
+Technological Institute of Mazatlán,Engineering,0.534239596180215,15
+Technological Institute of Mexicali,Engineering,0.525197113623848,91
+Technological Institute of Minatitlán,Business,0.544113618218821,23
+Technological Institute of Minatitlán,Engineering,0.445893133375859,112
+Technological Institute of Nogales,Engineering,0.542811513015467,43
+Technological Institute of Nuevo Laredo,Engineering,0.56029638492682,42
+Technological Institute of Oaxaca,Business,0.511349201373817,29
+Technological Institute of Oaxaca,Engineering,0.492475434264163,114
+Technological Institute of Orizaba,Engineering,0.504365902276124,92
+Technological Institute of Pachuca,Architecture,0.485024743563243,39
+Technological Institute of Pachuca,Business,0.54539053851836,22
+Technological Institute of Pachuca,Engineering,0.524339363756717,119
+Technological Institute of Parral,Engineering,0.482520757756928,16
+Technological Institute of Piedras Negras,Engineering,0.571167099917174,12
+Technological Institute of Puebla,Business,0.574420146528567,36
+Technological Institute of Puebla,Engineering,0.515754828473126,180
+Technological Institute of Querétaro,Architecture,0.479130994443437,53
+Technological Institute of Querétaro,Business,0.550420571188369,56
+Technological Institute of Querétaro,Engineering,0.536138911118059,344
+Technological Institute of Reynosa,Business,0.513392205621104,24
+Technological Institute of Reynosa,Engineering,0.480567006813699,46
+Technological Institute of Saltillo,Business,0.545057529756037,58
+Technological Institute of Saltillo,Engineering,0.518503339328178,280
+Technological Institute of San Juan del Río,Engineering,0.503593473586131,14
+Technological Institute of San Luis Potosí,Business,0.533662329602952,32
+Technological Institute of San Luis Potosí,Engineering,0.501300074401726,95
+Technological Institute of Sonora,Accounting,0.544694281385862,62
+Technological Institute of Sonora,Business,0.524379411622781,159
+Technological Institute of Sonora,Education,0.434661843646545,14
+Technological Institute of Sonora,Engineering,0.525475252484202,418
+Technological Institute of Sonora,Finance,0.54960088014518,30
+Technological Institute of Tapachula,Engineering,0.521719377572001,14
+Technological Institute of Tehuácan,Engineering,0.511653988288376,13
+Technological Institute of Tepic,Architecture,0.468849724301426,23
+Technological Institute of Tepic,Business,0.506957147761367,15
+Technological Institute of Tepic,Engineering,0.554415667906915,85
+Technological Institute of Tlalnepantla,Business,0.538602459723406,24
+Technological Institute of Tlalnepantla,Engineering,0.585453425548737,33
+Technological Institute of Toluca,Business,0.54449701629307,56
+Technological Institute of Toluca,Engineering,0.52501471521685,316
+Technological Institute of Tuxtepec,Engineering,0.482100461569868,10
+Technological Institute of Tuxtla Gutierrez,Engineering,0.497277670133715,60
+Technological Institute of Veracruz,Business,0.523689977914923,31
+Technological Institute of Veracruz,Engineering,0.483661460111107,193
+Technological Institute of Villahermosa,Engineering,0.440681472092976,63
+Technological Institute of Zacatecas,Architecture,0.495263762117388,33
+Technological Institute of Zacatecas,Business,0.565094861816376,14
+Technological Institute of Zacatecas,Engineering,0.55157564391236,20
+Technological Institute of Zacatepec,Engineering,0.530634152069718,67
+Technological Institute of Zitácuaro,Engineering,0.587423146762309,12
+Technological Institute of the Isthmus,Engineering,0.469390983174599,16
+Technological University of Aguascalientes,Business,0.536456366477307,20
+Technological University of Aguascalientes,Engineering,0.593423276003231,15
+Technological University of Altamira,Business,0.516904509918175,10
+Technological University of Altamira,Engineering,0.520777348890383,19
+Technological University of Campeche,Engineering,0.415527640721116,10
+Technological University of Cancun,Business,0.533277491700563,26
+Technological University of Centro de Veracruz,Business,0.529065628987624,16
+Technological University of Chihuahua,Business,0.565182192225757,31
+Technological University of Chihuahua,Engineering,0.526748662046554,90
+Technological University of Chihuahua,Information Technology,0.628974572490672,10
+Technological University of Ciudad Juarez,Business,0.496470745369186,16
+Technological University of Ciudad Juarez,Engineering,0.554854427824422,53
+Technological University of Ciudad Juarez,Information Technology,0.564429284735972,10
+Technological University of Coahuila,Engineering,0.561978809886719,10
+Technological University of Huejotzingo,Business,0.602510085120643,11
+Technological University of Huejotzingo,Engineering,0.524646565991256,12
+Technological University of Jalisco,Business,0.565607651039552,25
+Technological University of Jalisco,Engineering,0.543342702600207,58
+Technological University of Jalisco,Information Technology,0.693488359988139,11
+Technological University of Leon,Business,0.521308156228239,52
+Technological University of Leon,Engineering,0.556590445362851,45
+Technological University of Leon,Information Technology,0.688098954148891,22
+Technological University of Leon,Marketing,0.54595092193371,19
+Technological University of Matamoros,Engineering,0.414966684910281,10
+Technological University of Mexico,Accounting,0.555839140072753,195
+Technological University of Mexico,Architecture,0.490358684977092,245
+Technological University of Mexico,Business,0.536589188640252,1437
+Technological University of Mexico,Economics,0.531892844381413,76
+Technological University of Mexico,Education,0.378470624393009,19
+Technological University of Mexico,Engineering,0.564705273021655,827
+Technological University of Mexico,Finance,0.561197784417186,147
+Technological University of Mexico,Information Technology,0.628589601157393,99
+Technological University of Mexico,Law,0.501534899170939,486
+Technological University of Mexico,Marketing,0.523285893375746,1211
+Technological University of Mexico,Nursing,0.364104951536213,53
+Technological University of Nayarit,Business,0.457897964916833,11
+Technological University of Nezahualcóyotl,Business,0.572036311284896,28
+Technological University of North Tamaulipas,Business,0.557713466069951,18
+Technological University of North Tamaulipas,Engineering,0.440208749170596,40
+Technological University of Puebla,Business,0.536469009000813,14
+Technological University of Puebla,Engineering,0.480198352655798,32
+Technological University of Queretaro,Engineering,0.499863905051415,20
+Technological University of San Juan del Río,Business,0.544332665068167,11
+Technological University of San Juan del Río,Engineering,0.483760119809988,23
+Technological University of Tabasco,Business,0.482083278314032,16
+Technological University of Tabasco,Engineering,0.377371816581041,17
+Technological University of Tecamac,Business,0.56199785232285,31
+Technological University of Tijuana,Engineering,0.576544703849354,55
+Technological University of Torreon,Engineering,0.48187367446635,32
+Technological University of Tula-Tepeji,Engineering,0.428525634748444,12
+Technological University of the Coast of Guerrero,Business,0.489794368094183,11
+Technological University of the Mixteca,Business,0.524095596136195,10
+Technological University of the Mixteca,Engineering,0.603874342327134,68
+Technological University of the Valley of Toluca,Business,0.535397108890261,10
+Technological University of the Valley of Toluca,Engineering,0.476084510481303,12
+Tecnológico de estudios superiores de ixtapaluca,Business,0.546537632381213,38
+Tecnológico de estudios superiores de ixtapaluca,Engineering,0.594935964105496,20
+The College of Mexico,Economics,0.570994604211975,17
+UNIVER University,Business,0.494903244345175,36
+UNIVER University,Engineering,0.550852828573924,22
+UNIVER University,Law,0.46214330321775,16
+UNIVER University,Marketing,0.565937766650428,11
+UNIVERSIDAD IBEROAMERICANA TORREÓN,Architecture,0.457106009173687,12
+UNIVERSIDAD IBEROAMERICANA TORREÓN,Business,0.489943696355177,32
+UNIVERSIDAD IBEROAMERICANA TORREÓN,Engineering,0.476469095289532,38
+UNIVERSIDAD IBEROAMERICANA TORREÓN,Law,0.478393723356066,34
+UTEQ,Business,0.578229885621524,37
+UTEQ,Engineering,0.504478590438218,36
+UTEQ,Marketing,0.538893291739001,18
+UVEG,Business,0.526956131657956,62
+UVEG,Engineering,0.525727104195214,28
+UVEG,Marketing,0.508731323342169,17
+Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas,Business,0.566126809951567,80
+Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas,Engineering,0.568606246856371,251
+Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas,Information Technology,0.659170786406622,16
+Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas,Engineering,0.596398538121823,234
+Universidad Aliat,Accounting,0.540078565790536,10
+Universidad Aliat,Business,0.515362167098349,67
+Universidad Aliat,Law,0.492503204168472,29
+Universidad Aliat,Marketing,0.495128453136287,45
+Universidad Anáhuac Veracruz,Business,0.520597189565315,53
+Universidad Anáhuac Veracruz,Engineering,0.474791897584274,12
+Universidad Anáhuac Veracruz,Finance,0.547790521399633,10
+Universidad Anáhuac Veracruz,Law,0.511809891887239,10
+Universidad Anáhuac Veracruz,Marketing,0.534238571439711,25
+Universidad Anáhuac de Oaxaca,Business,0.50917985625612,24
+Universidad Anáhuac de Oaxaca,Law,0.54951842396838,11
+Universidad Anáhuac de Oaxaca,Marketing,0.502391760570595,35
+Universidad Autónoma Metropolitana,Architecture,0.485079326656862,260
+Universidad Autónoma Metropolitana,Biology,0.503005459763123,84
+Universidad Autónoma Metropolitana,Business,0.543615952085755,412
+Universidad Autónoma Metropolitana,Chemistry,0.498111799786449,62
+Universidad Autónoma Metropolitana,Economics,0.54246949456485,322
+Universidad Autónoma Metropolitana,Engineering,0.544502934238807,456
+Universidad Autónoma Metropolitana,Law,0.507785016200145,150
+Universidad Autónoma Metropolitana,Marketing,0.556345504824923,16
+Universidad Autónoma Metropolitana,Mathematics,0.652262104046974,17
+Universidad Autónoma Metropolitana,Medicine,0.429130086989368,44
+Universidad Autónoma Metropolitana,Nursing,0.455829368544378,12
+Universidad Autónoma Metropolitana,Physics,0.496433482198881,21
+Universidad Autónoma de Chihuahua,Accounting,0.539139038610382,84
+Universidad Autónoma de Chihuahua,Business,0.544042738803137,320
+Universidad Autónoma de Chihuahua,Chemistry,0.473626013873943,29
+Universidad Autónoma de Chihuahua,Economics,0.519023649108879,56
+Universidad Autónoma de Chihuahua,Education,0.498307677375112,15
+Universidad Autónoma de Chihuahua,Engineering,0.563106359194665,483
+Universidad Autónoma de Chihuahua,Finance,0.533962575589788,49
+Universidad Autónoma de Chihuahua,Information Technology,0.632326233430437,13
+Universidad Autónoma de Chihuahua,Law,0.502502806193045,172
+Universidad Autónoma de Chihuahua,Medicine,0.44269299489844,12
+Universidad Autónoma de Chihuahua,Nursing,0.392523371189477,24
+Universidad Autónoma de Nayarit,Accounting,0.563252672832326,35
+Universidad Autónoma de Nayarit,Business,0.549185748065034,48
+Universidad Autónoma de Nayarit,Engineering,0.577329338819033,19
+Universidad Autónoma de Nayarit,Law,0.462265921435375,29
+Universidad Autónoma de Nayarit,Marketing,0.520988116943393,53
+Universidad Autónoma de Nayarit,Nursing,0.429488829771555,13
+Universidad Autónoma de Tamaulipas,Accounting,0.546270477250752,45
+Universidad Autónoma de Tamaulipas,Architecture,0.488151455008447,38
+Universidad Autónoma de Tamaulipas,Business,0.545176194238302,193
+Universidad Autónoma de Tamaulipas,Economics,0.569935371463957,27
+Universidad Autónoma de Tamaulipas,Education,0.38894342744346,13
+Universidad Autónoma de Tamaulipas,Engineering,0.510727221430515,156
+Universidad Autónoma de Tamaulipas,Finance,0.535913448963996,13
+Universidad Autónoma de Tamaulipas,Information Technology,0.606989559993049,14
+Universidad Autónoma de Tamaulipas,Law,0.492698470680518,69
+Universidad Autónoma de Tamaulipas,Marketing,0.4777635396213,11
+Universidad Autónoma de Tamaulipas,Nursing,0.391275550779873,54
+Universidad Autónoma del Estado de Baja California,Biology,0.505456841287986,31
+Universidad Autónoma del Estado de Baja California,Business,0.480379129883384,14
+Universidad Autónoma del Estado de Baja California,Law,0.541283897529207,12
+Universidad Cuauhtémoc Plantel Aguascalientes,Business,0.525425266497984,13
+Universidad Cuauhtémoc Plantel Aguascalientes,Law,0.448308558712665,13
+Universidad Cuauhtémoc Querétaro,Architecture,0.497548242730293,15
+Universidad Cuauhtémoc Querétaro,Business,0.557981645691985,19
+Universidad Cuauhtémoc Querétaro,Marketing,0.552933734640902,35
+Universidad Del Caribe,Business,0.506823601009811,163
+Universidad Del Caribe,Engineering,0.539475325021607,38
+Universidad Del Caribe,Marketing,0.512412135028892,16
+Universidad Humanitas,Accounting,0.544132719830546,69
+Universidad Humanitas,Business,0.53202869110716,156
+Universidad Humanitas,Education,0.374917219628365,11
+Universidad Humanitas,Finance,0.558053579567359,10
+Universidad Humanitas,Law,0.493564136223476,130
+Universidad Iberoamericana León,Accounting,0.573910858619091,10
+Universidad Iberoamericana León,Architecture,0.462094831747181,54
+Universidad Iberoamericana León,Business,0.529858022650458,56
+Universidad Iberoamericana León,Engineering,0.522345699814491,100
+Universidad Iberoamericana León,Finance,0.569085616706904,10
+Universidad Iberoamericana León,Law,0.478007297762903,71
+Universidad Iberoamericana León,Marketing,0.508876632182248,103
+Universidad Intercontinental,Architecture,0.48098855008958,17
+Universidad Intercontinental,Business,0.503099804294311,120
+Universidad Intercontinental,Law,0.478622549194745,28
+Universidad Intercontinental,Marketing,0.508010174826333,144
+Universidad Jannette Klein,Marketing,0.49192313119261,19
+Universidad La Salle,Accounting,0.52598762283672,41
+Universidad La Salle,Architecture,0.486508698127443,197
+Universidad La Salle,Business,0.539308009635758,524
+Universidad La Salle,Chemistry,0.486770719151359,53
+Universidad La Salle,Education,0.421007660276131,38
+Universidad La Salle,Engineering,0.551152090258437,417
+Universidad La Salle,Finance,0.56622861304268,54
+Universidad La Salle,Information Technology,0.645528139309171,34
+Universidad La Salle,Law,0.481374995627924,272
+Universidad La Salle,Marketing,0.517362973550391,257
+Universidad La Salle,Medicine,0.449238659257509,74
+Universidad La Salle Bajío,Accounting,0.524050391844777,38
+Universidad La Salle Bajío,Architecture,0.476512887377372,35
+Universidad La Salle Bajío,Business,0.522791385160507,156
+Universidad La Salle Bajío,Education,0.466853746684117,11
+Universidad La Salle Bajío,Engineering,0.533180406740324,119
+Universidad La Salle Bajío,Finance,0.529916197273747,11
+Universidad La Salle Bajío,Law,0.505627230968408,54
+Universidad La Salle Bajío,Marketing,0.518356452578446,100
+Universidad La Salle Cancún,Architecture,0.495819066107368,29
+Universidad La Salle Cancún,Business,0.528567158434832,35
+Universidad La Salle Cancún,Finance,0.553188104036151,10
+Universidad La Salle Cancún,Law,0.462328909069299,17
+Universidad La Salle Cancún,Marketing,0.522391936032792,36
+Universidad La Salle Oaxaca,Business,0.492195778514134,30
+Universidad La Salle Victoria,Architecture,0.496867566440498,22
+Universidad La Salle Victoria,Business,0.459404007187657,14
+Universidad La Salle Victoria,Engineering,0.497504456175018,17
+"Universidad La Salle de Cuernavaca, A.C.",Architecture,0.508058591131921,20
+"Universidad La Salle de Cuernavaca, A.C.",Business,0.53522966729845,29
+"Universidad La Salle de Cuernavaca, A.C.",Engineering,0.553423466073882,38
+"Universidad La Salle de Cuernavaca, A.C.",Finance,0.538216272187589,15
+"Universidad La Salle de Cuernavaca, A.C.",Law,0.471209919096655,19
+"Universidad La Salle de Cuernavaca, A.C.",Marketing,0.498945936716402,46
+"Universidad La Salle de Pachuca, A.C.",Architecture,0.472356993916091,18
+"Universidad La Salle de Pachuca, A.C.",Business,0.5132886852109,17
+"Universidad La Salle de Pachuca, A.C.",Engineering,0.553249668903463,16
+"Universidad La Salle de Pachuca, A.C.",Law,0.457576234852953,15
+"Universidad La Salle, Chihuahua",Business,0.553411618282211,30
+"Universidad La Salle, Chihuahua",Engineering,0.540713152637687,56
+"Universidad La Salle, Chihuahua",Finance,0.597716824688243,20
+"Universidad La Salle, Chihuahua",Law,0.551198318816658,12
+"Universidad La Salle, Chihuahua",Marketing,0.486259231549271,45
+Universidad MONDRAGON-UCO,Business,0.526210112626915,127
+Universidad MONDRAGON-UCO,Engineering,0.536787636725835,15
+Universidad MONDRAGON-UCO,Finance,0.541375359536523,13
+Universidad MONDRAGON-UCO,Law,0.463515582758832,15
+Universidad MONDRAGON-UCO,Marketing,0.496112871199164,54
+Universidad Marista de Guadalajara,Architecture,0.484374358337496,14
+Universidad Marista de Guadalajara,Business,0.533403518562042,16
+Universidad Marista de Guadalajara,Engineering,0.541908833312887,31
+Universidad Marista de Guadalajara,Law,0.491340053338243,13
+Universidad Marista de Guadalajara,Marketing,0.504898549074388,10
+Universidad Marista de Mérida AC,Accounting,0.532417231008109,18
+Universidad Marista de Mérida AC,Architecture,0.475467975209617,52
+Universidad Marista de Mérida AC,Business,0.502314882924884,55
+Universidad Marista de Mérida AC,Engineering,0.493183382761566,26
+Universidad Marista de Mérida AC,Finance,0.517998725178332,10
+Universidad Marista de Mérida AC,Law,0.505909226040656,49
+Universidad Marista de Mérida AC,Marketing,0.51560693515704,52
+Universidad Politécnica Metropolitana de Hidalgo,Business,0.564072261102747,19
+Universidad Politécnica Metropolitana de Hidalgo,Engineering,0.542255820576087,43
+Universidad Politécnica de Yucatán,Engineering,0.717065397918108,18
+Universidad Regiomontana S.C.,Accounting,0.541786495335387,23
+Universidad Regiomontana S.C.,Architecture,0.489692542505254,59
+Universidad Regiomontana S.C.,Business,0.521956977966601,278
+Universidad Regiomontana S.C.,Economics,0.526855786640962,27
+Universidad Regiomontana S.C.,Education,0.412049777254939,22
+Universidad Regiomontana S.C.,Engineering,0.554775235114945,140
+Universidad Regiomontana S.C.,Finance,0.534587300111078,16
+Universidad Regiomontana S.C.,Information Technology,0.739610003089075,10
+Universidad Regiomontana S.C.,Law,0.487822320426742,41
+Universidad Regiomontana S.C.,Marketing,0.532725814459395,113
+"Universidad Tangamanga, S.C.",Accounting,0.487973203388206,16
+"Universidad Tangamanga, S.C.",Architecture,0.473798447197712,10
+"Universidad Tangamanga, S.C.",Business,0.531977888597641,100
+"Universidad Tangamanga, S.C.",Education,0.446895527446381,11
+"Universidad Tangamanga, S.C.",Engineering,0.449685277901039,136
+"Universidad Tangamanga, S.C.",Law,0.453821427747729,17
+"Universidad Tangamanga, S.C.",Nursing,0.37107556579791,10
+Universidad Tecmilenio,Business,0.538780888829177,1345
+Universidad Tecmilenio,Education,0.448922407187608,25
+Universidad Tecmilenio,Engineering,0.536669318079304,865
+Universidad Tecmilenio,Finance,0.534330085987392,31
+Universidad Tecmilenio,Law,0.504475202105792,89
+Universidad Tecmilenio,Marketing,0.526986272428772,870
+Universidad Tecmilenio Campus Ferrería,Business,0.547720436572228,15
+Universidad Tecmilenio Campus Ferrería,Marketing,0.510295484994146,13
+Universidad Tecnológica El Retoño,Engineering,0.564467165467427,15
+Universidad Tecnológica de Izúcar de Matamoros,Engineering,0.486827563056176,18
+Universidad UCAD,Business,0.571753785822037,10
+Universidad UNILÍDER,Business,0.524125001606341,13
+Universidad Valle del Bravo,Engineering,0.525764570506459,19
+Universidad de Estudios Avanzados,Business,0.511393859961725,129
+Universidad de Estudios Avanzados,Engineering,0.479693692008017,81
+Universidad de Estudios Avanzados,Law,0.477156071962784,46
+Universidad de Estudios Avanzados,Marketing,0.516064594064645,33
+Universidad de Estudios Superiores Aztlán de México,Business,0.52418482408793,18
+Universidad de Estudios Superiores Aztlán de México,Engineering,0.301191598678722,10
+Universidad de Oriente (UNO),Marketing,0.495716756085589,16
+Universidad del Claustro de Sor Juana,Business,0.48240742405146,21
+Universidad del Desarrollo Profesional,Accounting,0.527222659520731,10
+Universidad del Desarrollo Profesional,Business,0.526487607632522,118
+Universidad del Desarrollo Profesional,Education,0.455683808161472,25
+Universidad del Desarrollo Profesional,Engineering,0.634720089968585,19
+Universidad del Desarrollo Profesional,Law,0.487086465285027,25
+Universidad del Desarrollo Profesional,Marketing,0.501323447489013,35
+Universidad del Ejército y Fuerza Aérea,Engineering,0.48564462740776,47
+Universidad del Golfo de México,Accounting,0.541207781438627,15
+Universidad del Golfo de México,Architecture,0.483364587122952,19
+Universidad del Golfo de México,Business,0.529855240410422,84
+Universidad del Golfo de México,Engineering,0.482836411595159,42
+Universidad del Golfo de México,Law,0.488167608316897,31
+Universidad del Noreste,Business,0.55274864787239,40
+Universidad del Noreste,Engineering,0.46669670479769,20
+Universidad del Noreste,Finance,0.532267365130835,13
+Universidad del Noreste,Marketing,0.537812606215935,23
+Universidad del Noreste,Medicine,0.423382905367042,12
+Universidad del Noreste AC,Accounting,0.545884910405118,13
+Universidad del Noreste AC,Business,0.524735721375157,140
+Universidad del Noreste AC,Education,0.474590379398929,13
+Universidad del Noreste AC,Engineering,0.53228197138236,49
+Universidad del Noreste AC,Law,0.515261185467439,60
+Universidad del Noreste AC,Marketing,0.499983493406301,51
+Universidad del Sur,Accounting,0.56478281059371,22
+Universidad del Sur,Business,0.498582637716489,37
+Universidad del Sur,Law,0.497587709849926,23
+Universidad del Valle de México,Accounting,0.50370855978043,57
+Universidad del Valle de México,Architecture,0.478910220542576,447
+Universidad del Valle de México,Business,0.520684498433502,3615
+Universidad del Valle de México,Chemistry,0.476481275334693,29
+Universidad del Valle de México,Economics,0.54312509045237,49
+Universidad del Valle de México,Education,0.406316466195781,38
+Universidad del Valle de México,Engineering,0.556462516541413,1445
+Universidad del Valle de México,Finance,0.543308595503659,309
+Universidad del Valle de México,Information Technology,0.603579202005972,60
+Universidad del Valle de México,Law,0.497371760124372,874
+Universidad del Valle de México,Marketing,0.517593514038891,2518
+Universidad del Valle de México,Medicine,0.442135241674832,59
+Universidad del Valle de México,Nursing,0.395020847955922,20
+University Centre in Marketing and Advertising Studies,Marketing,0.520080982564609,16
+University Centre of Puebla,Business,0.514397929312249,37
+University Centre of Puebla,Engineering,0.469212769296158,28
+University Centre of Puebla,Law,0.537088679087402,12
+University Centre of Puebla,Marketing,0.524591600326848,13
+University Fray Luca Paccioli,Business,0.473887109368534,10
+University Institute of the State of Mexico,Business,0.540537889667792,13
+University Institute of the State of Mexico,Marketing,0.527583963228547,17
+University Studies Centre of Monterrey,Business,0.559404595871637,55
+University Studies Centre of Monterrey,Engineering,0.575671305829364,19
+University Studies Centre of Monterrey,Marketing,0.527683112182645,17
+University of Advanced Communication,Marketing,0.526835239648673,13
+University of Business and Pedagogical Development,Business,0.57119791132409,24
+University of Business and Pedagogical Development,Marketing,0.524134324278722,28
+University of Celaya,Architecture,0.470616125553122,16
+University of Celaya,Business,0.543430584150114,48
+University of Celaya,Engineering,0.493275805301255,30
+University of Celaya,Law,0.465846155231065,13
+University of Celaya,Marketing,0.528017148308389,30
+University of Central Bajío,Business,0.524189116672073,26
+University of Central Bajío,Law,0.451465789129712,13
+University of Colima,Accounting,0.523360106306153,22
+University of Colima,Architecture,0.479078811115959,44
+University of Colima,Business,0.513646301741995,180
+University of Colima,Economics,0.581031082476347,29
+University of Colima,Education,0.466449214591967,24
+University of Colima,Engineering,0.645257433823468,184
+University of Colima,Finance,0.607445592310407,13
+University of Colima,Law,0.490877962930133,37
+University of Colima,Marketing,0.520789353887131,89
+University of Communication,Marketing,0.542918330175155,25
+University of Ecatepec,Business,0.556819790154387,17
+University of Ecatepec,Law,0.487241892655506,22
+University of Ecatepec,Marketing,0.534134038765337,41
+University of Guadalajara,Accounting,0.556633478766778,395
+University of Guadalajara,Architecture,0.49168854349069,320
+University of Guadalajara,Biology,0.500019714766321,56
+University of Guadalajara,Business,0.544591398625801,2399
+University of Guadalajara,Chemistry,0.484980763258268,133
+University of Guadalajara,Economics,0.561948132538298,231
+University of Guadalajara,Education,0.444642181800616,39
+University of Guadalajara,Engineering,0.577464943159607,1870
+University of Guadalajara,Finance,0.543270516527728,187
+University of Guadalajara,Information Technology,0.655145883488019,211
+University of Guadalajara,Law,0.496366799489548,406
+University of Guadalajara,Marketing,0.526419726037708,1228
+University of Guadalajara,Mathematics,0.56341686680768,35
+University of Guadalajara,Medicine,0.427263567104617,129
+University of Guadalajara,Nursing,0.393493827060781,79
+University of Guadalajara,Physics,0.551510225743354,59
+University of Guanajuato,Accounting,0.559056217293191,86
+University of Guanajuato,Architecture,0.491328435225418,92
+University of Guanajuato,Business,0.542123802900733,239
+University of Guanajuato,Chemistry,0.449104574033174,61
+University of Guanajuato,Economics,0.541297578450592,42
+University of Guanajuato,Education,0.367592664180197,17
+University of Guanajuato,Engineering,0.50496853219049,385
+University of Guanajuato,Finance,0.554522170559981,31
+University of Guanajuato,Law,0.511625102417473,62
+University of Guanajuato,Marketing,0.508137771935102,120
+University of Guanajuato,Mathematics,0.549466755836875,37
+University of Guanajuato,Medicine,0.48561125144589,12
+University of Guanajuato,Nursing,0.415155107710762,13
+University of Guanajuato,Physics,0.511595153969834,30
+University of León,Accounting,0.577191827253731,24
+University of León,Architecture,0.46180720901636,35
+University of León,Business,0.551947339999369,53
+University of León,Engineering,0.465486192255068,27
+University of León,Law,0.534701977473201,28
+University of León,Marketing,0.475385769720917,13
+University of Montemorelos,Accounting,0.584610673241138,12
+University of Montemorelos,Business,0.500111091659405,11
+University of Montemorelos,Education,0.505143478778159,10
+University of Montemorelos,Engineering,0.684262772256637,11
+University of Monterrey,Architecture,0.483388526255391,234
+University of Monterrey,Business,0.531939036859267,372
+University of Monterrey,Economics,0.541603490519036,92
+University of Monterrey,Education,0.401327252785245,42
+University of Monterrey,Engineering,0.551148134178184,414
+University of Monterrey,Finance,0.529855970752994,207
+University of Monterrey,Law,0.483137627890635,125
+University of Monterrey,Marketing,0.519550868665767,289
+University of Monterrey,Medicine,0.436680990987713,33
+University of Morelia,Business,0.471461348166769,18
+University of Open and Distance Education of Mexico,Business,0.50983180212992,52
+University of Open and Distance Education of Mexico,Engineering,0.519079596787461,23
+University of Open and Distance Education of Mexico,Law,0.467722873577231,25
+University of Open and Distance Education of Mexico,Marketing,0.50284390996026,31
+University of Sonora,Accounting,0.550043057026852,75
+University of Sonora,Architecture,0.487612465468342,135
+University of Sonora,Business,0.538653613954387,166
+University of Sonora,Chemistry,0.447370104335571,27
+University of Sonora,Economics,0.536354603642468,38
+University of Sonora,Education,0.369414182123475,12
+University of Sonora,Engineering,0.522057923375934,456
+University of Sonora,Finance,0.545429784203232,27
+University of Sonora,Law,0.50530354194434,142
+University of Sonora,Marketing,0.524708252350438,160
+University of Sonora,Mathematics,0.570196152117382,13
+University of Sonora,Medicine,0.467336150476909,13
+University of Sonora,Nursing,0.384865946645266,17
+University of Sonora,Physics,0.529441540832592,33
+University of Sotavento,Engineering,0.470776988152487,31
+University of Specialities,Business,0.53449569339156,160
+University of Specialities,Engineering,0.528969885061431,27
+University of Specialities,Law,0.516656808968016,16
+University of Specialities,Marketing,0.505025934554694,58
+University of Tepeyac,Business,0.541602006880637,24
+University of Tepeyac,Law,0.492288665834694,12
+University of Tepeyac,Marketing,0.510087791433512,35
+University of Tijuana,Business,0.484377949554676,21
+University of Westhill,Architecture,0.496793916599638,27
+University of Westhill,Business,0.518548936326568,22
+University of Westhill,Marketing,0.530795359493589,14
+University of Xalapa,Business,0.527891818415183,51
+University of Xalapa,Engineering,0.518278090321537,16
+University of Xalapa,Law,0.527538078621015,24
+University of Xalapa,Marketing,0.539431580590124,27
+University of the Americas Puebla,Architecture,0.480573633464274,138
+University of the Americas Puebla,Business,0.524639273825969,667
+University of the Americas Puebla,Economics,0.548835577817442,94
+University of the Americas Puebla,Engineering,0.524186358814766,599
+University of the Americas Puebla,Finance,0.527582337639598,59
+University of the Americas Puebla,Law,0.50605219211485,97
+University of the Americas Puebla,Marketing,0.521976475884472,234
+University of the Americas Puebla,Physics,0.568275840295487,28
+University of the Americas of Mexico City,Business,0.540769858368001,21
+University of the Centre of Mexico,Accounting,0.553998043640487,11
+University of the Centre of Mexico,Business,0.549091312527305,50
+University of the Centre of Mexico,Marketing,0.51338304068705,15
+University of the East,Architecture,0.497233797474108,16
+University of the East,Business,0.52317859388618,17
+University of the East,Marketing,0.52267929609032,19
+University of the Federal District,Business,0.546129007883318,18
+University of the Federal District,Law,0.50600820384545,11
+University of the Gulf,Business,0.53831151498832,10
+University of the Nations,Business,0.495098977387812,13
+University of the North,Business,0.537517571603291,39
+University of the North,Engineering,0.589806967404837,34
+University of the North,Marketing,0.526771382625041,23
+University of the Northeast,Business,0.546120710320713,23
+University of the Northeast,Marketing,0.535337409598643,10
+University of the Pedregal,Business,0.528260754417538,51
+University of the Pedregal,Law,0.518254729567947,33
+University of the Pedregal,Marketing,0.520986382815903,84
+University of the Valley of Atemajac,Accounting,0.536983436137656,54
+University of the Valley of Atemajac,Architecture,0.494324800932416,20
+University of the Valley of Atemajac,Business,0.523128378744872,361
+University of the Valley of Atemajac,Engineering,0.575466024502561,163
+University of the Valley of Atemajac,Finance,0.547874712815745,29
+University of the Valley of Atemajac,Law,0.502225621376349,66
+University of the Valley of Atemajac,Marketing,0.510558448639154,277
+University of the Valley of Matatipac,Business,0.53638735518517,11
+University of the Valley of Orizaba,Business,0.513539936744785,14
+University of the Valley of Orizaba,Marketing,0.548171195595407,20
+University of the Valley of Toluca,Business,0.532852790221253,22
+University of the Valley of Toluca,Engineering,0.422229490069022,11
+University of the Valley of the Grijalva,Accounting,0.538647343335522,16
+University of the Valley of the Grijalva,Architecture,0.468396946866671,27
+University of the Valley of the Grijalva,Business,0.521530623351709,54
+University of the Valley of the Grijalva,Engineering,0.442742424286546,23
+University of the Valley of the Grijalva,Law,0.496588850397631,24
+University of the Valley of the Grijalva,Marketing,0.481996407367772,11
+Utel Universidad,Accounting,0.532363840689158,41
+Utel Universidad,Business,0.502794248187466,427
+Utel Universidad,Education,0.412744148138477,26
+Utel Universidad,Engineering,0.519274437157053,330
+Utel Universidad,Finance,0.551076673081634,84
+Utel Universidad,Information Technology,0.579835427746082,24
+Utel Universidad,Law,0.481619896552883,101
+Utel Universidad,Marketing,0.512096137451058,149
+Vasco de Quiroga University,Architecture,0.497486942553839,10
+Vasco de Quiroga University,Business,0.504740527934337,20
+Vasco de Quiroga University,Engineering,0.550208049422149,11
+Vasco de Quiroga University,Law,0.476574989829119,18
+Vasco de Quiroga University,Marketing,0.506139210978409,37
+Vatel México,Business,0.504117610103799,20
+Villa Rica University,Business,0.499182917829751,10
+Villa Rica University,Marketing,0.560613036439842,12
+Virtual University of the State of Guanajuato,Business,0.573269065320028,16
+Vizcaya University of the Americas,Accounting,0.529485018711567,14
+Vizcaya University of the Americas,Architecture,0.433006917191077,11
+Vizcaya University of the Americas,Business,0.529650661312111,23
+Vizcaya University of the Americas,Law,0.48761911131969,19
+Western Institute of Technology and Higher Studies,Accounting,0.498334348947854,33
+Western Institute of Technology and Higher Studies,Architecture,0.483961659022705,292
+Western Institute of Technology and Higher Studies,Business,0.525836922318489,467
+Western Institute of Technology and Higher Studies,Education,0.386383990637987,14
+Western Institute of Technology and Higher Studies,Engineering,0.559861920186049,805
+Western Institute of Technology and Higher Studies,Finance,0.534736421284532,49
+Western Institute of Technology and Higher Studies,Information Technology,0.685629061180339,25
+Western Institute of Technology and Higher Studies,Law,0.478827280811972,151
+Western Institute of Technology and Higher Studies,Marketing,0.519379879031516,402
+World University,Business,0.461276274190832,19
+World University,Marketing,0.519018055977477,16
+Xochicalco University,Architecture,0.49104963349289,15
+Xochicalco University,Business,0.557185520061614,23
+Xochicalco University,Law,0.526101374602998,13
+Xochicalco University,Marketing,0.518536206037657,39
+Xochicalco University,Medicine,0.466566249852016,15
+YMCA University,Business,0.554932027857868,20
+YMCA University,Engineering,0.635224304748614,10
+YMCA University,Marketing,0.531721069792027,10
+in.Q.ba Escuela de Negocios,Business,0.515967934642826,10

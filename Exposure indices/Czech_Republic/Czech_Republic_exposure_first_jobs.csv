@@ -1,0 +1,198 @@
+university_name,field,exposure_firstjob_beta,n_people
+Academy of Performing Arts in Prague,Business,0.433288050199343,16
+Ambis.Vysoká škola.,Business,0.513118884571004,59
+Ambis.Vysoká škola.,Economics,0.492133733126298,10
+Anglo-American University,Business,0.527991513491985,268
+Anglo-American University,Law,0.544346972219884,14
+Anglo-American University,Marketing,0.525095111052338,11
+Brno University of Technology,Accounting,0.557084107332825,37
+Brno University of Technology,Architecture,0.481747637771767,65
+Brno University of Technology,Business,0.579107227794356,473
+Brno University of Technology,Chemistry,0.508922067335031,85
+Brno University of Technology,Economics,0.550053079593525,64
+Brno University of Technology,Engineering,0.559124136353095,1198
+Brno University of Technology,Information Technology,0.714323678191525,609
+Brno University of Technology,Mathematics,0.606646006932895,12
+Business Institut EDU,Business,0.532025215789318,24
+Business School Ostrava,Business,0.52168270371649,121
+Business School Ostrava,Economics,0.53845773299485,19
+Charles University,Biology,0.535046893926685,168
+Charles University,Business,0.504163309489321,139
+Charles University,Chemistry,0.496990147146858,45
+Charles University,Economics,0.547710163105025,146
+Charles University,Education,0.43590147465968,131
+Charles University,Engineering,0.679784547851846,188
+Charles University,Finance,0.589949098529796,82
+Charles University,Information Technology,0.657403363230744,18
+Charles University,Marketing,0.544733266515272,186
+Charles University,Mathematics,0.628970836768256,192
+Charles University,Medicine,0.43056500113918,13
+Charles University,Nursing,0.421531458615763,18
+Charles University,Physics,0.56009158605955,100
+Charles University,Statistics,0.581368506155364,12
+College of Logistics,Business,0.518370865098907,30
+Czech Management Institute,Business,0.525631798021863,11
+Czech Technical University in Prague,Architecture,0.483543175348955,163
+Czech Technical University in Prague,Business,0.584947370409043,432
+Czech Technical University in Prague,Economics,0.523157877052591,15
+Czech Technical University in Prague,Education,0.497330362446722,12
+Czech Technical University in Prague,Engineering,0.590771528049113,1277
+Czech Technical University in Prague,Information Technology,0.700403913890974,115
+Czech Technical University in Prague,Mathematics,0.571585444761296,19
+Czech Technical University in Prague,Physics,0.600019121007229,36
+Czech University of Life Sciences Prague,Business,0.551341128966299,772
+Czech University of Life Sciences Prague,Economics,0.538533577868217,162
+Czech University of Life Sciences Prague,Education,0.58294470217911,10
+Czech University of Life Sciences Prague,Engineering,0.63949849390445,176
+Czech University of Life Sciences Prague,Information Technology,0.713851609239461,59
+"Faculty of Business and Economics, Mendel University in Brno",Business,0.566599882698313,197
+"Faculty of Business and Economics, Mendel University in Brno",Economics,0.570057513970838,37
+"Faculty of Business and Economics, Mendel University in Brno",Engineering,0.811282931636231,18
+"Faculty of Business and Economics, Mendel University in Brno",Finance,0.630815979865607,32
+"Faculty of Business and Economics, Mendel University in Brno",Marketing,0.4389675205264,10
+Faculty of Economics and Management CZU Prague,Business,0.54379063068025,153
+Faculty of Economics and Management CZU Prague,Economics,0.560341618805701,29
+Faculty of Economics and Management CZU Prague,Engineering,0.711640494626488,24
+Faculty of Economics and Management CZU Prague,Information Technology,0.725280338253814,12
+"Faculty of Electrical Engineering, Czech Technical University in Prague",Business,0.687235319982679,39
+"Faculty of Electrical Engineering, Czech Technical University in Prague",Engineering,0.665024837040129,314
+"Faculty of Electrical Engineering, Czech Technical University in Prague",Information Technology,0.71902877254591,14
+Faculty of Information Technology CTU in Prague,Business,0.695238597035833,12
+Faculty of Information Technology CTU in Prague,Engineering,0.692600944504498,143
+Faculty of Information Technology CTU in Prague,Information Technology,0.679706308808121,29
+"Faculty of Management, Prague University of Economics and Business",Business,0.569947273616443,14
+Faculty of Mechanical Engineering Brno University of Technology,Engineering,0.541749270602845,65
+Fakulta architektury ČVUT v Praze,Architecture,0.471167363522144,26
+Fakulta strojní ČVUT v Praze,Engineering,0.547063931276832,66
+Institute of Economic Studies Charles University,Economics,0.586329262405144,29
+Institute of Economic Studies Charles University,Finance,0.587338757521076,79
+"Jan Amos Komensky University, Prague",Business,0.531751487310798,117
+"Jan Amos Komensky University, Prague",Education,0.507914738883022,76
+Jan Evangelista Purkyně University in Ústí nad Labem,Business,0.533695499621193,118
+Jan Evangelista Purkyně University in Ústí nad Labem,Economics,0.525462143598546,26
+Jan Evangelista Purkyně University in Ústí nad Labem,Education,0.499062822305178,24
+Jan Evangelista Purkyně University in Ústí nad Labem,Engineering,0.5919928125527,20
+Jan Evangelista Purkyně University in Ústí nad Labem,Information Technology,0.737798039931291,15
+Janáček Academy of Music and Performing Arts Brno,Business,0.482939028337103,30
+Karlovy Vary College,Law,0.566235280296427,16
+Masaryk University,Biology,0.532775617353655,115
+Masaryk University,Business,0.544524593526944,339
+Masaryk University,Chemistry,0.48232911825105,56
+Masaryk University,Economics,0.56590997834161,141
+Masaryk University,Education,0.494121954682924,123
+Masaryk University,Engineering,0.699805856459271,260
+Masaryk University,Finance,0.557286038119121,166
+Masaryk University,Information Technology,0.691544262548958,85
+Masaryk University,Law,0.555942616719476,118
+Masaryk University,Mathematics,0.654769167392042,71
+Masaryk University,Physics,0.576888912054492,41
+Mendel University in Brno,Architecture,0.43905244619117,19
+Mendel University in Brno,Biology,0.467248685713583,12
+Mendel University in Brno,Business,0.543940420213765,286
+Mendel University in Brno,Chemistry,0.476104234767155,13
+Mendel University in Brno,Economics,0.578870850919659,64
+Mendel University in Brno,Engineering,0.678839865315267,26
+Mendel University in Brno,Finance,0.567658799816773,45
+Mendel University in Brno,Information Technology,0.693626776478614,14
+Mendel University in Brno,Marketing,0.505261028391596,11
+Metropolitan University Prague,Business,0.515713543430029,184
+Moravian College Olomouc,Business,0.504678851821057,48
+Palacký University Olomouc,Biology,0.49442744244672,28
+Palacký University Olomouc,Business,0.513337729656141,85
+Palacký University Olomouc,Chemistry,0.516721778178364,35
+Palacký University Olomouc,Economics,0.562770603036206,108
+Palacký University Olomouc,Education,0.478899730468164,33
+Palacký University Olomouc,Engineering,0.708522169051689,47
+Palacký University Olomouc,Information Technology,0.746541757201984,10
+Palacký University Olomouc,Law,0.599617776834956,18
+Palacký University Olomouc,Mathematics,0.580824945300642,14
+Police Academy of the Czech Republic in Prague,Business,0.55645616121317,23
+Police Academy of the Czech Republic in Prague,Law,0.520184825031659,42
+Prague City University,Business,0.527881226938433,49
+Prague University of Economics and Business,Accounting,0.544022328734212,24
+Prague University of Economics and Business,Business,0.544387093216501,2593
+Prague University of Economics and Business,Economics,0.567670013299715,525
+Prague University of Economics and Business,Engineering,0.680056800837198,75
+Prague University of Economics and Business,Finance,0.555039921679651,388
+Prague University of Economics and Business,Information Technology,0.703769211028614,151
+Prague University of Economics and Business,Law,0.561675812072641,31
+Prague University of Economics and Business,Marketing,0.487130225892088,11
+Prague University of Economics and Business,Statistics,0.664556289948176,62
+Silesian University in Opava,Business,0.545189329397264,127
+Silesian University in Opava,Economics,0.538111210820607,20
+Silesian University in Opava,Engineering,0.67797650691678,18
+Silesian University in Opava,Information Technology,0.665408953116026,11
+Silesian University in Opava,Marketing,0.491848557370961,12
+Sting Academy,Business,0.544390344985434,14
+Technical University of Liberec,Architecture,0.484950120927745,21
+Technical University of Liberec,Business,0.537546547695146,264
+Technical University of Liberec,Economics,0.531834385559737,25
+Technical University of Liberec,Education,0.47038565786872,23
+Technical University of Liberec,Engineering,0.544663861336683,79
+Technical University of Liberec,Information Technology,0.758869841321384,18
+Technical University of Liberec,Marketing,0.50258365755061,47
+Tomas Bata University in Zlín,Accounting,0.524099256721233,13
+Tomas Bata University in Zlín,Business,0.531926110582988,396
+Tomas Bata University in Zlín,Chemistry,0.465519163031943,16
+Tomas Bata University in Zlín,Economics,0.533043047311309,24
+Tomas Bata University in Zlín,Engineering,0.624423125724605,79
+Tomas Bata University in Zlín,Information Technology,0.700780587226315,28
+Tomas Bata University in Zlín,Marketing,0.515317309072302,153
+Unicorn University,Business,0.611423936730493,75
+Unicorn University,Engineering,0.692824745696225,23
+Unicorn University,Information Technology,0.729072473523679,19
+"University of Chemistry and Technology, Prague",Business,0.495379402529398,17
+"University of Chemistry and Technology, Prague",Chemistry,0.51071206814041,186
+"University of Chemistry and Technology, Prague",Engineering,0.526119838360828,113
+University of Defence,Business,0.495000741973791,17
+"University of Economics and Management, Prague",Business,0.535144618831984,120
+"University of Economics and Management, Prague",Economics,0.53541435167769,22
+"University of Economics and Management, Prague",Marketing,0.53583686422781,37
+University of Finance and Administration,Business,0.532191340428893,286
+University of Finance and Administration,Economics,0.529353932690404,23
+University of Finance and Administration,Finance,0.544131058137995,57
+University of Finance and Administration,Law,0.607010227055945,10
+University of Finance and Administration,Marketing,0.526960267081036,217
+University of Hradec Králové,Business,0.54788739504918,371
+University of Hradec Králové,Education,0.413666642438823,13
+University of Hradec Králové,Engineering,0.635674772379887,27
+University of Hradec Králové,Information Technology,0.699767030874531,25
+University of New York in Prague,Business,0.525783306698446,334
+University of New York in Prague,Economics,0.532468649663518,10
+University of Ostrava,Biology,0.517107429499279,16
+University of Ostrava,Business,0.571723795556916,136
+University of Ostrava,Chemistry,0.556007135982885,11
+University of Ostrava,Education,0.472040678955226,33
+University of Ostrava,Engineering,0.675059163846587,29
+University of Ostrava,Information Technology,0.695478596684534,25
+University of Pardubice,Business,0.537410606244948,216
+University of Pardubice,Chemistry,0.465412770816798,48
+University of Pardubice,Economics,0.556535869201065,49
+University of Pardubice,Engineering,0.593615155363539,48
+University of Pardubice,Information Technology,0.692929572230419,56
+University of South Bohemia in České Budějovice,Biology,0.475052502359474,14
+University of South Bohemia in České Budějovice,Business,0.55293392859502,81
+University of South Bohemia in České Budějovice,Education,0.424706663782905,14
+University of South Bohemia in České Budějovice,Engineering,0.659194563328008,14
+University of South Bohemia in České Budějovice,Information Technology,0.657835705620349,17
+University of West Bohemia,Business,0.53509028486328,286
+University of West Bohemia,Economics,0.504109217269312,41
+University of West Bohemia,Education,0.510132624724763,32
+University of West Bohemia,Engineering,0.60131838916034,227
+University of West Bohemia,Finance,0.544258672468694,11
+University of West Bohemia,Information Technology,0.662709893608553,26
+University of West Bohemia,Mathematics,0.695517122979881,18
+Vysoká škola kreativní komunikace - Vškk,Marketing,0.493363547778026,26
+Vysoká škola obchodní v Praze,Business,0.492951749936213,128
+Vysoká škola technická a ekonomická v Českých Budějovicích,Business,0.51267025114489,63
+Vysoká škola technická a ekonomická v Českých Budějovicích,Economics,0.48928167712735,11
+Vysoká škola technická a ekonomická v Českých Budějovicích,Engineering,0.544994339506971,14
+VŠB - Technical University of Ostrava,Accounting,0.517974698507248,11
+VŠB - Technical University of Ostrava,Business,0.546994552910562,240
+VŠB - Technical University of Ostrava,Economics,0.566014996506898,49
+VŠB - Technical University of Ostrava,Engineering,0.618712997122766,300
+VŠB - Technical University of Ostrava,Finance,0.557393295247296,25
+VŠB - Technical University of Ostrava,Information Technology,0.729384953611803,55
+VŠB - Technical University of Ostrava,Marketing,0.523167053697922,27
+Škoda Auto University,Business,0.537201444596834,229
+Škoda Auto University,Economics,0.538815947183287,12

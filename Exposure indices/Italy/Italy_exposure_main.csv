@@ -1,0 +1,757 @@
+university_name,field,exposure_alljobs_beta,n_people
+"""""Food Marketing  and Commercial Strategies - Unicatt   """"",Marketing,0.559582262135006,19
+"""""Gabriele d'Annunzio"""" University",Architecture,0.490509879450064,363
+"""""Gabriele d'Annunzio"""" University",Business,0.531352846422677,1398
+"""""Gabriele d'Annunzio"""" University",Chemistry,0.460789922384277,26
+"""""Gabriele d'Annunzio"""" University",Economics,0.531876759749832,572
+"""""Gabriele d'Annunzio"""" University",Education,0.392104521828208,21
+"""""Gabriele d'Annunzio"""" University",Engineering,0.479531739220108,157
+"""""Gabriele d'Annunzio"""" University",Finance,0.565146813510651,34
+"""""Gabriele d'Annunzio"""" University",Marketing,0.534183598793539,37
+"""""Gabriele d'Annunzio"""" University",Medicine,0.435068524365536,55
+"""""Gabriele d'Annunzio"""" University",Nursing,0.365757764977537,56
+Accademia Navale,Engineering,0.450585754182033,24
+Accademia del Lusso,Business,0.492985469430407,14
+American University of Rome,Business,0.504215091962424,59
+Bio-Medical Campus University of Rome,Engineering,0.521195435511138,313
+Bio-Medical Campus University of Rome,Medicine,0.442380971285721,56
+Bio-Medical Campus University of Rome,Nursing,0.361896605281479,33
+Brera Academy,Engineering,0.486980087422961,12
+Ca' Foscari University of Venice,Business,0.524227557043821,2482
+Ca' Foscari University of Venice,Chemistry,0.469841480428152,107
+Ca' Foscari University of Venice,Economics,0.522623411658006,1188
+Ca' Foscari University of Venice,Engineering,0.680552390911896,130
+Ca' Foscari University of Venice,Finance,0.533180261007666,211
+Ca' Foscari University of Venice,Information Technology,0.694221430630403,19
+Ca' Foscari University of Venice,Law,0.517876991024415,25
+Ca' Foscari University of Venice,Marketing,0.518757004001407,933
+Campus CIELS,Business,0.477867236629185,52
+Campus CIELS,Marketing,0.526190479071303,95
+Carlo Cattaneo University,Business,0.536507042885269,1172
+Carlo Cattaneo University,Economics,0.52786886056485,312
+Carlo Cattaneo University,Engineering,0.533830063739474,386
+Carlo Cattaneo University,Finance,0.553752238239916,21
+Carlo Cattaneo University,Law,0.486242359270703,30
+Carlo Cattaneo University,Marketing,0.526544004051678,206
+Catholic University of the Sacred Heart,Accounting,0.511717328253021,16
+Catholic University of the Sacred Heart,Business,0.532055871273312,9082
+Catholic University of the Sacred Heart,Economics,0.532262714788751,2049
+Catholic University of the Sacred Heart,Education,0.435746521371007,119
+Catholic University of the Sacred Heart,Engineering,0.58225113505855,23
+Catholic University of the Sacred Heart,Finance,0.540635167682262,331
+Catholic University of the Sacred Heart,Law,0.503633332091905,241
+Catholic University of the Sacred Heart,Marketing,0.524459861689041,1253
+Catholic University of the Sacred Heart,Mathematics,0.568176256104045,50
+Catholic University of the Sacred Heart,Medicine,0.423166535239082,120
+Catholic University of the Sacred Heart,Nursing,0.380565479762135,97
+Catholic University of the Sacred Heart,Physics,0.498328829689873,51
+Catholic University of the Sacred Heart,Statistics,0.559457449032881,14
+"DEA Università """"G. d'Annunzio"""" Chieti-Pescara",Business,0.525797681608452,57
+"DEA Università """"G. d'Annunzio"""" Chieti-Pescara",Economics,0.49434523959834,24
+Economia Tor Vergata,Business,0.549779155268382,287
+Economia Tor Vergata,Economics,0.558309777509066,87
+Economia e Management - Università di Parma,Business,0.505507520284743,58
+Economia e Management - Università di Parma,Economics,0.443444958239832,13
+Economia e Management - Università di Parma,Marketing,0.520719276855214,27
+European Institute of Design,Architecture,0.509284828787127,13
+European Institute of Design,Business,0.522219215386896,147
+European Institute of Design,Engineering,0.503766260313143,38
+European Institute of Design,Marketing,0.510002304966018,253
+European School of Economics,Business,0.508081251631097,158
+European School of Economics,Economics,0.520222266082633,10
+European School of Economics,Marketing,0.531198323736709,33
+Free University of Bozen-Bolzano,Business,0.512404852501728,631
+Free University of Bozen-Bolzano,Economics,0.529807258052019,172
+Free University of Bozen-Bolzano,Education,0.398009545127102,17
+Free University of Bozen-Bolzano,Engineering,0.565967268878423,164
+Free University of Bozen-Bolzano,Finance,0.564830788864953,12
+Guglielmo Marconi University,Business,0.56822477886542,19
+Guglielmo Marconi University,Economics,0.525234581587738,155
+Guglielmo Marconi University,Engineering,0.533304729881266,225
+Guglielmo Marconi University,Law,0.429269388278352,13
+Guido Carli Free International University of Social Studies,Business,0.540577299535524,4258
+Guido Carli Free International University of Social Studies,Economics,0.529484884794305,909
+Guido Carli Free International University of Social Studies,Engineering,0.556388462299414,36
+Guido Carli Free International University of Social Studies,Finance,0.545318373964773,226
+Guido Carli Free International University of Social Studies,Law,0.481993092844606,323
+Guido Carli Free International University of Social Studies,Marketing,0.535678277740076,494
+H-FARM College,Business,0.5498044665644,77
+Humanitas University,Medicine,0.426072890831051,14
+IUAV University of Venice,Architecture,0.482751292696678,1148
+IUAV University of Venice,Business,0.480266817667307,55
+IULM University,Business,0.505500812192858,735
+IULM University,Economics,0.530084212349218,12
+IULM University,Marketing,0.52306708517006,504
+IUSVE - Istituto Universitario Salesiano Venezia,Business,0.471855191250563,10
+IUSVE - Istituto Universitario Salesiano Venezia,Marketing,0.527481400840982,330
+International Telematic University UNINETTUNO,Business,0.514893579618113,59
+International Telematic University UNINETTUNO,Economics,0.518113360668214,42
+International Telematic University UNINETTUNO,Engineering,0.570399558910386,155
+Istituto Marangoni Srl,Business,0.514410953955795,206
+"John Cabot University, Rome",Business,0.520266171459929,223
+"John Cabot University, Rome",Economics,0.543006828342321,24
+"John Cabot University, Rome",Finance,0.546580446839065,41
+"John Cabot University, Rome",Marketing,0.531542759253854,79
+Kore University of Enna,Architecture,0.486643839925934,55
+Kore University of Enna,Business,0.5414229579333,40
+Kore University of Enna,Economics,0.522595130892132,113
+Kore University of Enna,Engineering,0.512850622322404,87
+Kore University of Enna,Law,0.459781092737266,12
+L.UN.A. Libera Università delle Arti,Marketing,0.616761933578746,13
+LIUC Business School,Business,0.563852558795165,13
+LUM School of Management,Business,0.536659723181438,29
+LUM School of Management,Economics,0.534144328494437,17
+LUMSA University,Business,0.535625830499009,330
+LUMSA University,Economics,0.539594326803413,127
+LUMSA University,Law,0.513200141257859,74
+LUMSA University,Marketing,0.531449691423381,704
+Link Campus University,Business,0.523600981562229,149
+Link Campus University,Economics,0.527534957038512,67
+Link Campus University,Law,0.452367931653018,11
+Link Campus University,Marketing,0.557845093333309,31
+Luiss Business School,Business,0.523254218015506,153
+Luiss Business School,Economics,0.517199697943586,45
+Luiss Business School,Finance,0.513089403460535,16
+Luiss Business School,Marketing,0.506229955875194,13
+Lum Jean Monnet University,Business,0.535016566403555,426
+Lum Jean Monnet University,Economics,0.532977981464915,144
+Lum Jean Monnet University,Law,0.489787101108671,12
+Marco Biagi Department of Economics,Business,0.542645298068762,109
+Marco Biagi Department of Economics,Economics,0.524015105822786,139
+Marco Biagi Department of Economics,Finance,0.534392644945771,18
+Marco Biagi Department of Economics,Marketing,0.523068588666936,292
+Master Programme in International Business and Economics (MIBE),Business,0.542111489922082,36
+Mediterranean University of Reggio Calabria,Architecture,0.484645186286254,269
+Mediterranean University of Reggio Calabria,Economics,0.513339382796708,112
+Mediterranean University of Reggio Calabria,Engineering,0.534116916446606,257
+Mediterranean University of Reggio Calabria,Law,0.521541510648082,24
+Mercatorum University,Business,0.52484945963654,145
+Mercatorum University,Economics,0.509476389951113,89
+Mercatorum University,Engineering,0.508272382325403,122
+Mercatorum University,Marketing,0.459096572233644,23
+Motorvehicle University of Emilia Romagna (MUNER),Engineering,0.564079186712539,34
+Pegaso Telematic University,Business,0.374136200710922,490
+Pegaso Telematic University,Economics,0.500199704794954,1214
+Pegaso Telematic University,Education,0.417977501030314,36
+Pegaso Telematic University,Engineering,0.464582404061955,261
+Pegaso Telematic University,Law,0.45416319853491,18
+Pegaso Telematic University,Marketing,0.464961411828672,20
+Perugia Foreigners' University,Marketing,0.531143346614562,44
+Polimoda,Business,0.503741067173034,109
+Polimoda,Marketing,0.493189093977957,78
+Politecnico di Milano,Architecture,0.490830507820865,3624
+Politecnico di Milano,Business,0.52655912662619,461
+Politecnico di Milano,Engineering,0.538350637939753,16537
+Politecnico di Milano,Finance,0.592071776606538,11
+Politecnico di Milano,Information Technology,0.644176798752009,21
+Politecnico di Milano,Marketing,0.539652134497877,17
+Politecnico di Milano,Mathematics,0.53461092623471,12
+Polytechnic University of the Marches,Biology,0.503194043968656,85
+Polytechnic University of the Marches,Business,0.530833647160931,1123
+Polytechnic University of the Marches,Economics,0.527429351948647,578
+Polytechnic University of the Marches,Education,0.401201236572629,19
+Polytechnic University of the Marches,Engineering,0.519541495585337,1971
+Polytechnic University of the Marches,Finance,0.528158645098126,34
+Polytechnic University of the Marches,Marketing,0.520370115299564,187
+Polytechnic University of the Marches,Medicine,0.408988342172483,40
+Polytechnic University of the Marches,Nursing,0.346446153836508,55
+Polytechnic of Bari,Architecture,0.491755807890392,246
+Polytechnic of Bari,Business,0.583636451396204,81
+Polytechnic of Bari,Engineering,0.533501878790048,2897
+Polytechnic of Turin,Architecture,0.490069297992026,1566
+Polytechnic of Turin,Business,0.541500427335245,145
+Polytechnic of Turin,Engineering,0.542613533995283,10691
+Polytechnic of Turin,Information Technology,0.638283312199969,20
+Polytechnic of Turin,Mathematics,0.557652394419387,17
+Polytechnic of Turin,Physics,0.537702834016998,17
+Pontificia Università Lateranense,Law,0.503994099429241,13
+Roma Tre University,Architecture,0.482875542734108,448
+Roma Tre University,Biology,0.499368460710178,48
+Roma Tre University,Business,0.54222530991019,1521
+Roma Tre University,Economics,0.540562262677113,795
+Roma Tre University,Education,0.475552126137379,36
+Roma Tre University,Engineering,0.55663937006187,1484
+Roma Tre University,Finance,0.556061672362073,89
+Roma Tre University,Law,0.48920020881145,195
+Roma Tre University,Marketing,0.548679031942655,128
+Roma Tre University,Mathematics,0.62475486765675,81
+Roma Tre University,Physics,0.540111630754323,61
+Rome Business School,Business,0.519801484011055,11
+"SAA - School of Management, Università di Torino",Business,0.529582790384379,966
+"SAA - School of Management, Università di Torino",Economics,0.523139143883934,87
+SDA Bocconi School of Management,Business,0.511118002431959,31
+SMEA - Alta Scuola di Management & Economia Agro-Alimentare,Economics,0.495677754889607,14
+SSML San Domenico,Business,0.50703156386898,10
+Saint Louis College of Music,Engineering,0.486538494570996,17
+School of Science at University of Padua,Business,0.50542720363628,17
+School of Science at University of Padua,Economics,0.468856018342543,31
+Scuola Superiore Sant'anna,Business,0.569491761813487,12
+Scuola Superiore Sant'anna,Engineering,0.578541297665961,16
+Seconda Università degli Studi di Napoli,Architecture,0.485867876694511,169
+Seconda Università degli Studi di Napoli,Biology,0.459534018353787,11
+Seconda Università degli Studi di Napoli,Business,0.540388489510306,560
+Seconda Università degli Studi di Napoli,Economics,0.529362963279203,271
+Seconda Università degli Studi di Napoli,Education,0.349032183995613,11
+Seconda Università degli Studi di Napoli,Engineering,0.544528255448252,342
+Seconda Università degli Studi di Napoli,Finance,0.558371542569182,12
+Seconda Università degli Studi di Napoli,Law,0.480903778298683,38
+Seconda Università degli Studi di Napoli,Marketing,0.519107140418993,16
+Seconda Università degli Studi di Napoli,Mathematics,0.630682704385781,21
+Seconda Università degli Studi di Napoli,Medicine,0.445078948624673,52
+Seconda Università degli Studi di Napoli,Nursing,0.362931923209517,40
+Suor Orsola Benincasa University,Business,0.529662280460842,90
+Suor Orsola Benincasa University,Education,0.378599703880071,18
+Suor Orsola Benincasa University,Law,0.460623640743764,11
+Suor Orsola Benincasa University,Marketing,0.542889512887558,80
+Swiss School of Management,Business,0.487024971289576,15
+Tor Vergata School of Business Administration,Business,0.543304276170562,127
+UER - Università Europea di Roma,Business,0.554042417373965,130
+UER - Università Europea di Roma,Economics,0.532735310881064,43
+UER - Università Europea di Roma,Marketing,0.502243393257693,29
+UNINT University,Business,0.553873891755125,245
+UNINT University,Economics,0.535179323552593,53
+UNINT University,Marketing,0.55403007717588,12
+Unicollege SSML,Business,0.541278904980975,16
+Unicollege SSML,Marketing,0.532145702432548,32
+University Niccolò Cusano,Business,0.522266730017948,515
+University Niccolò Cusano,Economics,0.523846331697472,445
+University Niccolò Cusano,Engineering,0.457703231889259,180
+University for Foreigners of Siena,Business,0.537543648602984,23
+"University of """"Magna Græcia"""" of Catanzaro",Business,0.544821456040537,138
+"University of """"Magna Græcia"""" of Catanzaro",Economics,0.530502199868358,112
+"University of """"Magna Græcia"""" of Catanzaro",Engineering,0.586900953695397,67
+"University of """"Magna Græcia"""" of Catanzaro",Law,0.413025952165602,13
+"University of """"Magna Græcia"""" of Catanzaro",Medicine,0.412980150292247,40
+"University of """"Magna Græcia"""" of Catanzaro",Nursing,0.347454072958317,54
+University of Bari Aldo Moro,Biology,0.484194615814824,95
+University of Bari Aldo Moro,Business,0.541936266458521,1383
+University of Bari Aldo Moro,Chemistry,0.453221101689741,107
+University of Bari Aldo Moro,Economics,0.545308123499496,812
+University of Bari Aldo Moro,Education,0.399854167779687,57
+University of Bari Aldo Moro,Engineering,0.695457603919393,288
+University of Bari Aldo Moro,Finance,0.567911874839513,15
+University of Bari Aldo Moro,Information Technology,0.705051575533295,28
+University of Bari Aldo Moro,Law,0.508002597631558,119
+University of Bari Aldo Moro,Marketing,0.52904343340724,1253
+University of Bari Aldo Moro,Mathematics,0.593110474767411,68
+University of Bari Aldo Moro,Medicine,0.399903461608624,112
+University of Bari Aldo Moro,Nursing,0.363936855901208,100
+University of Bari Aldo Moro,Physics,0.565653165813453,95
+University of Bari Aldo Moro,Statistics,0.62402044594114,17
+University of Basilicata,Architecture,0.503212746449229,40
+University of Basilicata,Business,0.550201544486303,70
+University of Basilicata,Chemistry,0.442967375537696,26
+University of Basilicata,Economics,0.541792758040596,138
+University of Basilicata,Engineering,0.528907488328789,250
+University of Bergamo,Accounting,0.551305884014714,18
+University of Bergamo,Business,0.533166745875353,1374
+University of Bergamo,Economics,0.523646323287652,582
+University of Bergamo,Education,0.391138125439541,25
+University of Bergamo,Engineering,0.531467012690832,914
+University of Bergamo,Law,0.495684132826814,35
+University of Bergamo,Marketing,0.507465314933977,61
+University of Bologna,Accounting,0.53785851130013,20
+University of Bologna,Architecture,0.483078920053544,177
+University of Bologna,Biology,0.488511966853859,160
+University of Bologna,Business,0.530810247940452,3667
+University of Bologna,Chemistry,0.474109041797089,483
+University of Bologna,Economics,0.520901575919522,1561
+University of Bologna,Education,0.415447668001758,97
+University of Bologna,Engineering,0.534185285464038,5152
+University of Bologna,Finance,0.544198665887891,368
+University of Bologna,Information Technology,0.694155201669096,32
+University of Bologna,Law,0.502789750851709,420
+University of Bologna,Marketing,0.509989575784905,863
+University of Bologna,Mathematics,0.5572711421684,215
+University of Bologna,Medicine,0.383176502331722,273
+University of Bologna,Nursing,0.362044134248105,131
+University of Bologna,Physics,0.533885563297165,308
+University of Bologna,Statistics,0.593474350185341,215
+University of Brescia,Business,0.530900273465234,906
+University of Brescia,Economics,0.532395989475525,308
+University of Brescia,Education,0.35174087592762,20
+University of Brescia,Engineering,0.516992717467676,1252
+University of Brescia,Finance,0.521191310557643,61
+University of Brescia,Law,0.480933927928965,39
+University of Brescia,Marketing,0.508247611312686,36
+University of Brescia,Medicine,0.425894710383128,66
+University of Brescia,Nursing,0.355089804970237,75
+University of Cagliari,Architecture,0.493164303282061,154
+University of Cagliari,Biology,0.494233948961313,64
+University of Cagliari,Business,0.542397629515219,522
+University of Cagliari,Chemistry,0.471336527303027,62
+University of Cagliari,Economics,0.551939365314513,273
+University of Cagliari,Education,0.371539008240316,15
+University of Cagliari,Engineering,0.543010036525304,1041
+University of Cagliari,Finance,0.545984424206755,45
+University of Cagliari,Law,0.49560294275727,31
+University of Cagliari,Marketing,0.54723573355238,150
+University of Cagliari,Mathematics,0.655577218887168,26
+University of Cagliari,Medicine,0.398999133464954,38
+University of Cagliari,Nursing,0.367601960720606,26
+University of Cagliari,Physics,0.544100099853455,74
+University of Calabria,Biology,0.486238582308311,34
+University of Calabria,Business,0.547910841232584,493
+University of Calabria,Chemistry,0.468308471107407,62
+University of Calabria,Economics,0.539646839729571,640
+University of Calabria,Education,0.41013603622658,44
+University of Calabria,Engineering,0.559587372538478,1460
+University of Calabria,Law,0.483323768322281,22
+University of Calabria,Marketing,0.479559816997428,24
+University of Calabria,Mathematics,0.502528878483885,41
+University of Calabria,Physics,0.532512932447858,45
+University of Calabria,Statistics,0.70826673899974,20
+University of Camerino,Architecture,0.48420864930684,221
+University of Camerino,Biology,0.485535433417465,30
+University of Camerino,Business,0.498998548838003,10
+University of Camerino,Chemistry,0.469519656260825,116
+University of Camerino,Engineering,0.671663822599291,102
+University of Camerino,Information Technology,0.745142085285027,21
+University of Camerino,Mathematics,0.518997188982764,51
+University of Camerino,Medicine,0.311121230508884,20
+University of Camerino,Physics,0.52077612403787,28
+"University of Campania """"Luigi Vanvitelli""""",Architecture,0.495404559063556,121
+"University of Campania """"Luigi Vanvitelli""""",Biology,0.459061214455773,16
+"University of Campania """"Luigi Vanvitelli""""",Business,0.555177730950875,427
+"University of Campania """"Luigi Vanvitelli""""",Economics,0.555554667642076,242
+"University of Campania """"Luigi Vanvitelli""""",Education,0.345425240389027,11
+"University of Campania """"Luigi Vanvitelli""""",Engineering,0.518420181219287,304
+"University of Campania """"Luigi Vanvitelli""""",Law,0.501150838256375,17
+"University of Campania """"Luigi Vanvitelli""""",Marketing,0.545780568695353,31
+"University of Campania """"Luigi Vanvitelli""""",Mathematics,0.457567576462449,16
+"University of Campania """"Luigi Vanvitelli""""",Medicine,0.411546423194719,24
+"University of Campania """"Luigi Vanvitelli""""",Nursing,0.355209787649808,44
+"University of Campania """"Luigi Vanvitelli""""",Physics,0.565200284493307,12
+University of Cassino and Southern Lazio,Business,0.550219295824411,296
+University of Cassino and Southern Lazio,Economics,0.54601585513666,211
+University of Cassino and Southern Lazio,Engineering,0.531189491978714,472
+University of Cassino and Southern Lazio,Law,0.555453297537676,17
+University of Catania,Architecture,0.485002476016947,136
+University of Catania,Biology,0.492498483657439,64
+University of Catania,Business,0.524710605435138,458
+University of Catania,Chemistry,0.497827287193953,153
+University of Catania,Economics,0.543400462806281,926
+University of Catania,Education,0.388582308458971,22
+University of Catania,Engineering,0.567917148150425,1592
+University of Catania,Finance,0.557845175507326,16
+University of Catania,Information Technology,0.648712245733153,12
+University of Catania,Law,0.482605610191571,64
+University of Catania,Marketing,0.50912099552055,36
+University of Catania,Mathematics,0.547094556805501,63
+University of Catania,Medicine,0.445009209637576,89
+University of Catania,Nursing,0.363315006841434,40
+University of Catania,Physics,0.508844526997241,96
+University of Ferrara,Architecture,0.488695861324471,229
+University of Ferrara,Biology,0.500145352108648,51
+University of Ferrara,Business,0.528340232490945,805
+University of Ferrara,Chemistry,0.466121722604055,129
+University of Ferrara,Economics,0.520732620022545,544
+University of Ferrara,Education,0.364437417113935,17
+University of Ferrara,Engineering,0.525626861477441,673
+University of Ferrara,Information Technology,0.652149527529289,12
+University of Ferrara,Law,0.512607268803304,50
+University of Ferrara,Marketing,0.470701296651429,25
+University of Ferrara,Mathematics,0.546921320112562,54
+University of Ferrara,Medicine,0.423314530617363,51
+University of Ferrara,Nursing,0.362798536560323,50
+University of Ferrara,Physics,0.547436577742654,46
+University of Florence,Accounting,0.540612485288607,219
+University of Florence,Architecture,0.482437276881225,781
+University of Florence,Biology,0.464996466648676,100
+University of Florence,Business,0.513787032708487,1111
+University of Florence,Chemistry,0.477309931109553,202
+University of Florence,Economics,0.521953875944554,1072
+University of Florence,Education,0.418276878472065,68
+University of Florence,Engineering,0.525979834728846,1702
+University of Florence,Law,0.501590898449143,132
+University of Florence,Marketing,0.521542174445318,260
+University of Florence,Mathematics,0.563275532850537,109
+University of Florence,Medicine,0.439214358398233,70
+University of Florence,Nursing,0.357646165332142,109
+University of Florence,Physics,0.51911590535394,76
+University of Florence,Statistics,0.626593651474583,92
+University of Foggia,Business,0.523236584685486,499
+University of Foggia,Economics,0.539842794530778,280
+University of Foggia,Education,0.357504441241099,13
+University of Foggia,Marketing,0.597505168834901,20
+University of Foggia,Medicine,0.431132173422799,18
+University of Foggia,Nursing,0.363561312000763,34
+University of Gastronomic Sciences,Business,0.47856406956624,46
+University of Genoa,Architecture,0.47821962266877,375
+University of Genoa,Biology,0.480654434772395,45
+University of Genoa,Business,0.527866127618307,1104
+University of Genoa,Chemistry,0.493210520689087,120
+University of Genoa,Economics,0.529897955668285,650
+University of Genoa,Education,0.419780265029148,27
+University of Genoa,Engineering,0.521109508082656,2159
+University of Genoa,Finance,0.56818663757339,30
+University of Genoa,Law,0.501218418428614,108
+University of Genoa,Marketing,0.536618547494456,41
+University of Genoa,Mathematics,0.537111739497926,100
+University of Genoa,Medicine,0.425511856219201,78
+University of Genoa,Nursing,0.362659769530266,63
+University of Genoa,Physics,0.520956367967394,105
+University of Genoa,Statistics,0.645733861231928,18
+University of Insubria,Biology,0.497622465200701,32
+University of Insubria,Business,0.529423865242237,1158
+University of Insubria,Chemistry,0.462026672414118,83
+University of Insubria,Economics,0.525156143303197,174
+University of Insubria,Engineering,0.603011805893071,148
+University of Insubria,Finance,0.536460777830508,13
+University of Insubria,Information Technology,0.619814629869039,13
+University of Insubria,Law,0.507740339664007,33
+University of Insubria,Marketing,0.517075836782983,45
+University of Insubria,Mathematics,0.544300592336175,23
+University of Insubria,Medicine,0.422640862317573,34
+University of Insubria,Nursing,0.343065498999016,38
+University of Insubria,Physics,0.500501166204809,45
+University of Macerata,Business,0.486991207311873,182
+University of Macerata,Economics,0.522615110147077,100
+University of Macerata,Education,0.450010902007674,16
+University of Macerata,Law,0.483760058799134,58
+University of Macerata,Marketing,0.543928967388294,27
+University of Messina,Biology,0.500701501196871,37
+University of Messina,Business,0.522408912069331,410
+University of Messina,Chemistry,0.464303518982273,99
+University of Messina,Economics,0.525827152604469,246
+University of Messina,Education,0.404511948597405,15
+University of Messina,Engineering,0.556562283029377,365
+University of Messina,Finance,0.535505757639735,19
+University of Messina,Information Technology,0.650421002529782,13
+University of Messina,Law,0.475851297107122,45
+University of Messina,Marketing,0.534309057493247,44
+University of Messina,Mathematics,0.566231990782267,24
+University of Messina,Medicine,0.426634835169415,87
+University of Messina,Nursing,0.343129025779641,69
+University of Messina,Physics,0.496461310262614,27
+University of Milan,Biology,0.49770909205542,131
+University of Milan,Business,0.529020094634213,1636
+University of Milan,Chemistry,0.484895467870913,567
+University of Milan,Economics,0.524019745252717,489
+University of Milan,Education,0.370156623195385,39
+University of Milan,Engineering,0.626695486072986,376
+University of Milan,Finance,0.575826781880959,43
+University of Milan,Information Technology,0.698288721090651,64
+University of Milan,Law,0.491068884978859,326
+University of Milan,Marketing,0.52667241669054,780
+University of Milan,Mathematics,0.590326955585288,266
+University of Milan,Medicine,0.412343867975455,320
+University of Milan,Nursing,0.352796430192769,145
+University of Milan,Physics,0.56181131002722,390
+University of Milano-Bicocca,Biology,0.484373534068459,85
+University of Milano-Bicocca,Business,0.537185116164143,1480
+University of Milano-Bicocca,Chemistry,0.48514813353839,130
+University of Milano-Bicocca,Economics,0.531940453972625,874
+University of Milano-Bicocca,Education,0.460974909895638,70
+University of Milano-Bicocca,Engineering,0.682457245621244,349
+University of Milano-Bicocca,Finance,0.571154225959522,56
+University of Milano-Bicocca,Information Technology,0.726290941766976,45
+University of Milano-Bicocca,Law,0.503339622117601,94
+University of Milano-Bicocca,Marketing,0.53414134061936,1385
+University of Milano-Bicocca,Mathematics,0.582748867065884,137
+University of Milano-Bicocca,Medicine,0.408904141355763,70
+University of Milano-Bicocca,Nursing,0.371425046562562,104
+University of Milano-Bicocca,Physics,0.542070596930956,271
+University of Milano-Bicocca,Statistics,0.646170296206605,160
+University of Modena and Reggio Emilia,Biology,0.470014777841502,19
+University of Modena and Reggio Emilia,Business,0.528008733312135,1462
+University of Modena and Reggio Emilia,Chemistry,0.439701914259612,207
+University of Modena and Reggio Emilia,Economics,0.522116527597333,542
+University of Modena and Reggio Emilia,Education,0.397266605431102,32
+University of Modena and Reggio Emilia,Engineering,0.541046496033075,1971
+University of Modena and Reggio Emilia,Finance,0.540850367475982,91
+University of Modena and Reggio Emilia,Law,0.48543224538223,65
+University of Modena and Reggio Emilia,Marketing,0.514626898256974,2141
+University of Modena and Reggio Emilia,Mathematics,0.529908677409536,61
+University of Modena and Reggio Emilia,Medicine,0.427841915093409,52
+University of Modena and Reggio Emilia,Nursing,0.371523053847581,62
+University of Modena and Reggio Emilia,Physics,0.565993730861154,64
+University of Molise,Biology,0.473986425858803,12
+University of Molise,Business,0.524365353937576,107
+University of Molise,Economics,0.551183865083528,125
+University of Molise,Engineering,0.572511011408416,81
+University of Molise,Law,0.4732394350173,16
+University of Molise,Medicine,0.411002160334791,16
+University of Molise,Nursing,0.342821130546137,13
+"University of Naples """"Parthenope""""",Business,0.532557982240258,2286
+"University of Naples """"Parthenope""""",Economics,0.538735537998187,787
+"University of Naples """"Parthenope""""",Engineering,0.572743443777751,331
+"University of Naples """"Parthenope""""",Law,0.526920246485607,24
+"University of Naples """"Parthenope""""",Marketing,0.557905919854077,66
+University of Naples Federico II,Accounting,0.535320422827198,12
+University of Naples Federico II,Architecture,0.492941941679613,584
+University of Naples Federico II,Biology,0.499871436934125,286
+University of Naples Federico II,Business,0.539197668312858,2492
+University of Naples Federico II,Chemistry,0.477960467277489,255
+University of Naples Federico II,Economics,0.547340112466321,1941
+University of Naples Federico II,Education,0.410833549216294,13
+University of Naples Federico II,Engineering,0.539786367565942,5556
+University of Naples Federico II,Finance,0.558150948263596,79
+University of Naples Federico II,Information Technology,0.698889479746602,19
+University of Naples Federico II,Law,0.478930448779985,200
+University of Naples Federico II,Marketing,0.525139152712702,51
+University of Naples Federico II,Mathematics,0.582107092901118,124
+University of Naples Federico II,Medicine,0.410645349755839,137
+University of Naples Federico II,Nursing,0.36947602059525,63
+University of Naples Federico II,Physics,0.540251689975073,162
+University of Naples Federico II,Statistics,0.643236953948985,45
+University of Padua,Biology,0.48434113447238,333
+University of Padua,Business,0.517382998063997,1374
+University of Padua,Chemistry,0.471283263037624,322
+University of Padua,Economics,0.535293958607999,890
+University of Padua,Education,0.416353046458263,118
+University of Padua,Engineering,0.524350946364581,5160
+University of Padua,Finance,0.545992370687583,126
+University of Padua,Information Technology,0.644850999360672,28
+University of Padua,Law,0.48227754072552,146
+University of Padua,Marketing,0.520835542199782,116
+University of Padua,Mathematics,0.558282358927748,189
+University of Padua,Medicine,0.390506112546296,194
+University of Padua,Nursing,0.370745624181046,159
+University of Padua,Physics,0.529056637042398,282
+University of Padua,Statistics,0.571726329682837,178
+University of Palermo,Architecture,0.487963602345557,343
+University of Palermo,Biology,0.485991227228478,71
+University of Palermo,Business,0.528466776212015,454
+University of Palermo,Chemistry,0.472931692073184,107
+University of Palermo,Economics,0.526332248432355,328
+University of Palermo,Education,0.404961010893533,33
+University of Palermo,Engineering,0.552927257827091,1936
+University of Palermo,Finance,0.545895305630864,83
+University of Palermo,Law,0.510827237889224,74
+University of Palermo,Marketing,0.521893673149516,43
+University of Palermo,Mathematics,0.58249959420754,38
+University of Palermo,Medicine,0.441478879039814,103
+University of Palermo,Nursing,0.35648235136998,48
+University of Palermo,Physics,0.471763956167061,30
+University of Palermo,Statistics,0.611563511569909,39
+University of Parma,Architecture,0.487187243237688,356
+University of Parma,Biology,0.494923134202038,137
+University of Parma,Business,0.520107911132617,2161
+University of Parma,Chemistry,0.473998208159081,179
+University of Parma,Economics,0.522425011517308,482
+University of Parma,Engineering,0.525763332989447,1308
+University of Parma,Finance,0.541227752046466,101
+University of Parma,Law,0.518692443192232,50
+University of Parma,Marketing,0.517154908848351,1810
+University of Parma,Mathematics,0.599801188412683,45
+University of Parma,Medicine,0.393266700821355,135
+University of Parma,Nursing,0.379699095593104,41
+University of Parma,Physics,0.556757706763597,56
+University of Pavia,Biology,0.507629054668286,152
+University of Pavia,Business,0.530370922477941,1088
+University of Pavia,Chemistry,0.477932980006972,319
+University of Pavia,Economics,0.534352170840849,499
+University of Pavia,Education,0.281229892808669,24
+University of Pavia,Engineering,0.538680482470521,1192
+University of Pavia,Finance,0.563536911335563,84
+University of Pavia,Law,0.492917386839188,59
+University of Pavia,Marketing,0.532564478212389,173
+University of Pavia,Mathematics,0.557261627260945,89
+University of Pavia,Medicine,0.429085614794232,111
+University of Pavia,Nursing,0.358569047703188,76
+University of Pavia,Physics,0.553244492981651,102
+University of Perugia,Biology,0.443963551763168,27
+University of Perugia,Business,0.53250845346976,865
+University of Perugia,Chemistry,0.487310368827401,161
+University of Perugia,Economics,0.533702808257023,563
+University of Perugia,Education,0.411918069056208,17
+University of Perugia,Engineering,0.536738950979319,846
+University of Perugia,Finance,0.542049324638945,22
+University of Perugia,Information Technology,0.701735016648999,19
+University of Perugia,Law,0.475827493370912,66
+University of Perugia,Marketing,0.522414006552224,55
+University of Perugia,Mathematics,0.523054882103424,58
+University of Perugia,Medicine,0.382490883116235,118
+University of Perugia,Nursing,0.356599060267611,59
+University of Perugia,Physics,0.53879520122522,43
+University of Pisa,Biology,0.475601565295199,111
+University of Pisa,Business,0.533822966506938,1609
+University of Pisa,Chemistry,0.487541456874538,264
+University of Pisa,Economics,0.531340234267026,589
+University of Pisa,Education,0.36360671466284,14
+University of Pisa,Engineering,0.546696399358596,2826
+University of Pisa,Finance,0.529425013460244,109
+University of Pisa,Information Technology,0.624065599583651,11
+University of Pisa,Law,0.482597178520582,101
+University of Pisa,Marketing,0.518696301400487,540
+University of Pisa,Mathematics,0.598875949933637,121
+University of Pisa,Medicine,0.395117657682804,143
+University of Pisa,Nursing,0.368877381025281,84
+University of Pisa,Physics,0.539249863179651,230
+"University of Rome """"Foro Italico""""",Business,0.443121906550034,191
+"University of Rome """"Foro Italico""""",Education,0.22754168105373,11
+University of Rome La Sapienza,Accounting,0.559398895536655,17
+University of Rome La Sapienza,Architecture,0.485744200928363,1243
+University of Rome La Sapienza,Biology,0.490023769291299,111
+University of Rome La Sapienza,Business,0.541306598899384,3236
+University of Rome La Sapienza,Chemistry,0.487751968623868,620
+University of Rome La Sapienza,Economics,0.542723489196024,1315
+University of Rome La Sapienza,Education,0.408368136074792,70
+University of Rome La Sapienza,Engineering,0.54820950975207,5163
+University of Rome La Sapienza,Finance,0.606993403251358,107
+University of Rome La Sapienza,Information Technology,0.675605913403232,33
+University of Rome La Sapienza,Law,0.498843567884097,159
+University of Rome La Sapienza,Marketing,0.528095894478271,2226
+University of Rome La Sapienza,Mathematics,0.588982243500788,307
+University of Rome La Sapienza,Medicine,0.45002462487846,287
+University of Rome La Sapienza,Nursing,0.358059299743554,467
+University of Rome La Sapienza,Physics,0.548375597668026,456
+University of Rome La Sapienza,Statistics,0.635659845605569,176
+University of Rome Tor Vergata,Biology,0.486964182277387,167
+University of Rome Tor Vergata,Business,0.54171756600297,3059
+University of Rome Tor Vergata,Chemistry,0.520163275783687,149
+University of Rome Tor Vergata,Economics,0.539074563482294,686
+University of Rome Tor Vergata,Education,0.366022687404986,35
+University of Rome Tor Vergata,Engineering,0.558038216887616,2089
+University of Rome Tor Vergata,Finance,0.536479006174767,76
+University of Rome Tor Vergata,Information Technology,0.737858550498269,13
+University of Rome Tor Vergata,Law,0.491897541148944,80
+University of Rome Tor Vergata,Marketing,0.510462629401815,29
+University of Rome Tor Vergata,Mathematics,0.610055721871279,81
+University of Rome Tor Vergata,Medicine,0.409769885537137,86
+University of Rome Tor Vergata,Nursing,0.370821579348146,170
+University of Rome Tor Vergata,Physics,0.566445571607254,91
+University of Rome Unitelma Sapienza,Business,0.514141980534029,164
+University of Rome Unitelma Sapienza,Economics,0.525724557550671,67
+University of Salento,Biology,0.472448624336849,33
+University of Salento,Business,0.541957275443772,779
+University of Salento,Economics,0.547690638683454,325
+University of Salento,Engineering,0.536948306085923,718
+University of Salento,Finance,0.541197260050553,40
+University of Salento,Law,0.499489600734149,51
+University of Salento,Marketing,0.573834229361067,13
+University of Salento,Mathematics,0.563546157820606,41
+University of Salento,Physics,0.517784642918921,59
+University of Salerno,Biology,0.47472070166485,17
+University of Salerno,Business,0.562090323644581,1569
+University of Salerno,Chemistry,0.489204372142619,132
+University of Salerno,Economics,0.547682963934281,527
+University of Salerno,Education,0.383233780433532,22
+University of Salerno,Engineering,0.566050369115134,1755
+University of Salerno,Finance,0.586158122973456,13
+University of Salerno,Information Technology,0.717909849396079,35
+University of Salerno,Law,0.494287176041677,53
+University of Salerno,Marketing,0.529795005815431,167
+University of Salerno,Mathematics,0.57482259907239,62
+University of Salerno,Medicine,0.447774546907708,31
+University of Salerno,Nursing,0.355947198315041,19
+University of Salerno,Physics,0.50698160922002,31
+University of Sannio of Benevento,Business,0.55006125520141,329
+University of Sannio of Benevento,Economics,0.553904684720743,156
+University of Sannio of Benevento,Engineering,0.56153402442371,293
+University of Sannio of Benevento,Statistics,0.618280316866914,17
+University of Sassari,Architecture,0.475917567671528,100
+University of Sassari,Business,0.5185895772828,573
+University of Sassari,Chemistry,0.452476202115545,32
+University of Sassari,Economics,0.510203792667197,180
+University of Sassari,Engineering,0.485179652205997,13
+University of Sassari,Law,0.491590565332211,22
+University of Sassari,Medicine,0.387427008463716,35
+University of Sassari,Nursing,0.3902537339386,20
+University of Siena,Accounting,0.575229899778318,10
+University of Siena,Biology,0.492528276628927,47
+University of Siena,Business,0.53731796027341,860
+University of Siena,Chemistry,0.488364850591711,93
+University of Siena,Economics,0.546411082706734,434
+University of Siena,Education,0.411081081474222,16
+University of Siena,Engineering,0.581172798565063,273
+University of Siena,Finance,0.573771289647341,74
+University of Siena,Law,0.514476931416448,50
+University of Siena,Marketing,0.48117255147209,52
+University of Siena,Mathematics,0.50326207079318,40
+University of Siena,Medicine,0.422832386113486,47
+University of Siena,Nursing,0.366795466458496,26
+University of Siena,Physics,0.598795206366931,11
+University of Siena,Statistics,0.588349794539457,13
+University of Teramo,Business,0.505995026013749,259
+University of Teramo,Economics,0.53946310854187,85
+University of Teramo,Law,0.493106437459099,25
+University of Teramo,Marketing,0.541600095698566,87
+University of Teramo,Medicine,0.38284854216848,54
+University of Trento,Accounting,0.54741242171694,28
+University of Trento,Biology,0.579055935885002,10
+University of Trento,Business,0.535267545374937,1831
+University of Trento,Economics,0.54376802134494,212
+University of Trento,Engineering,0.539356143898528,1316
+University of Trento,Information Technology,0.708290305175098,18
+University of Trento,Law,0.495161880250346,144
+University of Trento,Marketing,0.567001936225396,12
+University of Trento,Mathematics,0.550754373235721,146
+University of Trento,Physics,0.523937039030956,163
+University of Trieste,Architecture,0.490367295822797,154
+University of Trieste,Biology,0.509477870455891,51
+University of Trieste,Business,0.524162718585828,354
+University of Trieste,Chemistry,0.481700963074627,94
+University of Trieste,Economics,0.519982101667396,246
+University of Trieste,Engineering,0.508953550815553,735
+University of Trieste,Finance,0.549751213929152,14
+University of Trieste,Law,0.526364007915746,58
+University of Trieste,Marketing,0.495880707933547,42
+University of Trieste,Mathematics,0.521348627530576,59
+University of Trieste,Medicine,0.42327740275416,37
+University of Trieste,Nursing,0.337150868107696,19
+University of Trieste,Physics,0.526154031829779,124
+University of Trieste,Statistics,0.592220559425628,33
+University of Turin,Accounting,0.552572428671516,47
+University of Turin,Biology,0.478758548139268,195
+University of Turin,Business,0.529010787500232,3762
+University of Turin,Chemistry,0.46382297874723,335
+University of Turin,Economics,0.526841600697179,1680
+University of Turin,Education,0.421426860560329,77
+University of Turin,Engineering,0.660178459316539,264
+University of Turin,Finance,0.569389688725862,162
+University of Turin,Information Technology,0.609764611270226,28
+University of Turin,Law,0.495553753563175,354
+University of Turin,Marketing,0.532380874580857,1008
+University of Turin,Mathematics,0.569006935938298,246
+University of Turin,Medicine,0.408103564133497,188
+University of Turin,Nursing,0.356770586832676,171
+University of Turin,Physics,0.55372456169029,349
+University of Turin,Statistics,0.572526278052894,96
+University of Tuscia,Biology,0.487042719695619,70
+University of Tuscia,Business,0.535726932411304,192
+University of Tuscia,Economics,0.529883238189745,174
+University of Tuscia,Engineering,0.48307776998865,65
+University of Tuscia,Finance,0.586526710156558,12
+University of Tuscia,Marketing,0.533181440682377,129
+University of Udine,Architecture,0.487014983721986,161
+University of Udine,Business,0.51801614902009,534
+University of Udine,Economics,0.525676866158193,398
+University of Udine,Education,0.32727041095403,13
+University of Udine,Engineering,0.52553694662384,948
+University of Udine,Finance,0.517580566760841,20
+University of Udine,Information Technology,0.72206923520657,20
+University of Udine,Law,0.467810733767398,21
+University of Udine,Marketing,0.498847726948982,45
+University of Udine,Mathematics,0.520189065451347,46
+University of Udine,Medicine,0.460462720148911,34
+University of Udine,Nursing,0.359429919506933,46
+University of Urbino Carlo Bo,Biology,0.457586261297691,30
+University of Urbino Carlo Bo,Business,0.514625610840405,459
+University of Urbino Carlo Bo,Chemistry,0.453002053431948,25
+University of Urbino Carlo Bo,Economics,0.519941542244534,189
+University of Urbino Carlo Bo,Engineering,0.662598169508645,37
+University of Urbino Carlo Bo,Marketing,0.519359271263046,412
+University of Verona,Business,0.522255642504412,1246
+University of Verona,Economics,0.529237849585233,772
+University of Verona,Education,0.384876733798257,42
+University of Verona,Engineering,0.62737106879983,197
+University of Verona,Information Technology,0.65069660695262,11
+University of Verona,Law,0.476757678317474,52
+University of Verona,Marketing,0.515700610246544,568
+University of Verona,Mathematics,0.588584694265654,109
+University of Verona,Medicine,0.427175206138393,70
+University of Verona,Nursing,0.352049523342407,112
+University of the Aosta Valley,Business,0.516074729460443,60
+University of the Aosta Valley,Economics,0.444728288238916,32
+Università Popolare degli Studi di Milano,Marketing,0.488020517023306,13
+Vita-Salute San Raffaele University,Biology,0.524542720170091,23
+Vita-Salute San Raffaele University,Marketing,0.500739358926991,10
+Vita-Salute San Raffaele University,Medicine,0.453192221856348,59
+Vita-Salute San Raffaele University,Nursing,0.351879932663862,44
+eCampus University,Business,0.48198865264895,66
+eCampus University,Economics,0.505878403887611,206
+eCampus University,Engineering,0.495998509698629,258
+eCampus University,Law,0.519935612477327,10
+eCampus University,Marketing,0.538629561534083,44

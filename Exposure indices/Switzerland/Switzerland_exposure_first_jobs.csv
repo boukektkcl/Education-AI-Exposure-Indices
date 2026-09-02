@@ -1,0 +1,292 @@
+university_name,field,exposure_firstjob_beta,n_people
+ABB Technikerschule,Engineering,0.530588364324691,18
+AGSB University,Business,0.552310076164455,13
+AKAD AG,Business,0.525219745290096,54
+ATHENAEUM,Architecture,0.473328767193632,82
+Atelier Hermès école professionelle Genf,Architecture,0.465870901748915,17
+BVS St. Gallen,Business,0.506423613974489,12
+Bern University of Applied Sciences,Accounting,0.548434883172154,37
+Bern University of Applied Sciences,Architecture,0.484102183225846,194
+Bern University of Applied Sciences,Business,0.530599903605045,1253
+Bern University of Applied Sciences,Economics,0.540300960691478,67
+Bern University of Applied Sciences,Engineering,0.521475213093358,728
+Bern University of Applied Sciences,Finance,0.52091264560428,40
+Bern University of Applied Sciences,Information Technology,0.661950830873189,29
+Bern University of Applied Sciences,Marketing,0.475974369194296,43
+Bern University of Applied Sciences,Nursing,0.419004017735376,116
+"Biozentrum, University of Basel",Biology,0.503749449463949,15
+Business & Hotel Management School,Business,0.430171623917857,112
+Business School Lausanne,Business,0.519980870758604,107
+César Ritz Colleges Switzerland,Business,0.447394083290958,144
+EHL,Business,0.487700087943293,2481
+EHL,Finance,0.493435952002791,29
+EHL,Marketing,0.524352506568883,46
+EU Business School,Business,0.503785889705045,139
+Eastern Switzerland University of Applied Sciences,Architecture,0.39814894142659,104
+Eastern Switzerland University of Applied Sciences,Business,0.527175407517063,866
+Eastern Switzerland University of Applied Sciences,Economics,0.534624244826448,15
+Eastern Switzerland University of Applied Sciences,Engineering,0.539915799585392,665
+Eastern Switzerland University of Applied Sciences,Finance,0.535941490498196,21
+Eastern Switzerland University of Applied Sciences,Information Technology,0.625972002781,16
+Eastern Switzerland University of Applied Sciences,Marketing,0.523314226705882,10
+Eastern Switzerland University of Applied Sciences,Nursing,0.3886475962486,60
+"Faculty of Economics and Business, University of Neuchâtel",Business,0.519902477059813,20
+Fernfachhochschule Schweiz,Business,0.509865332876706,241
+Fernfachhochschule Schweiz,Economics,0.456188222349785,24
+Fernfachhochschule Schweiz,Engineering,0.543114019670566,182
+Fernfachhochschule Schweiz,Finance,0.540615045607964,19
+Fernfachhochschule Schweiz,Information Technology,0.635813749814619,17
+Fernfachhochschule Schweiz,Marketing,0.487568070435072,19
+Franklin University Switzerland,Business,0.508013443806817,43
+Franklin University Switzerland,Finance,0.567129628504095,11
+Geneva Business School,Business,0.51848595668912,68
+Geneva Business School,Finance,0.529447280066139,27
+Glion Institute of Higher Education,Business,0.486613710248609,506
+Glion Institute of Higher Education,Marketing,0.481242087063667,19
+HEC Lausanne - The Faculty of Business and Economics of the University of Lausanne,Business,0.524945393880887,1830
+HEC Lausanne - The Faculty of Business and Economics of the University of Lausanne,Economics,0.522799031405132,510
+HEC Lausanne - The Faculty of Business and Economics of the University of Lausanne,Finance,0.523633046444059,27
+HEG,Business,0.519733671458968,613
+HEG,Economics,0.481140059241811,64
+HEG,Engineering,0.638268350400863,23
+HEG,Finance,0.518485740834369,74
+HEG,Marketing,0.515874823182641,19
+HEIG-VD,Business,0.523616051928,470
+HEIG-VD,Economics,0.497139027425669,139
+HEIG-VD,Engineering,0.570206286406543,612
+HEIG-VD,Finance,0.553075377095381,40
+HEIG-VD,Information Technology,0.705009450500506,16
+HEIG-VD,Marketing,0.574687596262667,20
+HEP Valais / PH Wallis,Education,0.383267973703378,24
+HETSL - Haute école de travail social et de la santé Lausanne,Education,0.332010026912757,16
+HFT Luzern AG - Höhere Fachschule Tourismus Luzern,Business,0.484177952296832,45
+HFWbern.ch,Business,0.498742561571421,11
+HKV Aarau,Business,0.503564374632694,13
+HSO Business School Switzerland,Business,0.511398729457098,345
+HSO Business School Switzerland,Economics,0.4896995178025,13
+HWZ Hochschule für Wirtschaft Zürich,Accounting,0.526230919729564,11
+HWZ Hochschule für Wirtschaft Zürich,Business,0.53170632377696,1718
+HWZ Hochschule für Wirtschaft Zürich,Economics,0.525501047792456,36
+HWZ Hochschule für Wirtschaft Zürich,Engineering,0.566069666266775,13
+HWZ Hochschule für Wirtschaft Zürich,Finance,0.518601335181142,78
+HWZ Hochschule für Wirtschaft Zürich,Marketing,0.506858054606472,18
+Haute Ecole Arc - Ingénierie,Engineering,0.523006074926205,192
+Haute école de gestion Arc,Business,0.533798325862934,375
+Haute école de gestion Arc,Economics,0.531861527102567,64
+Haute école de gestion Arc,Engineering,0.642709285064925,14
+Haute école de gestion Arc,Finance,0.503920728290069,29
+Haute école de gestion Arc,Marketing,0.471395341373408,37
+Haute école de santé de Genève,Education,0.347524427053873,40
+Haute école de santé de Genève,Nursing,0.384557857617505,18
+Haute école de travail social - HETS-Genève,Education,0.353692329120953,44
+"Haute école du paysage, d'ingénierie et d'architecture de Genève - HEPIA",Architecture,0.437175010413662,255
+"Haute école du paysage, d'ingénierie et d'architecture de Genève - HEPIA",Engineering,0.474291536730979,136
+"Haute école du paysage, d'ingénierie et d'architecture de Genève - HEPIA",Information Technology,0.65715029731252,12
+Haute école spécialisée de Suisse occidentale University,Architecture,0.466026256185891,151
+Haute école spécialisée de Suisse occidentale University,Business,0.546523741126496,316
+Haute école spécialisée de Suisse occidentale University,Chemistry,0.449513234422299,25
+Haute école spécialisée de Suisse occidentale University,Economics,0.487499408722054,41
+Haute école spécialisée de Suisse occidentale University,Education,0.369571781462702,207
+Haute école spécialisée de Suisse occidentale University,Engineering,0.523312145225953,239
+Haute école spécialisée de Suisse occidentale University,Finance,0.546063786809076,12
+Haute école spécialisée de Suisse occidentale University,Marketing,0.425115693595715,10
+Haute école spécialisée de Suisse occidentale University,Nursing,0.353250787445535,127
+Hotel Institute Montreux,Business,0.44575429899487,77
+Hotel Management School Geneva | EHG,Business,0.439644922367861,14
+IFM Business School,Business,0.509641905256079,55
+IFM Business School,Marketing,0.527397680590783,10
+IHTTI School of Hotel Management,Business,0.468191813590933,47
+IMI University Centre,Business,0.398649938265652,70
+IPAC DESIGN GENEVE,Architecture,0.478460851738738,25
+IST - Höhere Fachschule für Tourismus & Outdoor,Business,0.461753163948159,32
+Institut et Haute Ecole de la Santé La Source,Education,0.36150484144224,25
+Institut et Haute Ecole de la Santé La Source,Nursing,0.422598592774775,14
+International Management School Geneva,Business,0.512583821636798,27
+KBZ Kaufmännisches Bildungszentrum Zug,Business,0.493743438964273,15
+KV Luzern Berufsakademie,Business,0.504462654259923,28
+Kalaidos University of Applied Sciences Switzerland,Business,0.544286945116731,648
+Kalaidos University of Applied Sciences Switzerland,Economics,0.564393137208068,10
+Kalaidos University of Applied Sciences Switzerland,Finance,0.533307737386393,24
+Kalaidos University of Applied Sciences Switzerland,Nursing,0.389846878693055,63
+Lucerne University of Applied Sciences and Arts,Accounting,0.511087449722262,51
+Lucerne University of Applied Sciences and Arts,Architecture,0.471598003358719,244
+Lucerne University of Applied Sciences and Arts,Business,0.526584468664617,2817
+Lucerne University of Applied Sciences and Arts,Economics,0.504086403416509,46
+Lucerne University of Applied Sciences and Arts,Engineering,0.541551996818335,716
+Lucerne University of Applied Sciences and Arts,Finance,0.53138360798085,88
+Lucerne University of Applied Sciences and Arts,Information Technology,0.627546681518238,30
+Lucerne University of Applied Sciences and Arts,Marketing,0.50440345748911,99
+MBSZ - Marketing & Business School Zürich AG,Business,0.509126909761838,15
+PHW Business School Berne,Business,0.511133992515019,268
+PHW Hochschule Wirtschaft Bern,Business,0.492103407567898,11
+Pädagogische Hochschule Bern (PHBern),Education,0.357023526664549,157
+Pädagogische Hochschule Luzern (PH Luzern),Education,0.339286737499996,61
+Pädagogische Hochschule Thurgau,Education,0.364122319003222,68
+Pädagogische Hochschule Zürich,Education,0.354643438628146,303
+SAE Institute Genève,Engineering,0.502315654154335,10
+SAWI,Business,0.470267145476507,32
+SAWI,Marketing,0.507639520194688,55
+SAWI Polycom,Marketing,0.533788806156899,173
+SBS Swiss Business School,Business,0.515710749738245,68
+SMC University,Business,0.533514143752645,10
+SSAT Hotel- und Tourismusfachschule Bellinzona,Business,0.455809360952117,12
+STF Schweizerische Textilfachschule,Business,0.496244737138436,93
+Schweizerische Hotelfachschule Luzern,Business,0.467458768164125,23
+Schweizerisches Institut für Betriebsökonomie AG,Business,0.525760127774308,33
+St. Gallen University of Teacher Education,Education,0.336997332610919,70
+Swiss Distance University Institute,Economics,0.509991806335351,26
+Swiss Distance University Institute,Law,0.479632671455112,65
+Swiss Federal Institute of Technology Zürich,Architecture,0.491132369535527,359
+Swiss Federal Institute of Technology Zürich,Biology,0.504514268953841,215
+Swiss Federal Institute of Technology Zürich,Business,0.458911162313132,13
+Swiss Federal Institute of Technology Zürich,Chemistry,0.504219891073548,190
+Swiss Federal Institute of Technology Zürich,Economics,0.534893440047742,12
+Swiss Federal Institute of Technology Zürich,Engineering,0.534216416928985,3367
+Swiss Federal Institute of Technology Zürich,Information Technology,0.559309497004574,14
+Swiss Federal Institute of Technology Zürich,Mathematics,0.578501578479383,225
+Swiss Federal Institute of Technology Zürich,Medicine,0.467582691388633,48
+Swiss Federal Institute of Technology Zürich,Physics,0.53899115227186,374
+Swiss Federal Institute of Technology of Lausanne,Architecture,0.481012786904792,573
+Swiss Federal Institute of Technology of Lausanne,Chemistry,0.506662353391232,79
+Swiss Federal Institute of Technology of Lausanne,Engineering,0.522506616758777,2520
+Swiss Federal Institute of Technology of Lausanne,Mathematics,0.582039719292193,219
+Swiss Federal Institute of Technology of Lausanne,Physics,0.535974468542091,351
+The Basel School of Business,Business,0.508959690081077,10
+Unidistance Switzerland,Business,0.528175566886909,55
+Unidistance Switzerland,Economics,0.517273892857977,15
+Unidistance Switzerland,Law,0.538177852244059,55
+United International Business Schools,Business,0.504620494281283,35
+University IFM,Business,0.564422926047634,45
+University of Applied Sciences - Zürcher Fachhochschule,Business,0.512141856229619,203
+University of Applied Sciences - Zürcher Fachhochschule,Chemistry,0.501173217372334,33
+University of Applied Sciences - Zürcher Fachhochschule,Education,0.47437845523445,75
+University of Applied Sciences - Zürcher Fachhochschule,Engineering,0.579562779973619,44
+University of Applied Sciences Zurich,Architecture,0.480761305897191,189
+University of Applied Sciences Zurich,Business,0.514945821866877,1085
+University of Applied Sciences Zurich,Chemistry,0.501851469232089,109
+University of Applied Sciences Zurich,Economics,0.519408466795148,42
+University of Applied Sciences Zurich,Engineering,0.529511518477839,416
+University of Applied Sciences Zurich,Finance,0.5302995296494,138
+University of Applied Sciences Zurich,Information Technology,0.688013016751647,23
+University of Applied Sciences Zurich,Nursing,0.416101266013664,109
+University of Applied Sciences and Arts Northwestern Switzerland,Business,0.540060162481014,225
+University of Applied Sciences and Arts Northwestern Switzerland,Engineering,0.560245759322575,19
+University of Applied Sciences and Arts Northwestern Switzerland,Finance,0.503402242288754,15
+University of Applied Sciences and Arts Northwestern Switzerland,Marketing,0.507321673046022,11
+University of Applied Sciences and Arts of Southern Switzerland,Accounting,0.526926336132057,21
+University of Applied Sciences and Arts of Southern Switzerland,Architecture,0.480277043109804,155
+University of Applied Sciences and Arts of Southern Switzerland,Business,0.526681775444128,305
+University of Applied Sciences and Arts of Southern Switzerland,Economics,0.524095527899706,68
+University of Applied Sciences and Arts of Southern Switzerland,Education,0.389019994808198,21
+University of Applied Sciences and Arts of Southern Switzerland,Engineering,0.544436035565316,384
+University of Applied Sciences and Arts of Southern Switzerland,Finance,0.526610759998955,26
+University of Applied Sciences and Arts of Southern Switzerland,Information Technology,0.617999834678669,10
+University of Applied Sciences and Arts of Southern Switzerland,Marketing,0.521976825648185,18
+University of Applied Sciences and Arts of Southern Switzerland,Nursing,0.366279363183994,30
+University of Applied Sciences of the Grisons,Architecture,0.490624298633675,42
+University of Applied Sciences of the Grisons,Business,0.505911355831391,620
+University of Applied Sciences of the Grisons,Economics,0.531486012634687,33
+University of Applied Sciences of the Grisons,Engineering,0.529671527559611,327
+University of Applied Sciences of the Grisons,Finance,0.539122589195663,50
+University of Applied Sciences of the Grisons,Marketing,0.503072943610578,80
+University of Basel,Biology,0.503992343308065,246
+University of Basel,Business,0.532376344678907,1063
+University of Basel,Chemistry,0.48060462593143,87
+University of Basel,Economics,0.523001261004716,249
+University of Basel,Engineering,0.575209832198277,79
+University of Basel,Law,0.483939209094335,575
+University of Basel,Mathematics,0.535046069955619,47
+University of Basel,Medicine,0.418753130522064,148
+University of Basel,Nursing,0.434118942794378,13
+University of Basel,Physics,0.513735648858884,41
+University of Bern,Biology,0.491565920377583,231
+University of Bern,Business,0.515702597132767,1602
+University of Bern,Chemistry,0.491568379968469,59
+University of Bern,Economics,0.53442683846985,394
+University of Bern,Education,0.389443478025456,38
+University of Bern,Engineering,0.581040609090133,78
+University of Bern,Law,0.504012782320342,803
+University of Bern,Mathematics,0.542453691907879,49
+University of Bern,Medicine,0.385595838367938,166
+University of Bern,Physics,0.483449419890301,71
+University of Fribourg,Biology,0.519143106855082,56
+University of Fribourg,Business,0.517050145181799,645
+University of Fribourg,Chemistry,0.451523508079444,45
+University of Fribourg,Economics,0.514820476272399,193
+University of Fribourg,Education,0.437087750578424,39
+University of Fribourg,Engineering,0.631099534127136,63
+University of Fribourg,Law,0.479631116526094,1013
+University of Fribourg,Mathematics,0.570450333329172,39
+University of Fribourg,Medicine,0.388337814845087,135
+University of Fribourg,Physics,0.453879868698173,20
+University of Geneva,Biology,0.512392095488438,88
+University of Geneva,Business,0.513890336857038,1197
+University of Geneva,Chemistry,0.464547388746452,72
+University of Geneva,Economics,0.507961321645872,256
+University of Geneva,Education,0.392637007497562,97
+University of Geneva,Engineering,0.589171780889446,108
+University of Geneva,Finance,0.549093729298372,17
+University of Geneva,Law,0.492742279068122,849
+University of Geneva,Mathematics,0.530041288131284,53
+University of Geneva,Medicine,0.424795668401545,126
+University of Geneva,Physics,0.543612852306067,81
+University of Lausanne,Biology,0.50862874743325,223
+University of Lausanne,Business,0.519055073269603,253
+University of Lausanne,Economics,0.531707950028983,81
+University of Lausanne,Education,0.389942056213061,26
+University of Lausanne,Engineering,0.592343051626027,18
+University of Lausanne,Law,0.473822374299712,465
+University of Lausanne,Medicine,0.410400970653507,139
+University of Lucerne,Business,0.507802320893799,54
+University of Lucerne,Economics,0.518970144659331,114
+University of Lucerne,Law,0.495941748712983,434
+University of Lugano,Architecture,0.483265098100877,188
+University of Lugano,Business,0.530491465696066,114
+University of Lugano,Economics,0.530322060577574,396
+University of Lugano,Engineering,0.654976335602347,39
+University of Lugano,Finance,0.527359017956248,25
+University of Lugano,Marketing,0.515126448414112,18
+University of Neuchâtel,Biology,0.471566480634021,97
+University of Neuchâtel,Business,0.509062518704487,318
+University of Neuchâtel,Economics,0.513086969325294,130
+University of Neuchâtel,Education,0.477880229536652,20
+University of Neuchâtel,Finance,0.551794111889475,27
+University of Neuchâtel,Law,0.449453450824041,359
+University of Neuchâtel,Mathematics,0.480136664842813,23
+University of St. Gallen,Business,0.51924749807998,3415
+University of St. Gallen,Economics,0.537165577067255,699
+University of St. Gallen,Finance,0.519079621949117,15
+University of St. Gallen,Law,0.500622921333717,630
+"University of Teacher Education - Bern, Jura and Neuchâtel",Education,0.346362453957425,49
+University of Teacher Education - Vaud,Education,0.319656734619807,42
+University of Zurich,Biology,0.496544185364565,267
+University of Zurich,Business,0.523504484392557,1284
+University of Zurich,Chemistry,0.485030334494432,75
+University of Zurich,Economics,0.529268202353956,653
+University of Zurich,Education,0.459738845355395,22
+University of Zurich,Engineering,0.643838396254064,120
+University of Zurich,Finance,0.533364551943034,743
+University of Zurich,Law,0.518992220644586,1339
+University of Zurich,Mathematics,0.531809969928115,94
+University of Zurich,Medicine,0.399571334536472,270
+University of Zurich,Physics,0.521743003415998,67
+University of Zurich,Statistics,0.598079673967829,10
+Vatel Switzerland,Business,0.415656091143552,153
+WISS Schulen für Wirtschaft Informatik Immobilien,Business,0.494603591033125,21
+Webster University Geneva,Business,0.541324540503409,166
+Webster University Geneva,Engineering,0.571629202831194,25
+Webster University Geneva,Finance,0.562294912512153,17
+ZHAW School of Health Sciences,Nursing,0.394494623497412,56
+ZHAW School of Management & Law,Accounting,0.520799995521231,36
+ZHAW School of Management & Law,Business,0.538360929480481,2907
+ZHAW School of Management & Law,Economics,0.534879556154832,163
+ZHAW School of Management & Law,Finance,0.543676472038421,370
+ZHAW School of Management & Law,Law,0.489854319319343,27
+Zhaw School of Engineering,Architecture,0.519186412991264,15
+Zhaw School of Engineering,Business,0.495784058381735,61
+Zhaw School of Engineering,Engineering,0.562043198535554,865
+Zhaw School of Engineering,Information Technology,0.686526996830665,22
+ipso Bildung,Business,0.597263116861191,21
+ipso Bildung,Engineering,0.569192678094959,28
+sfb - esg - soa,Business,0.448937631640261,14
+zB. Zentrum Bildung,Business,0.465966424387312,11

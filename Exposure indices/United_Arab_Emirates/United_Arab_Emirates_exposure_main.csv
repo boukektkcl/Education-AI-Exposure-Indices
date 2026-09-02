@@ -1,0 +1,218 @@
+university_name,field,exposure_alljobs_beta,n_people
+Abu Dhabi Polytechnic,Engineering,0.484549046759881,266
+Abu Dhabi University,Accounting,0.544649378457898,88
+Abu Dhabi University,Architecture,0.482471224512646,213
+Abu Dhabi University,Business,0.534523231973358,1314
+Abu Dhabi University,Education,0.479971263232916,15
+Abu Dhabi University,Engineering,0.501480538751596,1280
+Abu Dhabi University,Finance,0.54146215854543,119
+Abu Dhabi University,Information Technology,0.59577109356685,63
+Abu Dhabi University,Law,0.517211778178964,55
+Abu Dhabi University,Marketing,0.522134574554874,59
+Ajman University,Accounting,0.553150054324227,168
+Ajman University,Architecture,0.483457477477,192
+Ajman University,Business,0.535194814264569,775
+Ajman University,Education,0.444904578017888,45
+Ajman University,Engineering,0.522419739017963,1470
+Ajman University,Finance,0.525280610345261,60
+Ajman University,Information Technology,0.578628086734789,70
+Ajman University,Law,0.479379186831203,128
+Ajman University,Marketing,0.526251101628969,62
+Al Ain University,Accounting,0.542460696554711,88
+Al Ain University,Business,0.532891373670835,503
+Al Ain University,Education,0.415492261514139,31
+Al Ain University,Engineering,0.565009440426454,153
+Al Ain University,Finance,0.550796101198881,51
+Al Ain University,Law,0.503054940142519,140
+Al Dar University College,Business,0.510549889995533,132
+Al Dar University College,Engineering,0.4886049187172,66
+Al Dar University College,Information Technology,0.541418991913277,46
+Al Ghurair University,Accounting,0.526077068440913,13
+Al Ghurair University,Architecture,0.480733773492393,28
+Al Ghurair University,Business,0.509859067755638,334
+Al Ghurair University,Engineering,0.523060136686908,340
+Al Ghurair University,Finance,0.548690969340158,21
+Al Ghurair University,Law,0.49202036698572,31
+Al Ghurair University,Marketing,0.535451872378989,26
+Al Qasimia University,Business,0.520037293833583,14
+Al Qasimia University,Economics,0.519361432063195,22
+American University in Dubai,Accounting,0.512874619588834,28
+American University in Dubai,Architecture,0.485725937357987,233
+American University in Dubai,Business,0.513639331761849,1535
+American University in Dubai,Economics,0.514241254510399,15
+American University in Dubai,Engineering,0.520985650476508,333
+American University in Dubai,Finance,0.491439932953248,91
+American University in Dubai,Information Technology,0.53422808457919,59
+American University in Dubai,Marketing,0.499846771707244,160
+American University in the Emirates,Accounting,0.529415323665002,30
+American University in the Emirates,Business,0.512547108124734,461
+American University in the Emirates,Engineering,0.549480999717632,31
+American University in the Emirates,Finance,0.525288158329575,19
+American University in the Emirates,Information Technology,0.560746208883859,14
+American University in the Emirates,Law,0.492960805782863,86
+American University in the Emirates,Marketing,0.519810453676279,37
+American University of Ras Al Khaimah,Architecture,0.518851608924016,15
+American University of Ras Al Khaimah,Business,0.498925923188185,84
+American University of Ras Al Khaimah,Engineering,0.514832459620529,210
+American University of Ras Al Khaimah,Finance,0.484892882127168,13
+American University of Ras Al Khaimah,Marketing,0.506156656948884,14
+American University of Sharjah,Accounting,0.532713376309326,110
+American University of Sharjah,Architecture,0.478078945115121,320
+American University of Sharjah,Biology,0.528366344665863,21
+American University of Sharjah,Business,0.527008061265727,1980
+American University of Sharjah,Chemistry,0.504752685179603,20
+American University of Sharjah,Economics,0.542283555954428,75
+American University of Sharjah,Engineering,0.517246345696725,3214
+American University of Sharjah,Finance,0.521049032906287,320
+American University of Sharjah,Marketing,0.518120894145251,180
+American University of Sharjah,Mathematics,0.54797995655707,20
+Amity University Dubai,Accounting,0.563668554147496,11
+Amity University Dubai,Architecture,0.454533785546044,20
+Amity University Dubai,Business,0.526787663497005,626
+Amity University Dubai,Engineering,0.527984018018333,137
+Amity University Dubai,Finance,0.5419560034305,57
+Amity University Dubai,Information Technology,0.589952992068928,44
+Amity University Dubai,Law,0.496613480129252,14
+Amity University Dubai,Marketing,0.525925210132434,20
+Canadian University Dubai,Architecture,0.493600673186586,155
+Canadian University Dubai,Business,0.512651582332017,610
+Canadian University Dubai,Engineering,0.541652149764495,112
+Canadian University Dubai,Finance,0.51778588471057,32
+Canadian University Dubai,Marketing,0.50908997899778,68
+City University Ajman,Business,0.51540851383446,161
+City University Ajman,Finance,0.498207561307328,20
+City University Ajman,Law,0.541255352034689,14
+Dubai British School,Business,0.516181676498104,16
+Dubai Medical College for Girls,Medicine,0.4199417048993,116
+Dubai Men's College,Engineering,0.463933275239501,15
+Dubai Police Academy,Law,0.455027936334373,91
+Emirates Aviation University,Business,0.490447787853233,407
+Emirates Aviation University,Engineering,0.453750212368427,513
+Emirates College for Advanced Education,Education,0.401162695261945,60
+Emirates College of Technology,Accounting,0.608768911187938,12
+Emirates College of Technology,Business,0.520205931274543,199
+Emirates College of Technology,Engineering,0.550924460888837,20
+Emirates College of Technology,Finance,0.584715517726744,10
+European International College,Business,0.526819168804953,27
+Fatima College of Health​ Sciences,Nursing,0.363860038514071,81
+Fujairah University,Business,0.506982492141725,31
+GEMS Education,Business,0.497961497422944,73
+GEMS Education,Engineering,0.520913526318786,18
+Gulf Medical University,Medicine,0.461015689578331,135
+Gulf Medical University,Nursing,0.355594917336155,21
+Higher Colleges of Technology,Accounting,0.559120646279656,483
+Higher Colleges of Technology,Business,0.534398832412865,3166
+Higher Colleges of Technology,Education,0.395606345287759,461
+Higher Colleges of Technology,Engineering,0.481369774410908,3822
+Higher Colleges of Technology,Finance,0.528957718557138,177
+Higher Colleges of Technology,Information Technology,0.573316668369808,564
+Higher Colleges of Technology,Law,0.519410301234759,15
+Higher Colleges of Technology,Marketing,0.519376633572364,30
+Higher Colleges of Technology,Nursing,0.321452311746655,50
+ICT Fund -TDRA,Engineering,0.530599561251491,13
+"Institute of Management Technology, Dubai",Business,0.498483164424062,71
+Jumeira University,Business,0.533856669898359,27
+Khalifa University of Science and Technology,Business,0.536320502119864,12
+Khalifa University of Science and Technology,Engineering,0.505564648017195,1783
+Khalifa University of Science and Technology,Mathematics,0.48543480194684,13
+Khalifa University of Science and Technology,Statistics,0.546361910298448,15
+Khawarizmi International College,Accounting,0.516295237473151,23
+Khawarizmi International College,Business,0.532379028239322,194
+Khawarizmi International College,Information Technology,0.566363123723093,65
+Liwa College,Business,0.51376102983514,120
+Liwa College,Engineering,0.482551190645408,13
+Liwa College,Information Technology,0.630420757319792,15
+London American City College,Business,0.512568634229035,112
+MODUL University Dubai,Business,0.539723685341484,59
+"Manipal Academy of Higher Education - MAHE, Dubai",Accounting,0.549099663884324,32
+"Manipal Academy of Higher Education - MAHE, Dubai",Architecture,0.483693412187439,107
+"Manipal Academy of Higher Education - MAHE, Dubai",Business,0.541008833309024,430
+"Manipal Academy of Higher Education - MAHE, Dubai",Engineering,0.530167847042495,415
+"Manipal Academy of Higher Education - MAHE, Dubai",Finance,0.532804780885972,100
+"Manipal Academy of Higher Education - MAHE, Dubai",Information Technology,0.602845578212031,12
+Mena College of Management,Business,0.505531810406697,23
+Mohammed Bin Rashid University of Medicine and Health Sciences,Medicine,0.453885032687675,18
+Murdoch University Dubai,Business,0.541324440920921,126
+Murdoch University Dubai,Engineering,0.655759010333948,31
+Murdoch University Dubai,Finance,0.55351366412845,10
+Murdoch University Dubai,Marketing,0.534686597303001,29
+New York University Abu Dhabi,Biology,0.563636369303278,14
+New York University Abu Dhabi,Business,0.511594712780511,16
+New York University Abu Dhabi,Economics,0.541865193388473,99
+New York University Abu Dhabi,Engineering,0.570445570036409,138
+New York University Abu Dhabi,Finance,0.523830012787811,25
+New York University Abu Dhabi,Mathematics,0.601778869059141,11
+New York University Abu Dhabi,Physics,0.537824687604833,12
+RAK Medical & Health Sciences University,Medicine,0.452782157281468,116
+RAK Medical & Health Sciences University,Nursing,0.381059608775916,67
+Rabdan Academy,Business,0.502251464030808,14
+Rochester Institute of Technology (Dubai),Business,0.522413933916983,51
+Rochester Institute of Technology (Dubai),Engineering,0.527242369479077,142
+SAE UAE,Engineering,0.491302636602079,62
+Skyline University College,Business,0.521237066792956,605
+Skyline University College,Engineering,0.530549777221735,13
+Skyline University College,Finance,0.560166730275582,18
+Skyline University College,Information Technology,0.561415381725618,25
+Skyline University College,Marketing,0.542668074040033,30
+Sorbonne University Abu Dhabi,Business,0.529521269996477,125
+Sorbonne University Abu Dhabi,Economics,0.523651144244149,14
+Sorbonne University Abu Dhabi,Law,0.505197018065298,61
+The British University in Dubai,Business,0.498965408947441,12
+The Emirates Academy of Hospitality Management,Business,0.492231597258899,213
+United Arab Emirates University,Accounting,0.5501869491236,314
+United Arab Emirates University,Architecture,0.484903392175925,16
+United Arab Emirates University,Biology,0.452624590593881,180
+United Arab Emirates University,Business,0.543226461127211,1111
+United Arab Emirates University,Chemistry,0.480626835442937,127
+United Arab Emirates University,Economics,0.540799202706867,80
+United Arab Emirates University,Education,0.406054758957163,82
+United Arab Emirates University,Engineering,0.503338996977511,1760
+United Arab Emirates University,Finance,0.547699442359923,189
+United Arab Emirates University,Information Technology,0.617531020351959,140
+United Arab Emirates University,Law,0.502588558957721,289
+United Arab Emirates University,Marketing,0.529415193671298,44
+United Arab Emirates University,Mathematics,0.494235193316479,36
+United Arab Emirates University,Medicine,0.431589686145666,81
+United Arab Emirates University,Physics,0.532935626991175,57
+United Arab Emirates University,Statistics,0.640686808814275,56
+"University of Bolton, Academic Centre  Ras Al Khaimah",Business,0.514809897804759,38
+"University of Bolton, Academic Centre  Ras Al Khaimah",Engineering,0.482061936005039,82
+University of Dubai,Accounting,0.54606855154704,54
+University of Dubai,Business,0.513638198890136,734
+University of Dubai,Engineering,0.555626163740256,109
+University of Dubai,Finance,0.53198031775866,87
+University of Dubai,Information Technology,0.585283541991478,55
+University of Dubai,Law,0.516342171637355,13
+University of Dubai,Marketing,0.519422976068736,56
+University of Jazeera,Business,0.491573906734373,18
+University of Jazeera,Law,0.44044709711349,29
+University of Sharjah,Accounting,0.550822466514361,91
+University of Sharjah,Architecture,0.487342703202401,175
+University of Sharjah,Biology,0.480582122601988,14
+University of Sharjah,Business,0.532921847021397,726
+University of Sharjah,Chemistry,0.491150724524631,53
+University of Sharjah,Education,0.418616316096674,12
+University of Sharjah,Engineering,0.511719713367963,2554
+University of Sharjah,Finance,0.542668976947158,148
+University of Sharjah,Information Technology,0.597205081999844,22
+University of Sharjah,Law,0.490058525990251,279
+University of Sharjah,Marketing,0.539341106539512,30
+University of Sharjah,Mathematics,0.45629858303737,19
+University of Sharjah,Medicine,0.441103794413082,174
+University of Sharjah,Nursing,0.40685223067095,147
+University of Sharjah,Physics,0.578051759026828,11
+University of Wollongong (Dubai),Accounting,0.548270127227326,128
+University of Wollongong (Dubai),Business,0.522483836341862,671
+University of Wollongong (Dubai),Engineering,0.567142653273947,259
+University of Wollongong (Dubai),Finance,0.524483877173135,205
+University of Wollongong (Dubai),Information Technology,0.590029206521171,11
+University of Wollongong (Dubai),Marketing,0.523115129605488,205
+University of Wollongong (Dubai),Nursing,0.408987443331613,19
+Westford University College,Business,0.510889596915407,114
+Zayed University,Accounting,0.551008580501437,340
+Zayed University,Business,0.544988699826645,1320
+Zayed University,Education,0.386328751370503,151
+Zayed University,Engineering,0.578423262849724,96
+Zayed University,Finance,0.547190404884027,303
+Zayed University,Information Technology,0.605739454000829,469
+Zayed University,Marketing,0.527479230328064,145

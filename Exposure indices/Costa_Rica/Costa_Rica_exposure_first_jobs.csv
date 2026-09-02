@@ -1,0 +1,166 @@
+university_name,field,exposure_firstjob_beta,n_people
+American University,Accounting,0.575669261507542,117
+American University,Business,0.561139505879896,501
+American University,Education,0.4785902920615,69
+American University,Engineering,0.616146316319416,323
+American University,Finance,0.53027629757679,38
+American University,Information Technology,0.66072457468811,10
+American University,Law,0.547560955721898,42
+American University,Marketing,0.525864728085656,43
+Autonomous University of Central America,Architecture,0.506131763138252,38
+Autonomous University of Central America,Business,0.555859409952619,118
+Autonomous University of Central America,Education,0.307282203048151,23
+Autonomous University of Central America,Engineering,0.500578794311158,109
+Autonomous University of Central America,Law,0.538688867798723,41
+Autonomous University of Central America,Medicine,0.446874635568001,16
+Autonomous University of Central America,Nursing,0.303531158374714,35
+C.T.P Jesús Ocaña Rojas,Engineering,0.588979973004134,11
+Catholic University of Costa Rica,Business,0.558312234942613,20
+Catholic University of Costa Rica,Education,0.4002173707111,14
+Catholic University of Costa Rica,Engineering,0.683612144022605,30
+Costa Rica Institute of Technology,Accounting,0.554565762893818,15
+Costa Rica Institute of Technology,Architecture,0.48285019195844,68
+Costa Rica Institute of Technology,Business,0.550304990426794,764
+Costa Rica Institute of Technology,Engineering,0.591983091011141,1546
+Costa Rica Institute of Technology,Finance,0.519198464147917,30
+Costa Rica Institute of Technology,Information Technology,0.654331938893362,29
+Costa Rica Institute of Technology,Marketing,0.511722974840246,50
+EARTH University,Engineering,0.466260698134409,19
+Federated University of Costa Rica,Law,0.475796387667437,36
+Fidelitas University,Accounting,0.576270171603319,114
+Fidelitas University,Business,0.564148792042004,454
+Fidelitas University,Engineering,0.571626747325242,1247
+Fidelitas University,Finance,0.581818323109211,51
+Fidelitas University,Information Technology,0.682427990777868,15
+Fidelitas University,Law,0.534630635408187,81
+Fidelitas University,Marketing,0.507423505261633,24
+Hispano-American University,Accounting,0.568960963526226,95
+Hispano-American University,Architecture,0.492780657400797,118
+Hispano-American University,Business,0.557085247568845,562
+Hispano-American University,Education,0.45868627637445,57
+Hispano-American University,Engineering,0.581571118143795,697
+Hispano-American University,Finance,0.609201897390204,32
+Hispano-American University,Information Technology,0.668630856638876,28
+Hispano-American University,Law,0.529519377695592,95
+Hispano-American University,Marketing,0.550519307165502,37
+Hispano-American University,Medicine,0.4238340358807,12
+Hispano-American University,Nursing,0.361532194994686,88
+International University of the Americas,Accounting,0.564631511561554,45
+International University of the Americas,Business,0.565885194016136,299
+International University of the Americas,Economics,0.564180101656742,18
+International University of the Americas,Education,0.52954893523676,15
+International University of the Americas,Engineering,0.579348140713302,295
+International University of the Americas,Finance,0.539195285457453,13
+International University of the Americas,Law,0.489014252961382,34
+International University of the Americas,Medicine,0.451746155931649,13
+Invenio University,Engineering,0.555253334996787,22
+Latin American University of Science and Technology,Accounting,0.534596902492543,33
+Latin American University of Science and Technology,Business,0.534604251276391,224
+Latin American University of Science and Technology,Engineering,0.610437171233057,293
+Latin American University of Science and Technology,Finance,0.501225367925944,17
+Latin American University of Science and Technology,Information Technology,0.72947476242676,10
+Latin American University of Science and Technology,Law,0.544350321852216,20
+Latin American University of Science and Technology,Marketing,0.507353609892591,40
+Latin University of Costa Rica,Accounting,0.576858677812672,153
+Latin University of Costa Rica,Architecture,0.506366399220005,220
+Latin University of Costa Rica,Business,0.552471181466801,2180
+Latin University of Costa Rica,Economics,0.552692890077323,80
+Latin University of Costa Rica,Education,0.419572945128534,125
+Latin University of Costa Rica,Engineering,0.581864357911112,2276
+Latin University of Costa Rica,Finance,0.520569705202447,58
+Latin University of Costa Rica,Information Technology,0.640897041781728,92
+Latin University of Costa Rica,Law,0.515834031232284,229
+Latin University of Costa Rica,Marketing,0.527812009361901,211
+Latin University of Costa Rica,Medicine,0.472579118680026,37
+Latin University of Costa Rica,Nursing,0.323743484361942,116
+National Technical University,Accounting,0.543609453237169,19
+National Technical University,Business,0.552536645925852,138
+National Technical University,Education,0.566410940817617,14
+National Technical University,Engineering,0.58510009009331,242
+National Technical University,Finance,0.546090970602323,81
+National Technical University,Information Technology,0.669184859427303,30
+National University,Biology,0.524992691235436,58
+National University,Business,0.562706751127288,715
+National University,Chemistry,0.473537285009902,78
+National University,Economics,0.564285651816891,215
+National University,Education,0.438516630580169,101
+National University,Engineering,0.719216030937777,564
+National University,Information Technology,0.665261285776274,17
+National University,Marketing,0.560060815828728,12
+National University,Medicine,0.361820864058635,17
+San Isidro Labrador International University,Education,0.381026770702315,12
+San Isidro Labrador International University,Engineering,0.610060172277922,10
+San Marcos University,Accounting,0.564015976737781,124
+San Marcos University,Business,0.559594951601891,391
+San Marcos University,Education,0.430332331113862,36
+San Marcos University,Finance,0.531413319229224,43
+San Marcos University,Marketing,0.543329921935983,45
+State University of Distance Education,Accounting,0.579910955739028,29
+State University of Distance Education,Business,0.547997236392259,348
+State University of Distance Education,Education,0.452571403925202,75
+State University of Distance Education,Engineering,0.646208293736628,148
+State University of Distance Education,Finance,0.596336198035053,12
+ULACIT,Accounting,0.541701878777714,54
+ULACIT,Business,0.552418895479383,368
+ULACIT,Economics,0.556375182915377,12
+ULACIT,Education,0.486676118722124,13
+ULACIT,Engineering,0.611901448961155,350
+ULACIT,Finance,0.548124335356098,29
+ULACIT,Information Technology,0.666646915016516,10
+ULACIT,Law,0.51937952124484,54
+ULACIT,Marketing,0.553209654619923,50
+Universidad Adventista de Centro America - UNADECA,Business,0.581145014748494,14
+Universidad Adventista de Centro America - UNADECA,Engineering,0.712811408366488,16
+Universidad Cenfotec,Engineering,0.726149119436951,83
+Universidad Cenfotec,Information Technology,0.65936453685936,10
+Universidad Creativa,Architecture,0.481837571360024,10
+Universidad Florencio del Castillo - UCA,Business,0.562106751632674,11
+Universidad Florencio del Castillo - UCA,Law,0.584202767929213,10
+Universidad Interamericana de Costa Rica,Business,0.523663538760629,164
+Universidad Interamericana de Costa Rica,Engineering,0.574042773928866,113
+Universidad Latinoamericana de Ciencia y Tecnologia /CR/,Business,0.56784193338792,21
+Universidad Latinoamericana de Ciencia y Tecnologia /CR/,Engineering,0.644830338811515,18
+Universidad Magister,Business,0.546992348349532,11
+Universidad Magister,Engineering,0.626591276839115,12
+Universidad Metropolitana Castro Carazo,Accounting,0.56111930467072,168
+Universidad Metropolitana Castro Carazo,Business,0.562324205802819,523
+Universidad Metropolitana Castro Carazo,Education,0.470249097562605,56
+Universidad Metropolitana Castro Carazo,Engineering,0.611056993735164,151
+Universidad Metropolitana Castro Carazo,Finance,0.552093420243166,73
+Universidad Metropolitana Castro Carazo,Information Technology,0.63592348443109,11
+Universidad Metropolitana Castro Carazo,Law,0.492825701602164,81
+Universidad Politécnica Internacional Costa Rica,Business,0.585594451999672,31
+Universidad Politécnica Internacional Costa Rica,Engineering,0.549372787039565,42
+Universidad Politécnica Internacional Costa Rica,Law,0.486823865748891,16
+Universidad Tecnológica Costarricense,Accounting,0.526097268677749,24
+Universidad Tecnológica Costarricense,Business,0.563236479642389,90
+Universidad Tecnológica Costarricense,Engineering,0.686421571964584,83
+Universidad Tecnológica Costarricense,Finance,0.554920359941151,11
+Universidad de Ciencias Empresariales UCEM,Business,0.492795399827543,13
+Universidad de Ciencias Empresariales UCEM,Engineering,0.512785874620138,37
+Universidad de San José,Accounting,0.521933368059887,10
+Universidad de San José,Business,0.544310938486373,156
+Universidad de San José,Education,0.434872197981084,31
+Universidad de San José,Law,0.556941098871053,67
+Universidad del Turismo,Business,0.566618748268732,29
+University of Costa Rica,Accounting,0.540420260351913,181
+University of Costa Rica,Architecture,0.504909619919287,165
+University of Costa Rica,Biology,0.523950130218006,43
+University of Costa Rica,Business,0.558403578271138,1276
+University of Costa Rica,Chemistry,0.492674004492261,135
+University of Costa Rica,Economics,0.543099982366415,245
+University of Costa Rica,Education,0.438778325583837,244
+University of Costa Rica,Engineering,0.569685332919963,1887
+University of Costa Rica,Finance,0.543630925847155,64
+University of Costa Rica,Information Technology,0.708878649429268,39
+University of Costa Rica,Law,0.515949866073765,345
+University of Costa Rica,Mathematics,0.544023630105549,17
+University of Costa Rica,Medicine,0.467976158509106,42
+University of Costa Rica,Nursing,0.374684260242914,132
+University of Costa Rica,Physics,0.53094593435011,84
+University of Costa Rica,Statistics,0.623641584536001,62
+University of Ibero-America,Medicine,0.4580966813668,31
+University of Ibero-America,Nursing,0.346265568925474,16
+University of Medical Sciences,Medicine,0.469291571654933,76
+Veritas University,Architecture,0.484142814045721,230
+Veritas University,Medicine,0.355545482310453,28

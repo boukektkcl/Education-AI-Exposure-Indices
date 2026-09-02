@@ -1,0 +1,335 @@
+university_name,field,exposure_firstjob_beta,n_people
+Aalto University,Accounting,0.525224989647773,258
+Aalto University,Architecture,0.456376789294635,212
+Aalto University,Business,0.537889779018521,1395
+Aalto University,Chemistry,0.454472686521541,33
+Aalto University,Economics,0.538700784387285,241
+Aalto University,Education,0.437667721447661,47
+Aalto University,Engineering,0.537381786091376,2446
+Aalto University,Finance,0.521921027870405,255
+Aalto University,Information Technology,0.609635523122146,82
+Aalto University,Marketing,0.534915233002711,147
+Aalto University,Mathematics,0.588659554813647,79
+Aalto University,Physics,0.448970546310559,12
+Arcada University of Applied Sciences,Business,0.501355216931079,942
+Arcada University of Applied Sciences,Economics,0.49700698872029,10
+Arcada University of Applied Sciences,Engineering,0.5105785413961,304
+Arcada University of Applied Sciences,Information Technology,0.674559845604419,42
+Arcada University of Applied Sciences,Marketing,0.487110788462335,55
+Arcada University of Applied Sciences,Nursing,0.376635922067776,106
+Centria University of Applied Sciences,Business,0.483976718979628,785
+Centria University of Applied Sciences,Chemistry,0.41072976100889,13
+Centria University of Applied Sciences,Education,0.285083257459062,17
+Centria University of Applied Sciences,Engineering,0.487027803972679,635
+Centria University of Applied Sciences,Information Technology,0.590028604471787,74
+Centria University of Applied Sciences,Nursing,0.37301184919477,38
+Diaconia University of Applied Sciences,Education,0.42280711964567,25
+Diaconia University of Applied Sciences,Nursing,0.379906785206154,134
+Edupoli,Business,0.423108588484088,10
+Espoo Vantaa Institute of Technology,Engineering,0.510267809102055,19
+Espoon seudun koulutuskuntayhtymä Omnia,Business,0.431477391324316,27
+HELBUS Helsinki School of Business,Business,0.440380900538779,30
+HUMAK University of Applied Sciences,Business,0.487246753705835,352
+HUMAK University of Applied Sciences,Education,0.413908518117243,34
+Haaga-Helia University of Applied Sciences,Accounting,0.531683688511419,51
+Haaga-Helia University of Applied Sciences,Business,0.517099200442474,11744
+Haaga-Helia University of Applied Sciences,Economics,0.505882244642858,62
+Haaga-Helia University of Applied Sciences,Education,0.418466613549768,26
+Haaga-Helia University of Applied Sciences,Engineering,0.647549230887179,127
+Haaga-Helia University of Applied Sciences,Finance,0.521269108394277,130
+Haaga-Helia University of Applied Sciences,Information Technology,0.612902345740414,443
+Haaga-Helia University of Applied Sciences,Marketing,0.49794814556791,303
+Hanken School of Economics,Accounting,0.537196747062397,103
+Hanken School of Economics,Business,0.50087618596003,439
+Hanken School of Economics,Economics,0.49544375743861,63
+Hanken School of Economics,Finance,0.514970353051003,194
+Hanken School of Economics,Law,0.53112800185713,37
+Hanken School of Economics,Marketing,0.534546812032015,95
+Helsinki Business College Oy,Business,0.460883383689,61
+Helsinki Polytechnic Stadia,Engineering,0.470253751277211,28
+Häme University of Applied Sciences,Accounting,0.536796839346312,13
+Häme University of Applied Sciences,Business,0.517156088408658,1641
+Häme University of Applied Sciences,Economics,0.519180227347476,14
+Häme University of Applied Sciences,Education,0.365171008687062,32
+Häme University of Applied Sciences,Engineering,0.503192242126172,1660
+Häme University of Applied Sciences,Finance,0.551579650703668,21
+Häme University of Applied Sciences,Information Technology,0.61684865936204,94
+Häme University of Applied Sciences,Marketing,0.529851272010247,33
+Häme University of Applied Sciences,Nursing,0.388113027843278,79
+JAMK University of Applied Sciences,Accounting,0.513850703999854,11
+JAMK University of Applied Sciences,Business,0.501034044632681,2526
+JAMK University of Applied Sciences,Education,0.393740325455034,28
+JAMK University of Applied Sciences,Engineering,0.525774171158572,1525
+JAMK University of Applied Sciences,Information Technology,0.61674281325432,124
+JAMK University of Applied Sciences,Marketing,0.552359935937732,27
+JAMK University of Applied Sciences,Nursing,0.356098181110127,179
+Kajaani University of Applied Sciences,Business,0.498516887822446,642
+Kajaani University of Applied Sciences,Engineering,0.509253616672615,224
+Kajaani University of Applied Sciences,Information Technology,0.604365211254683,41
+Kajaani University of Applied Sciences,Nursing,0.379504775069494,38
+Karelia University of Applied Sciences,Business,0.506115067962967,693
+Karelia University of Applied Sciences,Engineering,0.490305517043505,452
+Karelia University of Applied Sciences,Information Technology,0.562122600691321,26
+Karelia University of Applied Sciences,Marketing,0.524488221162712,18
+Karelia University of Applied Sciences,Nursing,0.366263625449777,47
+Kemi-Tornion ammattikorkeakoulu,Business,0.496733122307253,18
+Kemi-Tornion ammattikorkeakoulu,Engineering,0.437134179493381,25
+Koulutuskeskus Salpaus,Business,0.42889155225116,11
+LAB University of Applied Sciences,Architecture,0.459851455865649,103
+LAB University of Applied Sciences,Business,0.511919432663888,2060
+LAB University of Applied Sciences,Education,0.328362762373322,25
+LAB University of Applied Sciences,Engineering,0.511115319896072,1025
+LAB University of Applied Sciences,Finance,0.493397211621822,10
+LAB University of Applied Sciences,Information Technology,0.644897368218129,68
+LAB University of Applied Sciences,Marketing,0.496689994280316,68
+LAB University of Applied Sciences,Nursing,0.382373931289056,163
+LUT School of Business and Management,Business,0.546249566914631,49
+LUT School of Business and Management,Finance,0.533910658215104,10
+LUT University,Accounting,0.522874843638016,25
+LUT University,Business,0.530945307981703,648
+LUT University,Economics,0.5215052888071,27
+LUT University,Engineering,0.517571760818588,916
+LUT University,Finance,0.528264026357162,63
+LUT University,Information Technology,0.65068963099007,16
+LUT University,Marketing,0.516157455964809,20
+Lapland University of Applied Sciences,Business,0.498215098350217,1084
+Lapland University of Applied Sciences,Education,0.403664201722721,11
+Lapland University of Applied Sciences,Engineering,0.481407129328178,768
+Lapland University of Applied Sciences,Information Technology,0.624760237658611,79
+Lapland University of Applied Sciences,Marketing,0.496585942701673,11
+Lapland University of Applied Sciences,Nursing,0.353620818828724,95
+Laurea University of Applied Sciences,Accounting,0.541699090384737,23
+Laurea University of Applied Sciences,Business,0.513140515857024,4990
+Laurea University of Applied Sciences,Economics,0.535825669162364,36
+Laurea University of Applied Sciences,Education,0.348823256549447,48
+Laurea University of Applied Sciences,Engineering,0.587065736563717,45
+Laurea University of Applied Sciences,Finance,0.552365721277836,35
+Laurea University of Applied Sciences,Information Technology,0.61258213068163,150
+Laurea University of Applied Sciences,Marketing,0.515727362261329,111
+Laurea University of Applied Sciences,Nursing,0.382397207779614,455
+Markkinointi-instituutti,Business,0.452098849350674,20
+Markkinointi-instituutti,Marketing,0.443848212944158,10
+Mercuria Business School,Business,0.492789691916452,145
+Mercuria Business School,Finance,0.505368261537047,10
+Mercuria Business School,Marketing,0.497697248810756,20
+Metropolia University of Applied Sciences,Architecture,0.499101076544292,86
+Metropolia University of Applied Sciences,Biology,0.424184882446276,12
+Metropolia University of Applied Sciences,Business,0.512761575077554,2366
+Metropolia University of Applied Sciences,Chemistry,0.444041906643,21
+Metropolia University of Applied Sciences,Economics,0.466345269168736,15
+Metropolia University of Applied Sciences,Education,0.391327953823559,61
+Metropolia University of Applied Sciences,Engineering,0.519861797216997,5185
+Metropolia University of Applied Sciences,Finance,0.53595997583859,73
+Metropolia University of Applied Sciences,Information Technology,0.654110433279303,321
+Metropolia University of Applied Sciences,Marketing,0.501187860063126,93
+Metropolia University of Applied Sciences,Nursing,0.381075393602933,457
+Novia University of Applied Sciences,Business,0.475484865825373,546
+Novia University of Applied Sciences,Engineering,0.493031036071598,638
+Novia University of Applied Sciences,Information Technology,0.657672758697266,38
+Novia University of Applied Sciences,Marketing,0.529456746422849,10
+Novia University of Applied Sciences,Nursing,0.341104667337129,74
+Oulu University of Applied Sciences,Accounting,0.537466557792354,10
+Oulu University of Applied Sciences,Architecture,0.464321048923039,28
+Oulu University of Applied Sciences,Business,0.530370935620843,1629
+Oulu University of Applied Sciences,Economics,0.468017353014178,18
+Oulu University of Applied Sciences,Education,0.318956283816032,28
+Oulu University of Applied Sciences,Engineering,0.501630692921659,1387
+Oulu University of Applied Sciences,Finance,0.55111593540469,10
+Oulu University of Applied Sciences,Information Technology,0.625891218678892,210
+Oulu University of Applied Sciences,Law,0.440073402331571,12
+Oulu University of Applied Sciences,Marketing,0.436580036235331,35
+Oulu University of Applied Sciences,Nursing,0.388548575110519,102
+Pelastusopisto - Emergency Services Academy Finland,Engineering,0.385266136828337,13
+Perho Liiketalousopisto Oy,Business,0.462082213795774,11
+Proakatemia,Business,0.472546110687032,77
+Rastor-instituutti,Business,0.463834266259791,10
+Saimaan Ammattikorkeakoulu Oy,Accounting,0.505170849109601,10
+Saimaan Ammattikorkeakoulu Oy,Business,0.500185429815673,572
+Saimaan Ammattikorkeakoulu Oy,Engineering,0.493657758586087,339
+Saimaan Ammattikorkeakoulu Oy,Information Technology,0.650976725875913,17
+Saimaan Ammattikorkeakoulu Oy,Marketing,0.510316782897858,14
+Saimaan Ammattikorkeakoulu Oy,Nursing,0.398386167467242,52
+Satakunta University of Applied Sciences,Accounting,0.501787086862873,12
+Satakunta University of Applied Sciences,Business,0.510209155488832,1658
+Satakunta University of Applied Sciences,Education,0.383322229784524,12
+Satakunta University of Applied Sciences,Engineering,0.477673869949381,1189
+Satakunta University of Applied Sciences,Finance,0.534510346903423,14
+Satakunta University of Applied Sciences,Information Technology,0.628782376038892,80
+Satakunta University of Applied Sciences,Marketing,0.502058804006181,36
+Satakunta University of Applied Sciences,Nursing,0.377515903441496,79
+Savonia University of Applied Sciences,Architecture,0.471798205625279,79
+Savonia University of Applied Sciences,Business,0.491078895090732,1455
+Savonia University of Applied Sciences,Economics,0.464517522401885,11
+Savonia University of Applied Sciences,Education,0.244031587758388,20
+Savonia University of Applied Sciences,Engineering,0.501364084506767,1234
+Savonia University of Applied Sciences,Finance,0.485543361210637,11
+Savonia University of Applied Sciences,Information Technology,0.590278491745137,50
+Savonia University of Applied Sciences,Marketing,0.523940743223761,22
+Savonia University of Applied Sciences,Nursing,0.375628888054262,86
+Seinäjoki University of Applied Sciences,Accounting,0.484088875194616,18
+Seinäjoki University of Applied Sciences,Business,0.494541108855882,1112
+Seinäjoki University of Applied Sciences,Engineering,0.476794188114016,653
+Seinäjoki University of Applied Sciences,Information Technology,0.588926678819188,23
+Seinäjoki University of Applied Sciences,Marketing,0.459760388780741,26
+Seinäjoki University of Applied Sciences,Nursing,0.355994820436644,44
+South-Eastern Finland University of Applied Sciences,Accounting,0.566571338708065,19
+South-Eastern Finland University of Applied Sciences,Architecture,0.462319064041261,40
+South-Eastern Finland University of Applied Sciences,Business,0.498785222560394,1578
+South-Eastern Finland University of Applied Sciences,Education,0.33826243767592,12
+South-Eastern Finland University of Applied Sciences,Engineering,0.472315006556067,1133
+South-Eastern Finland University of Applied Sciences,Information Technology,0.622271039587207,92
+South-Eastern Finland University of Applied Sciences,Marketing,0.482286622378802,38
+South-Eastern Finland University of Applied Sciences,Nursing,0.374784397763377,100
+Tampere University,Accounting,0.530541689554678,20
+Tampere University,Architecture,0.476297018465032,39
+Tampere University,Business,0.536748200714853,255
+Tampere University,Economics,0.548436192419293,23
+Tampere University,Education,0.35218757337153,105
+Tampere University,Engineering,0.494202284149438,578
+Tampere University,Information Technology,0.574302077306324,32
+Tampere University,Law,0.517469734417508,27
+Tampere University,Marketing,0.539661562872793,19
+Tampere University,Mathematics,0.502378673877963,26
+Tampere University,Nursing,0.372188292768044,21
+Tampere University,Statistics,0.474267420892266,15
+Tampere University of Applied Sciences,Accounting,0.537359155198039,11
+Tampere University of Applied Sciences,Architecture,0.476339675957667,33
+Tampere University of Applied Sciences,Business,0.517059579721962,2947
+Tampere University of Applied Sciences,Economics,0.54222548708181,14
+Tampere University of Applied Sciences,Education,0.409230421432624,33
+Tampere University of Applied Sciences,Engineering,0.494093628625422,3020
+Tampere University of Applied Sciences,Finance,0.585399594025395,10
+Tampere University of Applied Sciences,Information Technology,0.605340710981147,51
+Tampere University of Applied Sciences,Marketing,0.511499302788408,50
+Tampere University of Applied Sciences,Nursing,0.383488456495154,281
+Tampere University of Technology,Architecture,0.487370381797125,59
+Tampere University of Technology,Business,0.630764836616671,167
+Tampere University of Technology,Chemistry,0.515076213858287,14
+Tampere University of Technology,Engineering,0.530832907764197,1041
+Tampere University of Technology,Information Technology,0.656809799458077,66
+Tampere University of Technology,Mathematics,0.587865724925662,13
+Tampere University of Technology,Physics,0.514850917095692,14
+Tiimiakatemia,Business,0.501555998504541,161
+Tredu Tampereen seudun ammattiopisto,Business,0.431897448985975,23
+Turku School of Economics at the University of Turku,Business,0.524691655328805,626
+Turku School of Economics at the University of Turku,Economics,0.549203132701195,111
+Turku School of Economics at the University of Turku,Finance,0.527463102384386,216
+Turku School of Economics at the University of Turku,Marketing,0.502978990664236,91
+Turku University of Applied Sciences,Business,0.512243120945281,3115
+Turku University of Applied Sciences,Economics,0.522022272472257,27
+Turku University of Applied Sciences,Education,0.319004705687868,44
+Turku University of Applied Sciences,Engineering,0.500947779081861,2448
+Turku University of Applied Sciences,Finance,0.48413058166561,20
+Turku University of Applied Sciences,Information Technology,0.621875676521072,221
+Turku University of Applied Sciences,Marketing,0.512967544099685,87
+Turku University of Applied Sciences,Nursing,0.372737331655768,320
+University of Eastern Finland,Accounting,0.54539148803449,50
+University of Eastern Finland,Biology,0.446743678021611,31
+University of Eastern Finland,Business,0.518530368450886,328
+University of Eastern Finland,Chemistry,0.419765976734183,40
+University of Eastern Finland,Economics,0.512515118313826,61
+University of Eastern Finland,Education,0.35764869780816,243
+University of Eastern Finland,Engineering,0.597407292720369,180
+University of Eastern Finland,Finance,0.517078477683306,76
+University of Eastern Finland,Law,0.498395986805977,170
+University of Eastern Finland,Marketing,0.525703883795174,13
+University of Eastern Finland,Mathematics,0.51360639402211,11
+University of Eastern Finland,Medicine,0.416820099843634,23
+University of Eastern Finland,Nursing,0.42039752602501,59
+University of Eastern Finland,Physics,0.521439477251742,60
+University of Helsinki,Biology,0.462847483371552,175
+University of Helsinki,Business,0.530052793899218,201
+University of Helsinki,Chemistry,0.478924049954524,140
+University of Helsinki,Economics,0.519485362405171,544
+University of Helsinki,Education,0.395881371301797,702
+University of Helsinki,Engineering,0.651517405289144,503
+University of Helsinki,Law,0.487719177248203,365
+University of Helsinki,Marketing,0.509847033782308,55
+University of Helsinki,Mathematics,0.564562878954654,166
+University of Helsinki,Medicine,0.393570401100392,62
+University of Helsinki,Physics,0.548981034667669,123
+University of Helsinki,Statistics,0.57136394594793,60
+University of Jyväskylä,Accounting,0.522954231777355,86
+University of Jyväskylä,Biology,0.444300614555549,156
+University of Jyväskylä,Business,0.519691262305753,432
+University of Jyväskylä,Chemistry,0.468863201308793,120
+University of Jyväskylä,Economics,0.56307549669163,161
+University of Jyväskylä,Education,0.417432717415681,382
+University of Jyväskylä,Engineering,0.590277149850789,69
+University of Jyväskylä,Finance,0.545944239007688,25
+University of Jyväskylä,Information Technology,0.590309327532523,163
+University of Jyväskylä,Marketing,0.471467910779251,72
+University of Jyväskylä,Mathematics,0.489663204240209,26
+University of Jyväskylä,Physics,0.509386018297772,86
+University of Jyväskylä,Statistics,0.611414126219726,28
+University of Lapland,Business,0.476615107669629,84
+University of Lapland,Education,0.422553613897777,142
+University of Lapland,Law,0.482061426936744,196
+University of Lapland,Marketing,0.509636011597281,16
+University of Oulu,Accounting,0.520966476440379,46
+University of Oulu,Architecture,0.474906383663067,97
+University of Oulu,Biology,0.481300325211118,33
+University of Oulu,Business,0.525077762445199,583
+University of Oulu,Chemistry,0.450371752719975,72
+University of Oulu,Economics,0.511707990691081,55
+University of Oulu,Education,0.367298374585026,231
+University of Oulu,Engineering,0.504039105523466,970
+University of Oulu,Finance,0.439133271171342,17
+University of Oulu,Information Technology,0.587697254714712,29
+University of Oulu,Marketing,0.496868924455249,41
+University of Oulu,Mathematics,0.416142352905418,38
+University of Oulu,Nursing,0.411247182956256,22
+University of Oulu,Physics,0.497292121146949,47
+University of Oulu,Statistics,0.618774496167657,16
+University of Tampere,Accounting,0.544698159002633,35
+University of Tampere,Business,0.512417947272722,226
+University of Tampere,Economics,0.524082021593683,53
+University of Tampere,Education,0.442092395134959,150
+University of Tampere,Engineering,0.659706702823979,118
+University of Tampere,Finance,0.518322820622758,27
+University of Tampere,Law,0.515092360720283,45
+University of Tampere,Marketing,0.536895208078412,22
+University of Tampere,Mathematics,0.553487382332715,17
+University of Tampere,Nursing,0.432054515077739,19
+University of Tampere,Statistics,0.597546209800152,20
+University of Turku,Biology,0.489061609174141,29
+University of Turku,Business,0.510176697165974,57
+University of Turku,Chemistry,0.430184269396385,74
+University of Turku,Economics,0.524776909444959,45
+University of Turku,Education,0.38832593272922,256
+University of Turku,Engineering,0.612822106387517,161
+University of Turku,Information Technology,0.620701462671373,60
+University of Turku,Law,0.485268679238191,208
+University of Turku,Mathematics,0.526318729159369,33
+University of Turku,Medicine,0.408826987458567,12
+University of Turku,Nursing,0.395900598203782,39
+University of Turku,Physics,0.504572678654634,60
+University of Turku,Statistics,0.629914238918715,39
+University of Vaasa,Business,0.523706485180507,761
+University of Vaasa,Economics,0.515131737243805,114
+University of Vaasa,Engineering,0.506153843094635,146
+University of Vaasa,Finance,0.532507630215913,292
+University of Vaasa,Information Technology,0.526275690579992,27
+University of Vaasa,Law,0.488350741192579,27
+University of Vaasa,Marketing,0.502327857235249,109
+University of the Arts Helsinki,Education,0.431622397608484,13
+Vaasa University of Applied Sciences,Business,0.519133739834153,168
+Vaasa University of Applied Sciences,Engineering,0.534391540373797,97
+Vaasan ammattikorkeakoulu VAMK University of Applied Sciences,Business,0.519451857071332,942
+Vaasan ammattikorkeakoulu VAMK University of Applied Sciences,Engineering,0.507843285068559,771
+Vaasan ammattikorkeakoulu VAMK University of Applied Sciences,Finance,0.558326816344814,10
+Vaasan ammattikorkeakoulu VAMK University of Applied Sciences,Information Technology,0.590484185282102,89
+Vaasan ammattikorkeakoulu VAMK University of Applied Sciences,Marketing,0.448120944841809,15
+Vaasan ammattikorkeakoulu VAMK University of Applied Sciences,Nursing,0.383078775979243,47
+Åbo Akademi University,Accounting,0.542348749195062,61
+Åbo Akademi University,Biology,0.512601945526991,69
+Åbo Akademi University,Business,0.505928099408444,187
+Åbo Akademi University,Chemistry,0.501365314862527,16
+Åbo Akademi University,Economics,0.528860167741821,123
+Åbo Akademi University,Education,0.389382639183356,63
+Åbo Akademi University,Engineering,0.555855388241138,147
+Åbo Akademi University,Finance,0.536808481951906,20
+Åbo Akademi University,Law,0.467445711092624,150
+Åbo Akademi University,Marketing,0.499019854107817,37
+Åbo Akademi University,Mathematics,0.532881479629953,14
+Åbo Akademi University,Physics,0.449839653452016,11

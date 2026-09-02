@@ -66,10 +66,6 @@ fExposure[, exposure_z := scale(exposure_alljobs_beta)]   # per-SD units within 
 - `university_name` is Revelio free text. Matching it to an official university register requires a crosswalk. For the UK, skip that step: use the UCAS files, which are keyed on UCAS provider codes and match UCAS applications data directly.
 - `n_people` measures how many graduates a pair's score rests on. Weight by it, or restrict to larger pairs, when precision matters.
 
-## Construction code and replication
-
-The R code that builds the indices is not part of this repository; it lives with the authors' research project. It applies identical restrictions to every country and rebuilds the United Kingdom first as a replication gate: the run stops unless the regenerated UK index matches the paper's on every row within 10⁻⁸. The current release passed on all 1,268 rows with a maximum deviation of 6×10⁻¹⁶. The inputs — Revelio parquet extracts, the Eloundou et al. task labels, and O*NET Task Ratings — are proprietary or licensed, so the indices cannot be rebuilt from public sources. Contact the corresponding author with replication questions.
-
 ## Comparability caveats
 
 - Revelio standardizes degree levels across countries, but the "Bachelor" label tracks national degree systems. Coverage is high where bachelor's degrees dominate (about 11% of UK and German profile users hold a domestic bachelor record) and low where they do not (about 2% in France, where Licence and Grande École credentials rarely standardize to "Bachelor"). China has no Profiles extract and is not included.
@@ -85,4 +81,4 @@ The R code that builds the indices is not part of this repository; it lives with
 
 ## Citation and contact
 
-If you use these indices, cite: Klein Teeselink, B., Akileswaran, K., Vossos, A., & Andronic, A., "Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications," working paper. Questions and corrections: bouke.klein_teeselink@kcl.ac.uk.
+If you use these indices, cite: Klein Teeselink, B., Akileswaran, K., Vossos, A., & Andronic, A., "Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications," working paper. The code that constructs the indices is available upon request. Questions and corrections: bouke.klein_teeselink@kcl.ac.uk.

@@ -79,6 +79,10 @@ fExposure[, exposure_z := scale(exposure_alljobs_beta)]   # per-SD units within 
 - **Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2024)**, "GPTs are GPTs: Labor market impact potential of LLMs," *Science* 384(6702): task-level α/β exposure labels.
 - **O*NET**: task-importance ratings used to aggregate task scores to occupations.
 
+## License
+
+The indices and this documentation are released under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), the same license as the paper: share and adapt the data freely, with attribution — cite the paper below.
+
 ## Citation and contact
 
 If you use these indices, cite: Vossos, A., Andronic, A., Klein Teeselink, B., & Akileswaran, K. (2026), "Artificial Intelligence and the Future Supply of Skills: Evidence from UK University Applications," SSRN working paper, https://ssrn.com/abstract=7354159, doi:10.2139/ssrn.7354159. The code that constructs the indices is available upon request. Questions and corrections: bouke.klein_teeselink@kcl.ac.uk.
